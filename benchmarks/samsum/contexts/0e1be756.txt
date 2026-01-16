@@ -1,0 +1,1124 @@
+Dialogue: Nick: Please listen to this and let me know what you think!
+Nick: <file_other>
+Julia: That's great song!
+Julia: Thank you!
+Julia: You've just made my day a lot better!
+Nick: No problem. I'm glad I could share it with you!
+Summary: Nick sends Julia a song to ask for her opinion and she really likes it.
+Dialogue: Hallie: I hope u already awake to get ready for ur job interview :) Are u getting ready?
+Javon: I am already on my way
+Hallie: Ok. Let me know when u done with the job interview
+Javon: Interview done, returning home
+Hallie: How was it?
+Javon: Great but I might be over qualified
+Hallie: It shouldn't disqualify u i think
+Summary: Javon has had a job interview. It went well, but he thinks he might be overqualified.
+Dialogue: Dot: Hi Jimmy, I have a favour to ask
+Jimmy: What's going on?
+Dot: Ted was supposed to take care of the cats until the end of next month
+Jimmy: I remember
+Dot: yeah but know he's being a baby about it, keeps asking me when I'm gonna get them
+Jimmy: That's not fair, your apartment is not ready yet
+Dot: I know but my grandma said she can take them for a month
+Jimmy: grandma <3
+Dot: But you know that my car is broken
+Jimmy: Agaaaaaain?
+Dot: :(
+Jimmy: Do you and the kitties need a lift?
+Dot: yes please
+Jimmy: no problemo
+Dot: are you free tomorrow night?
+Jimmy: tomorrow's no good but I could do it on Wednesday
+Dot: perfect
+Jimmy: :)
+Dot: Thank you Jimmy :*
+Jimmy: <3
+Summary: Ted was supposed to take care of Dot's cats until the end of next month, but has second thoughts about it. Dot's grandmother will take the cats. Dot's car is broken. Jimmy will drive Dot and the cats to Dot's grandmother on Wednesday. 
+Dialogue: Steve : Hey Bro 
+Carl : Hey 
+Steve : Are you coming to the party tonight
+Carl : Sorry bro i am going with my girlfriend tonight on a date
+Steve : Carl Bro code comes first
+Carl : Steve i am really sorry i completely forgot i had promised her even before your party.
+Steve : Carl you have to come you make the party go lit 
+Carl : Sorry bro.
+Steve : BTW where are you guys going?
+Carl : Going for a movie i heard there is a new movie on display
+Steve : After Movie?
+Carl : We will be having the dinner
+Steve : What type of cuisine ?
+Carl : Lisa loves chinese maybe we will go for a chinese restaurant
+Steve : Wow. you dont have money to spend on your bros and you are spending here 
+Carl : No Bro actually i received salary today that is why. Maybe we both can go out tomorrow in the bar ;)
+Steve : Is that the tip or the bribe?
+Carl : hahaha no bro that's not we are friends 
+Steve : Okay so will see you tomorrow 
+Carl : Ok bro.
+Summary: Carl can't come to the party because he has a date. Carl and Steve will meet in the bar tomorrow.
+Dialogue: Mia: buy eggs
+Alan: will do!
+Mia: :*
+Summary: Alan will buy eggs at Mia's request.
+Dialogue: Janet: Jack I need to leave to see the doctor
+Jack: I should be back in one hour
+Janet: that's too late for me
+Janet: I'll ask Mrs Peabody to take a look at the kids
+Jack: I guess we have no other option
+Janet: Mia is doing her homework right now, Bob is playing and Rosie is finishing her exercises
+Jack: <file_gif>
+Janet: dinner is in the oven 
+Janet: I go and fetch Mrs Peabody
+Jack: Ok, see you later!
+Janet: <file_gif>
+Summary: Janet needs to see the doctor and decides to ask Mrs Peabody to keep an eye on the kids as Jack won't be back for another hour. Janet leaves dinner for Jack in the oven.
+Dialogue: Julia: He your face resembles with the cartoon character which I have been watching since my childhood
+Henry: What? Send me the pic :/
+Julia: <link_photo> :P
+Summary: Henry's face reminds Julia of a childhood cartoon character.
+Dialogue: Helen: Did you go to the Rawley's talk?
+Tim: I wanted but I forgot
+Anthony: I did
+Helen: and?
+Anthony: I have mixed feelings
+Helen: I wanted to go 
+Anthony: His arguments were interesting but the talk was hard to follow
+Amy: I agree
+Dorothy: Maybe if he didn't read his speech and talked instead...
+Helen: Oh I see...
+Dorothy: I liked the comments part at the end though
+Anthony: Yeah, people asked really great questions!
+Dorothy: What he said was also very inspiring. 
+Anthony: I will definitely read some of his papers.
+Summary: Anthony and Amy have mixed feelings about the Rawley's talk. Dorothy enjoyed the comments part at the end. Anthony will read some of Rawley's papers for sure.
+Dialogue: Elvis: Bro where are you? The girls are here already
+Kelvin: I'm stuck in traffic man but i should be there in 20 minutes.
+Elvis: Okay. but hurry!
+Summary: Kelvin is stuck in traffic, he should arrive in 20 minutes.
+Dialogue: Greta: Can anyone post me the task description plz?
+Connor: <file_photo>
+Greta: Thank you so much!
+Ava: I've just found some useful examples on uni's website
+Greta: I know, I just couldnt find the basic description
+Connor: Be careful with the examples, I found some mistakes there
+Connor: Maybe they put it there intentionally
+Ava: Seriously???
+Greta: Yes, Hamilton said that these sample presentations include some errors
+Greta: They don't want us to copy...
+Ava: lol who would be so stupid to copy that? :)
+Connor: Dave :)
+Summary: Connor sends Greta the task description. Presentations from the uni's website have some errors. 
+Dialogue: Chris: Hi, do you have plans for New Year’s Eve?
+Maggie: Hi, not yet. Any suggestions? ;-)
+Chris: Maybe… ;-) Wanna stay home or feeling like going out?
+Maggie: Tom wants to stay home. AS ALWAYS.
+Chris: What’s his excuse this year? 
+Maggie: You know, he’s always tired…
+Chris: And what about you? 
+Maggie: Well, you know me, I like people, parties…Remember Jack’s birthady party two year ago? ;-)
+Chris: I’ll never forget it, I swear to God… 
+Chris:  So, maybe you can talk him over?
+Maggie: yeah, it’d be nice if we’d finally go out somewhere.
+Chris: Want me to talk with your hubby? ;-)
+Maggie: Try, but can’t promise anything. You know him.
+Chris: Yeah, I know, as stubborn as a mule…
+Maggie: Listen, maybe you can drop in and celebrate with us?
+Chris: Well, maybe it’s not a bad idea…
+Maggie: you bet it isn’t!!:-)I’ll talk to Tom
+Chris: OK, then I’ll talk to Jane and I’ll give you a call.
+Maggie: Perfect, can’t wait to see you both!
+Chris: Sounds we’re gonna have fun this time 
+Maggie: You won’t be disappointed.
+Summary: Tom wants to stay home for New Year's Eve. Maggie will ask Tom if Chris and Jane can come over to celebrate New Year's Eve.
+Dialogue: Xavier: Have you seen Brenda's new grandchild?
+Willa: Yes! She's a doll!
+Xavier: Isn't she just? We should take a collection, pick something up for the new grandma.
+Willa: What a nice idea!
+Xavier: I'm putting you in charge.
+Willa: Perfect. I'll get an envelope around today and a card as well.
+Xavier: That will be perfect.
+Willa: Any thoughts on the gift?
+Xavier: No thoughts, but after you collect, I'll match it.
+Willa: Very generous!
+Xavier: Of course, not every day one becomes a grandma.
+Willa: True!
+Xavier: Just don't mention that part to everyone.
+Willa: Mums the word!
+Summary: Brenda has a new grandchild. Willa and Xavier decide to collect money for a gift for Brenda. Willa will be in charge of the collection. Once it's done, Xavier will match the gift.
+Dialogue: Paul: yo??
+Jack: yoyo
+Paul: wth XD
+Jack: i dont know xD
+Paul: nvm i just wanted you to stop eating XD XD
+Jack: -_-
+Summary: Paul wanted Jack to stop eating.
+Dialogue: Millie: Me thinking about tmrw
+Millie: <file_gif>
+Eva: I feel the same xDDD
+Freya: Me before tomorrow
+Freya: <file_gif>
+Eva: Hahahah
+Eva: Also 100% true xDD
+Millie: I'm glad that I'm not alone
+Millie: With this piece of shit
+Eva: I'm with you M xD
+Millie: Just one more day
+Millie: And ....... FREEEEEDOM
+Eva: FREEEEEDOM, FREEEEDOM!!!
+Summary: Millie, Eva and Freya cannot wait tomorrow.
+Dialogue: Amanda: do you have tickets for Metallica concert?
+Megan: Good evening! I will check, please give me few minutes
+Megan: Thank you for waiting! Yes, tickets still available.
+Amanda: cool! I'd like to get 4 tickets then
+Megan: Of course, I will book 4 tickets for you. Payment can be done through our website according to the instruction in the file I am sending you right now
+Megan: <file_photo>
+Megan: Just to remind, you have 24 hours to pay, after that period of time your booked tickets will not be available and you will have to book them again
+Amanda: I will do it right away, thank you!
+Megan: Thank you, have a nice day!
+Summary: Amanda booked 4 tickets for Metallica concert.
+Dialogue: Mary: hows your little guy?
+Natalie: better but the teething is getting to me!
+Mary: oh yeah it can 
+Mary: don't worry it gets better
+Natalie: gee i hope so!
+Summary: Natalie's son will start teething soon.
+Dialogue: Rowena: I made too much dinner
+Rowena: want some 4 tomorrow?
+Agnes: sure, thanks!
+Summary: Rowena will give Agnes left-overs from her dinner for tomorrow. 
+Dialogue: Kayah: I need to return your book
+Kayah: I finnished it
+Ola: ok did you like it?
+Kayah: oh yes it was great!
+Ola: so coffee on Thursday? we can talk about the book
+Kayah: sounds great! see ya
+Summary: Kayah and Ola will meet for a coffee on Thursday. Kayah will return Ola's book to her.
+Dialogue: Mat: he doesn't answer. Shall i go?
+Chris: yes give a try
+Mat: ok but i'll have to wait 20 minutes...
+Chris: doesn't matter. it would be done. Work on your presentation
+Mat: i don't have it with me... bad  luck
+Summary: Mat hasn't his presentation with him.
+Dialogue: Henry: where RU?
+Henry: I keep waiting like a fool!
+Rosie: calm down, I'm on my way
+Rosie: I just got stuck in traffic, it's Friday afternoon you know?
+Summary: Rosie got stuck in the traffic. Henry is waiting for her impatiently.
+Dialogue: Paul: Hi Baby! 
+Paul: How are you?
+Rita: Hi Hiney!
+Rita: I'm good. How are you?
+Paul: Fine :) 
+Paul: Do you have plans for the evening?
+Rita: No. I'm finishing at 20:00. 
+Paul: Diner?
+Rita: With pleasure! 
+Summary: Paul and Rita will have dinner at 8 pm. 
+Dialogue: Courtney: Did you ever get that card I sent?
+Josh: Nope!
+Courtney: I swear I sent it! I feel bad!
+Josh: Why?
+Courtney: 'Cause it's like I missed your birthday but I really didn't!
+Josh: I know. Don't worry.
+Courtney: But you didn't get my card! I wonder why...
+Josh: Who knows?
+Courtney: I'll send another one. Belated!
+Josh: Don't bother, it's the thought that counts.
+Courtney: I know but...
+Josh: Really, don't worry.
+Courtney: Okay. What did you do for your birthday?
+Josh: Went to Vegas! My first time there without parents. It was a blast!
+Courtney: Oh boy!
+Josh: Yeah, we did it up!
+Courtney: I bet!
+Josh: Did a little gambling too.
+Courtney: Did you win?
+Josh: Nope! But we had fun.
+Summary: Josh didn't receive Courtney's card. For his birthday he went to Vegas and loved it.
+Dialogue: Ruth: Where are you?!
+Rob: Sorry, the bus was stuck in traffic, I'll be there in 10 mins
+Ruth: 10 minutes?!? Wtf
+Rob: Sorry
+Ruth: You're late as fuck!
+Rob: Don't use swearwords, Ruthie
+Ruth: Fuck you!
+Rob: I guess I deserved that
+Ruth: You most certainly did >:(
+Summary: Rob is late for a meeting with Ruth, because the bus was stuck in traffic.
+Dialogue: John: Have you seen Eric today? he seemed upset.
+Eva: Yes , his uncle died of heart attack.
+John: Oh so sad to hear this 
+Eva: yes
+Summary: John noticed that Eric was upset today. Eric's uncle died of heart attack.
+Dialogue: Mel: hi guys, can anybody help me with my computer?
+Brad: what's wrong?
+George: I'm nearby, can be at your place in 20min
+Mel: amazing! thx!
+Summary: George is going to come to fix Mel's computer in 20 minutes.
+Dialogue: Olivia: what time do u finish
+Ivan: 6 pm
+Olivia: ok, Ill pick u up
+Ivan: ok
+Summary: Olivia will pick up Ivan at 6 pm.
+Dialogue: Aleena: do you have one hour on Friday?
+Ben: i think i have 24 hours on Friday
+Aleena: what?
+Ben: never mind
+Ben: i have one free hour
+Aleena: super, we can go for a walk
+Ben: do we have to PLAN going for a walk?
+Aleena: it's better to plan something than sit and stare in TV
+Ben: you mean watching the movie?
+Aleena: i mean staring in stupid reality shows
+Ben: last time it was you who wanted to see it
+Aleena: but it was the last episode
+Ben: ...
+Aleena: this time we go out
+Ben: ok
+Summary: Aleena wants to fo for a one hour walk on Friday. Ben thinks it does not need to be planned. She does not want to watch tv but prefers to go outside. 
+Dialogue: Zenobia: Now I got off the bus. How can I find the buliding 42?
+Adonis: Can you see Emart express around you?
+Zenobia: No. I’m a total stranger here.
+Zenobia: <file_photo>
+Zenobia: I'm here
+Adonis: Turn left at the corner. The corner you can see right in front of you. NICE bank is also in the building. 
+Zenobia: Ok, and then?
+Zenobia: <file_photo>
+Zenobia: <file_photo>
+Adonis: Come straight. Can you see BABA bakery?
+Zenobia: um.....Yes?
+Adonis: OTZ......
+Adonis: Hold on. I’m calling you now. 
+Summary: Zenobia is looking for building No 42. Adonis provides directions to get there.
+Dialogue: Rita: So you found me! :)
+Alger: Yes! It was easy :)
+Alger: How are you?
+Rita: I'm good. How about you?
+Alger: I'm fine :)
+Alger: I saw your pictures. Do you travel a lot?
+Rita: No, not really. Just a little bit. Summer and winter holidays, most years.
+Alger: You've been to some beautiful places!
+Rita: Yes! When I finally take holiday, I like it to special :)
+Rita: In a special place.
+Alger: I totally understant you :) 
+Summary: Alger saw Rita's pictures. She travels to beautiful places during summer and winter holidays.
+Dialogue: Kate: Trump  is so awesome and benevolent and nice and good and amazing and I just want y'all to know that. Also i like girls. Make america great again. Viva Trump
+Kate: god damn it Gery
+Gerardo: “Also i like girls” -> I knew itttt!!!!
+Kate: everyone knows I'd never use the word y'all 
+Alex: <file_photo>
+Alexander: So I guess Gerry made Kate drunk so she would post what she really thinks, is that what happened?  
+Kate: My inner redneck came out sorry guys. Gery just brings it out in me.	
+George: WTF How old are you Gerry, 10?
+Summary: Gerardo pranked Kate writing a humorous statement about Donald Trump, all in superlatives, from her account. Kate understood the joke. George called Gerardo down.
+Dialogue: Ann: tomorrow we're doing to see Brooklyn 
+Tom: sightseeing?
+Ann: yes, can you recommend anything?
+Tom: in Brooklyn?
+Ann: yes
+Tom: the Brooklyn Bridge of course!
+Ann: sure, but anything less well known? 
+Tom: The Brooklyn Historical Society DUMBO is a very interesting place, and not so touristic 
+Ann: What do they show?
+Tom: the history of the borough and some micro-histories, also of the construction of the bridge
+Ann: Will will like it then!
+Tom: if you have enough time you can also try Greenwood Hight. There is a huge cemetery and the Battle Hill, the highest point of Brooklyn
+Ann: great! thanks a lot. it all sounds great!
+Tom: Great I could help!
+Summary: Ann is going sightseeing tomorrow in Brooklyn. Tom recommends The Brooklyn Historical Society and Greenwood Hight. 
+Dialogue: Dane: This is the drawing tutorial I told you guys about last night. It did me a world of good <file_other>
+Charlie: awesome
+Lana: thank you!
+Dane: As I said it's not for free, but the fee is really affordable and there's A LOT of content to choose from.
+Lana: I was looking for something like that, just to give me some structure while I'm learning.
+Charlie: and the art is really beautiful
+Dane: Yes, exactly, the guy who makes this tutorial has some amazing skills.
+Charlie: Was this where you taught yourself to draw?
+Dane: I had some previous experience, but this course has really polished me as an artist.
+Lana: Nice, can't wait to start.
+Dane: Btw if you guys have any questions, that you won't find the answers to in the tutorial - though I highly doubt it, as it has all the basic stuff you need - just pm me ;)
+Charlie: great, thanks a lot
+Lana: That's so nice of you :)
+Dane: No problem ;)
+Summary: Dane recommends his friends a drawing tutorial. It's affordable and very helpful.
+Dialogue: Kate: good news
+Kate: <file_photo>
+Emma: $1000!!!
+Kate: yes
+Melanie: how much did you expect to get from them?
+Kate: I applied for 1500 but I knew they never give the maximum amount
+Kate: so 1000 is kinda fine
+Melanie: sure, you're pay the student house at least
+Kate: exactly
+Kate: and a chocolate bar hahaha
+Melanie: not much left after that?
+Kate: the college is almost 1000 per trimester
+Melanie: Bastards
+Summary: Kate got her college funding.
+Dialogue: Dan: late breakfast tomorrow?
+Patrick: sounds good
+Patrick: I'll just have to check with M
+Dan: let me know :)
+Patrick: 11ish?
+Dan: 12ish?
+Patrick: haha ok
+Summary: Dan and Patrick will have a late breakfast tomorrow at around 12. 
+Dialogue: Patty: Club?
+Selma: when?
+Patty: 2day?
+Selma: 2day! 
+Patty: yeah at 8
+Selma: make it 9
+Patty: ok c ya there
+Selma: see ya
+Summary: Patty and Selma are going to the club today at 9.
+Dialogue: Grayson: are u free this afternoon?
+Nancy: yes I don't have any plans
+Grayson: can i swing by your place?
+Grayson: i'd like to meet your new cat :-D
+Nancy: yes! come on over
+Nancy: she's adorable
+Summary: Grayson will come over to Nancy's place to see her new cat.
+Dialogue: Céline: Hi Aurore, i've heard about Tristan. It's terrible. We think about you and the girls
+Céline: i've send you a message on your mobile but you may have changed?
+Aurore: thanks. Our mobiles have been seized.
+Céline: OMG.
+Aurore: they came and arrested him friday evening 
+Céline: at home or at the office?
+Aurore: at home! so dreadful!
+Céline: and how are the girls. Did they see him leaving
+Aurore: they didn't understand what was up
+Céline: Can you visit him? 
+Aurore: for the moment it's pre-trial detention.
+Aurore: we're waiting for the trial, but it could take a long time.
+Céline: you mean he will stay in jail all that time?
+Aurore: they're 5 of them.
+Céline: hold on. If you need some help, please ask
+Aurore: i'm fine. I hope everything will be ok.
+Céline: I'm sure it will. We're all with you.
+Aurore: thanks
+Céline: <file_photo>
+Céline: all newspapers are writing the same. It's good sign
+Aurore: let's pray and hope
+Summary: Tristan was arrested in his house on Friday evening. He will be in jail with 5 other people until the trial. Aurore's phone has been taken by the police so she hasn't received Céline's messages.
+Dialogue: Corey: What about gps?
+Mariah: It doesn't work :(
+Corey: let me try
+Mariah: okay
+Summary: Mariah's GPS is not working. 
+Dialogue: Blake: HEYYY
+Alex: WHAAAT
+Blake: LOOK OUT THE WINDOW
+Alex: COME INSIDE THE CLASS
+Blake: COME OUT OF THE CLASS
+Alex: okay but WHY ARE WE SHOUTING
+Blake: idk xD
+Alex: wtf XD
+Blake: come out
+Alex: tea?
+Blake: tea
+Alex: ill be right outside
+Blake: yayy!!   \o/
+Summary: Blake is outside the class. Alex is in the class. Alex's going out.
+Dialogue: Javier: Just finished the first 20 lines of code. Took me a while but it's done.
+Sergio: Nice! Paul also finished his ones so now we can start making the base of the program.
+Javier: Wanna meet at the library and start working asap?
+Sergio: That's a good idea, we don't have a lot of time.
+Summary: Javier and Paul have both finished their lines of code. Javier and Sergio will meet in the library soon to start making the base of the program. 
+Dialogue: William: Do you want me to buy anything?
+Elisabeth: not really, I think there is everything
+Kate: Buy some red wine, there is only white here and I don't feel like it today 
+William: dry?
+Kate: of course
+William: ok, I'll be in 20min
+Elisabeth: no rush
+William: ;)
+Summary: William will buy some dry red wine for Kate. He will be there in 20 minutes. 
+Dialogue: Jay: I am hitting the gym rn 👋 🤙 💪 
+Mason: Oh bro when exactly? 
+Jay: Im like on campus, heading there
+Mason: K so I am downtown but I was gonna go real soon 
+Mason: to the gym xd
+Jay: I will meet you there then 
+Mason: K cool 
+Bruce: Hey yooo Im at the gym pac rn 
+Bruce: Its kinda packed idk why 
+Mason: Weird
+Bruce: Yeah I might go on the treadmill 
+Jay: Oh god if its packed Im not sure if I wanna go anymore 
+Jay: K I might still go 
+Mason: K I will still head there and we'll see 
+Mason: If its too packed
+Mason: We can also probably play volleyball 
+Bruce: Sounds like a good idea
+Jay: K i am heading to the changing room 
+Jay: Meeting y'all there 
+Summary: Jay is going to the gym, Mason will join him and Bruce who's already there. They'll play volleyball if the gym's packed.
+Dialogue: David: The new movie of Jonhy English has come out, have you seen it?
+Patricia: No but I have been meaning to go tough. I heard it's hilarious.
+David: Rowan Atkison is just awesome, love that guy! In Mr. Bean I would just laugh so hard ahaha
+Patricia: Me too 😂 I couldn't watch some scenes sometimes cause they would make me nervous from all the constant crap he did ahhaha
+David: ahahaa xD  Anyway.. wanna go to the 21:40 session today? I ain't got much going on so..
+Patricia: Sure! Where are you having dinner?
+David: Was thinking of just ordering a pizza, you have any ideas?
+Patricia: There's a new Mexican place and they do take out's, want me to grab something and meet you at your place?
+David: Oh that's what I'm talking about! Bring me 2 chicken burritos and nachoooos with guacamole.
+Patricia: Anything else for the little boy? ahaha xD
+David: While you're at it a coke would do 😂
+Patricia: Jesus.. x) Leaving my place now, cya in a bit.
+Summary: Patricia and David are going to watch Johnny English new movie. They are having Mexican takeaway at David's before the session.
+Dialogue: Kimberly: Hi, I don't know if you remember me :)
+Toby: Should I? :D ;)
+Kimberly: We talked at Julie's party on Saturday
+Toby: Yeah, I know, I recognized you, Kim :)
+Kimberly: Can I add you as a Facebook friend then?
+Toby: Fine for me :D
+Kimberly: All righty... theeerrrre you are!
+Toby: Ok
+Kimberly: Did you get the notification?
+Toby: Yep, here it is... accepted!
+Kimberly: Oh, I'm a lucky woman :D
+Toby: You bet you are :P :D
+Kimberly: :)
+Toby: This makes me think that I am the one who should have written to you on fb first. Now I made a jerk of myself :(
+Kimberly: Oh no you didn't :)
+Toby: Ok... but I still feel I should do something to apologize
+Kimberly: Well, well
+Toby: What about a coffee at Starbucks around 5 PM?
+Kimberly: Ok for me :)
+Toby: Good! And it's on me, of course
+Kimberly: Forget it! You patriarchal oppressor! I'm paying for myself!
+Toby: Wha...?
+Kimberly: Just kidding ;)
+Toby: Phew... :D
+Summary: Kimberly and Toby met at Julie's party on Saturday. She befriended him on Facebook, and in return, he invited her to grab a coffee at Starbucks around 5 pm.
+Dialogue: Bob: Hi hun, what's for dinner tonight?
+Jen: dunno yet, why?
+Bob: long time since we had sushi...
+Jen: bought or home-made?
+Bob: could we do it at home today?
+Jen: would have to run to the store and get some fresh fish. and avocado. other stuff we have at home. Even nori
+Bob: we do? 
+Jen: yeah, last time I ordered it from amazon, better price and you order in bult. and it doesn't spoil.
+Bob: yay! so what, rolling tonite?
+Jen: I guess... 
+Bob: yum!
+Summary: Bob and Jen discuss their dinner plans. They want to prepare sushi. Jen would have to go to the store to get the products. She wants to order it from amazon. Bob agrees.
+Dialogue: Sam: Do we need any water at home? I'm going to Costco.
+Brianna: No, we're good. Can you pick up some tp though?
+Sam: Sure, no prob. 
+Summary: Sam's going to Costco, he'll buy toilet paper.
+Dialogue: Mike: Please come over and get some of these apples, we picked way too many!
+Zelda: Ooh, apples! Sure!
+Mike: We went a little overboard...
+Zelda: LOL! I can take some for mom as well if you want?
+Mike: Please do! No idea what we were thinking!
+Zelda: It was a nice day, you were in an orchard, why not keep picking?
+Mike: Exactly! Now! Apple overload!
+Zelda: You could always make applesauce. It freezes nicely.
+Mike: Good idea. How do I do that?
+Zelda: Just peel, core and cut up the apples, put in a pan with sugar and let it cook low and slow down to applesauce.
+Mike: Sounds simple!
+Zelda: You can add cinnamon if you wish or leave it plain.
+Mike: Cool.
+Zelda: Then you can use it for a sweet side dish with pork or savory by mixing it with bbq sauce.
+Mike: Never thought of that!
+Zelda: Have I just excluded myself from free apples? LOL!
+Mike: No, not at all, but like the idea. Thanks!
+Summary: Mike has picked too many apples. Zelda will come over and take some apples for herself and for mom. To keep the extra apples for later, Mike can make apple sauce. Apple sauce can be stored in the freezer. It can be served as a side dish.
+Dialogue: Janelle: thanks so much for taking care of dog
+Janelle: is he giving you any trouble?
+Micah: no! he's adorable
+Micah: I love having him around
+Micah: how's england?
+Micah: are you enjoying the trip?
+Janelle: robert and i are having the time of our lives
+Janelle: this is the honeymoon we never had
+Janelle: we're having so much fun
+Micah: i'm really glad to hear that!!!
+Micah: again, don't worry about your dog
+Micah: he behaves very well and keeps me company
+Janelle: thank yo so much!!
+Janelle: we'll be back on Thursday
+Micah: great! keep having good time!!
+Summary: Micah is taking care of Janelle's dog while she and her husband are on a trip in England.
+Dialogue: John: Hey Mark, what about our next group match?
+Mark: What about it? -_- I've been trying to get you guys to play for about a week now.
+John: Hey now c'mon xD. You know we've all been busy this week.
+Mark: Then why'd you even ask?
+John: Okay no seriously, when is it? You know we're free this weekend.
+Mark: Alright, I'll ask if the other team is free to play. I'll let you know.
+John: Great!
+Mark: And if you ditch me this time I'm gonna take the team off the competition ._. . You guys are so annoying.
+John: Yeah okay, whatever. XD
+Mark: Hey I'm serious :D . 
+John: OKAY MARK! I get it. And you can stop laughing too btw. 
+Summary: John and other guys were busy this week. Mark will ask if the other team is free this weekend to play a match.
+Dialogue: Pascal: The school has just called me.
+Wendy: Oh no, again!?
+Pascal: yes, and again the same.
+Wendy: How embarrassing.
+Pascal: Oh, yes, believe me. This time they were not that understanding any more.
+Wendy: Did he got into a fight again with somebody?
+Pascal: Worse.
+Wendy: What can be worse.
+Pascal: The teacher said he was groping girls.
+Wendy: No!!!! What's wrong with him???
+Pascal: I have no idea.
+Wendy: I'm afraid our methods don't work.
+Pascal: They also said that if it happens again, we may have to look for a new school.
+Wendy: I understand, this is serious. Is our son becoming some kind of disgusting pervert?
+Pascal: We cannot think like this. I think he is troubled and he needs help.
+Wendy: You're right. I just can't relate any more. It's horrible.
+Pascal: We'll go together through this.
+Summary: Wendy and Pascal's son has trouble at school. He was accused of groping girls. If it happens again, he might get expelled. Pascal thinks their son needs help.
+Dialogue: Dominic: can you come later?
+Brian: ok 
+Brian: why? 
+Dominic: I have to stay longer at work
+Brian: you don't have to 
+Dominic: you know I need this job 
+Brian: you need a job, but not necessarily this one 
+Summary: Dominic and Brian are going to meet later than planned because Dominic has to do overtime at work.
+Dialogue: Victoria: Hi! :) How are you? Haven't heard from you in awhile!
+Connor: i'm fine, thanks :> and you?
+Connor: sorry, i've been quite busy lately, i've started postgraduate studies in programming
+Victoria: I'm great, thank you! Sounds cool! ;)
+Victoria: What programming languages are you learning?
+Connor: java and python
+Victoria: Great choice, although i personally prefer C++ :) It just seems more logical to me.
+Connor: i didn't know that you're into this kind of things :o ;)
+Victoria: Well, if you called me more often, you'd know :P
+Summary: Connor is learning to code in Java and Python. Victoria programs in C++.
+Dialogue: Andy: hey Ali :)) 
+Alison: hey Andy :)) all ready for tonight?
+Andy: almost, almost... still making some small adjustments to my costume
+Alison: who are you gonna be?
+Andy: Incredible Hulk
+Alison: who????
+Andy: <file_photo>
+Alison: so a green monster?
+Andy: it's a famous comic persona...
+Alison: ok ok sorry :) well it looks scary so you will look great :D
+Andy: and what about you?
+Alison: a witch
+Andy: got any pictures?
+Alison: i don't want to spoil it for you!! you will see tonight
+Andy: ah come on don't be a tease
+Alison: <file_photo>
+Andy: oh my god :D i would not recognise you
+Summary: Andy is dressing up as the Incredible Hulk for the party tonight. Alison is dressing up as a witch.
+Dialogue: Lib: Thank you for the flowers,  they are amazing!
+Liz: You are welcome! 
+Lib: So good to see you at the weekend we should stay in touch
+Liz: Yes, definitely
+Lib: and let's hope that next time we meet, it will be a happier occasion
+Liz: Yes I am sure it will be!
+Lib:  Let me know next time you are coming to London
+Liz: Yes I will
+Lib: Thank you for the photo too, it means a lot to me
+Liz: You are welcome. My dad used to keep it in his study, but when he died I wanted to give it back to your mum.
+Lib: She would have loved it!
+Liz: I still can't believe she's not here...
+Lib: I know, it's terrible isn't it.
+Liz: Yes I miss her so much
+Lib: Me too!
+Liz: She was a great person. I will stay in touch and try to meet up next time I am in London.
+Lib: Thank you for everything
+Summary: Lib came to London. She brought a meaningful photo with her that was in her father's possession before he passed away. She wants to keep in touch with Liz after her departure.
+Dialogue: Greg: Have you paid the invoice?
+Tom: Yes
+Kim: Tomorrow. I'm waiting for a bank transfer
+Summary: Tom has paid the invoice. Kim will do it tomorrow. She is waiting for a bank transfer.
+Dialogue: Jessica: hey! :)
+Jessica: haven't seen you in a while
+Jessica: is everything ok?
+Virginia: Hi :) yeah, everything's fine, thanks.
+Virginia: I've just decided to drop the class.
+Jessica: :( why?
+Virginia: I like zumba, but, I don't know, I just didn't feel comfortable working out with our group.
+Virginia: I didn't like all the shouting, the girls were sometimes too, let's say, frothy to me.
+Virginia: I just felt really self-conscious during those classes.
+Jessica: i'm sorry to hear that :(
+Jessica: would you like to grab a coffee sometimes?
+Virginia: Sure, I'd love to! :)
+Virginia: I'll call you later and will set a date, ok?
+Jessica: great! :) bye!
+Virginia: Bye :)
+Summary: Virginia is quitting her zumba class because she doesn't feel comfortable exercising in a group. She will met Jessica for coffee after they discuss it over the phone.
+Dialogue: Riley: Hi how are you?
+Lola: I'm fine, just woke up
+Riley: do you have any special plans for today?
+Lola: nah…I'm planning to eat big breakfast
+Lola: English breakfast preferably :D
+Riley: I'd certainly feel invited :D
+Lola: I feel like spending the morning on my own!
+Riley: Ok, if you say so :P
+Lola: <file_gif>
+Lola: we could go jogging later in the afternoon
+Riley: good idea!
+Summary: Lola wants to have breakfast on her own. She will go jogging with Riley later in the afternoon.
+Dialogue: Olaf: Can't remember the name of the song I've heard on the radio today...
+Olaf: There was sth like 'mama said don't give up, it's a little complicated...' 
+Olaf: Haven't been able to get it out of my head
+Bartek: Darude- Sandstorm? xD
+Agnieszka: Oh Bartek... that was funny like 5 years ago, grow up
+Bartek: And who asked you?
+Agnieszka: Whatever... Olaf, I think it's a song by Panic and the name is High Hopes :)
+Agnieszka: It is catchy, indeed :)
+Olaf: YES YES AND YES!
+Olaf: That's the one I've heard!
+Olaf: Very energetic and positive, thanks for solving the mystery! :D
+Agnieszka: You're welcome, have a nice day!
+Summary: Agnieszka guessed the name of the song Olaf heard today on the radio and couldn't get out of his. Bartek and Agnieszka weren't too nice to each other.
+Dialogue: Tom: Can you try to open this link? <file_other> 
+Tom: Does it work??
+Kim: Yes, it works.
+Tom: How long is this video?
+Kim: around 3 min.
+Tom: perfect, thx a lot for your help.
+Kim: no problem, you're welcome.
+Summary: Tom asks Kim to check if a 3-minute-long video he forwarded is working.
+Dialogue: Gabriel: show it girl
+Jacob: ya, don't be shy!
+Kathy: <file_photo>
+Gabriel: nice shade
+Jacob: u look gorgeous!
+Kathy: I'm glad you like it :)
+Gabriel: that must have cost a fortune
+Kathy: not really
+Summary: According to Gabriel and Jacob, Kathy looks very nice.
+Dialogue: Tucker: movie tonight?
+Sully: ofc :)
+Tucker: :) I'll buy tickets
+Sully: great :)
+Summary: Tucker invited Sally for a movie tonight and he will buy the tickets.
+Dialogue: Keith: Morning Tom
+Tom: Morning Keith, how goes it?
+Keith: Good thanks. I just wanted to ask you if you are likely to need me this week as I was thinking about going to see my parents in York. It doesn't matter which day it is but I wouldn't be available for two days.
+Tom: Hmmn. Well I might have something to do on Wednesday afternoon for you, but it couold be done Thursday. Until then, it would be OK if you went off for a couple of days. If you can be on the phone at least?
+Keith: No problem with phone calls. I will leave right away then.
+Tom: Will you be taking the train, or?
+Keith: I will probably drive it. It's already after rush hour and the advantage is if I take my car I can ferry them around a bit.
+Tom: They don't have a car?
+Keith: They sold it. My dad stopped driving after his stroke and my Mum finds that these days she is just too nervous to drive.
+Tom: That's not unusual, as we get older. How old are your folks now, Keith?
+Keith: Dad's turning 70 this year, Mum's 67. 
+Tom: Well, that's not that old, really. But anyway I imagine that running a car on a pension is pointless when you have free bus passes and that.
+Keith: Yes, but they do feel the lack of it when it comes to going to the garden centre and bringing back trees to plant or bags of soil.
+Tom: yes, that's true
+Keith: and that's what I'll be doing with them, improving the old garden a bit. 
+Tom: OK. Well, give them my regards.
+Keith: Will do, thanks.
+Summary: Keith will leave for two days to his parents in York, to help them improve their old garden. Tom is okay with Keith coming back on Thursday but needs him on the phone. Keith's parents sold the car, so he will drive there and ferry them around a bit.
+Dialogue: Paul: Do you have any specific wishes when it comes to food? :) Like any allergies or dislikes? Anne, you're vegetarian right?
+Anne: I am. So as long as there's no meat in it, I'll eat it ;)
+George: I'm not big on broccoli and cauliflower
+George: oh and I often feel ill after raw onions. Don't know if I'm really allergic, but I tend to avoid it.
+Paul: Ok, noted. Anne, you sure you don't have any preferences?
+Anne: I love all veggies and I'm a cheese hipster B) Maaaybe.. I'm not that enthusiastic about eggs, but it's like I won't eat them at all. Depends on how they're made.
+Paul: What's your favorite way to make them?
+Anne: Hard-boiled. But as I said, it's not a big dislike.
+Paul: Ok, thanks. I'll make something you both will enjoy, I hope :)
+George: great
+Anne: Can't wait <3
+Summary: Anne is vegetarian and is not fond of eggs. George avoids certain vegetables. Paul will prepare food that Anne and George can enjoy. 
+Dialogue: Angelina: wanna go to the cinema to see "First Man on the Moon"?
+Jennifer: yes, sure! When?
+Angelina: I was thinking Friday, like 7-8 pm? Cinema City Arkadia?
+Jennifer: thats ok for me.
+Angelina: great, see you! 
+Summary: Angelina and Jennifer will go to see "First Man on the Moon" on Friday around 7-8 PM at Cinema City Arkadia.
+Dialogue: Lia: have you seen Leo?
+Rebecca: I'm with him at the bar now
+Lia: I've been looking for him for 2 hours
+Mia: me too!
+Summary: Lia and Mia have been looking for Leo for two hours. Rebecca is with him in the bar now.
+Dialogue: Jorge: Hurry up, man
+Dusan: I'm trying, I'm trying...hold on to your horses.
+Jorge: If you don't get your ass down here, we're going to miss the show.
+Dusan: Grrrrr
+Summary: Dusan is on his way to the show he is going to watch with Jorge. 
+Dialogue: Jake: Mag, can you recommend anything to see in Puglia?
+Margaret: When are you flying?
+Jake: in October.
+Margaret: Great time, not too hot any more, not too cold yet.
+Jake: Perfect!
+Margaret: For sure you should visit Lecce, Alberobello, Polignano a Mare is also picturesque.
+Jake: anything a bit less touristic?
+Margaret: haha, go to Gargano!
+Jake: What is it?
+Margaret: A huge promontory. You have cute little villages on the cost and an amazing primordial forest inland.
+Jake: Sounds great.
+Margaret: If you like nature, I think it's the best in Puglia, although not very famous.
+Jake: What is the name of the forest?
+Margaret: Foresta Umbra, it's in a national park.
+Jake: I've googled it, seems beautiful.
+Margaret: Send me a postcard:)
+Jake: I will!
+Summary: Jake is flying to Puglia in October. According to Margaret, he should visit Lecce, Alberobello, Polignano a Mare and Gargano.
+Dialogue: Eric: Workout today?
+Adam: nope :/
+Eric: Come on
+Adam: im sick man, on antibiotics :/
+Eric: You? Sick?
+Eric: Hard to believe
+Summary: Adam is sick and won't be able to exercise with Eric today. 
+Dialogue: Piya: How’s the weather outside?  
+Racheal: It's too cold.
+Piya: Whats the temperature? 
+Racheal: It's minus twelve. (-12 degrees)
+Piya: Is it raining and windy? 
+Racheal: No, no rains, but yes its quite windy outside.
+Piya: What's the temperature in Helsinki? 
+Racheal: Today it is 9 degrees Celsius which is a quite cold, but not worst.
+Piya: It's snowing here in Redmond, you know its always gloomy and still kind of weather ? 
+Racheal: Yes, I had been there last year, the same time.
+Piya: Is it a beautiful day for a walk? 
+Racheal: Seems so. We couldn't ask for better.
+Piya: What's the weather forecast for the rest of the week? 
+Racheal: It looks like there would be a steady decline in temperature for the rest of the week.
+Summary: It's -12 degrees and windy where Racheal is. It's 9 degrees Celsius in Helsinki. It's snowing in Redmond where Piya is. Racheal was in Redmond about a year ago. The forecast indicates that temperature will steadily decline for the rest of the week.
+Dialogue: Logan: I talked to Amy today
+Chester: Can you spare me that?
+Logan: How could you be so cruel to her?
+Summary: Amy told Logan about Chester being cruel to her.
+Dialogue: Lincoln: Hi! :)
+Lincoln: Have you taken any photos during our wedding day?
+Carson: Hey! :-)
+Carson: Yes, I have. I can send you them, if you want.
+Lincoln: I'd be really grateful, if you did it - the photographer we hired got plastered before the ceremony(!), so our wedding photos are a mess. :/
+Carson: I'm so sorry to hear that! :-(
+Carson: I hope you'll find some decent photos among your guests' photographs.
+Lincoln: I hope so too. Thank you very much! :)
+Carson: You're welcome. Good luck! :-)
+Summary: Lincoln's photographer got drunk at his wedding and didn't take good pictures. He needs Carson to send over all the wedding photos she took.
+Dialogue: Kelly: My guts are not ok
+Jody: Constipation?
+Kelly: Quite the opposite... 
+Kiara: What have you eaten?
+Kelly: A fishburger
+Kiara: Maybe the fish wasn't fresh
+Kelly: It tasted ok
+Jody: Have you taken medicine?
+Kelly: I don't like medication if not absolutely necessary
+Kelly: But it's so annoying
+Kelly: I'm a toilet prisoner today
+Kelly: Again I need to poop 
+Jody: Poor Kelly
+Jody: Try to relax. It will pass... 
+Summary: Kelly has diarrhea. Kiara suspects a fish burger to be the cause. Kelly doesn't take medication unless she really has to.
+Dialogue: Kara: <file_photo>
+Kara: My sweet cat is sleeping on me :)
+Ronald: Next thing you're gonna tell me is you're sneezing
+Kara: Probably
+Ronald: I'm sure...
+Kara: Omg this cat is hugging to me haha
+Ronald: Hahaha
+Kara: <file_photo>
+Kara: :)
+Ronald: Haha
+Kara: Good night
+Ronald: Thanks. Good night to you too
+Kara: :) Anyway, I'm already sneezing haha because of that sweet cat
+Ronald: Enjoy haha
+Kara: Damn...
+Ronald: I told you!
+Kara: I should start taking some medicine for my allergy
+Ronald: And what about just stopping hugging cats?
+Kara: No way! Never :P
+Summary: A cat is sleeping on Kara but she is allergic and starts sneezing.
+Dialogue: Mae: What kind of studies do you pick easily?
+Cael: Why are you asking so?
+Mae: Just tell me
+Cael: Visual learning much more fast
+Mae: We would ask our professor for visual learning then
+Cael: We would have to ask CR to talk to him then
+Mae: We would
+Cael: Who else is with us?
+Mae: I am talking to Maya and Jacob
+Cael: Great
+Mae: I have been reading these books but cant understand much :(
+Cael: Same here :P
+Mae: Hope to get better grades when our mode of teaching is changed
+Cael: Yeah
+Mae: Will talk to you later, Maya is calling me
+Cael: Ask her to call me as well
+Mae: See you
+Cael: tc
+Mae: :)
+Summary: Cael and Mae would have to ask CR to talk to their professor about visual learning. Maya cannot quite understand the books she's reading and she hopes to get better grades when their mode of teaching is changed. 
+Dialogue: Grace: I'm coming tonight!
+Oleg: I know. WHy are you telling me?
+Grace: Cause I've got an idea :)
+Oleg: OK, are you telling me what?
+Grace: No, it's a surprise!
+Oleg: I knew that. So why are you telling me?
+Grace: you're such a bore!
+Oleg: Grace, I'm sorry, I'm busy
+Grace: OK, but be home the earliest you can
+Oleg: OK, i'll do my best. Around 7 I think
+Summary: Grace is coming tonight and she's planning something surprising. Oleg should be home at 7 or so.
+Dialogue: Oliver: What is your fave X-mas song?
+Amelia: Ooh! That's a tough one! Silent night?
+Oliver: Me too!
+Amelia: No wait... maybe Rudolph?
+Oliver: Okay...
+Amelia: There are too many faves!
+Oliver: Geez, make up your mind! 
+Amelia: I can't. Too many that I like.
+Oliver: Oh, sorry!
+Oliver: I was just curious.
+Amelia: That's okay. What are you up to?
+Oliver: Just listening to music and chillin. You?
+Amelia: Just about to go out and meet Gwen at the mall. Wanna come?
+Oliver: Sure. Now?
+Amelia: Now is always the best time! LOL!
+Amelia: Name that stage show!
+Oliver: King and I... too easy!
+Amelia: Oh, you're good!
+Oliver: I know my show tunes!
+Summary: Oliver's favourite Christmas song is "Silent night". Amelia can't decide which one is hers. She is going to meet Gwen at the mall. Oliver will join. 
+Dialogue: Bill: <file_gif>
+Nick: <file_gif>
+Bill: tonight?
+Nick: pubs are overrated
+Bill: haha
+Bill: come to my house
+Bill: cheaper
+Nick: whos buyonh
+Nick: *buying
+Bill: my place, my snacks, my tv, means you're buying beers
+Nick: smartass
+Nick: alright
+Bill: four or more dude
+Nick: gonna bring crate
+Bill: and thats why were friends!
+Nick: see ya tonight
+Summary: Nick is going to Bill's house tonight and will bring beers.  
+Dialogue: Isabella: Good afternoon. What is the price of the pink dress that you posted a few minutes ago?
+Grace: Goof afternoon, 30$.
+Isabella: Is there also size 10?
+Grace: Yes.
+Isabella: Thank you for the information. Goodbye.
+Grace: Bye.
+Summary: The dress that Grace posted costs 30$ and is also in size 10. 
+Dialogue: Pedro: I'm so frustrated
+Pedro: It's the fifth time I'm taking this exam
+Pedro: And I cannot get a good score
+Francis: What are you talking about?
+Pedro: TOEFL
+Kamil: I took it once
+Kamil: It was horrible
+Kamil: Super stressful
+Pedro: Did you get a good score?
+Kamil: I don't remember. I guess it was enough for what I needed
+Francis: I've never heard of it
+Pedro: It's an English test
+Pedro: You do it on a computer in a special centre
+Pedro: There is no human interaction
+Francis: That sounds weird 
+Summary: Pedro took TOEFL 5 times already, but he didn't manage to get a good score. Kamil took it once. His score was enough for him.
+Dialogue: Dianne: you know about flowers, right?
+Barrett: a little
+Dianne: i planted some sunflowers and they haven't come out
+Dianne: it's really frustrating
+Barrett: just wait a bit, it'll happen
+Summary: Dianne planted sunflowers and they did not grow. Barrett knows a little bit about the flowers and advises to wait. 
+Dialogue: Jensen: <file_photo> 
+Lindsay: We had a great game! 
+Jensen: So sad it was our last game tho ;( 
+Summary: Jensen and Lindsay had their last game.
+Dialogue: Jack: Sry I didn't pick up the phone. Can't talk right now.
+Rachel: No problem. What are you doing?
+Jack: In a meeting with the boss. 
+Rachel: Sorry, not interrupting then. 
+Jack: No problem. Just can't talk.
+Rachel: When will you be available?
+Jack: In an hour or so.
+Rachel: Can you give me a call? Don't wanna text. Need to talk.
+Jack: Something serious?
+Rachel: Not very. Just too much texting.
+Jack: No problem. As soon as this is over, I'll give you a ring.
+Rachel: Thanks. I knew I could count on you. 
+Jack: Glad to be of help.
+Rachel: Talk to you later.
+Jack: Bye. 
+Summary: Jack is in a meeting with the boss. He'll be available to talk in about an hour and then he'll call Rachel. 
+Dialogue: Becky: Are you going to Jim's wedding?
+Mel: Not sure. Still thinking whether I should or not.
+Becky: Why?
+Mel: It's kinda weird with him being my ex and all that.
+Becky: Yeah, but that was like 10 years ago Mel.
+Mel: I know. I know.... still feels weird though
+Becky: If he and his new missus didn't want you there they wouldn't have sent out the invite.
+Mel: Yeah, but it's not about whether they want me there or not. It's about whether I want to be there.
+Becky: True that.
+Becky: I'll hold your hand if you want so you don't have to face your demons alone. xo :-)
+Mel: Give me a couple of days to think about it. I'll let you know by the weekend. OK?
+Becky: Of course it's OK. Take care lovely one. xo
+Summary: Mel is unsure about going on her ex's wedding. Becky supports her. Mel will let her know by the weekend.
+Dialogue: Caron: ahhh Ive found the Beautiful South on my tidal app
+Andy: oh have you darling?
+Caron: yes I'm having a few moments
+Andy: I bet you are
+Andy: they were one of our favourites
+Caron: they were
+Andy: housemartins first
+Caron: yes we played the video over and over remember in that pub in Southampton with the video jukebox
+Caron: God how old do we sound video jukebox
+Andy: we are old now darling
+Caron: lol speak for yourself
+Andy: I need to get that tidal app
+Caron: yes its good everytime a song jumps in my head I just search for it and I find the whole bloody playlist and I'm having moments all day lol
+Andy: you and your moments😂😂
+Andy: you are like a marshmallow😂😂
+Caron: oh not good near naked flame😁🤦‍♀️
+Andy: lol no defo not
+Caron: no I am having a good day listening to my music today but I cant type in time to the beat lol
+Andy: you kill me
+Caron: lol xx
+Summary: Caron has found The Beautiful South on her Tidal app. The music brought back memories of her and Andy's past. Caron enjoys Tidal. Andy is interested in getting the app.
+Dialogue: Derek: I'm downstairs
+Andy: I'm coming
+Patrick: I'm not going with you guys, I'm not feeling well 
+Summary: Derek is waiting downstairs. Andy is joining him. Patrick feels sick, so he won't go.
+Dialogue: Daniel: Have you used Uber recently?
+Simone: No, I try not to use it
+Caesar: why? it's such a great app
+Simone: I don't like how they treat people, drivers etc. I think it's a wrong way of progress
+Caesar: oh, you're exaggerating like all lefties
+Simone: and you just don't have empathy, like all "righties"
+Daniel: LOL. I only wanted to ask if your app work, because I can't open mine
+Daniel: I didn't intend to start a third world war between the left and right
+Simone: haha, ask the capitalist, I haven't used it for a while, but yes - I can open it
+Caesar: works perfectly, I use it everyday 
+Caesar: try to uninstall and instal it again
+Caesar: Maybe there is a bug, so it's worth to check for updates
+Daniel: it's helped! thanks
+Summary: Daniel can't open the Uber app. Installing it again solved the problem.
+Dialogue: Frank: I have an idea
+Frank: And I think you'll love it
+Susy: Sushi?
+Frank: Yup.
+Susy: Hurray!!! 
+Susy: <file_gif> 
+Summary: Frank and Susy will get sushi, which makes Susy happy.
+Dialogue: Mel: Hi, we should start looking for a replacement for john
+Gordon: That won't be easy
+Mel: but we don't have a choice, the sooner we start, the better
+Tony: I am not sure we have no choice
+Tony: I was thinking the other day that we could offer him a new contract
+Mel: I don't think he wants to work here anymore
+Tony: Because he doesn't expect we could pay him more
+Mel: but maybe we could find sb for the same money
+Tony: You've just written that it won't be easy
+Gordon: and the recreation and training won't be cheap
+Mel: So what should we offer him?
+Tony: 35% pay rise, something significant 
+Mel: ok, we can try, I've always been happy with his work
+Gordon: Mel, prepare a draft of a contract and I'll talk to John tomorrow
+Summary: Mel will prepare a draft of a contract for John. Gordon will talk with him about their offer of a 35% pay rise.
+Dialogue: Steve: we went to see 'Clergy' yesterday. Have you seen it?
+Paul: I have.
+Luke: me too. 
+Luke: what do you think? 
+Steve: they made so much publicity about it beforehand, and I expected god knows what.
+Steve: in fact, it was not so shocking to me. 
+Paul: right, but it was quite impressive.
+Paul: I particularly liked the scene when they were partying and drinking hard, at the beginning.
+Luke: yeah, it was good! Drinking, crazy games.
+Paul: Janusz Gajos rocked as a priest. His drunken scene was a masterpiece!
+Luke: yeah, respect to the man.
+Steve: and the ending was shocking to me. 
+Steve: the only good dude didnt end up well
+Luke: sad
+Paul: yep
+Summary: Steve, Paul and Luke have all seen the film 'Clergy'. It was not as shocking as they'd thought. 
+Dialogue: Bryce: Do you still take alcohol
+Bonny: Yeah...
+Bryce: I have two bottles of whisky. You want one?
+Bonny: Sure. Let me come and take it
+Summary: Bonny will take one bottle of whisky from Bryce.
+Dialogue: Molly: I'm super tired after the last night, I'll just stay home
+Molly: sorry guys
+Jeff: Hmm, I see, but then maybe it doesn't make much sense for us to rent a car
+Ramona: Until there is somebody who'd like to take Molly's place
+John: I'm sorry guys to read that the plan is falling apart, but I'm not even in town
+Barbara: Ramona wrote me on priv, it's a cool idea, but I have nobody to leave Jeremy with, so sorry
+Ramona: ok, let's just leave it then
+Ramona: But the problem is that I cannot cancel the car like that, it's been booked, we will have to pay a fine
+Molly: I think that a fine is still smaller than renting the car
+Ramona: Not necessarily, they actually don't like to keep cars in the small depot in the city centre
+Ramona: I've just talked to a guy from the rental company and he said that we would have to pay for the car anyway and if we leave it in the depot we should also pay an additional fee.
+Molly: what bastards!
+Jeff: we could cancel it even a day before, but not the last minute
+Molly: so it's all my fault?
+Jeff: didn't cross my mind until you said it!
+Molly: ok, so let's rent the car, sorry for the problems, maybe it's really too late to change this plan, I'll be ready in half an hour
+Jeff: good girl!
+Ramona: good decision!
+Molly: but I warn you, I may be a bit grumpy 
+Ramona: nothing new! :P can't be worse than usual 
+Jeff: hahahah
+Summary: Molly is very tired and she doesn't want to go out with Jeff, Ramona and Barbara. Ramona finds out that canceling a car reservation is more expensive than renting a car. Molly decides to rent a car with Jeff, Ramona and Barbara.
+Dialogue: Evelyn: im thinking of getting some yoga
+Camber: oh sounds cool i cld join u
+Evelyn: cool
+Alcott: oh gals u and yoga. sry but ...
+Norman: i thought of the same
+Evelyn: shut up you two!
+Camber: exctly! you know nothin
+Alcott: thatd be a laugh tho
+Norman: yeah lets go & take a look hey?
+Evelyn: we not gonna tell you when and where we going so now bloody way!
+Camber: absolutely!
+Norman: thats not fair!
+Alcott: yeah you can always come to see our practice
+Camber: which is the most boring experience one may imagine
+Norman: thats because u know absolutely nothing about curling
+Alcott: if u expect yoga more excitin well 
+Evelyn: its not about exciting its healthy
+Camber: for mind and body
+Evelyn: in a nutshell!
+Norman: well good luck you two, but im tellin ya, nor 4u!
+Camber: shut it
+Summary: Evelyn and Camber will attend yoga classes. Norman and Alcott are making fun of them.
+Dialogue: Hersala: Hey I saw the box with your name and address on around the recycling bin(=_=)
+Pacifica: I told my husband detach the sticker before he throws the trash away😵😵 
+Pacifica: But I guess he didn't this time again😠
+Hersala: I detached it and threw away already for you.
+Hersala: But it is dangerous in terms of your privacy.😕 
+Hersala: And what if somebody uses your number and address for crime?
+Pacifica: Thanks for letting me know<m(__)m>
+Hersala: No problem what are neighbors for!😉😉😉
+Summary: Hersala, Pacifica's neighbour, disposes of Pacifica's mail containing personal information that Pacifica's husband didn't remove.
+Dialogue: Yvonne: I met Julia in the canteen 
+Selma: Is she back from Cuba?
+Thomas: Apparently.
+Yvonne: She told me she would "have to" go to Colombia/Venezuela border
+Yvonne: She got some funding from an NGO
+Yvonne: She "really needs to see" the crisis herself 
+Selma: This is ridiculous
+Selma: There is a humanitarian crisis there
+Selma: I'm sure the money could be better spent
+Selma: Instead of paying for Julia's flight
+Selma: For her to "see the crisis herself"
+Thomas: This is insane
+Thomas: But doesn't surprise me 
+Thomas: Many NGOs spend money in absurd ways 
+Summary: Yvonne met Julia in the canteen. Julia is back from Cuba and got funding from NGO. 
+Dialogue: Victor: They raised the prices :/
+David: Yeah, saw it, just got the notification from the bank
+Victor: But are they allowed to do it?
+David: I'm not sure, I have to have a look at the contract, but it doesn't seem all right to change the prices in the middle
+Victor: I think the same. I'll contact the manager
+Victor: He said that if we don't agree to the new price list we can end the contract, but they're not going to lower them...
+David: Damn, not really fair in my opinion
+Victor: No, not really. I was looking for a different gym, but all of them are too far away
+David: I have the same problem, I'd love to show them they can fuck off with those prices, but I'd probably spend the same commuting further away
+David: I think I'll stay, but if they raise the prices once again I simply won't be able to afford it ;/
+Victor: Same here, man. I don't get why they're doing it as more people are coming, they should have higher revenue anyway
+David: Greed man
+Victor: Pity, I liked the place. I will think about changing, I'll do it if I find something closer to work perhaps
+David: Lucky you, I'm pretty much stuck with this one. I hope a new one will open soon enough
+Summary: Victor and David are unhappy with the increase in prices at their gym. Victor is going to try to find something closer to work, whereas David will stick to this gym as long as the prices won't increase once again.

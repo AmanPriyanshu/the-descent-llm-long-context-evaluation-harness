@@ -1,0 +1,808 @@
+Dialogue: Joshua: NEED HELP!!! 
+Lila: Hey man, whats up?
+Joshua: I just can't firgure out how to do exercise 5... :(
+Joshua: I hate calculus
+Lila: one sec - let me get my book
+Lila: Oh yeah, that one's kinda tricky - this is what i got: H(x) =e(7x-4) + ln(x) + c 
+Joshua: Thanks :) Fir real though these math tests are gonna kill me XD
+Lila: Be careful though - the final exercise is a trick question
+Lila: You need to use the answer from the previous question to work it out.
+Joshua: k thanks :) you ready for the test?
+Lila: Yeah, you?
+Joshua: I'm just hoping that the gods of calculus will smile upon me and i get by with a C or something
+Lila: It'll be fine :) I can meet with you in the library tomorrow after school if you want
+Joshua: YES!! I need all the help I can get - Mr Wicks is threatening to pull me out of practise 
+Lila: :(
+Lila: I might be a little late - band practise tends to go overtime lately
+Joshua: It's okay, I'll get started on revision :)
+Summary: Joshua struggles with calculus so tomorrow he will meet with Lila in the library to study together.
+Dialogue: Jules: Hi there!
+Anna: Hey, I meant to contact you yesterday :)
+Anna: Any suggestions or preferences? 
+Jules: are you talking about the birthday present?
+Anna: Yes :) 
+Jules: elsa accessories would be ok
+Anna: great, thanks!
+Anna: and how are you doing these days? 
+Jules: we're good thanks
+Jules: i've changed my working hours and now I only work 7hrs
+Anna: super!
+Jules: I can pick her up earlier and she isn't so tired
+Anna: sure
+Jules: And how are you doing?
+Anna: good, thanks
+Anna: I'm busy studying for the exam 
+Anna: it's on Friday
+Jules: So soon?
+Anna: Yeah
+Jules: Ok, I don't want to distract you from studying ;) 
+Jules: Good luck and be in touch, girl!
+Anna: Thanks, speak to you soon
+Summary: According to Jules, Elsa accesories will make a good present. She works less now. Anna is preparing for the Friday's exam.
+Dialogue: Kate: I feel like riding a bike today
+Manuel: yes, it's so sunny, let's do it!
+Terry: I'll join you
+Kate: in 30 min at Hyde Park?
+Manuel: Perfect
+Summary: Kate, Manuel and Terry are meeting in 30 minutes at Hyde Park. They are going to ride bicycles.
+Dialogue: Kelly: Do you miss me?
+William: Nope! LOL!
+Kelly: LOL!
+William: JK! I really do tho. How are you?
+Kelly: Oh, fine. Lonely.
+William: You'll make friends son.
+Kelly: I hope so. Just miss you most of all.
+William: Aw, sweet.
+Kelly: True!
+William: So why did you leave?
+Kelly: New job, new start.
+William: I guess.
+Kelly: Nothing really keeping me there.
+William: Just me.
+Kelly: We are just friends, remember?
+William: Well...
+Kelly: Oh, great, now you tell me!
+William: JK! JK! We're still friends!
+Kelly: Phew!
+William: LOL! Take care, gotta run.
+Kelly: 8>
+Summary: Kelly has recently changed a job and feels lonely in the new one, missing her previous colleagues. William misses her too. 
+Dialogue: Kate: I'm leaving soon for the gym, wanna join?
+Kai: We were they yesterday!
+Kai: again?
+Kate: LOL, I'm going to do some jogging only
+Kate: you don't need to join me, just saying
+John: I'll go with you, it's a good idea after Christmas
+Kate: nice!
+Kai: and now I'm the only lazy potato
+Kate: you said it
+Kai: ok, i'll go with you, but give me 30min, please
+Kate: ok, let's meet at the bus stop
+Kai: fine, take my shower gel
+Kate: sure! I remember 
+Kai: see you soon!
+Summary: Kate asks Kai and John to go to the gym with her. Kai is reluctant, John agrees. Kai also agrees. They will meet in half an hou at the bus stop. Kate will bring Kai's shower gel. 
+Dialogue: Devon: little help!
+Xena: what happend?
+Devon: can't zip my dess :/
+Xena: ok, comming :)
+Summary: Xena will help Devon do her dress.
+Dialogue: Robert: Are you coming to Zoe's farewell party ?
+Jennifer: Yeah, I'm planning to come! Why RU asking?
+Robert: 'Cause we were thinking to buy her some nice gift
+Jennifer: What did you have in mind?
+Robert: Well she kept saying that her Kindle got broken
+Jennifer: That's a good idea! Count me in :)
+Robert: Awesome!
+Summary: Jennifer is coming to Zoe's farewell party. Robert and others were thinking of buying Zoe a gift. Zoe's Kindle broke recently. Jennifer will chip in for the gift. 
+Dialogue: Kasia: <file_photo> Do you like the make up?
+Lily: it's way to much
+Mel: I agree, Katya, it's not Russia or Poland :P
+Kasia: lol, you're mean
+Summary: Lily and Mel think Kasia put too much makeup.
+Dialogue: Eva: I bought a new dress
+Rosie: Ooo, send me a photo!
+Eva: Wait a sec
+Rosie: OK
+Eva: <file_photo>
+Rosie: Mmmmmmmmmmmm, nice!! were there other colors???
+Eva: Black&white
+Rosie: Where?
+Eva: Zara
+Rosie: Black&white…..!! :o
+Eva: but only small sizes
+Rosie: noooooooooo :(((((((((((
+Summary: Eva bought a new dress at Zara. Rosie is interested if there are different colours. There are black and white dresses but only small sizes.
+Dialogue: Henry: My wife is pregnant!
+Will: Congrats!
+Jacob: I'm sorry dude
+Jacob: I was also happy when my gf got pregnant
+Jacob: But now it's a nightmare
+Jacob: The baby cries all night
+Jacob: I don't have life
+Jacob: I'm tired all the time
+Jacob: And my sex life is non-existent :-(
+Summary: Henry's wife is pregnant. Will congratulates him. Jacob has a baby that cries all night. Jacob is tired and doesn't have any sex life.
+Dialogue: Emily: I hope you're not planning to cut my body into pieces today. I can't really take a day off
+Stuart: Haha, no something much more terrible!
+Emily: what is much more terrible?
+Stuart: dissecting your soul…
+Emily: Jesus, are you going to spoil me with stories about good books and philosophy? I'm scared.
+Stuart: You can expect an interview format ....
+Emily: Oh, ok. I am a recruiter, so you shall better prepare.
+Summary: Emily and Stuart are planning a meeting. Emily can't take a day off later.
+Dialogue: Juliet: Hey. I can't come today for the class. We can meet one day and practice our song
+Eva: Yes, don't worry, I won't come too
+Juliet: Hahah. Ok
+Summary: Neither Juliet nor Eva will come today for the class. They can meet some other day to practice their song.
+Dialogue: Hannah: I’m waiting for you downstairs
+Florence: I’m coming
+Hannah: Hurry up, I cannot park here
+Summary: Hannah is waiting for Florence downstairs and she wants her to hurry up as one cannot park here.
+Dialogue: Peter: hi guys? any news?
+Tim: LoL, you should have some news! have you talked to Josh finally?
+Peter: i talked to him this morning!
+Nick: great! and?
+Theresa: I hope he gave you a pay rise
+Peter: hmmm, yes and no
+Peter: he offered a rise but also a transfer to another office
+Theresa: what? in Toronto?
+Nick: it's anyway unfair after all what you have done for the company
+Peter: it's the new office in Angola
+Tim: oh wow, I didn't know they even recruit for Angola already
+Nick: but who would like it?
+Peter: I'm seriously considering it actually 
+Nick: is the rise big?
+Peter: it would be double my current salary
+Nick: wow, that's something
+Peter: and a course of Portuguese + an apartment in Luanda
+Nick: so they're trying hard to convince people
+Peter: I've never lived abroad, I'm curious
+Theresa: I see, we'd miss you
+Peter: I would miss you everything and everybody, but it's an adventure
+Summary: Josh offered Peter a big rise and a transfer to another office in Angola. Peter is seriously considering the offer.
+Dialogue: Jeremy: Shit
+Jeremy: My neighbour just got robbed
+Kate: What?
+Jeremy: Nobody was home
+Jeremy: 2 guys walked into their premises
+Jeremy: force-entered through back door
+Jeremy: Took the most obvious stuff and ran away
+Kate: Shit. How wicked.
+Kate: Hope they'll catch these fuckers.
+Jeremy: Me too. But it's doubtful...
+Kate: I'm sorry for their loss...
+Summary: Jeremy's neighbour got robbed. Two guys entered through the back door and stole the obvious stuff. Kate and Jeremy hope the robbers will get caught.
+Dialogue: Kate: Please make sure the kids won't be watching too much telly
+Peter: No worries, they won't
+Mary: <file_photo>
+Mary: We're having dinner, it's fine, don't worry :)
+Summary: Kate does not want the kids to watch too much television. Mary is having dinner.
+Dialogue: Chloe: <file_photo>
+Alice: no kidding!!
+Alice: What are you doing in my hometown?
+Chloe: I came to Nice for a conference
+Chloe: Are you around?
+Alice: I wish I were
+Alice: But I'm in Paris until the end of the month :-(
+Summary: Chloe came to Nice for a conference. Alice is in Paris until the end of the month.
+Dialogue: Edmund: Hi Erika
+Edmund: Just to remind you about the meeting today at 5
+Erika: Hi Edmund!
+Erika: Yes I'll be there, thanks for the reminder :)
+Edmund: See you later
+Summary: Edmund reminds Erika about the meeting today at 5. She will attend.
+Dialogue: Frances: I have that dictionary, let me know if you need it
+Frances: <file_photo>
+Agnes: wow great, yes I do need it just for a couple of days!
+Frances: I have a meeting next to your office today
+Agnes: what time?
+Frances: 1:30 pm
+Frances: but it's like 15 or 20 minutes
+Agnes: where exactly?
+Frances: I will come to your office when I finish
+Agnes: ok if its not a problem
+Frances: no problem at all
+Frances: I will call you 3min before
+Frances: lets meet downstairs
+Agnes: ok I have a meeting at 2:30
+Agnes: if you come later theres a reception downstairs and I can ask them to keep it for me
+Frances: ok but I'm pretty sure I can be there before 14:00
+Agnes: thanks a lot!
+Agnes: I think I can return it after the weekend, is that ok for you?
+Frances: sure, I dont think I need it next week
+Frances: I hope its useful
+Agnes: I just need all available sources for this project
+Agnes: so I'm very grateful... whatever works you know...
+Frances: maybe you should try to talk to Lucas, I believe he has some experience
+Agnes: yes but he's on holidays now, will be back next week
+Agnes: at least he will take a look and give his opinion
+Frances: ok have to leave now, seeya later
+Summary: Frances offers Agnes to bring a dictionary she needs as a source for the project to her office today. She has a meeting not far from it and will be there before 14:00. Agnes can keep the book for a week or longer. She will ask Lucas after he is back from holiday to give his opinion on the project.
+Dialogue: Fawn: so far i have these themes: Pirates, beach party (in december - I mean, it could be fun, right?), Casino and Hollywood
+Louis: I like the pirates idea 8)
+Fawn: yeah, but I'm worried that it's too simple :/ I mean... something tells me people wil be sick of talking like pirates after the first 10 min -_-
+Louis: i guess. hmmm... well what about combining two? you could have people pretending to be actors, directors ect. and let the party theme be set in a casino
+Fawn: that's... not a bad idea :)
+Fawn: And it actually fits with some of the motives i wrote down - like one of the characters is the niece/nephew of the victim, and they're incredibly spoilt and the vic cuts of there inheritance...
+Louis: giving them a motive! Not bad! Loooks like your murder mystery party is taking shape ;)
+Fawn: it's a painful process, but I'm working through it ;)
+Fawn: thank you so much for your help though - i really appreciate it!! i know your busy...
+Louis: hey, anything i can do for my favourite cousin ;)
+Fawn: ahem, your *only* cousin
+Louis: still doesn;t change the fact that you're my fav :)
+Fawn: why would it? i'm fabulous!
+Fawn: <file_gif>
+Louis: alright miss fabulous, lets get back to work - what else do you need help woth?
+Fawn: I want to give some kind of prizes at then end (you know - best actor/actress, best costume...), but i don't want it to be something cheap... :/
+Louis: Could go with food? I mean hear me out - why not have a goody bag with sweets and small gadgets? a pair of dice ect?
+Fawn: Tat could work :)
+Summary: Louis helps her cousin Fawn organizing her murder mystery party and deciding on its main theme - Pirates, beach party Casino or Hollywood.
+Dialogue: Taylor: Are you going for an exchange this year?
+Alex: no, I decided to stay here, it seems a bit pointless
+Jeff: I am going to Wales 
+James: to Wales?!
+Taylor: I didn't know there are universities in Wales
+Taylor: lol, joking, is it Cardiff?
+Jeff: no, Gwynedd
+James: a friend of mine was there, he really liked it
+Jeff: cool
+Summary: Jeff is going for an exchange to Gwynedd in Wales this year. A friend of James was there and he really liked it.
+Dialogue: Clara: I have an interview tomorrow!
+Sophie: Wow, congratulations! Where? :)
+Clara: PwC :D
+Monica: Well done! Fingers crossed!
+Clara: Yeah, but they’re quite strict when it comes to dress code and I don’t have anything formal to wear.
+Sophie: What size are you?
+Clara: 36, generally
+Sophie: Ok, I may have something for you. Will this jacket be all right?
+Sophie: <file_photo>
+Monica: It’s great! Just wear this, white t-shirt and you’re good to go!
+Clara: Looks amazing, will pop to yours to give it a try :)
+Summary: Clara has an interview in PwC tomorrow. She doesn't have anything formal to wear. She's size 36. Sophie will lend her a jacket. Clara will go to Sophie's place to try it.
+Dialogue: Melanie: My friend is 28 y/o and she still sleeps with her teddy bear
+Kate: That's weird...
+Melanie: Right? 
+Kate: Maybe she was molested when she was a kid...
+Melanie: Jesus Christ. Never thought of it that way...
+Summary: Kate finds it weird that Melanie's friend keeps sleeping with her teddy bear despite she's 28 years old. Kate suspects that the girl might have been molested as a child.
+Dialogue: Mary: Do you know where I can buy maple syrup?
+Anna: Try this little shop on Bakery Street.
+Mary: OK thanks
+Anna: : *
+Summary: Mary is looking for a shop where they sell maple syrup.
+Dialogue: Stan: Josh
+Josh: sup
+Stan: Are you at home right now?
+Josh: yup
+Stan: Could you go over to my desk and in the 2nd drawer from the top there should be a red folder. 
+Josh: Can't see any
+Stan: what about on the desk? Or other drawers?
+Josh: Still nothing. any other ideas?
+Stan: Shit. those shelves in the hall?
+Josh: give me a sec
+Josh: It was on the fridge, you dumbass
+Stan: phew, great thanks. There should be an application form inside. Could you give me the name and address of the recipient?
+Josh: You mean the Elaine lady?
+Stan: Yes
+Josh: K, here it goes <file_photo>
+Stan: thanks a bunch
+Summary: Josh was looking for Stan's red folder on Stan's desk, but it was on the fridge. Stan needs details from an application form inside it.
+Dialogue: Mona: I've bought a dress for the party!
+Lisa: show us!
+Mona: <file_photo>
+Gioconda: Wow, you look gorgeous!
+Lisa: Red is your color
+Gioconda: definitely
+Mona: Thanks!
+Mona: Im thinking which shoes to wear
+Lisa: I guess black stilettos! They suit every opportunity
+Mona: I hope so :P
+Summary: Mona has bought a dress for the party. Gioconda and Lisa think Mona looks great in red. Lisa suggests black stilettos as they suit every opportunity.
+Dialogue: Luke: yaaay, the last 2 students cancelled their lessons :D
+Luke: so i'll be on time!
+Lewis: haha free money again
+Lewis: great news of course :D
+Luke: yep <3
+Matthew: woohoo! can't wait to see you!
+Luke: same here guys <3
+Matthew: bring some coke
+Lewis: yeah if you could, we forgot to buy more and cba going down xd
+Luke: sure :P
+Summary: Luke will be on time and will bring some coke to the meeting with Lewis and Matthew.
+Dialogue: Mary: Hello. Im writing to let you know the cake you ordered is ready. Feel free to come and get it whenever you want.
+Fred: Thank you really much! I'm afraid though I won't be able to get it before friday. That a problem?
+Mary: Not at all. However, bear in mind we're only open till midday on Fridays. 
+Fred: Doesn't sound good. What about Saturday? Are you open??
+Mary: Absolutely. Also here till midday.
+Fred: great. So see you on Saturday.
+Summary: Fred's cake is ready. He cannot pick it up on Friday so he will do it on Saturday. The place is open until midday on Friday and Saturday.
+Dialogue: Martha: guess what! 
+Martha: I met Diana Collins today
+Luke: OMG, where?
+Martha: I was walking to the dry cleaner and we bumped into each other
+Luke: so how is she doing nowadays?
+Luke: is she still pretty?:D
+Martha: well she looked really tired
+Martha: it turned out she had 4 children!
+Luke: wow!
+Martha: yeah, 3 girls and a boy
+Luke: that sounds like a lot of work!
+Martha: surely it is, and her husband is a sailor, can u imagine?
+Martha: so she is almost all alone all the time
+Luke: <file_gif>
+Martha: but otherwise she was all nice and friendly, as she used to be
+Summary: Martha met Diana Collins today. Diana has 4 children and her husband is a sailor. She is as nice and friendly as she used to be. 
+Dialogue: Cody: Hey man, wazzup? 
+Raven: Cool. I got A from the English test
+Cody: You’re full of shit, man
+Raven: I’m not, mate
+Cody: You’re a flake
+Summary: Raven got an A from an English test.
+Dialogue: Luke: BTW I wish you'd gone out with us yesterday!!! we had a blast!!
+Mark: man, I wanted to but I'm totally swamped at work
+Leila: maybe if I had gotten the invitation, I would ve...
+Alex: sorry I missed it :( what did you do?
+Luke: we went to the new game bar. They every possible game you can imagine. Nanners!
+Alex: ohh I think I know which one you're talking about, I went there last week with Jason and his friends, played D&D lol, like when we were kids
+Luke: Leila: I posted on fb we were going...
+Mark: you play D&D? what a nerd! 
+Alex: whatever, Mark, you probably smashed mailboxes with a baseball bat!
+Mark: something like that... I don't do it anymore though
+Luke: I would hope not... you're almost 30 haha
+Leila: ohh I don't get on fb that often... next time you go, just text me, ok? I really would like to go
+Luke: no worries, will do!
+Mark: I just hope my kids don't follow my footsteps
+Alex: haha, I'm sure they will. Looking forward to the time when you tell us your little cute Iggie did that and you have to scold him!
+Summary: Luke and his friends went to a new game bar yesterday and had good fun. Mark couldn't join because he was busy. Leila didn't read the fb info about going out and Alex also missed the meeting. Alex had already been there last week with Jason and friends and played D&D. 
+Dialogue: Frank: I have an idea
+Frank: And I think you'll love it
+Susy: Sushi?
+Frank: Yup.
+Susy: Hurray!!! 
+Susy: <file_gif> 
+Summary: Frank and Susy will get sushi, which makes Susy happy.
+Dialogue: Rihanna: Wanna meet up for a coffee?
+Beyonce: when, now?
+Rihanna: why not? 7 at Starbucks centre?
+Beyonce: Im in!
+Madonna: I'll be there too! see ya Ladies! :)
+Summary: Rihanna, Madonna and Beyonce are meeting for coffee at Starbucks centre at 7.
+Dialogue: Bob: Hi, this is Bob, I'm Fiona's husband.
+Barbara: Hi Bob
+Bob: Fiona asked me to let you know that she will be a little late to the PTA meeting.
+Barbara: No problem, I'll let the rest know. Thanks Bob
+Summary: Bob informed Barbara that Fiona will come to the PTA meeting a bit later.
+Dialogue: Tom: Did you take the dog to the vet
+Ralph: yes
+Tom: ok
+Summary: Ralph took the dog to the vet. 
+Dialogue: Paula: I need a cleaner, can you recommend someone?
+Olivier: I never had a cleaner... 
+Olivier: Sorry I can't help
+Irene: Me neither... but I can ask some friends
+Paula: I need someone to come to me once a week
+Paula: If you could ask around I would be grateful
+Irene: OK  
+Summary: Paula needs a cleaner who would come to her once a week. Irene and Olivier will ask around for someone recommendable.
+Dialogue: Max: Hi everyone! Here's the restaurant that I chose: <file_other> 
+David: Hi there! Looks great!
+Irene: Nice, I'm a big fan of Hungarian cuisine.
+Jenny: Oh, I've heard about this place!
+David: Yeah, they have good ratings.
+Irene: My friends went there last w/e. They mentioned that the menu was really diverse.
+Max: It looks like they have many options, for meat lovers and vegetarians.
+Max: Check it out: <file_photo> 
+Jenny: Wow! This menu is wonderful, finally more possibilities for vegetarians like me :)
+David: Apparently after 8pm they also have karaoke!
+Irene: OMG, get ready for David's greatest hits! I have to listen to them when he showers.
+David: TMI Honey.
+Jenny: LOL, I luv you guys! 
+Jenny: Can't wait for us to finally hang out. :)
+Max: So we're all set. I made the reservation for Saturday, at 4pm.
+David: Irene and I might be a few minutes late. We have to drop the kids off at the in-laws.
+Jenny: No worries. See you there!
+Summary: Max, David, Irene and Jenny are meeting in a Hungarian restaurant on Saturday ar 4pm. The restaurant has a really diverse menu with a lot of options for vegeratians. After 8pm there's karaoke.
+Dialogue: Ula: Ho Doty!
+Dorothy: Hi, what's up?
+Ula: Have u got any experience in working with pregnant women? 
+Dorothy: Yes, a bit. 
+Ula: Can you send me any links to valuable advice? Blogs etc. 
+Dorothy: Sure. I'll dig sth out. 
+Ula: One of my clients is pregnant and I'm not sure which exercices she should do. 
+Dorothy: Basicly, she'll have problems with lying on her belly. 
+Ula: Yes, I understand that. 
+Dorothy: And she shouldn't do too much cardio. 
+Dorothy: But all mobolity exercices, especially with pelvis mobility are recommended. 
+Dorothy: All sore of pilates or pilates inspired exercices. 
+Ula: OK, I get the picture. 
+Dorothy: I'll send you some links later. 
+Ula: Okey.
+Ula: Thank you very much!
+Ula: I wouldn't like her to hurt herself. 
+Ula: And she's an active person, so she'll keep on doing sports. 
+Dorothy: I understant :)
+Summary: Ula wants to make sure she provides proper exercises for one of her clients who's pregnant. Dorothy will send Ula links to valuable advice.
+Dialogue: Aimee: hey!
+Chloe: heyy its so good to hear from you :)
+Aimee: so when are we getting that lunch that we've been supposed to have for months!?
+Chloe: thanks for reminding me!
+Chloe: i'm so busy at work these days
+Chloe: but let's try to make it work somehow...
+Aimee: i can do any day tbh
+Chloe: alright, let me check my schedule
+Chloe: <file_gif>
+Chloe: yay, i think i could go on wed
+Chloe: what do you say?
+Aimee: alright! what hour?
+Chloe: let's say 1pm
+Aimee: got it
+Aimee: i'll meet you by the door and let's go eat something tasty!
+Chloe: see u!
+Summary: Chloe and Aimee are going to have lunch together on Wednesday, 1 pm. Aimee will meet Chloe by the door. They have been supposed to meet for months, but Chloe was very busy at work.
+Dialogue: Amy: How about we go to Spoons later?
+Helen: I can't. I'm stuck with my First Year Report.
+Anne: OMG me too... 
+Amy: Me too but I feel like chilling
+Oli: I'm in!
+Deborah: Count me in!
+Amy: Cool so there are 3 of us. Anyone else wants to join?
+Adrienne: Me... but later, I'm entering my supervision now.
+Amy: Good luck xxx
+Adrienne: Thanks, I'll text you when I'm done
+Amy: How about we meet at 5?
+Oli: 5:30? :)
+Amy: Ok
+Deborah: ok! see you later mates
+Summary: Amy, Helen, Oli, Deborah and Anne want to go to Spoons at 5:30. Adrienne will join them later when she's done.
+Dialogue: Laura: Hey Kev, I'm planning to go to London in February! Will you still be there?!
+Kevin: Sure! When exactly in February?
+Laura: 11-17
+Kevin: That's perfect! I happen to know that Tess is also coming to London around this time :)
+Laura: We could have some cosy reunion then, what do you think?
+Kevin: I'm in! You are also welcome to stay at my place, I have one spare room :D
+Summary: Laura is coming to London on 11-17 February. Tess is coming around the same time. Kevin offered Laura to stay at his place.
+Dialogue: Uncle Billy: Your scissors came in the post today, your funny scissors.
+Abbie: They're mom's. For the cats' claws.
+Uncle Billy: That's a relief.
+Abbie: Why?
+Uncle Billy: I thought you were planning to trim my nose hairs.
+Summary: Mom's scissors for the cat's claws have arrived today.
+Dialogue: Ollie: babe what do you want for your bday? because we have been wondering but we don't wanna fuck up
+Megan: oh geez but it will ruin the surprise then
+Helen: Megan please give us some advice
+Megan: i guess a plant would be nice
+Megan: or some kawaii pens or stationery
+Ollie: and how about books?
+Megan: ebooks if anything tbh I'm decluttering
+Helen: ok
+Ollie: okay
+Summary: Megan would like to get a plant, some kawaii pens or stationery, or ebooks for her birthday.
+Dialogue: Ryan: so are you coming for the night?
+Oliver: hi
+Oliver: ok
+Oliver: what time?
+Ryan: hmm
+Ryan: 9pm maybe? :D or it's too late? we'll have a couple of drinks :D
+Oliver: hahaha ok. 9pm is good
+Oliver: i'll go to the gym before
+Ryan: good!
+Ryan: don't forget to take everything!
+Oliver: yeah
+Oliver: at what time do we leave?
+Ryan: the flight is at 7am
+Ryan: so 5:30am at the airport?
+Oliver: yeah that's good
+Ryan: so we're leaving at 4:30-4:45am i guess
+Ryan: alarm at 3:30am XD
+Oliver: omg
+Oliver: yes
+Ryan: crazy
+Ryan: oh well it's fine xd
+Oliver: yes
+Ryan: see you at 9pm then!
+Oliver: see you :D
+Summary: Ryan and Oliver are going to meet at 9pm. They will leave for the airport around 4:30.
+Dialogue: Seth: Hey! I'm having some problems with my PC, can you guys help me out?
+Rory: Sure. What's going on?
+Albert: yeah what's up?
+Seth: It doesn't work. XD
+Albert: xd
+Rory: Well, does it turn on? Does it make a BEEP sound like normal?
+Seth: Yeah it turns on, I can hear the fans, but it doesn't beep as usual :(.
+Albert: does it make many beeps?
+Seth: No, it doesn't beep at all :/.
+Rory: Hmm... If it doesn't beep at all with the information about what's wrong with it take a look inside at the motherboard.
+Rory: There should be some lights.
+Seth: Ok...
+Seth: Some lights blink in some order and then it stops at DRAM.
+Albert: not good...
+Rory: So it's having some problems with the memory. Try reseating the memory sticks (turn it off first!).
+Albert: yeah, maybe they moved a little in the slot
+Albert: also try different combinations of slots
+Seth: Ok! I'll try some things and let you know!
+Summary: Seth's PC doesn't work so he needs help. Rory suggests resetting the memory sticks. Albert suggests trying different combinations of slots.
+Dialogue: Fran: <file_photo>
+Fran: Check out my new jacket!!
+Brianna: Niiiice!!
+Brianna: Out on a shopping spree? 😜
+Fran: Yessss 💖
+Brianna: Are we going to organise a picnic soon? 
+Brianna: Maybe in February?
+Fran: Yes that would be great, we could go to that place we went to last year
+Brianna: Yes that was a brilliant area, amazing view too!
+Fran: 😁😁
+Summary: Fran bought a nice jacket. Brianna and Fran are going to have a picnic in February in the same place they went to last year. 
+Dialogue: Judy: I'm in front Jason's house
+Judy: Which apartment is his?
+Heather: Number 7
+Lola: We are all already here!
+Summary: Heather and Lola are waiting for Judy at Jason's apartment no 7.
+Dialogue: Marisa: did someone delete the ppt presentations that were in our inbox?
+Luke: i was about to ask you the same. can't find it nowhere
+Austin: what presentations
+Marisa: Lopez sent it like 3 weeks ago
+Emilia: hey the test is tomorrow, right?
+Marisa: yes Em, that's why i'm trying to find these fucking presentations
+Emilia: shit, i wanted to download them today
+Luke: well, now you can't
+Austin: do you guys have those emails forwarded to your private address
+Marisa: good question. I think some dum-dum deleted them from their own account
+Luke: news flash - when ya delete smth from your private inbox, it also gest deleted from our group inbox
+Emilia: no shit guys... I know that
+Marisa: yeah but someone maybe did not
+Doug: omg overreacting much? i've checked trash and it's still there
+Marisa: yeah but why do we have to rescue it from trash, just don't be an idiot in the first place
+Doug: jeeeez, calm down Marisa
+Luke: wellll she's kinda right, we sometimes empty he trash folder coz it takes up the cloud storage
+Emilia: ok, good thing we have those emails at all
+Marisa: i think I know who did this
+Emilia: i don't fucking care tbh
+Doug: whoever did this, just remember not to delete anything forwarded please
+Summary: Marisa, Luke, Austin, Emilia and Doug have a test tomorrow. Lopez sent the presentations 3 weeks ago and they were found in the trash folder. Next time they should remember not to delete forwarded emails from their private inboxes.
+Dialogue: Sarah: Can I have your notes at this weekend?
+Luke: But, I have already given it to Tancredi
+Sarah: I would wait in that case :/
+Summary: Sarah wants to borrow Luke's notes for the weekend, but he's already given them to Tancredi. 
+Dialogue: Kris: Anyone started writing this long paper for McMillan?
+Alex: I did, but it’s so painful
+Mindy: What you’re talking about? Mine is easy peasy
+Alex: Wha? What are you writing about?
+Mindy: My Sales Assistant experiences
+Kris: Well, that’s so smart, but I didn’t do anything like this so gotta make things up
+Kris: Really? You’re writing about your own work experience? But that’s biased
+Mindy: Well, better than looking for some profession representatives and try from scratch, of course I’m gonna talk to my former colleagues 
+Alex: That’s a good way out of this
+Summary: Kris is struggling with a paper for McMillan, and so does Alex. On the other hand, Mindy finds it easy as she writes about her own work experience. 
+Dialogue: Raghav: Can you please slow down the volume of the television?
+Purvi: Just a second, here I did.
+Raghav: Thanks dear.
+Summary: Raghav wants Purvi to turn the TV down.
+Dialogue: Carol: do you ever shop online?
+Michelle: yes I do!
+Carol: i just got a sweater and i think it may be too big
+Michelle: buying clothes online is always a risk
+Carol: i know!!! i'm having buyer's remorse.
+Michelle: lol
+Carol: what if it's too loose?
+Michelle: you can always return it
+Carol: that sounds like a big hassle
+Michelle: it is a hassle, i've had to do it a couple of times
+Carol: i shouldn't have ordered it!!!
+Michelle: if it's too big you can always run it on the dryer and it'll shrink
+Carol: wow, that's true! you're a genius
+Michelle: I sure am
+Summary: Carol can shrink the oversize sweater in the dryer instead of returning it.
+Dialogue: Hady: When are you up in the air?
+Dan: Next Wednesday.
+Dan: When are you back?
+Hady: Not before this weekend.
+Dan: So a slim chance we'll meet?
+Hady: I'm afraid so. Really pity.
+Dan: So when we are back next month. You are at home, aren't you?
+Hady: Yes, till the end of the year. We're in touch anyway. Enjoy your holidays!
+Dan: We will. Take care!
+Summary: Dan will be back in the air next Wednesday and is not coming back before the weekend. He will meet with Hady next month.
+Dialogue: Sam: Hi. Can you send me the password to the newspaper subscription?
+Allie: Ok. You should have t it on your e-mail.
+Sam: Thanks. How long is the subscription still valid?
+Allie: Until the end of the year.
+Sam: Good. Will we renew it?
+Allie: If Jim says so.
+Sam: Is it that expensive that he may be worried about our expenses?
+Allie: Well, you know how it is. Costs are costs. Even if they are negligible.
+Sam: I know what you mean. Every penny matters.
+Allie: I'll broach the issue at the next meeting.
+Sam: It would be great. Thanks for the password. Cheers!
+Allie: Bye
+Summary: Allie sends the newspaper subscription password on Sam's e-mail. The subscription is valid until the end of the year. The renewal of the subscription depends on Jim. Allie will bring up this topic at the next meeting. 
+Dialogue: Callie: check this out <3
+Callie: <file_other>
+Elena: gorge!! <3 <3 <3
+Elena: what's this?
+Elena: did you do it yourself?
+Callie: it's a bullet journal :) no, of course not
+Callie: but i wish i could draw like that :D
+Elena: should i know what it is? it's not a regular journal, is it?
+Callie: it's a journal which is meant to increase your productivity (it has a different structure than a typical journal and you can customize it to your needs)
+Callie: for some people it's a diary and creative outlet in one
+Callie: i looove watching yt videos about bullet journaling, they're so aesthetically pleasing <3
+Elena: hmm maybe i'll give it a go? looks like a great pastime ;)
+Callie: you should! i've been keeping a bullet journal for a year now and i'm in love
+Callie: it's really helped me to gain control of my finances
+Elena: ooo i could use some help in that department too...:)
+Summary: Callie made a bullet journal. She's been keeping a bullet journal for a year.
+Dialogue: Carmen: Have you seen "Kler"? This movie about the clergy and their scams.
+Jennifer: heard of it, but haven't seen it. Have you seen it?
+Carmen: yeah, I went to the cinema yesterday with Joseph
+Jennifer: and how was it?
+Carmen: it's as controversial as they say, but there is a lot of truth in it. Not in the entire film of course, but still...
+Jennifer: what do you mean by controversial?
+Carmen: well...it discusses some uncomfortable matters which the clergy are often being accused of, and which some people are often trying to obscure
+Jennifer: I understand...but I don't think I'll watch it, I'd rather watch something funny and pleasant instead of pissing myself off and paying for it
+Carmen: I get it, but if you change your mind, you'll not regret it. It might be a heavy piece of work but it definitely forces to rethink some matters and be more careful when it comes to the real life.
+Jennifer: I'll keep your suggestion in mind. How are you, btw?
+Carmen: I'm quite ok, just chilling right now. Tomorrrow I'm going to university and later to work, I don't know how I'm gonna survive this :/
+Jennifer: you will, we can meet later and chill a little bit, if you want.
+Carmen: If I won't be dead, then with pleasure. I guess we spent an evening together like ages ago :/
+Jennifer: that's how being adult looks like :P no time for anything, even for sleeping
+Carmen: I think a good shopping will wake me up. Wanna go? maybe not tomorrow, but this week
+Jennifer: sure, do you have anything particular in mind?
+Carmen: Well, I was thinking of a new lipstick and of some dress, as always
+Jennifer: Actually I need a lipstick too, sephora?
+Carmen: might be sephora, but there are 3 other places we can visit to see what they have
+Jennifer: sure, we'll see. Hm... I also need a notebook
+Carmen: a notebook?
+Jennifer: yeah, like a paper one xD you won't believe it but my dog ate the old one
+Carmen: nigga what xDDDD
+Jennifer: yeah, he just literally chewed it looking me in the eye
+Carmen: hell no ahahahahahahah I just died
+Jennifer: yeah....just regret you haven't seen it, no vine could ever beat it xD
+Carmen: geez, I'm crying xD sorry but I couldn't stop it
+Jennifer: no problem, now I'm crying too xDDD
+Summary: Carmen went to the cinema with Joseph to see ''Kler''. Carmen thinks it is controversial but true and worth seeing but Jennifer prefers funny films. Carmen is going to university and then to work tomorrow. Jennifer suggests shopping later. Carmen agrees to go this week except for tomorrow.
+Dialogue: Jane: your mums losing it
+Den: why you say that?
+Jane: she just text me about crying over this morning?
+Den: what did she do this morning?
+Jane: no the telly program with phil and holly
+Den: oh right y?
+Jane: some baby reveal😂
+Den: I'm confused
+Jane: I think she needs to get out of the house more:
+Den: invite her for tea on Friday I'll bring fish and chips home after work
+Jane: thats a good idea x
+Summary: Den's mother isn't in good mental condition, she cried this morning. Jane recommends she should get out more and agrees to invite her for tea on Friday.
+Dialogue: Herby: how are you?
+Ginevra: fine
+Herby: you look nice
+Ginevra: thanks ;)
+Herby: dinner tonight?
+Ginevra: lol no
+Summary: Ginevra doesn't want to eat dinner tonight with Herby.
+Dialogue: Michael: Hi, just so you know, I've just got home, I'll let you know when I'm leaving. 
+Tracy: Ok, cool, do whatever you need to do and I'm ready as you are.
+Michael: I think I'll take the bus at around 7 pm, so I'm at your place at 7:30 pm. 
+Tracy: Sounds fine! Any ideas what to do later tonight?
+Michael: I'll text Josh, maybe he can join for a drink?
+Tracy: Oh, I haven't seen him for ages, that'd be so cool! 
+Michael: Texting him right away! 
+Tracy: Shall we go to the new dive bar they've just opened up near the big park?
+Michael: Why not, we can try it out! I'm dying to have a good G&T after this tough week! 
+Tracy: I wouldn't mind a drink either! 
+Michael: Ok, let me take a shower, fix some things here and I'll keep you posted!
+Tracy: Sure! See you soon! 
+Michael: Josh has replied! He'll come over! 
+Tracy: Fantastic! Tell him I'm really looking forward to seeing him! And you of course!
+Summary: Michael just got home. He will get ready and take the 7 pm bus and be at Tracy's at 7.30. Josh, Michael, and Tracy will go to the new dive bar tonight to have drinks.
+Dialogue: Grayson: What do you think, should I shave my head?
+Gregory: what?
+Halbert: you've got a great hair though...
+Grayson: I'm tired of washing it and then drying...... it takes a lot of time....
+Gregory: If you really want, why not
+Grayson: I will do that, hope you will recognize me ;p
+Summary: Grayson is going to shave his head.
+Dialogue: Jill: Hey, I've recently cleaned up my closet and have lots of clothes to give away. Interested? :)  
+Hillary: Totally. When can I come over?
+Sonia: Me too. 
+Jill: I'm available Wednesday afternoon around 6 PM.
+Hillary: I have a yoga class at that time. Would the evening be ok?
+Jill: I'm going to a concert with Paul later so not really. What about Thursday? Same time?
+Hillary: ok for me. 
+Jill: Sonia?
+Sonia: I finish my classes at 6:30 so I'd be at your house maybe 40 minutes later if that's ok. 
+Jill: we can meet at 7:30  if it's okay for you both. 
+Hillary:  it's ok
+Sonia: perfect, thank you :)
+Jill: See ya Thursday! 
+Summary: Jill has clothes to give away. Sonia and Hillary will come to hers on Thursday at 7:30.
+Dialogue: Mark: Finally, some decision!
+Anna: So, what's next?
+George: Yeah, Mark, make us an offer we can't refuse :P
+Mark: Rotfl Stahp it!
+Anna: Lol
+Julia: brb
+Mark: Let's talk about when!
+Anna: June?
+George: I can't in June. Have a lot of work then. July maybe?
+Anna: July is fine by me.
+Mark: Me too. Bt let's w8 4 Anna.
+Anna: back. What did I miss?
+Mark: Were talking bout the when. How about July?
+Anna: Sure. The first or the second half?
+George: First
+Anna: Second
+Mark: Second
+Anna: Pickle.
+Mark: Come to the dark side, Anna. ;)
+Julia: No, Anna! Remember - solidarity of women! :P
+Anna: (angry sigh)
+Mark: And so it begins ;)
+Anna: Let's compromise - 2nd and 3rd week of July?
+Mark: Fine by me.
+George: Me too.
+Julia: Likewise.
+Summary: Mark, Anna, George and Julia agreed on second and third week of July.
+Dialogue: Marie: Hello, i can order the Egyptian princess and the Aphrodite outfits for us. There is  one Centurion and one  gladiator or two romans. I didn't find other outfits. Is it ok for you?
+Sophie: Guy said "anyway, we'll look silly", so it's up to you.
+Marie: are you sure that Anne and Benoit are not  joining us?
+Sophie: yes, only the four of us
+Marie: ok. In this case we could order the 2 romans. Guy and Paul would be alike.
+Sophie: good.
+Marie: <file_photo>
+Marie: for confirmation. That are the romans one that i'll order?
+Sophie: yes thanks. Are you also ordering ours?
+Marie:  yes, it's easier. Which size L ou XL for Guy?
+Sophie: L is fine. And M for me
+Marie: there is only one size for women. Don't eat too much  before the party...
+Sophie: we'll be perfect
+Marie:  shall we take the  helmet for our men? It's not included?
+Sophie: no; they'll look stupid enough without helmet
+Marie:  you're right, it's enough
+Sophie: but we need shoes...
+Marie: Princesses won't go bare foot....lol
+Sophie: I don't have golden sandals!
+Marie: what's your size?
+Sophie: 39
+Marie: i must have  some for you
+Marie: <file_other>
+Sophie: are you opening a shop for branded shoes? 
+Marie: LOL... i love shoes
+Sophie: i see. thanks l'll come and try some when outfits would be deliver
+Marie: ok . I take care of everything
+Summary: Marie will order the Egyptian princess and the Aphrodite outfits for her and Sophie and two Romans for Guy and Paul. Guy needs size L. There is only one size for women. Marie has golden sandals size 39 for Sophie, who will come and try them on when the costumes are delivered.
+Dialogue: Tom: I've heard that there's going to be displayed a new musical with Frank Sinatra songs. Do you want to come with me?
+Sandra: I'm sorry, but my schedule is full. I've got to work
+Sandra: I have so many assignments that I barely have some time for myself
+Tom: Won't you have just one free evening?
+Sandra: I'll check and let you know, ok?
+Tom: sure thing
+Summary: Sandra is very busy at work, but she will check her schedule and let Tom know if she can go to the new musical with him.
+Dialogue: Henry: I did some research guys, we need around 2-3000$ for two weeks to fully enjoy the experience
+Jane: Ok, sounds reasonable
+Karen: Have you found any place to stay?
+Henry: We have a few options: Airbnb, hotels/hostels and couchsurfing
+Henry: Unless you guys have friends in the US or some family ;)
+Karen: I do, but in Ohio ;/
+Peter: yeah, a trip to the most boring state - sounds exciting :D
+Henry: ok, so Airbnb it is. We may have a problem with finding a couchsurfer willing to accommodate 5 people
+Karen: Is Daniel going as well?
+Henry: think so?
+Jane: It may be tough to find airbnb, but we may try
+Peter: I looked already: <file_other>, <file_other>, <file_other>
+Karen: Thanks! Have you looked for something in LA? The second option sounds good
+Henry: LA may be more expensive than San Francisco
+Jane: Hm, SF's quite pricey as well. Not the cheapest coast ;)
+Henry: Ok, so let's look for flats/houses in the cities we want to stay and prepare a list
+Henry: Then, we'll choose
+Daniel: hi guys! What do you want to see?
+Peter: Grand Canyon for sure, apart from LA, SF and LAS VEGAS
+Karen: I'd love to see Yosemite
+Henry: I'm more focused on the cities and the nature
+Daniel: <file_photo>
+Daniel: This is sequoia forest, can we go there as well? And Monterey? I thin it's not very far away from Grand Canyon or Yosemite
+Karen: Sure, looks cool!
+Peter: I can't see why not ;) I'm already excited
+Daniel: when are we going? September?
+Henry: yes, I already set a reminder on cheap flights
+Summary: Henry estimates he, Jane, Karen, Henry, Peter and Daniel will need around 2-3000$ for two weeks. They will stay at Airbnb. They want to see the Grand Canyon, Los Angeles, San Francisco, Las Vegas, Yosemite, a sequoia forest and Monterey. They'll go in September. 

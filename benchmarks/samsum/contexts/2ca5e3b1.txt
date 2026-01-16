@@ -1,0 +1,631 @@
+Dialogue: Patrick: Hey there, are you going to the cinema this weekend?
+Joan: Sure thing
+Joan: I wanna watch Bohemian Rhapsody. What do u think about it?
+Patrick: Perfect, I love Queen
+Patrick: I heard that it's a great biopic
+Joan: :)
+Summary: Joan is going to the cinema this weekend to see Bohemian Rhapsody.
+Dialogue: Ben: Have you seen the newest Simpsons episode?
+Tim: no
+Tim: NO SPOILERS
+Ben: fine...
+Ben: it's a good one
+Tim: SHUT UP
+Tim: NOT A FUCKING WORD!
+Ben: fine
+Summary: Ben saw last episode of the Simpsons.
+Dialogue: Liz: shit, I forgot to pay that invoice
+Liz: what do I do now?
+Tim: what invoice?
+Liz: gas
+Tim: pay it asap and call them
+Liz: ok
+Summary: Liz forgot to pay the gas invoice.
+Dialogue: Dave: Larry, where are you?
+Lisa: We're waiting! All seated and all!
+Larry: On our way
+Patrick: We've been waiting for an hour! Hurry up, I'm starving
+Larry: you're an hour early then
+Patrick: You said 6 and it's 5.48 exactly...
+Denise: We're parking right now, are Larry and Jackie already there??
+Lisa: not yet. on their way, apparently
+Larry: 5 min
+Patrick: so another hour then...
+Dave: Patrick <file_gif>
+Larry: Get some drinks guys, last two light and we're there
+Lisa: we're having margaritas! ready for a merry night
+Larry: walking in. be ready
+Summary: Larry is getting late for the meeting.
+Dialogue: Anne: Could anybody tell me in which room Elena works?
+David: I know it's the 2nd floor, not sure about the room
+Sean: 221!
+Anne: thanks!
+Sean: ;)
+Summary: Elena works on the second floor in the room number 221.
+Dialogue: Steve: Hey bro
+Steve: What time is the exam?
+Jonathan: Are you on drugs or something😂😂
+Jonathan: Tomorrow is a public holiday
+Steve: Ooh I forgot😂
+Steve: But I took tequila on my way home
+Jonathan: Haha! I knew.
+Jonathan: But you should have invited me too.
+Steve: Sorry Bro next time.
+Jonathan: Cool.
+Summary: Steve has forgotten that tomorrow is a public holiday. Jonathan suggests Steve's judgement is temporarily impaired. Steve took some tequila on his way home.
+Dialogue: Ed: Hey, are you guys going to make it on Sunday?
+Marie: Hi! No :( We're sorry but we have a wedding on Saturday and we won't be back before sunday afternoon.
+Ed: Really? :( What time are you coming back?
+Marie: No idea... depends on the traffic
+Ed: Who's driving? 
+Marie: Me :)
+Ed: Okay... if you get home before 3pm you can still join us. Hannah would be happy!
+Marie: I know... I'd love to see her, we miss her a lot. I'll call you on Sunday ok?
+Ed: SUre. Hope you'll join us! Have fun at the wedding!
+Marie: Thanks. We'll keep in touch :*
+Summary: Marie is going to a wedding on Saturday. Ed and Hannah would love Marie to join them if she gets home on Sunday before 3pm. Marie will call Ed on Sunday.
+Dialogue: Veronica: hello :) how do you feel about a meeting this friday, around 6pm?
+Megan: sounds good, I'm free on Friday ;)
+Veronica: can you recommend any place in your neighbourhood?
+Megan: there's a variety of bars in the Down Street, we can go there together and pick one as we go
+Veronica: do you know any place where they serve Negroni?
+Megan: I've got no idea, but if you know one we can change the location
+Veronica: I'll ask the rest of the girls
+Megan: okay, let me know :*
+Veronica: change of plans, can we meet next friday instead? Kate is out :(
+Megan: I think that works for me too
+Veronica: awesome! It's gonna be so much fun! :)
+Megan: yeah! I can't wait to see you all <3
+Veronica: see you then :*
+Megan: see you :*
+Summary: Veronica and Megan postpone their meeting with other girls till next Friday because Kate is unavailable this Friday. There is variety of bars in Down Street. Megan does not know where Negroni is served.
+Dialogue: Bob: Dear friends! For those who don’t know, Nancy and I are moving to Spain. We off in a week! 
+Kelly: good luck! X
+Joanna: all the best! keep posting!
+Kim: Congratulations.. I guess ;)
+Emma: Wow! Sounds like constant holiday!
+Jo: keep us updated! good luck guys!
+Andy: can't wait to visit! ;)
+Bob: you're more than welcome to visit ;)
+Andy: cheers mate! hope the move goes well
+Helen: How exciting! oh, i wish you could take me with you!
+Steven: enjoy your new life! we're gonna miss you! 
+Marisa: looking forward to hearing all about it! x 
+Summary: Bob and Nancy are moving to Spain in a week. 
+Dialogue: Tim: So I think it's time to start preparing our presentation.
+Samantha: Agreed. I've actually already done some research on natural selection. Just basic stuff like wikipedia but it cites some more serious sources. 
+Tim: ok, great. Do you want to focus on anything in particular? Because how are we dividing this project?
+Samantha: I think I'd like to talk about the history of the concept - like what was before Darwin and then about his idea in the "origin of species" 
+Tim: I've actually just finished reading the selfish gene by Dawkins and I would like to incorporate some of the stuff from the book. 
+Samantha: Oh cool, was it good?
+Tim: Great even. I've always thought it's a shame that he's mostly known as the chief atheist when he's really a brilliant biologist. 
+Samantha: I've always kinda associated Dawkins with the atheist stuff tbh I've only recently found out about his scientific work
+Tim: Yeah, many people do that and it's a shame. You know that he coined the term meme?
+Samantha: oh cool, i had no idea. 
+Tim: so it would be great to talk about he's ideas in the presentation 
+Tim: *his
+Samantha: sure, you can talk about the modern understanding of natural selection and include Dawkins there 
+Tim: So I would give like the modern definition of it
+Samantha: Yeah, seems like it. If you want. 
+Tim: sure, can do that. What else do we need? 
+Samantha: So we have - the history, the actual modern definition... maybe the evidence? We could mention like... you know, all the things they've dug up ;) 
+Tim: yes, the fossils and all that. 
+Tim: That's a good idea. And then maybe why it's important? Like how it changed science?
+Samantha: oh, that would be good - why it matters when it comes to our understanding of humanity's development, origin etc. 
+Samantha: So you wanna take that part?
+Tim: Yeah, could be interesting. 
+Samantha: So I'll take the evidence part. 
+Tim: Great. It seems evenly divided. 
+Samantha: Think so too. Btw are we making a power point or using some other software?
+Tim: I was thinking Prezi it's much nicer. 
+Samantha: Heard of it, but I think I've never used it.
+Tim: It's super easy, I'll show you when we meet. 
+Samantha: ok cool  
+Summary: Tim and Samantha are making a presentation on natural selection. Samantha will focus on the history of the concept and the evidence. Tim will focus on the modern definiton, including stuff from Dawkins' book, and why it matters to the humanity. The presentation will be in Prezi.
+Dialogue: Alex: Happy birthday my friend!
+Kate: Thx! :*
+Kate: I'm so surprised that u remember bout this!
+Summary: Kate has a birthday.
+Dialogue: Mike: Did you watch Juventus yesteday?
+Annie: Nope
+Mike: I thought your Italian boyfriend turned into a fan
+Annie: Well, he kind of did
+Mike: So why didn't you watch the match?
+Annie: Because, you know, I dumped him
+Mike: Whaaaaaaaaaaat?!? When? Why?
+Annie: Oh come on, Pietro was a prick
+Mike: Actually I thought you were some kind of perfect couple
+Annie: Yeah, right... nope, he was an asshole
+Mike: I'm really confused now
+Annie: Yep, after the first couple of months he became unbeararable
+Mike: Why? I would have never imagined that
+Annie: Well, we were good at pretending
+Mike: Damn, I'm sorry
+Annie: He's a really awful guy
+Mike: But did he do something bad? I mean...
+Annie: Yep, he did one awful thing
+Mike: And what was that?
+Annie: He saw his girlfriend's messenger was open and wrote some fake messages to Mike to troll him XD
+Mike: What? :O
+Annie: I trolled you hard, Mikey! Lol
+Mike: Wtf... Pietro?
+Annie: Yeah, it's me XD And by the way Annie and I are the perfect couple indeed
+Mike: Shit
+Annie: And she loved watching the match with me
+Mike: Ok XD But you're still a douchebag XD
+Annie: Only to my best bros XD
+Summary: Pietro fooled Mike into believing he broke up with Annie. Pietro and Annie watched Juventus match yesterday.
+Dialogue: Tom: Have you seen my keys?
+Ann: I think you left them on the table in the kitchen
+Tom: no, I am sure they were not there
+Ann: Have you checked your backpack, pockets
+Tom: sure, I have
+Ann: oh no, would you loose them?
+Tom: i hope not, I'll ask my colleagues 
+Ann: ok, let me know
+Tom: I will
+Summary: Tom can't find his keys.
+Dialogue: Samuel: hey, wanna watch a film tonight?:)
+Evie: heeey
+Evie: I can't tonight :<
+Samuel: damn ;/ it's a really nice day for some cool horror film
+Samuel: rainy, cold, gloomy... you sure?
+Evie: :<
+Samuel: okay ;/ i guess it's gonna be like this for the next few days, so...
+Samuel: tomorrow? sunday?
+Evie: sorry i can't this weekend :(
+Samuel: okay... :(
+Summary: Samuel wants to watch a horror film with Evie. She's unavailable tonight and for the whole weekend.
+Dialogue: Eva: how are you?
+Cecilie: better now 
+Cecilie: thanks for your care 
+Eva: :) 
+Summary: Cecilie is doing better.
+Dialogue: Lea: <file_photo>
+Suzan:???
+Lea: My little angel!
+Lea: Samantha - my sis's little girl.
+Suzan: OMG! She's soooo sweet!
+Suzan: How old is she?
+Lea: 2 months
+Summary: Samantha's daughter is two months old.
+Dialogue: Eva: I've signed the agreement
+Tina: You did? omg so happy for ya
+Eva: Thanks:) I am super excited
+Barb: Omg babe! awesome!
+Eva: hahaha thanks! I didn't know it's gonna be so emotional!
+Barb: Hell yeah! It's kinda binding for 25 years you know, kinda scary
+Eva: I know, but, Mat and I are getting married so after that we're gonna consolidate or sth and pay it off together faster
+Barb: You guys are getting married? 
+Eva: Yes we are! you didn't know? 
+Barb: First time hearing this
+Tina: No worries I just found out myself
+Barb: Anyway! Congrats love! You guys are awesome!
+Eva: Thank you so much! It's an exciting time
+Barb: Well I hope we're all invited for the housewarming party
+Eva: Of course! I'll be sending emails
+Summary: Eva signed the agreement. She and Mat are getting married. They will organize the housewarming party in their new flat.
+Dialogue: Isis: We are all heading to La Playa for Sunday Funday 
+Charles: What time?
+Isis: Now :)
+Charles: Okay we'll join you in 30 minutes or so
+Isis: Cool
+Summary: Charles will join Isis in La Playa for Sunday Funday in 30 minutes..
+Dialogue: Jack: hey, it's jack from sandra's party, do you remember me?
+Betty: Hi Jack! Of course I remember you. What's up?
+Jack: i was wondering if you'd like to go out to the movies with me and maybe grab a drink afterwards
+Betty: Sure! That would be fun.
+Jack: are you free tonight?
+Betty: I'm not, actually. I'm sorry. My family is here from out of town.
+Jack: oh that's cool, no worries
+Betty: They're leaving next Tuesday, does that work?
+Jack: yes, that's perfect, let's watch that new halloween movie
+Betty: Ohhhh, nooo!!! I hate horror movies.
+Jack: lol, what would you like to see then?
+Betty: I like romcoms better.
+Jack: not a big fan of those, but as long as i get to hang out with you, it's fine
+Betty: hahaha, you're sweet.
+Jack: see you next tuesday
+Betty: Have a great day!
+Summary: Jack and Betty met at a party. They're going to the cinema to watch a romantic comedy next Tuesday.
+Dialogue: Mark: Hi guys!
+Anna: Hi
+Julia: Hello
+George: S'up
+Mark: Listen, I've got an idea! Let's go on holiday together!
+Anna: Gr8!
+Julia: Cool!
+George: I'm in!
+Mark: So, first things first - where to?
+Anna: Idk
+Julia: Greece?
+George: Georgia?
+Mark: What about Italy?
+Anna: Seems we need to compromise!
+Julia: Right. I've been to Georgia. Didn't like it.
+George: And I've been to Greece. Nice.
+Summary: Mark, Anna, Julia and George want to go on holidays together. They need to choose a destination. They're considering Greece, Georgia and Italy. Julia doesn't like Georgia.
+Dialogue: Alvaro: How was your day?
+Paulina: Good, went to the gym, did some shopping, studied a bit ^^
+Alvaro: A busy day!
+Paulina: Haha it’s nothing, no work so I consider it to be pretty chill :D
+Alvaro: ;)
+Summary: Paulina went to the gym, did some shopping and studied today.
+Dialogue: Silvia: Are you going to the book presentation?
+Jenny: sure, John would like us to be there
+Matt: although we all know it will be boring...
+Silvia: but there are surly people truly interested in this stuff
+Silvia: and I don't understand a word
+Molly: exactly, it's a book about geology!
+Matt: I know, but he's our friend and I think he will feel better if we're there
+Jenny: I agree, we should go
+Silvia: I know...
+Summary: Silvia, Jenny, Matt and Molly will go to John's book presentation.
+Dialogue: Morton: weve found a cheap flight to dubai
+Peyton: oh cool and accommodation? 
+Hettie: my bro was there last year and say hotels r not that expensive
+Morton: well some are
+Hettie: yeah just depends on depth of your wallet
+Oberon: in case its deep enough you still owe a 20 Mort
+Morton: cant hear cant see
+Oberon: yeah typical
+Peyton: anyways got any hotel in sight mort?
+Morton: havent checked yet. but I guess its affordable so well see
+Peyton: and when you think your going?
+Morton: that’s the point. Next thursday for six nights
+Oberon: haha you remember about youknowhat?
+Morton: I know. she might kill me as well
+Peyton: oyu mean Vinnie? She gonna be mad if u dont make it
+Morton: perhaps I need to talk to her first. your right
+Summary: Morton wants to go to Dubai as he's found a cheap flight next Thursday. Hettie's brother was there last year. Oberon and Peyton suggest he talks to Vinnie first.
+Dialogue: Patricia: <file_photo>
+Patricia: Susanna's 1st day at school
+Charlotte: oh wow
+Charlotte: lovely girl
+Patricia: She was really brave 
+Patricia: I'm so proud of her
+Matilda: 🧡
+Summary: Susanna had her first day at school.
+Dialogue: Carol: Do you have my book "the secret desire"?
+Charles: I do have it
+Carol: Have you finished reading it?
+Charles: I did, I'll bring it tomorrow with me.
+Carol: Perfect
+Summary: Charles finished reading "the secret desire" and will give it back to Carol tomorrow.
+Dialogue: Michael: <file_photo>
+Michael: Have you done this yet?
+Camille: No, not yet, I’m stuck at 34. Still ;/
+Carl: I did, catch
+Carl: <file_photo>
+Michael: Thanks man!
+Carl: 34 isn’t difficult either, x is 5
+Camille: Thank you Mike <3
+Summary: Carl sends Michael and Camille the results of the exercises.
+Dialogue: Mia: Going to the family dinner?
+Gia: I don't want to 
+Gia: but have to
+Mia: I don't like meeting these new people
+Gia: Me neither
+Mia: What time u be there?
+Gia: probs 9
+Summary: Gia and Mia are going to the family dinner, and they meet at 9. Gia and Mia do not like family dinners, because they do not feel comfortable with meeting new people. 
+Dialogue: Jayson: My bday next month 
+Steve: U doing anything? 
+Jayson: Dunno yet
+Steve: Lets have a party at louis
+Jayson: Should I call them
+Jayson: And book a table? 
+Steve: Ya but I meant
+Steve: You can have the whole room 
+Steve: and we'll drink pitchers all night
+Jayson: Bro beer again? 
+Steve: 😂 🤣
+Jayson: You guys drink
+Jayson: Id probably go for some shots
+Steve: 😂 🤣
+Summary: Steve suggests Jayson organising a birthday party at louis.
+Dialogue: Nicole: We have just picked up the car
+Pamela: great, was it difficult?
+Brenda: not really, just a bit long
+Nicole: yes, they wanted 1000 documents
+Brenda: and we had to pay a bit more since the driver is under 25
+Pamela: I thought so, it's a standard procedure it seems
+Brenda: Yes, they told me so
+Brenda: So we're coming to pick you up!
+Summary: Brenda and Nicole picked up the car. They higher fee for under-25 drivers. They are going to pick up Pamela.
+Dialogue: Jennie: Hi Sally, is your student room still free? 
+Sally: yes it is
+Jennie: a friend of mine is looking for accomodation for her son for 2 months
+Sally: i'll be glad to rent the room. Your friend may contact me whenever she wants.
+Jennie: thanks for her.
+Summary: Sally's student room is still free. Jennie's friend needs accommodation for her son for 2 months. Sally will be glad to rent the room.
+Dialogue: Jake: Yo huskies game tonight anyone going? 
+Kieran: What time? 
+Kieran: Are we predrinking? 
+Anna: Like the huskies football? 
+Jake: Yeah huskies football. Sure we're going with Kevin to the liquor store for some drinks 
+Jake: Anyone wants anything? 
+Anna: I want 6 pack of Palm Bay 
+Anna: I will pay you back 
+Jake: No worries
+Omarosa: WHo are they playing vs? 
+Jake: Dunno
+Jake: You going home Omarosa?
+Omarosa: This weekend Im not! 
+Omarosa: Staying here! 
+Omarosa: Let's get lit! 
+Anna: Omg!! Omarosa come to the game
+Anna: And predrinking before that!! 
+Omarosa: boys you getting me some Budweiser? 
+Jake: Np!! 
+Jake: Yeahh!! Omarosa is down to get drunk
+Omarosa: Haha omg 
+Kieran: Should I come with you Jake? 
+Kieran: To the liquor store? 
+Kieran: After my class
+Jake: Meet me at CQ at 6 then? 
+Kieran: Sounds good 
+Summary: Jake, Kieran, Omarosa and Anna are going to a huskies match tonight. Jake and Kevin are going to the liquor store to buy drinks for themselves, a six pack of Palm Bay for Anna, and some Budweiser for Omarosa. Jake and Kieran will meet at CQ at 6. 
+Dialogue: Eric: <photo_file>
+Frank: finally
+Debra: I think they were a couple earlier
+Debra: Only now they announced it on FB
+Frank: They are made for each other
+Frank: I don't understand why they waited so long to be together 
+Eric: It's not everyone's goal to be in a relationship 
+Summary: Eric shares a Facebook post of their friends finally announcing their relationship. Frank thinks they are perfect for each other.
+Dialogue: Ross: Hey
+Ross: I am at the mall
+Ross: What shoe colour would you love?
+Rose: Hey
+Rose: Pure black would work for me
+Ross: Okay. See you later
+Ross: Can't wait😍
+Summary: Ross is at the mall and Rose prefers pure black shoes.
+Dialogue: Jessica: <file_photo>
+Jessica: my newest babies
+Priscilla: wooooooo there are so many things on that pic!!
+Rose: nice, what brands are these?
+Jessica: Le Mer, Kemon, Revlon, tolpa and many other
+Priscilla: did you buy all of that?
+Jessica: nope, I won it on facebook :D
+Jessica: I couldn't believe it, but as you see sometimes it's possible to win something on the internet
+Rose: jesus, i'm so jealous :'(
+Jessica: don't worry, there are some things I won't use so I can share B-)
+Priscilla: cool! I could even buy it from you.
+Jessica: nooooo don't you dare
+Jessica: If I got it for free then you will too
+Rose: thank you so much, you're the best <3 which stuff exactly you won't be using?
+Jessica: a highligher from Revlon cause it's too orange for me, the polish from O.P.I. cause I don't like the colour and mascara from avon
+Rose: Priscilla, do you mind if I take the polish? cause I've already got my favourite mascara and this highlighter for me is also too oragne and too dark
+Priscilla: no problem, I'd take the highlighter, for me it's perfect. thank you so much Jessica, really!!!
+Jessica: no problem girls, I'm sure that if you were the ones to win something similar, you would share it with me
+Rose: of course <3
+Priscilla: no doubt about that!!!! thank you <3
+Summary: Jessica won some beauty products on facebook. Jessica won't be using some of the stuff so will share with Rose and Priscilla.
+Dialogue: Julio: hey u home?
+Byron: yeah i am, the rest went to church
+Julio: ok i'll be there in 15
+Byron: ok
+Summary: Julio is going to visit Byron in 15 minutes. Byron is alone at home.
+Dialogue: Margaret: Who else will join us tonight?
+Nancy: me, I'll be there in 5min
+Lisa: Me too, with George and Amanda
+George: 👍
+William: me too!
+Margaret: great!
+Summary: Margaret, Nancy, Lisa, George, Amanda and William will meet tonight.
+Dialogue: Dylan: I didn't have to chance to say goodbye at work, so here it is
+Dylan: thanks for everything, I really learned much from you
+Eve: sorry to see you go and good luck with your future plans
+Eve: let me know when you'll settle in your new place and how is it going
+Dylan: I will
+Dylan: take care!
+Summary: Dylan is leaving work and thanks Eve for everything. He will let her know how he is settling into his new place.  
+Dialogue: Aiden: Look what I taught Lassie and Dori today!
+Emma: Show me Aiden :D
+Aiden: <file_video>
+Emma: OMG that's awesome! They are both so gorgeous!
+Aiden: Lassie was a bit quicker to learn, Dori needed a lot of snacks XD
+Emma: I would have thought so, she has always been greedy :)
+Aiden: <file_video>
+Emma: Oh, that looks stunning! They're such clever dogs!
+Aiden: They are! I'm so happy they turned out this way!
+Emma: I remember the beginnings, they were quite hard :)
+Aiden: Yeah, more than hard. Dori wouldn't stop barking when I was away
+Emma: Tough times!
+Aiden: But now it's great :) So it was totally worth it to suffer some minor inconvenience XD
+Emma: They're really cute Aiden!
+Aiden: I was thinking to enter this town contest that happens every year, in summer
+Emma: You should! Please do this, it might be a lot of fun for you and for them!
+Aiden: I'm just a bit worried that Dori might still be a bit unstable
+Emma: It's Novemeber! There is still some time left to improve certain things :)
+Aiden: You're right!
+Emma: You go and win that contest man! :)
+Aiden: Thanks for support :*
+Summary: Aiden taught his dogs Lassie and Dori some tricks. Lassie learnt quicker, Dori needed more snacks. Aiden is thinking of entering this town summer contest. It's only November, so he has plenty of time to practise with the dogs. 
+Dialogue: Ashley: I know I'm late!!! please wait for me, I need a ride, I don't want to take the bus.
+Hannah: ugh, i'm sorry Ash, but i left 10 minutes ago
+Ashley: Why?
+Hannah: i told my mom i'd be home by 4
+Ashley: That sucks :-/ I guess I'll have to take the bus
+Hannah: it's not the end of the world
+Ashley: It's not! But it still sucks.
+Hannah: lol, that's true
+Ashley: Maybe I should get a car
+Hannah: you better start saving money to pay for it, my friend
+Summary: Ashley is late. Hannah left 10 minutes ago. Ashley will take the bus.
+Dialogue: Mom: I've got the suitcase
+Lee: Thanks!
+Lee: I'll drop by tomorrow, okay?
+Mom: Sure!
+Mom: Do you want me to get you anything else?
+Lee: No, you're sweet, thank you
+Lee: But I'm a big girl and I have to do it myself
+Mom: But I know how busy you are!
+Mom: And it's no problem, really :-)
+Lee: I know, Mom, but I have to go to the shop by myself and think about what I'm gonna need.
+Mom: OK, but if there's anything...
+Lee: I'll let you know!
+Mom: Perfect.
+Lee: Thanks, Mom, I love you :*
+Mom: I love you too, sweetie.
+Summary: Lee will stop by Mom's to pick up a suitcase. She needs to go shopping and pack soon.
+Dialogue: Hyden: <file_photo> 
+Anna: I like your Christmas tree
+Ursula: Nice! 
+Summary: Anna and Ursula like Hyden's Christmas tree.
+Dialogue: Emily: Hey George, how are you?
+George: Hi, I'm fine thank you. I've jut ended my exams 
+Emily: That's great. Did you pass them?
+George: The first 3 yes but the last one was today and I don't have teh results yet
+Emily: That's great!
+Emily: I think we should celebrate it
+George: It's a great idea but right now I'm going to sleep because I'm exhausted
+Emily: I get it
+Emily: Are you already home?
+George: No I'm going back tomorrow because I want to see my girlfriend 
+Emily: I didn't know that you have a girlfirned. Congratulations!
+George: Thanks, but she lives about 400km away from my home so we can't see each other that often
+Emily: I see, that's for sure hard
+George: Not really, I'm taking hear in to the mountians for holidays actually
+Emily: That's great, I'm sure you'll gave a great time
+George: I'm gonna have next Saturdat free maybe we can go out for a drink?
+Emily: I'm supposed to meet Joe then
+George: Could we meet in 3? I would love to see you
+Emily: I think that won't be a problem
+George: So please ask him 
+Emily: Okay I'll ask and then tell you when we can meet
+Summary: George has just ended his exams. He passed the first 3, but doesn't have the results on the last one yet. George is going home tomorrow, but will see his girlfriend first, who lives far away. Emily is meeting Joe next Saturday. Emily will ask Joe if he wants to meet with George as well. 
+Dialogue: Viola: have you seen my falsies?
+Alexa: which ones?
+Viola: these from ardell
+Alexa: i think they are in the bathroom
+Viola: thanks
+Alexa: you shouldnt wear them everyday
+Viola: im not wearin them every day
+Summary: Viola is looking for her falsies. Alexa says they are in the bathroom.
+Dialogue: Bill: where do you have your bank accounts fellas?
+Timmy: i have mine at ING bank
+Greg: i use Idea bank
+Bill: so which one is better and why? I got mad at my bank and i need to change it finally
+Timmy: i basically get everything for free, and the mobile app is really nice
+Bill: so you have no charges for your account, withdrawing money etc. ?
+Greg: same here and Idea also offers cashback in some shops
+Bill: now this is interesting... tell me more please
+Greg: so whenever you buy something at, for example Tesco you get 2% of money spent back to your account
+Bill: do they have any limits?
+Timmy: yeah, no charges :) don't have this cashback though...
+Greg: i think it's max 50 quid a month but still worth it
+Bill: that's really nice i should really consider it
+Greg: yeah i can give you some tips if you decide for it
+Timmy: maybe i should change my bank as well, i spend so much that a cashback would be nice lol
+Greg: happy to help :)
+Summary: Idea bank has a good offer of an account with cashback up to 50 pounds per month.
+Dialogue: Edgar: Hey Leo
+Leo: Hey! Happy to hear from you
+Edgar: The pleasure is mine! Are you going to the dinner at Elizabeth's?
+Leo: Yeah, sure, she wrote to me the other day.
+Edgar: That's great! I'll be happy to see you
+Leo: You might be able to see Cameron and Rosie as well
+Edgar: Yeah, Elizabeth is throwing a grand party in my honor it seems
+Leo: Ha ha ha Indeed
+Edgar: I'll see you there then
+Leo: Yep. See you soon
+Edgar: Cheers
+Leo: xx
+Summary: Edgar and Leo will meet at the party that Elisabeth is throwing in Edgar's honor. 
+Dialogue: Colin: Rick, we still looking for an additional person for the trip
+Colin: you're sure you don't want to come?
+Rick: I would like to
+Rick: but unfortunately I can't
+Colin: that's a shame
+Colin: I know you were looking forward to it last year
+Rick: yeah but life happened and I need to stay at home this year
+Rick: maybe next time
+Colin: okay
+Summary: Rick can't go on the trip that is organised by Colin.
+Dialogue: Max: driving home 2nite?
+Robin: not me. staying for the weekend
+Brewster: me neither, ask Stan
+Max: can't get hold of him all day
+Summary: Robin and Brewster are staying for the weekend.
+Dialogue: Pete: Wanna see my new baseball shirt?
+Mike: Sure, you’ve promised me last week;-)
+Pete: <file_photo> :-)
+Mike: Sooo cool, you’re gonna flash it around;-)
+Pete: I know :-) 
+Summary: Pete is showing Mike his new baseball shirt and Mike likes it. 
+Dialogue: Darline: How have you been?
+Christy: I'm ok
+Darline: Have you forgotten Haiti?
+Christy: I could never forget about Haiti
+Darline: When are you coming here?
+Christy: I don't know
+Christy: My husband also wants to come back
+Christy: He really loved it
+Darline: Last week it was pretty tense
+Darline: This week it's calm
+Christy: Manifestations?
+Darline: manifestation with violence
+Christy: I'm really sorry to hear that
+Summary: Christy and her husband would like to revisit Darline in Haiti. Darlene mentions there sometimes are manifestations with violence. 
+Dialogue: Ben: Hi, Fran, remember me?
+Fran: Yes, Ben. Still have your phone number.
+Ben: Nice of you.
+Fran: Just too lazy to delete old contacts, I guess.
+Ben: Now, that wasn't nice.
+Fran: Perhaps. What do you need Ben?
+Ben: I was hoping we could meet.
+Ben: For a coffee or something?
+Fran: Why the hell would I wanna do that?
+Ben: Just for old times sake, I guess. Give me another chance?
+Fran: You've had your chance and blew it in big way, remember?
+Ben: Is it a no?
+Fran: What do you think? Does it sound like a yes?
+Ben: I guess not.
+Fran: You guess correctly, Ben.
+Ben: See you around then.
+Fran: Not if I can help it, Ben.
+Summary: Ben is interested in meeting up, Fran is not. 
+Dialogue: Jerry: Who ate my salad?! Was it you, Eric?
+Patty: Sorry, that was me... :( I'll run to the store right now and get you a new one!! 5 minutes!
+Eric: Why am I always the guilty one?
+Jerry: Sorry, man. I'm just hangry, you know.
+Summary: Patty ate Jerry's salad but will go to the store right now and buy him a new one. 
+Dialogue: Imelda: Do you think they will ever figure out who wrote that nasty note on the office fridge?
+Deacon: I think they will. You don't think a company this size doesn't have some cameras around, do you?
+Imelda: I never thought of that. 
+Deacon: Yeah, besides, having a fridge thief is bad for morale.
+Imelda: People will just start going out for lunch more, not leaving things here, if it's going to get stolen anyway.
+Deacon: Yes, or get their own mini fridge for their desk and use company electricity to run it 24/7.
+Imelda: Good point.
+Deacon: I feel like management will deal with this somehow. Meanwhile, I'm marking my food.
+Imelda: Not sure that will do any good!
+Deacon: It's something, especially if they get caught with a container that doesn't have their name on it!
+Imelda: They will just empty it out quick so they don't get caught.
+Deacon: True. Maybe we should try a trap! Some ex-lax brownies to out the thief!
+Imelda: Don't like that, it's mean.
+Deacon: So is stealing someones lunch!
+Summary: Someone is stealing food from the common fridge. Deacon believes the management is going to solve the problem and started marking his food as a precaution.
+Dialogue: Jessica: Did you write a prv mssg to Nate?
+Lucy: Yeah, why?
+Jessica: Don't you have your own bf to write to?
+Lucy: what's the matter with u? We were just talkin
+Jessica: Yeah, I know your JUST TALKING crap, cut it
+Lucy: Srsly Jess, get some help
+Jessica: I don't need to. I just need you to stay out of my relationship
+Lucy: You won't tell me what to do, lol
+Jessica: is that some kind of sport for you? To catch all the unavailable guys in town?
+Lucy: YOU'RE CRAZY!
+Jessica: That's all you've got to say???
+Lucy: Nate and I were friends long before you guys started dating and will be friends long after you break up xD
+Jessica: what did u say just now?
+Lucy: i don't see any reason not to talk to him, he's my friend and your stupid jealousy is just hilarious
+Jessica: I'll tell everyone what you did to Troy
+Lucy: What is this, preschool?! You're pathetic
+Jessica: I don't care, I have to protect my relationship
+Lucy: hahaha, you're a nutcase, ppl will laugh so hard when I show them this conversation
+Jessica: Screw you
+Lucy: Right back at ya
+Summary: Lucy wrote a private message to Nate. Jessica forbids her from writing to him. Lucy and Nate were friends before Jessica started dating him. Lucy will be in touch with Nate anyway.

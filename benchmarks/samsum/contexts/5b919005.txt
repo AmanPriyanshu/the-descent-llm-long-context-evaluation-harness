@@ -1,0 +1,376 @@
+Dialogue: Naina: So, what is today's schedule?
+Secretary: You have an appointment with the Vice President of Narnia Industries at 11am following which is the lunch party of Amber Group. Mr. Jain has an appointment with you to discuss about a case at 4pm and the dental appointment at 6pm.
+Naina: Ok, good. You may go.
+Secretary: Thankyou mam.
+Summary: Naina wants to find out about today's schedule from her Secretary. Naina has an appointment with the Vice President of Narnia Industries at 11 am. Then she is having lunch party of Amber Group. Naina is seeing Mr. Jain at 4 pm and has the dental appointment at 6 pm.
+Dialogue: Nicole: Dinner's ready, where are you?
+Matt: Sorry, got delayed.
+Matt: I'm coming, though.
+Nicole: OK, drive safe!
+Summary: Matt is driving over for dinner with Nicole but he will be late.
+Dialogue: Cyril: Hi Stevie, i left my keys to Mattie. Could you bring them me back next time we meet?
+Steve: of course. Thanks a lot for Mattie. Very nice of you to leave her your flat.
+Cyril: she's such a nice girl. It's a pleasure.
+Steve: I have a meeting at the HQ next month. Are you invited too?
+Cyril: Yes. All directors from the retail branch are invited.
+Steve: good, so i'll give your keys back.
+Cyril: don't worry, there is no hurry. I've got mine.
+Steve: still, you may need them again .
+Summary: Cyril left the keys to his flat for Mattie. Steve will bring them back next time they meet. Both Steve and Cyril will attend the meeting at the HQ next month, with all the directors from the retail branch.
+Dialogue: Andrew: Hey Dwayne, I'm painting my room this weekend. Wanna help?
+Dwayne: Errr… would there be beer involved?
+Andrew: I suppose I could get a couple of suds.
+Dwayne: Ok, what time you wanna start?
+Andrew: After lunch, 12:30?
+Dwayne: Why don't we go somewhere for lunch together. Have you got the paints yet?
+Andrew: I have the colour picked out, but I have to buy them in the morning.
+Dwayne: So I'll go with you, and then grab a bite to eat and start.
+Andrew: Ok, sounds good.
+Dwayne: What's the colour?
+Andrew: Black
+Dwayne: What??
+Andrew: Just kidding! Kind of like an olive green.
+Dwayne: OK. Do you want me to bring something?
+Andrew: No, I'm picking up the paints, rollers and brushes in the morning.
+Dwayne: I could bring mine.
+Andrew: No, don't worry about it. Just be here at 9 on Sat.
+Dwayne: Ok, bye.
+Summary: Dwayne will help Andrew with painting his room on Saturday. Andrew is going to buy the olive green paints, rollers and brushes in the morning.
+Dialogue: Ava: Billy dear! I'm such a scatterbrain. Could you please check if I've emptied the deep freeze.
+Billy: D'you mean the deep freeze in the basement?
+Ava: No. The compartment in the fridge. In the kitchen. I've put it on defrost but can't remember if I'd taken everything out.
+Billy: Just a mo.
+Billy: There's one pizza in it. Still frozen.
+Ava: Just have it. I'm sure it's in perfect condition. Thank you so much!
+Billy: Ta! A Sunday treat for me then :)) Where are you?
+Ava: At the airport. And of course out flight is delayed. By now only 20 mins :(
+Billy: Be happy that it's not cancelled.
+Ava: Still open to this development. George is already grumpy like an old woman.
+Billy: No worries. He'll perk up after the first drink on board.
+Ava: If we ever get there! "Your delay is 40 minutes". I hate it!
+Billy: Look, I have saved your fridge and my pizza. Sooner or later you'll be there. Cheer up! 
+Ava: You are right. I'd better go and have a drink with my beloved husband NOW.
+Billy: Have a short wait and a good flight!
+Ava: Ta!
+Summary: Billy checked the deep freeze on Ava's request, and found pizza in it. Ava told him to have it. Ava and George's flight is delayed for 40 minutes and it makes them angry. Therefore, Ava and George are going to have a drink.
+Dialogue: Ella: I just bought new shoes
+Mathew: Great. Guess dat's why you were not replying. Been texting you for past 2 hours
+Ella: Yeah I just reached home
+Ella: Want to see the shoes? :P 
+Mathew: Ok if you say so.
+Ella: Ok come over my place ;)
+Mathew: Nah. I am a bit bound at this time. You can send the pics
+Ella: Sure sending in a while
+Ella: <file-photo> <file_photo> 
+Mathew: Wohh cool. From where did you buy these? My sisters been asking me buy her the same
+Ella: I bought these from Main market
+Mathew: Which shop exactly?
+Ella: One thats has opened recently giving 30% discount as well
+Mathew: Great I will try to purchase them ASAP. my sister wont leave me alive otherwise :/
+Ella: You need to go fast. There was already too rush. They may run out
+Mathew: Leaving home in 10 minutes :0
+Ella: Haha. Bring Ear rings for me from the same shop. I forgot to buy those
+Mathew: Ok I will :/
+Ella:  Thank you :P 
+Summary: Ella has just reached home with new shoes bought at Main market at a newly opened shop that gave her 30% discount. Mathew wants to buy ones to his sister, too, so he's leaving home in ten minutes.
+Dialogue: Nettie: did ya take my headphones???
+Troy: ok, sis, cool down, yes
+Nettie: how many times did I tell ya not to??!!!!!
+Troy: i know, but I have this new epic game, the music is awesome
+Nettie: if u have enough cash to buy a new stupid game, then buy headphones first!
+Troy: yaaas but I couldnt wait
+Nettie: i want them back NOWWWW
+Troy: listen, I forgot to take them back to your room, my classes last till 5 and my room is closed
+Nettie: what a fucking idiot!!!!!! i don’t give a fuck, go back home, now!!!!
+Troy: i cant, parents will kill me
+Nettie: ok so ill kill you instead
+Troy: yeaaa what will you do
+Nettie: ill tell them, they told you not to take my stuff a too
+Troy: whatever, I cant miss my classes
+Nettie: stupid moron -_-
+Summary: Troy took Nettie's headphones without asking and Nettie wants him to give them back right now.
+Dialogue: Lydia: Hi 😊
+Lydia: Wanna dye my hair grey 😀
+Martha: Hi Lyd 😊
+Martha: Yes, go for it
+Martha: Yolo
+Lydia: You didn't just say that lol
+Martha: For real, do it 😊
+Lydia: I will 😊
+Summary: Lydia informs Martha that she wants to dye her hair grey. Martha fully endorses the idea.
+Dialogue: Daniel: Privet, Sergey Mikhailovich!
+Sergey: Hi, Daniel!
+Daniel: How's the whole party thing going?
+Sergey: Everything's fine, I'd say, a lot of people are already here and more are coming
+Daniel: Ok, I should be there within an hour and a half
+Sergey: Ok, don't worry
+Daniel: Is Pamela there already?
+Sergey: Yes :P
+Daniel: Ok, see you later
+Sergey: See you!
+Summary: Daniel's going to Sergey's party, he'll be there in an hour and a half. Pamela's already there.
+Dialogue: Ron: The grades from Micro are online, I passed :D
+Harry: Me too, 3.5 haha
+Ron: 4 here ;)
+Harry: Your group was easier ;)
+Heather: I got 4.5, but both groups were quite easy :p
+Summary: Ron, Harry and Heather passed Micro.
+Dialogue: Dan: WHO HAS DORA'S PRESENT???
+Simon: Sophie has it, what's all the fuss?
+Sophie: Yeah, I have it man, relax.
+Dan: I had a micro-heart-attack there. We didn't decide on who's gonna take.
+Sophie: I think about stuff like this, don't worry ;)
+Dan: phew
+Summary: Dan doesn't know who has Dora's present. Sophie has it.
+Dialogue: Casper: i have just finished the last episode of "Dexter" and I am soooo disappointed :/
+Anita: see, I told you that your are gonna hate it
+Casper: i mean, how could they? It was such a good show...
+Anita: but the ending was shit
+Casper: totally ye, i am so angry right now...
+Anita: hahahaha, i feel you, been there already
+Casper: i need a drink or something hahaha
+Anita: or maybe a new show to heal the wounds? xD
+Casper: you've got my interest... what would you recommend?
+Anita: you should watch "Peaky Blinders" - that's the best one I've seen this year
+Casper: with the english gangsters and everything?
+Anita: that one! it is purely AWESOME!
+Summary: Neither Anita nor Casper liked the ending of Dexter. Anita recommends Peaky Blinders.
+Dialogue: Michael: <file_photo>
+Michael: whose are they?
+Grace: no 19 is Ethan
+Logan: 21 is Ray
+Logan: 22 is me
+Jose: guess 31 is Josh
+Josh: yeah 31 is me
+Michael: Grace you got 100%
+Michael: <file_gif>
+Mel: our honour is saved
+Grace: whaaaaaaa
+Grace: there must be sth wrong with the key 
+Michael: well, there’s hope… haven’t checked the key itself :D
+Michael: ok results, basic level
+Michael: Josh -2
+Michael: Logan -5
+Michael: Mel -1
+Michael: Ray -8
+Michael: Ethan -2
+Michael: Jose -12
+Michael: Patricia -3 and you wrote in blue (!)
+Mel: so what is it? Lost points?
+Michael: yes. With each point you lost 2%
+Mel: oh, ok, I see. 
+Patricia: what’s wrong with blue?
+Michael: can’t use blue in the proper exam… 
+Patricia: oh. right :D
+Michael:  ;)
+Summary: Josh, Logan, Mel, Ray, Ethan, Jose and Patricia got their test results from Michael.
+Dialogue: Ashley: Fuck you!
+Josh: What did I do?
+Ashley: You know what you did!
+Josh: No, srsly!
+Ashley: Anna told me!
+Josh: Told you what?
+Ashley: Stop playing dumb! Admit it!
+Josh: But what?
+Ashley: You cheated on me!
+Josh: No! Never!
+Ashley: Stop lying!
+Josh: I'm not. What did she tell you?
+Ashley: You slept with Payton!
+Josh: I didn't! I swear! 
+Ashley: You can't even admit it!
+Josh: Listen, I didn't do anything. We had a coffee and that's it.
+Ashley: I don't believe you! It's over!
+Josh: No! Please! Let's talk about it!
+Summary: Ashley has broken up with Josh on suspicion that he cheated on her with Payton. Josh is in denial.
+Dialogue: Craig: thanks to those FOUR of you who did send essays
+Jonathan: <file_gif>
+Carrie: well.. I guess you could have expected that….
+Craig: …
+Mark: i was planning on sending all of them at one go next week
+Craig: yeah right. send them then next week.
+Carrie: <file_gif>
+Craig: <file_gif>
+Summary: Mark will send his essays next week.
+Dialogue: Emma: Guys, do you all reside in Cambridge?
+Rebecca: I think we are officially obliged to, but some people don't obey strictly
+Jack: honestly, it's too expensive to be there, I have no reason for that when I don't have classes
+Leland: we moved out with Mary some time ago and even my dean is aware of it
+Emma: where do you live now Leland?
+Leland: Norwich
+Emma: how nice!
+Leland: yes, it's a very nice, green and relaxed area
+Leland: actually I feel much better here than in Cambridge
+Emma: How long does it take to get to the uni?
+Leland: 1h20min by car
+Emma: and by train?
+Leland: similarly, no big differences
+Leland: but I usually work on train, so it's fine
+Emma: sounds good indeed
+Summary: Leland and Mary reside in Norwich, even though they are obliged to live in Cambridge. It takes them around 1h 20min to get to the university.
+Dialogue: William: what u think of stranger things?
+Rutherford: what stranger things?
+William: what what?
+Rutherford: what kinda stranger things bill 
+Dunstan: its a netflix series
+William: yeah i know what u think of it
+Rutherford: nottin. dont know whatsits
+Dunstan: so we gathered
+Morley: i liked it. sci-fi but not GoT way more xfiles more twin peaks
+William: oh cool i enjoyed twin peaks years ago
+Morley: worth wathing dfntly
+Dunstan: i watched like two epsidoes and couldnt really get to grips
+William: with str things?
+Dunstan: havent seen that. with twin peaks
+Morley: i means they are very different but also some similarities so worth watching at least try
+Summary: Rutherford and Dunstan didn't watch Stranger Things. Morley liked the show.
+Dialogue: Josh: Yo what are you up to? 
+Kaleigh: I am packing! Going to Calgary for Thanksgiving tonight
+Josh: Nice! Wanna get some food at DQ rn? I gotta give you back your notes from MATH110
+Kaleigh: O yeah I almost forgot. I'm down.
+Josh: So I will meet you soon at DQ!
+Kaleigh: Sure! I am at Shoppers drug mart but I will be right at DQ soon. 
+Summary: Kaleigh will go to Calgary for Thanksgiving. He will meet Josh at DQ soon to pick up his MATH110 notes. 
+Dialogue: Brook: Hello, It is an American company that's been on the market for 30 years. From 24 on the stock exchange, 3rd on the cosmetics market. 75 scientists work for the company. It was the first to market hyaluronic acid and as the only ethocne that improves skin elasticity. We have patented formulas and devices with galvanic currents. These decisions created many possibility, thanks to which we were able to form our beauty empire with pleasure. I'll explain everything to you and help you, if you're interested.
+Erica: Hi, currently I am interested, but I still have a lot of questions... does this job entail me to promote certain products of this company on for example fb marketplace?
+Brook: You promote products on your group or via fb messenger - but we don't promote our products through other selling groups on Facebook
+Erica: Oki, so that's a no on fb selling product groups - does that include Facebook marketplace? (because that's general fb and everyone promotes their products there)...
+Brook: No, on those fb groups, you can't create a secret group on Facebook (and it's on such a group that you'll sell items)
+Erica: Sorry, could you explain that again?
+Brook: You create a private/secret group in Facebook and on there you'll promote company products
+Brook: <file_photo>
+Brook: <file_photo>
+Brook: Here i an example of a post of what you would write
+Erica: I see... Thank you, however I think I'll have to turn down this job offer. Thank you for you time and have a nice day!
+Brook: Let me know if you change your mind. Have a nice day!
+Erica: I will. Thanks again!
+Summary: Brook works for American company, present on the market for 30 years, 24 on stock exchange, 3rd position on the market with 75 scientists working. They patented formulas and devices with galvanic currents and marketed hyaluronic acid as first. Erica turns down the job offer presented by Brook.
+Dialogue: Bridger: How would you describe yourself self in these kind of stuff
+Bridger: Are you a romantic girl?
+Geraldine: I am
+Geraldine: But everything depends on my mood ;)
+Bridger: I like to think I can read those moods when I see it and actually influence it
+Geraldine: 😏
+Bridger: Oh my days ... 🤒
+Geraldine: Huh?
+Bridger: I got a lil temperature
+Geraldine: Lol
+Bridger: From watching the girl's leg back there
+Bridger: But you look cute 😉
+Geraldine: Yeah that was my aim taking that photo
+Geraldine: Lol
+Bridger: Haha you just happened to be there
+Geraldine: Yep
+Summary: Geraldine took a selfie with a girl's leg in the background to show it to Bridger. 
+Dialogue: Karen: Hello everyone, thanks a lot for your payments
+Karen: We are still missing 3 transfers, please let me know if you can make it this week
+Joan: Karen is this also for the Xmas gifts?
+Lenny: we need to put extra money for Xmas right?
+Karen: No no, you don't have to pay anything more this year
+Karen: This is basically for Xmas and I think we could get some gift for the teacher?
+Karen: If you don't mind?
+Lenny: no, of course not
+Helen: hi! sure, let's buy her something :)
+Karen: Great :) Waiting for your ideas then :)
+Joan: what did she get last year?
+Lenny: that set of espresso cups??
+Joan: I think that was 2yrs ago...
+Lenny: ok what's the budget for that?
+Karen: Let's decide what to buy for the kids first, ok?
+Karen: And then we'll see how we're doing
+Joan: Ok
+Lenny: good idea
+Helen: Are we buying the same thing for everyone? I mean girls&boys
+Lenny: how about a small lego set?
+Lenny: <file_photo>
+Lenny: <file_photo>
+Lenny: these are just examples obviously
+Joan: I love legos hahaha
+Lenny: me too :)
+Helen: lego is always a good idea haha
+Summary: Karen is still missing 3 transfers from people for Xmas gifts for children and the teacher. They're thinking about getting the kids a small Lego set each.
+Dialogue: Connor: Hey, we just took down our Xmas tree.
+Connor: Do they pick them up on Thursday?
+Charlie: Hey, yeah they do.
+Charlie: But why not replant it?
+Connor: Replant it? Is that even possible?
+Charlie: Yeah, we've been doing it for 3 yrs now.
+Charlie: We replanted the first two in our backyard.
+Charlie: And this year we called a tree planting company to pick it up.
+Connor: Wow, that's a great initiative!
+Charlie: Yeah, they replant them back in the forest.
+Charlie: Here's the link to their website.
+Charlie: <file_other>
+Connor: Thanks, I'll contact them tomorrow.
+Connor: Karen is going to be amazed.
+Connor: She's all into pro-environment stuff, you know compost and so on.
+Charlie: Yeah, so is Michelle.
+Charlie: She's the one that found this green alternative.
+Connor: Thanks!
+Summary: Connor will contact the replanting company to pick up his Christmas tree and replant it in the forest. Charlie has sent him the link. 
+Dialogue: Stephen: what would you like to do after we graduate?
+Anne: i'd love to teach <3
+Anne: definitely teach!
+Anne: i've always wanted to be a teachaer?
+Anne: you?
+Stephen: i don't know, everyone seems to know what they want to do but me
+Stephen: i wanted to go into business for a while, but now it seems boring
+Stephen: then i thought of law school, but i'm not sure i'm cut out for that
+Anne: have you thought about grad school?
+Anne: maybe you can pursue something new :-D
+Stephen: i've thought about it
+Stephen: i've considered getting a phd in philosophy
+Stephen: and then when i graduate i'll teach like you!!!
+Anne: if that's what you want, go for it :-D
+Summary: After graduating, Anne would like to be a teacher. Stephen still doesn't know what he'd like to do. 
+Dialogue: Abigail: Hey guys
+Abigail: Don, this is Brian. Brian, this is Don :D
+Donald: hi
+Brian: oh hey;)
+Abigail: I created this chat so you can talk without me having to be a go-between;D
+Abigail: I can’t understand what I’m pasting anyway xD
+Donald: ok
+Brian: ok thanks
+Donald: well I guess I know more or less everything;)
+Brian: ok if you have any more questions write here:) 
+Donald: ok 
+Donald: oh I know. One more thing. What bits did you use?
+Abigail: ok I’ll leave you to it, boys :D
+Summary: Abigail created a chat, so Brian and Donald can communicate with each other without involving her in the conversation.
+Dialogue: Faby: good morning gorgeous! how are you?
+Amal: hey girl! I am fine and you?
+Faby: good 👌🏿
+Faby: I am organizing a workshop as the ambassador of Younique, an american brand of cosmetics and I am inviting all my friends to join me and have a great time while discovering their products 😍
+Amal: I have heard of this brand before, I tried their mascara but it wasn't that great ☹️
+Faby: Oh, I am sorry to hear that! the brand has made a make over of their products and generally people are satisfied. When did you use it?
+Amal: well, 5 years ago.
+Faby: ok, a long time then 😃 just come and you may be surprised, you might like the new products.
+Amal: sincerely I am not interested into buying more products, and not this brands.
+Faby: for me it is not just for selling, it is more to spend quality time with my girls and pamper ourselves with the products
+Faby: there is no obligation of buying! 
+Amal: humm ... putting it that way... well maybe I will give it a try, just because it is you 😉
+Faby: awww thanks love 💜💜💜
+Amal: so, when is it then?
+Faby: Saturaday @ 4 p.m, does that work for you?
+Amal: yup, I have nothing planned already! 
+Amal: count on me.
+Summary: Amal is coming to Faby's place on Saturday at 4 pm for a cosmetics workshop.
+Dialogue: Elvis: I’m not doing it
+Kire: Pleeaseeeee
+Elvis: I will not host your friend for two weeks because she wants to see London!!
+Kire: Cmon brother, I already promised her
+Elvis: That’s your problem, shouldve asked me first
+Kire: She’ll be so sad!!!
+Summary: Elvis will not host Kire's friend for two weeks in London, even though Kire has promised her already.
+Dialogue: Nicole: Hi. It’s Nicole. I was wondering if you were available on Friday night?
+Poppy: I am. Do you want me to babysit Toby?
+Nicole: I do. 8 till 11-12. 
+Poppy: Sure. 
+Nicole: Brilliant! See you on Fri hon!
+Poppy: Can’t wait to see Toby! I haven’t seen him for a while ;)
+Summary: Poppy will babysit Toby on Friday night from 8 till 11-12.
+Dialogue: George: Are you at home?
+Martin: No
+Paula: Not yet...
+George: I forgot my key. I will wait at Amy's. 
+Summary: George will wait for Martin and Paula at Amy's.

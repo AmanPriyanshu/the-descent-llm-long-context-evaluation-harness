@@ -1,0 +1,409 @@
+Dialogue: Perry: I am looking for someone working in EY
+Josh: I know a guy, why?
+Perry: I need a way in, sorta
+Josh: I don't understand, why?
+Perry: ahah jk, I need to know how is it to work there
+Josh: Oh, well, he has junior position, so he won't tell you much, but some starters
+Perry: sounds perfect, I would start there too
+Josh: I'll tell him to reach out to you
+Perry: thanks
+Summary: Perry wants to work in EY. Josh knows a guy who has a junior position there and can share his experiences with Perry.
+Dialogue: Henry:  Who was the girl with whom you were at the club yesterday? Nice chick 
+Mark: She is my new boss! It was business meeting.
+Henry: Sure…
+Mark: That’s true. Ian left us last month and Susana took his place.
+Henry: I wish to have such hot boss!
+Mark: You’re fool bro!
+Henry: No, I’m just jealous 
+Summary: Mark had a business meeting with his new boss Susana at the club yesterday. Henry wishes he had such a hot boss. 
+Dialogue: Anna: I fucking hate my life!
+Jen: What happened?
+Anna: Jim is being a dick again. He won't let me go out.
+Jen: Why not?
+Anna: He says that I am always demanding and insist on getting my own away and he will not put up with it any longer.
+Jen: Has he at least paid the bills and rent?
+Anna: Are you kidding. He expects me to do it cause it is my house.
+Jen: But he's living there for free. You're working 3 jobs while he sits there and watches TV.
+Anna: and complains about what's for dinner.
+Jen: Yeah exactly. He's a fucking parasite. Get rid of him!
+Anna: But I need him for the heavy work around the property that I can't do myself.
+Jen: Like what?
+Anna: Like chopping the firewood. I can't do it on my own.
+Anna: It's the only way to heat this house and without the wood I'd freeze in winter.
+Jen: So you're keeping a nasty parasite around for firewood? You gotta ask yourself is it worth it?
+Anna: Yeah I keep on asking myself this question.
+Jen: You can always get a lodger.
+Anna: Not with the state of this place.
+Jen: Then I really don't know what to say to you. Sounds like you're defending him.
+Summary: Anna is angry at Jim. He does not let her go out. He does not pay bills. Anna needs Jim for heavy works around the property. Jen calls Jim a parasite.
+Dialogue: Jen: Are you coming back tomorrow?
+Ian: no, on Saturday
+John: or Sunday, there is no sense to come back on Sat
+Ian: we will see
+Summary: Ian is coming back on Saturday or on Sunday upon John's comment that there's no sense to come back on Saturday.
+Dialogue: George: Do you intend to watch the second season of OWL?
+Mark: When does it start?
+George: February 14th.
+George: They made lots of changes to the stages but with the addition of the new teams it's pretty understandable.
+Mark: I guess the hours didn't change much?
+George: From what I'm seeing not really.
+Mark: That sucks.
+George: Well they are still based in the US so the hours are chosen accordingly.
+Mark: Doesn't change the fact, that it sucks :P
+Mark: For us it basically means that if you want to watch all the matches live, you need to pull an all-nighter.
+George: Yeah, last season I basically watched it only on Fridays and Saturdays.
+Mark: Still rooting for London?
+George: Yeah, there are some new interesting teams but for Europe they only added Paris, and for me UK>France.
+George: Besides they won it last time, so it would be weird to switch ;)
+Mark: I was tempted to switch after last season disaster.
+George: Dynasty?
+Mark: Yep and they didn't even make the playoffs, talk about a let down.
+Mark: But I will give them one more chance :P
+Mark: They did make some roster changes but I'm still worried about the second dps spot.
+George: They got new coaching staff so dps might improve.
+Mark: I hope so. I never thought I could be so disappointed over a gaming tournament.
+George: Times change :P
+Mark: Might be true, but one thing seems to be always the same...
+George: And that is?
+Mark: All the teams I support end up in a slump!
+George: Start supporting the ones you want defeated ;)
+Mark: That might be an idea...
+Mark: Not sure if a good one but an idea nevertheless :P
+Summary: George watched the last season of OWL only of Fridays and Saturdays rooting for London. Mark is worried about the second DPS spot and he was disappointed over a gaming tournament. 
+Dialogue: Leo: Hi, my name is Leo. I got your number from Jim Smith.
+Stan: Yeah, I know Jim. What's it about?
+Leo: Well, Jim said you know a lot about horses.
+Stan: I guess you can say I have some experience.
+Leo: My daughter, Dorothy, rides horses and I'd want to buy her a pony.
+Leo: She's got birthday next month. I wonder if you could help?
+Stan: I suppose I could give some advice.
+Leo: That would be great. I know nothing about it.
+Stan: I suggest we meet with Dorothy and make a sort of roadmap.
+Leo: Sounds perfect. How about dinner at our place, say Friday?
+Stan: I've got some plans for Friday night, I'm afraid. Perhaps the weekend.
+Leo: How about Saturday, seven pm?
+Stan: Sounds fine. What's the address?
+Leo: Hamilton West 305.
+Stan: All right. I'll be there.
+Summary: Leo needs Stan's advice as he wants to buy a pony for his daughter Dorothy. They'll all meet to discuss it at Leo's place at Hamilton West 305 on Saturday at 7 pm.
+Dialogue: Fred: Who needs a heater when you can have a cat? :D
+Fred: <file_photo>
+Irma: Please send cat. My heater isn't working correctly.
+Irma: sos
+Irma: help. dying. soo cold. aaahh
+Irma: <file_gif>
+Fred: <file_photo>
+Fred: <file_photo>
+Fred: <file_photo>
+Fred: That enough photos for you? ;)
+Irma: One can never have too many photos of cats :D
+Fred: Alas! Tis true :D How are you?
+Irma: Cold and dying of frostbite. You?
+Fred: Warm and toasty. ;) Got started on my final assessment 
+Irma: Great! How's it going? :D
+Fred: good! I think it has potential :)
+Irma: yeah? :P Wanna give a girl come pointers? ;) I'm still stuck on mine :(
+Fred: Have you checked over the reading materials?? I found they really helped me :)
+Summary: Fred sent Irma photos of his cat. Fred has started writing his final assessment. He recommends Irma have a look at the reading materials. 
+Dialogue: Marie: Si perfumes by armani 30% off
+Marie: <file_other>
+Carol: omg
+Carol: and free shipping
+Summary: Marie found a 30% discount on Armani perfumes.
+Dialogue: Rebeca: What time the class start
+Wendy: 10:15
+Rebeca: thans, hope I wont be late
+Wendy: hurry up!
+Summary: The class starts at 10.15 for Rebecca and Wendy.
+Dialogue: Emil: we're already at the festival
+Emil: you?
+Rosa: still on my way
+Rosa: I'll arrive at 3pm
+Emil: alright
+Rosa: I'm here.
+Rosa: where are you guys?
+Rosa: hey
+Rosa: Can't reach you somehow, I'll try later
+Emil: sorry we were doing some siesta :)
+Rosa: no worries, I already checked in at the hotel
+Rosa: now I'm hanging out at the vendors' zone
+Emil: cool, we'll meet you there
+Emil: so, we're here, where r u?
+Rosa: sorry I moved
+Rosa: I'm at the main stage right now
+Rosa: where Tundra is playing
+Rosa: I'm at the left side
+Emil: ok, we're coming, DON'T MOVE!
+Summary: Emil is at the festival. Rosa will arrive at 3 PM. Emil is doing some siesta. Rosa checked in at the hotel. She is at the stage where Tundra is playing, on the left side. Emil is coming to her.
+Dialogue: Jim: Don't forget to check the tyre pressure when you go to fill up the car today.
+Val: Damn... Almost forgot! Thanks for reminding me.
+Jim: :-)
+Summary: Val will check the tyre pressure, as reminded by Jim.
+Dialogue: Benjamin: What will our book club be called?
+Ashley: How about B&A Book Club?
+Benjamin: Why not A&B?
+Ashley: More intriguing that way ;)
+Benjamin: Ok, so it's settled! B&A Book Club is up and running ;)
+Ashley: W8! Where will we meet?
+Benjamin: Meet? I thought it would be an internet project?
+Ashley: What? No, we have to meet up from time to time. That's the whole point!
+Benjamin: Suppose ur right. So, where?
+Ashley: Maybe first meeting ur place, next mine and then back again?
+Benjamin: Sounds fair. How do we get new members? ;)
+Ashley: Facebook page?
+Benjamin: Cool! I'll get on it right away!
+Ashley: What book will go first?
+Benjamin: That's a tough question!
+Ashley: Ik.
+Summary: Benjamin and Ashley's bookclub will be called B&A Bookclub. They have arranged the first meeting at Benjamin's place. They will make a facebook page to get new members.
+Dialogue: Brian: exiting news!
+Brian: I just read that Dreamcatcher is making a comeback at the end of this month
+Randy: sweet, can't wait
+Randy: do you know anything else about it?
+Brian: not really, I didn't check the details
+Randy: why?
+Brian: I'm not a huge fan of teasers, so usually I'm waiting for the whole song to be released
+Randy: it doesn't bother me at all
+Brian: you can always check it by yourself
+Randy: I probably will, I guess I'm not patient enough :)
+Randy: besides I need to know if they're sticking with the same concept
+Randy: after all that's the main reason I like them so much
+Brian: I hope so
+Brian: that's what makes them so unique
+Randy: honestly they deserve more recognition
+Brian: no doubt about it
+Brian: and I think they're slowly building a dedicated fanbase
+Randy: me and you? :P
+Brian: there's more then two of us ;)
+Randy: I know
+Summary: The band Dreamcatcher are making a comeback at the end of this month. Randy and Brian are fans of them.
+Dialogue: Keith: The lecture room has changed from 102 to 210 today.(☞ﾟヮﾟ)☞
+Jesse: Where did you hear that? I couldn’t get messages from the school office?エェェ(´д｀)ェェエ
+Keith: I don’t know. Suji sent me text. 
+Jesse: Then where did Suji get this news from? エェェ(´д｀)ェェエ
+Keith: I don’t know. The office always works like that.(ﾟдﾟ)
+Summary: Keith learnt from Suji that the lecture room was switched from 102 to 210.
+Dialogue: Brenda: Hey, is it ok if I arrive a little bit late today?
+Dave: Sure, how late?
+Brenda: Well i'm leaving now, so I'll probably be about 30mins
+Dave: Grand, I'm here already
+Dave: Can you bring those sheets with you?
+Brenda: Which ones? From the last day?
+Dave: No, from Tuesday. The ones with the homework.
+Brenda: GImme a second i'll see if I have them.
+Brenda: Pages 56 and 57 was it?
+Dave: And 58 too
+Brenda: Perfect
+Brenda: Anything else I need to bring?
+Dave: No, just that
+Dave: I'm here now anyway
+Dave: Ring the bell when you arrive
+Dave: My phone might die
+Brenda: Cool leaving now
+Brenda: Be there in 20
+Dave: See you soon
+Summary: Brenda is going to arrive 30 minutes late for the meeting with Dave. Brenda will take sheets with homework for Dave. She will take pages 56, 57 and 58.
+Dialogue: Esme: Did I tell you what happened last weekend?
+Summer: Not really.
+Summer: I mean you mentioned you went to visit Jason and there was a party
+Esme: Exactly
+Esme: He was having a party and he didn’t even invite me
+Esme: How sick is that
+Esme: The entire band was there
+Esme: Robert, Tom, Amy and Steve
+Esme: But he didn’t even bother to invite his girlfriend…
+Summer: That’s crazy
+Summer: Why would he do that?
+Esme: I don’t know.
+Esme: I got so furious. I broke all of his plates. 
+Summary: Esme is furious about Jason not inviting her to the party. Summer can't understand his behavior.
+Dialogue: Freddie: Do you have an iPhone charger?
+Sam: Yes
+Freddie: Great! My battery is dying 
+Sam: Come to my office. 
+Summary: Sam has an iPhone charger. Freddie's battery is dying, so he will come to Sam's office for the charger. 
+Dialogue: Alex: Hey, are you free for a phone chat?
+Agnes: I'm with the lawyer
+Anna: I'm at the shops
+Alex: Ok, let me know when you're free
+Anna: ok
+Summary: Alex wants to chat with Agnes and Anna on the phone. Agnes is with a lawyer and Anna is at the shops. They will let Alex know when they're free. 
+Dialogue: Alex: You’re not worth my presence. Can you actually cook?
+Jane: I can microwave, put a frozen pizza in the oven, cook pasta and rice (sometimes). Oh, and potatoes! You should like potatoes, you’re British.
+Alex: So you can’t cook.
+Jane: I’m Kebab Princess. I don’t care about cooking. 
+Alex: Kebab Peasant, you mean.
+Jane: What a moron. Kebab is salad. And it makes people happy.
+Alex: Get kebab as a tattoo, please
+Jane: Nono, I prefer tribal patterns. A medium-size tribal tattoo, two fingers above my bottom
+Alex: That’s called a tramp stamp
+Jane: Good to know. I'll teach my children.
+Alex: You can’t cook and you’re about to get a tramp stamp. You’re not going to be a good mommy. 
+Jane: Ok. Pay me a compliment or else I’m breaking up with you.
+Alex: You have nice friends.
+Jane: What? You didn’t…
+Alex: I tried, but there is nothing good about you, sorry.
+Jane: I can carve a heart on a potato for you. Is it enough for you to love me?
+Alex: Yes, ok. We can make a deal. I want the potato and the left side of the bed.
+Jane: Pfft. Forget. I don’t need your love.
+Alex: First you try to seduce me with a potato, and now you pretend you’re not needy. I don’t get you.
+Summary: Alex says Jane can't cook very well, she only knows how to make basic foods. She won't be a good mummy. Jane threatens to break up with Alex, unless he tells her a compliment. Alex can only say that she has good friends, and not much else. She offers to carve a heart on a potato for Alex.
+Dialogue: Hilary: Can you pick up Sean?
+Bill: let me check 
+Bill: I have to move a meeting to pick him up
+Hilary: Is it very imp cuz I don't have anyone else to ask
+Bill: it's not a problem I'll pick him up
+Hilary: thanks
+Summary: Bill will pick up Sean on Hilary's request.
+Dialogue: Geoff: Will you bring in the report Steve gave on emerging trends?
+Sara: Sure, right away.
+Geoff: And a coffee?
+Sara: Already got it!
+Summary: Sara will bring Geoff Steve's report on emerging trends and a coffee.
+Dialogue: Rory: <file_photo> Does anyone know how to fix it?
+Ed: Where are the screws to attach the faceplate to the base?
+Rory: I just took it off…
+Ed: Has the cord snapped or just been pulled out?
+Rory: The cord is broken. But we think it was tied.
+Ed: Well my guess is that it should be easy to replace then. I don't know much about electrical things though, should we ask Nedd to fix this one Greg? Or is it easy enough that it's just a case of retying it?
+Rory: We’ve just found the mechanism. It looks weird and we don’t know how to fix it. Thanks Ed! It can wait until tomorrow, I guess.
+Greg: Ed call the CPS, please. They are responsible for the property.
+Summary: Rory does not know how to fix it. Ed will call the CPS because the issue lies within their responsibilities.
+Dialogue: Michael: Where should we meet?
+Ann: Is the Irish pub good for you?
+Michael: I really hate the place.
+Ann: Why? Some natives, good beer.
+Michael: It's just so fake.
+Ann: But there is not much choice in this town, you know it.
+Michael: I know, but I would already prefer a proper Irish trattoria. 
+Ann: Do you know any good one?
+Michael: The one down my street?
+Ann: Is there any?
+Michael: They have good food, and some decent wine.
+Ann: Ok, I don't care so much about the place. You're the one always complaining.
+Michael: Sorry. I promise you will like it.
+Ann: We will see ;) See you later.
+Michael: see you
+Summary: Ann suggests to meet Michael in the Irish Pub. Michael hates that place and suggests to go to an Irish trattoria placed at the street he lives instead.
+Dialogue: Chris: Hey people. Ann’s birthday is coming up, so we have to brainstorm what to get her. 
+Kate: Hey, nice idea. What’s on your mind?
+Chris: I thought of a watch, jewelery, or a ticket to watch Formula 1 race in Hungary. Any thoughts people?
+Heather: Is she really a motorsports fan though? I didn’t know that.
+Damian: I am fine with whatever you choose. Just let me know about financial contribution.
+Chris: Yes, she is. We’ve been watching every race for the last 5 years together. Watching it live might be just what she wants. 
+Kate: Yeah, sounds like a perfect idea. You got my vote.
+Mary: Hey, people. Sorry for joining late. I think she might like jewelery better, though. I have some discount cards if you like.
+Chris: Yeah, but I guess it’s hard to find jewelery, that she might find perfect. She’s quite picky.
+Kate: Right Chris, she’s got an elaborate style. Let’s go with the ticket. Everybody is okay with that choice?
+Mary: If you say so, I’m okay with it. 
+Heather: Fine with me.
+Chris: Okay, so I will buy the ticket and send you my account numer in a few days. Thank you guys!
+Summary: Chris will buy a ticket for Formula 1 race in Hungary for Ann's birthday.
+Dialogue: Louie: Sorry, I'll be late:( 
+Louie: Got stuck in traffic
+Leon: Im almost there. Ok, will wait.
+Leon: what time you coming?
+Louie: about 7?
+Isadora: ok, we'll look for a table. Im there already. See ya!
+Summary: Louie will be late as he got stuck in traffic. Leon is almost there. Isadora is already there and will look for a table.
+Dialogue: Terry: Hi Sara!
+Terry: I'm sorry, but I won't come tomorrow, I'm ill. 
+Sara: Hi!
+Sara: Sorry to hear that.
+Sara: Of course, I understand. 
+Sara: Take good care of yourself!
+Sara: Do you have everything you need? 
+Terry: Yes, I'm okey, I have good neighbours. Just need a few days of rest. 
+Sara: I see. Get well soon!
+Terry: Thank you & have fun tomorrow!
+Sara: We will! :D 
+Summary: Terry won't come tomorrow as she is ill. Terry has good neighbors.
+Dialogue: Paul: how is the work going today?
+Zac: it's horrible, nobody is working here
+Edward: same. I don't see the point of working on 31 of December
+Edward: people only pretend they work
+Zac: everybody is waiting till 3pm to run away
+Paul: I know, a completely useless day
+Paul: so you're finding at 3?
+Zac: yes
+Paul: I have to stay till 5. So stupid
+Summary: Paul, Zac and Edward are working on the 31st of December. All consider this workday unproductive. Zac gets off work at 3. Paul has to stay until 5.
+Dialogue: Helen: Jessica, R U there?
+Jessica: No doubt about it
+Jessica: I'm bored as fuck
+Helen: Me and Patricia are playing tennis outside, wanna play?
+Jessica: Sure, still better than nothing. I'll find some shoes and come
+Helen: Fine
+Summary: Jessica is joining Helen and Patricia who are playing tennis outside.
+Dialogue: Lucas: <file_video>
+Tom: Nice
+Lucas: Oh sorry guys
+Lucas: This video was supposed to be for Trudy only
+Trudy: Thank you, that's sweet
+Tom: Nice birthday wishes
+Amanda: You look good Lucas
+Lucas: I'm sorry, I haven't slept in 2 days
+Lucas: Too tired
+Trudy: I don't mind. It's a nice video. Thank you! 
+Summary: Tom and Amanda compliment the video with birthday wishes that Lucas dedicated to Trudy on her birthday.
+Dialogue: Nick: Opinions required! Gas or induction hob?
+Ben: Having lived with an induction hob for a while, i’m not convinced.. 
+Ruth: induction- very sleek and quick to boil!
+Ben: but it doesn’t maintain a constant temperature! Is it typical of all induction or i just got an old one?
+Ruth: they pulse if use don’t use proper pans
+Ben: what do you mean proper? Do you mean better+heavier?
+Ruth: yeah, simply suitable
+Ben: and i guess i have to learn how to use it..
+Ruth: yeah, it’s just different comparing to gas
+Christian: gas, absolutely without a question- nothing else gives you the control!
+Nick: I’m definitely more interested in a controllable consistent heat
+Mary: with induction it’s like on and off so you have to regulate temperature.. 
+Kate: induction- yes, gas- no cause it takes ages to boil water!
+Tim: you can always use an electric kettle you know?
+Kate: haha! Not funny!
+Kate: it’s easier to clean as well.
+Harry: I’d go for induction cause it keeps the temp after you finish cooking so the food is still warm 
+Tom: Induction! 100%
+Susan: our induction was terrible! I think it’s common!
+Emma: another vote for induction here! 
+Ruth: All chefs seem to say gas!
+Tom: I sell more induction hobs then gas! It’s getting popular and i can see why!
+Emma: we got ours from the John Lewis outlet so it was ex display and therefore very affordable!
+Nick: cheer guys for all your opinions! Great talk! I think i’ll go for.. Induction.
+Summary: Nick needs opinions what is better - gas or induction hob. Ben isn't convinced with the induction hob, Ruth, Tom, Harry, Emma and Kate are for the induction, and Christian is for the gas.
+Dialogue: Micah: did you get my message?
+Jayden: no, what's up?
+Micah: aunt Maria is in the hospital, she had a stroke
+Jayden: oh no, i'll call u in a minute, ok?
+Micah: ok
+Summary: Aunt Maria is in hospital, she had a stroke. Jayden will call Micah in a minute.
+Dialogue: Amanda: Hi there! How's the hotel?
+Ben: Hey, sweetheart! Good. Pretty comfy. Thanks for the booking.
+Amanda: Pleased to please you :-)
+Ben: I'll need your help with flights next month. It's going to be hectic.
+Amanda: No problem. That's my job. Send me your schedule in whatever form. Even a photo will do. And I'll handle everything.
+Ben: Everything? Really?
+Amanda: I mean: the flights, transfers, hotels, taxis. Don't take advantage of me! Lunches, coffee and love letters to your wife are your thing. I'm not going to make them for you :-)
+Ben: Especially the love letters :-)
+Amanda: Ok. So your best with the Japanese guys.
+Ben: I will. Have a good day, sweetheart!
+Amanda: You too 
+Summary: Amanda will help Ben to sort out his travel next month. Ben will send Amanda his schedule.
+Dialogue: Chris: Does she have any idea how horrible she looks in that color?
+Faye: No mirror, apparently.
+Chris: Yikes.
+Summary: She doesn't know how horrible she looks because she doesn't have a mirror.
+Dialogue: Cheryl: Are you going with us to Scotland in May?
+Ross: We want to go by car this time
+Ross: for about two weeks
+Kirsty: amazing idea, I'd love to very much
+Kirsty: but won't it be too cold still?
+Ross: we won't camp this time
+Neil: so hotels?
+Ross: or airbnb, something like this
+Neil: which will make the whole thing more expensive
+Ross: May is still before the season
+Neil: maybe you're right
+Kirsty: I'll join you for sure
+Neil: I think me too
+Summary: Cheryl and Ross want to go to Scotland in May, Kirsty will join them.

@@ -1,0 +1,512 @@
+Dialogue: Bob: did you reserve the tickets for tomorrow?
+Melanie: Jake promised me he will do that
+Melanie: he has some workplace discount on them
+Bob: Jake are you here?? Did you reserve the tickets?
+Jake: yes I did, 3 tickets for tomorrow, 7 pm
+Jake: and we got a 30% discount on them too :)
+Summary: Jake has booked 3 tickets for 7 pm tomorrow with a 30% discount.
+Dialogue: Victoria: great weather
+Victoria: for sex
+Jacob: heh
+Jacob: then go for it ;)
+Victoria: lewis is in hamburg
+Jacob: and what now?
+Victoria: nothing
+Victoria: the neighbours are having sex so i thought about it
+Jacob: :)
+Jacob: what's happening in hamburg?
+Victoria: work
+Victoria: doing special effects
+Victoria: for some advertisement
+Jacob: cool
+Jacob: i'm also working ;/
+Victoria: and i'm in bed enjoying the weather
+Jacob: but later thomas is coming and we're going to a concert
+Victoria: i'm also going later
+Victoria: but it's in 2 hours
+Jacob: <file_other>
+Victoria: a great film, isn't it?
+Jacob: haven't seen it
+Jacob: awesome soundtrack
+Summary: Victoria suggests having sex with Jacob. Lewis is in Hamburg for work. Jacob is also working and going to a concert with Thomas in 2 hours. Victoria is going to the concert, too.
+Dialogue: Ruth: hey, are we going to buy anything for Dev?
+Mira: Hi 
+Mira: Good idea
+Ruth: no ideas yet :) just asking who's in
+Mira: Me and Chris for sure
+Martin: I've already bought him something but I can join you anyway
+Ruth: what did you buy?
+Martin: nothing special, just a book 
+Ruth: okay. let's see who's in first 
+Tamara: I want to participate too!
+Tamara: but I dont know him so well, cant think of any ideas...
+Mira: Dev loves hiking
+Martin: how about some equipment?
+Chris: hi guys, great idea! let's get him something big :)
+Ruth: so who's going shopping? :)
+Martin: you Ruth? :)
+Ruth: ok but I'm not going alone!
+Martin: I'm out of town till Friday night :(
+Chris: l can go with you Ruth
+Chris: Wednesday afternoon?
+Ruth: that's perfect, thanks
+Ella: hi all! Ruth I can't go with you on Wednesday but I have an idea. Dev needs a new backpack!
+Ruth: thanks Ella! ok... Chris I'll definitely need your help with this :)
+Ella: I would suggest a Deuter, at least. or something better
+Chris: ok! :)
+Martin: totally right ella I saw his old backpack lol
+Ella: I know right? :)
+Ruth: oh you mean the red one?!
+Ella: the red and stinky one ;)
+Summary: Martin has already bought a book for Dev. Martin is out off town till Friday. Chris, Ruth and Ella want to buy a new backpack on Wednesday afternoon.
+Dialogue: Alice: so how is London kiddo?
+James: hey mum
+James: it's awesome!
+James: <file_photo>
+Alice: I see that the weather is typically English though :D
+James: yeah, it's very cold, but we don't mind that
+James: we saw Buckingham Palace, London Eye and Big Ben
+Alice: what about the place they made Harry Potter?
+James: We'll be there tomorrow!
+James: I can hardly wait!
+Alice: I suppose so!
+James: <file_photo>
+Alice: Where on Earth is your scarf James?
+James: well… that is a sad story really, I dropped it into Thames accidentally
+Alice: of course! Pls buy yourself a new one, I'll send you the money
+James: come on mum, I'm almost a grown up I can take care of myself
+Alice: I'll send you the money anyway!
+Summary: James is in London. It's cold. He saw Buckingham Palace, London Eye and Big Ben. He will se the Harry Potter film set. James lost his scarf in Thames. He will buy a new one. Alice will send him the money.
+Dialogue: Derek: As the Christmas time is almost upon us, I thought it may be a good idea to organise Secret Santa. What do you think?
+Anna: It's a marvellous idea!
+Michael: How does it work?
+Derek: You draw the person for whom you're going to buy a gift.
+Patricia: It's so cool! Please do it! Keep in mind that it must be a secret who everyone gets!
+Michael: Oh, ok
+Derek: Patricia's right. It's more fun when we don't tell each other who've got
+Anna: Are we organising it just for our team or the whole department?
+Derek: I don't know. I thought the department may be more fun, but then we don't know each other that well, so it may be quite troublesome to buy a right gift
+Patricia: Yeah, but the point of Secret Santa is not buying precisely what the other person wants, but just having a bit of fun
+Michael: I think we should stick to our team. There's the right number and I think 20 is enough
+Anna: Hm, you may be right.
+Derek: Ok, so now - price range. What do you reckon?
+Patricia: 30?
+Michael: It's quite a lot...
+Patricia: Well, can you buy a decent gift for less than that? I'm not talking about buying someone a candle...
+Anna: Hahaha, please guys don't buy each others candles...
+Derek: Linda from HR loves candles
+Patricia: Oh course she does
+Michael: Can we make it 20 then?
+Derek: For me it sounds fair
+Patricia: I think it's ok
+Anna: I agree, you can find something nice for 20 quid
+Summary: Christmas is approaching. Derek proposes organising Secret Santa for the team. There are 20 people in the team. Anna, Michael and Patricia agree. The price range is 20 pounds.
+Dialogue: Leena: hey bud
+Timu: whassup
+Leena: nm
+Leena: i finally have some time off from work, so I'm returning to the land of the living and socially-available
+Leena: :D
+Timu: praise be!!!
+Timu: <file_gif>
+Leena: <file_gif>
+Timu: so how much time do you have off?
+Leena: AN ENTIRE WEEK
+Leena: gonna have a staycation
+Timu: sweet!
+Leena: I was checking out shows at Alchemia
+Leena: and there's a battle of the bands coming up on Thursday
+Leena: would you wanna go and grab a beer?
+Timu: yeah I'm down :)
+Timu: I'll tell Dave and Isabel too
+Leena: awesome :D 
+Leena: can't wait to see you guys!
+Summary: Leena is taking some time off from work for a week. She and Timu will meet for a beer during her break. They will invite Dave and Isabel.
+Dialogue: Jim: Alex, do you know any good Italian restaurants in New York?
+Alex: Sure! When it comes to pizza, Beebe’s has the most delicious one in the city! As my friend once told me, Queens doesn’t have much of a reputation when it comes to pizza, but Beebe’s is helping to fill that void 😊
+Jim: Queens is too far for me. Maybe something else?
+Alex: Well, Best Pizza in Brooklyn has a serious claim to being the best, too. It’s topped with creamy ricotta and a generous helping of sweet caramelized onions. You’d love it!
+Jim: Oh, thanks Alex. I really appreciate your advice 😊
+Alex: No problem, mate
+Summary: According to Alex, good Italian restaurants in New York are Beebe's in Queens and Best Pizza in Brooklyn.
+Dialogue: Leah: <file_other>
+Leah: just look at themmmm!!!!
+Gary: Omg <3 the new track really is amazing
+Maggie: theyr'e onfire!!!
+Maggie: i cant control myself haha so cute!
+Gary: so when are we going to a concert? :D
+Leah: how about today haha...
+Gary: I wish <3 i don't think theyll be touring around here anytime soon tho...
+Maggie: if i sniff any info i'll let yall know asap!
+Leah: same! :D
+Summary: Leah, Gary and Maggie like the band's new song and would like to go to their concert.
+Dialogue: Theo: Did you see my text?
+Val: Oh sheiiit. Sorry dude
+Theo: It's fine. You still have time to decide if you wanna join us.
+Theo: Escape room, tonight, 4:30, come to my place at 4.
+Val: I'll make it.
+Theo: Nice!
+Theo: See ya in a bit!
+Val: See ya!
+Summary: Theo wants to go to Escape room tonight. Val will come to his place at 4 pm.
+Dialogue: Ann: Have you heard the news?
+Camilo: Yeah! Donald trump has announced to help Pakistan
+Ann: What do you think about it?
+Camilo: Pakistan needs it and Donald trump is a good person
+Ann: I guess so!
+Camilo: He would be making a love speech from his office this friday
+Ann: I might not be able to hear that
+Camilo: Need to prepare the assignments
+Ann: You can hear it on yt afterwards
+Camilo: I would try to
+Ann: Would you come to College tomorrow?
+Camilo: Yeah I would
+Ann: See you tomorrow then
+Summary: Donald Trump revealed a plan to help Pakistan. This Friday he will give a speech. Ann won't be able to listen. Camilo will watch it on yt later. Ann and Camilo will meet in college tomorrow.
+Dialogue: Lior: How was Amsterdam?
+Yoav: <file_photo>
+Avner: Awesome
+Avner: <file_photo>
+Summary: Yoav and Avner share photos of Amsterdam with Lior.
+Dialogue: Amber: Wanna go shopping?
+Esther: Today I'm busy
+Esther: But maybe on Saturday
+Amber: I want to buy a few dresses for the summer
+Amber: Plus I have a wedding to attend in July
+Amber: Need to get something nice
+Esther: Your cousin's, right? 
+Amber: Yes
+Summary: Amber wants to buy dresses for the summer and something to wear for her cousin's wedding in July. Esther is busy today and can't go shopping with Amber, but might have time on Saturday. 
+Dialogue: Pedro: I'm so frustrated
+Pedro: It's the fifth time I'm taking this exam
+Pedro: And I cannot get a good score
+Francis: What are you talking about?
+Pedro: TOEFL
+Kamil: I took it once
+Kamil: It was horrible
+Kamil: Super stressful
+Pedro: Did you get a good score?
+Kamil: I don't remember. I guess it was enough for what I needed
+Francis: I've never heard of it
+Pedro: It's an English test
+Pedro: You do it on a computer in a special centre
+Pedro: There is no human interaction
+Francis: That sounds weird 
+Summary: Pedro took TOEFL 5 times already, but he didn't manage to get a good score. Kamil took it once. His score was enough for him.
+Dialogue: Nathan: sorry, i'll be late
+Nathan: 10minutes
+Thomas: no worries 🙂
+Nathan: 🙂
+Summary: Nathan will be 10 minutes late.
+Dialogue: Hailey: What are we buying for Mark and Jenna?
+Ava: idk, i have no idea
+Ava: i googled out "gifts for newlyweds" and the internet recommended me embroidered pillowcases and a custom-label mason jar candle :/ do people rly buy this shit??
+Hailey: How about an excursion? Check this out:
+Hailey: <file_other>
+Ava: looks great! and it's not that expensive
+Ava: you know i'm always broke af :p
+Hailey: :) So you agree? Are we buying this?
+Ava: yeah, sure, this is a great idea
+Ava: what would i do without you, Hailey :)
+Summary: Hailey and Ava will buy an excursion for Mark and Jenna as their wedding present.
+Dialogue: Mandy: <file_photo>
+Adam: My little girl!
+Adam: She's soo pretty!
+Summary: Mandy sends Adam a picture of a little pretty girl.
+Dialogue: Meg: How's work?
+Meg: Don is Don, you know - pisses me off most of the time
+Tony: ok at work, they don't pay a lot, but still it's quite ok
+Tony: the manager is cool
+Meg: that's something for a start... 
+Tony: Yeah, and it's close
+Summary: Tony is quite satisfied with his job.
+Dialogue: Nicole: Dinner's ready, where are you?
+Matt: Sorry, got delayed.
+Matt: I'm coming, though.
+Nicole: OK, drive safe!
+Summary: Matt is driving over for dinner with Nicole but he will be late.
+Dialogue: Carol: wanna go swimming?
+Eve: no
+Carol: oh, please
+Carol: pretty please?
+Eve: still no
+Carol: why?
+Eve: u know I can't, maybe next time
+Carol: ok, I'll try again :)
+Summary: Carol wants Eve to go swimming with him, but she declines.
+Dialogue: Greg: Rosa, when can I expect you today?
+Rosa: I didn't know I was supposed to come today?
+Greg: You were. I told you my friends are coming for the weekend.
+Greg: I need the house squeaky clean!
+Rosa: Yeah, you mentioned that. But you didn't say I should come.
+Greg: I thought it was obvious you'll come Thursday.
+Greg: You know nobody else cleans my house?
+Rosa: I know that.
+Rosa: But I thought you could keep it clean for the few days.
+Greg: Extremely far-reaching assumption!
+Greg: Apparently too far. The house is a mess.
+Rosa: I can't come today, though.
+Greg: Tomorrow morning? Please! 
+Rosa: OK. I'll be there around 9.
+Summary: Greg's friends are coming for the weekend. Rosa will come to clean his house at 9 on Friday.
+Dialogue: Ben: Are you staying in Atwerp for Christmas?
+Charlotte: No, we're in Thailand till 5th of January
+Ben: what a pity, I was thinking about visiting you
+Emma: I'm sorry
+Emma: but...
+Ben: You want to take me to Thailand?
+Emma: hahaha, you can join us, sure
+Emma: but you can also stay at our place in Belgium
+Emma: it will be empty anyway for 5 weeks
+Ben: from when?
+Emma: we're leaving 5 of Dec
+Ben: cool, it's always an option
+Ben: i don't really feel like visiting my parents this year
+Charlotte: Won't they be sad?
+Ben: they will be, but I've hated the atmosphere at home since they told they want to divorce
+Charlotte: you're welcome to stay at our place
+Charlotte: But if I can suggest sth as a friend: I think it may be time when your parents really need your support
+Charlotte: Especially your mother
+Ben: Yes, I know, it's just so difficult 
+Ben: i'll think about it and let you know
+Charlotte: ok:)
+Summary: Charlotte is in Thailand from 5th December until 5th of January. Ben wants to stay away from his family on Christmas, because his parents are getting a divorce. He wants to stay in Antwerp for Christmas.
+Dialogue: Kian: The guys want to order pizza for tonight
+Kian: Are you joining us?
+David: What time do you want to eat?
+Kian: They want to order now
+Kian: We're all quite hungry
+David: I wont't be home until later
+David: But you can order for me
+David: I'll eat when I come back
+Kian: Cool, any preferences?
+David: Anything is ok for me
+Kian: Ok 
+David: I should be home around 10
+Kian: See you later!
+Summary: Kian's friends will order a pizza. David will have it after he comes back home.
+Dialogue: Sylvia: Hiya, are those Gap shoes still available?
+Alana: yes
+Sylvia: What size are they again please?
+Alana: infant 6
+Sylvia: I'd like them then please!
+Alana: great, when can you collect?
+Sylvia: Tomorrow around 8 or saturday morning. Are you around any of those days?
+Alana: Tomorrow 8pm is fine, its 14, BS6 5TG
+Sylvia: ok, see you tomorrow!
+Summary: Sylvia is going to pick up the Gap shoes, infant 6 tomorrow a 8 pm. Alana will meet her.
+Dialogue: Amanda: Greetings from Moldova guys <file_photo>
+Michael: Chișinău to be precise 😜 
+Alexis: looks cold!
+Amanda: it really is.
+Michael: But food is amazing here.
+Alexis: A lot of meat I assume?
+Michael: Not really, a bit veggie as well
+Alexis: How long will you stay there?
+Amanda: We want to sightsee a bit after the wedding
+Michael: We're taking a bus to Bucharest on 5 of October, 7 of October we've a flight to London.
+Alexis: nice, I've heard Moldova is beautiful in summer
+Michael: it seems so, now it's rather dark and depressive
+Alexis: like everywhere in winter, right?
+Amanda: But the omnipresent poverty is even more visible I think in this grey, dark reality of winter.
+Alexis: Sad, right?
+Amanda: Very. But one cannot do much. 
+Alexis: many beggars?
+Amanda: Not even so many. Everybody just seems so poor.
+Michael: Almost everybody, apart from few limousines hog the roads here.
+Alexis: let me know when you're back in London. I want you to come over for a dinner. and tell us everything 
+Amanda: with pleasure.
+Summary: Amanda and Michael are in Chișinău, Moldova. They will be taking a bus to Bucharest on 5 October and fly back to London on 7 October. Alexis invites them to dinner after they're back.
+Dialogue: Linn: Im cooking something nice! :P
+Zoe: What?
+Linn: Spaghetti carbonara!
+Linn: According to a real Italian recipe ;)
+Zoe: What do you need for this?
+Linn: some minced meat, a lot of ripe tomatoes, onion, garlic and cheeeeese!
+Zoe: Im sure it will be delicious!
+Linn: I hope! 
+Linn: look!
+Linn: <file_photo>
+Zoe: Wow, looks yummy!
+Zoe: my mouth's watering :P
+Linn: :P
+Summary: Linn is cooking spaghetti carbonara in accordance with the Italian recipe. Zoe thinks Linn's food looks delicious.
+Dialogue: Shelly: I'm looking for a fall coat, are there any good ones in today?
+Porter: We got some really nice wool ones in today. Come take a look!
+Shelly: I will! Be there on my lunch!
+Porter: You better take an early lunch, they will go fast!
+Shelly: Ooh! Okay!
+Summary: During early lunchtime, Shelly will come to Porter to take a look at wool fall coats which have arrived today. 
+Dialogue: Phil: Damn, the exam today was utter shit
+Doug: Yep, we're fucked
+Phil: Indeed :/
+Summary: Phil and Doug didn't do well on today's exam.
+Dialogue: Kingston: shall I take your books, Rich?
+Rich: yes, pls
+Kingston: ok
+Dev: 5 at Starbucks, right?
+Kingston: yes, see ya!
+Summary: Kingston, Rich and Dev are meeting at Starbucks at 5.
+Dialogue: Leo: im at the place
+Nick: ok i will be in 5 mins
+Leo: ok i will order a pizza
+Summary: Leo is going to order pizza. Nick will join Leo in 5 minutes.
+Dialogue: Osana: Hello sweetheart
+Osana: Sorry for replying so late, are you fine?
+Gaia: Hey, don't worry, I have been very busy with my exams :)
+Osana: Ah yes of course. Can I give you a ring in the afternoon?
+Gaia: Yes that would be perfect 😘
+Osana: Ok, talk to you then ;)
+Summary: Gaia is busy with the exams. Osana will call her in the afternoon.
+Dialogue: Teresa: where should we meet?
+Alan: at the subway station
+Teresa: which one?
+Alan: Nostrand Av.
+Teresa: Ok, but I need some more time to get there
+Alan: much more?
+Teresa: additional 30min
+Alan: ok, that's not bad
+Summary: Alan will meet Teresa at the subway station Nostrand Av. Alan isn't happy with Teresa being late 30 minutes.
+Dialogue: Arnold: Are you guys in?
+Sam: In town but will be home in 15 mins.
+Arnold: Cool, is it ok if I pop round?
+Sam: Sure
+Arnold: Need to ask you something
+Sam: Sounds intriguing - ask me now?
+Arnold: No better in person
+Sam: OK - see you soon then
+Summary: Arnold will pop around to Sam's place to ask him something he needs to do in person. 
+Dialogue: Zoe: Hey everyone! Hope it's all going well. I'm planing a Jesus formal for next Wednesday (21st). Let me know if you fancy it and I'll books you in :)
+Zoe: I've got Tom, Richard and Helen confirmed so far :D
+Helen: Tom, when did you get back?! :)
+Tom: Back on Friday! Very excited to be no longer in the motherland :D
+Zoe: You'll tell us all about it on Wednesday.
+Tom: :D
+Anne: Count me also in for the formal. 
+Summary: Zoe is planning a Jesus formal for Wednesday 21st. Tom, Richard, Helen and Anne will join. 
+Dialogue: Amber: Hi Smith, have you seen Eva??
+Smith: I am not sure but I guess she had a meeting with prof. Jordon.
+Amber: Yeah I remember.. I too have to meet him.
+Smith: What is the meeting about??
+Amber: Don't you know? 
+Smith: No
+Amber: Prof Jordon is looking for a student who can work under his supervision. He is giving a research related projects.
+Smith: Well can i also meet him?
+Amber: Yeah why not..
+Smith: Yeah i guess, I must meet him because I was planning on writing a research paper.
+Amber: Then you must definitely meet him.
+Smith: Thank you Amber.
+Amber: No problem Smith.
+Smith: Let's meet Prof. Jordon together.
+Amber: Yeah sure.
+Summary: Amber wants to meet with Prof. Jordon as he's looking for students to work under his supervision. Smith wants to meet Prof. Jordon to talk about his research paper. Amber and Smith will meet him together.
+Dialogue: Dad: Hi Bobby, How is everything? We went to Niagara-on-the-Lake on Sunday.
+Bobby: For your anniversary? That's nice! How's your back, though?
+Dad: Yeah, just to get away for a bit. Actually the pain has moved down to my right foot
+Bobby: Is that better or worse? Maybe you should do the exercises I was doing for my back.
+Dad: I was doing some exercises. I saw my doctor today and taking some pills
+Bobby: Remember that book you bought me when I had my back issues?
+Dad: Yes, I have to find time to take care of myself.
+Bobby: I'll find the title and text you. The exercises really helped me. Let's talk tomorrow, gotta go
+Dad: Ok, take care, love you
+Bobby: Bye, love you
+Summary: Dad went to Niagara-on-the-Lake on Sunday. Dad's pain has moved from his back to his right foot. Dad has been to the doctor. Bobby will find the title of a book with exercises and text it to Dad.
+Dialogue: Nancy: Just wanted to say I M U!
+Carlos: I miss you too. It was such a great weekend with you. I never have enough of it.
+Nancy: Yeah! And then you say you're hooked.
+Carlos: I am. Hooked on you.
+Nancy: Or is it hooked on sex?
+Carlos: With you.
+Nancy: You are impossible!
+Carlos: When shall I see you? Any chance before the weekend?
+Nancy: Not really. Have to swot for the test on Friday. I must also sort out some things at home. And I have to go and see uncle Tom, it's his birthday.
+Carlos: Can't we visit him together?
+Nancy: Good lord! He would get a heart attack!
+Carlos: Why? You always say I'm very presentable.
+Nancy: Of course you are. For me you're the most attractive male in the universe.
+Carlos: The thing with uncle Tom... Has it something to do with me being Mexican?
+Nancy: Don't forget that uncle Tom is a staunch WASP.
+Carlos: That IS ridiculous! We aren't in the 19th century. Not even in the 20th!
+Nancy: I know but that's the way he is. He can't imagine that his favorite niece could be paired with anyone but a respectable WASP.
+Carlos: Well then. Are you trying to tell me that because of him we will never be able to get married and have a family together?
+Nancy: Look. We don't have to discuss it like that. We'll talk when we meet. Right?
+Carlos: So why are you meeting me if not with the prospect of having a family with me one day?
+Nancy: We just have fun together. We like each other. We both like similar things.
+Carlos: Like sex?
+Nancy: Yes. You're the best lover I've ever had.
+Carlos: So I'm just your sex  toy. To be discarded when the time comes to get married.
+Nancy: Carlos darling PLEASE!
+Carlos: I have nothing else to tell you.
+Nancy: Darling I love you!
+Summary: Nancy doesn't want to bring Carlos for her uncle's birthday, because uncle Tom wouldn't appreciate Nancy and Carlos being together. Carlos is mad and he realizes Nancy doesn't treat their relationship as seriously as he does. Even though Nancy believes it's all about fun, she claims to love Carlos.
+Dialogue: Maggie: Happy birthday love!!! xxx
+Jessie: You remembered!
+Jessie: Thanks darling! <3
+Maggie: How are you? How's life? :)
+Jessie: Oh everything's good, I've a new job!
+Maggie: wow! Congrats!
+Jessie: Thanks, it's been great so far, I've had to move to Brussels though
+Maggie: Exciting! I've been to Brussels, but only for a day, it looked cool
+Jessie: It is, nice city, people are nice and they speak French so I can practice :)
+Jessie: Are you doing anything special today?
+Maggie: Frank and I are going to have sushi and then to the theatre :)
+Summary: Jessie has a birthday today. She got a new job. Maggie and Frank are going out for some sushi and later they are going to the theatre.
+Dialogue: Keane: I found a dead pigeon on my balcony
+Emerald: You can make an elixir with its blood 
+Rose: WTF?? 
+Rose: The pigeon has to be alive for the elixir !!!
+Summary: Keane found a dead pigeon on his balcony. 
+Dialogue: Harvey: Hey Dona, i'll be running late. please reschedule my meeting
+Dona: but its an important one
+Harvey: yeah, i know, but please find a way
+Dona: Okay Harvey, but better have an explanation for the client
+Harvey: Dont worry, i have one, but ill explain later after i arrive
+Dona: okay sir
+Harvey: thanks Dona
+Summary: Dona will reschedule the meeting on Harvey's request.
+Dialogue: Mark: Do you already have this CD?
+Ann: Not yet.
+Ann: I am waiting for Kate to bring it to me.
+Mark: OK, thx!
+Summary: Ann is waiting for Kate to deliver this CD.
+Dialogue: Tom: Good afternoon. I have received your contact details from my colleague Anna.
+Diana: Hello Tom, it's good to hear from you. Anna told me you will be in touch. How can I help you?
+Tom: Actually, there are two things. First of all, my wife and I are looking for a flat. At the same time we want to sell our old flat.
+Diana: I understand. Thank you for contacting me, I think I will be able to assist you. Are you looking for a flat to buy or to rent?
+Tom: This is one of the things we've been discussing with my wife. What are the current trends? Which option do you suggest?
+Diana: It depends on what you value more, it may sound obvious, but if you value stability more than flexibility, I would suggest you invest in buying a flat.
+Tom: We were looking for something bigger than what we own now, but we may not have a budget for something we may need in the future.
+Diana: In this case I would suggest maybe buying something smaller to rent and renting at the same time a small flat to save or buying something slightly below the budget, so you could save for later.
+Tom: Thank you! This is a great advice!
+Tom: I will talk to my wife, but for now, I think we could focus on buying something similar size.
+Diana: How many rooms are you looking for?
+Tom: Two bedrooms at least, joined kitchen and living room is fine as well.
+Diana: Do you have any preferred neighbourhood?
+Tom: Anywhere near the tube station within zone 3 is acceptable.
+Diana: Thank you. What's your current budget?
+Tom: We were thinking about £400 000. Would it be possible?
+Diana: I think so. Would you accept a flat that needs to be renovated?
+Tom: It depends on how much we can sell our flat for.
+Diana: How much are you aiming for?
+Tom: At least £300 000, it's in a very good condition, good neighbourhood and it has been renovated only a year ago.
+Diana: Could you please send me some pictures? I would also gladly make an appointment with you.
+Tom: That would be perfect!
+Diana: Would Monday at 8 be acceptable?
+Tom: Hm, I need to consult it with my wife, but so far it's all right.
+Summary: Tom and his wife want to sell their apartment and get a new one. Tom contacts Diana. He describes his expectations. Diana will help him and his wife organize the transactions.
+Dialogue: Ammalee: <file_photo>
+Ammalee: This lasted over a month.♪┏(・o･)┛♪┗ ( ･o･) ┓
+Ammalee: Could you recommend other styles? (?_?)
+Maryann: Ah! Hello Ma’am! Thank you for the good review! (＾▽＾)
+Maryann: Is there any style you want to do next time?
+Ammalee: Yes, I heard about Acrylic nails and Linen. Which one would be better? (´∀`)
+Maryann: If you want the nails to last longer I recommend you Acrylic rather than Linen. ✌️
+Maryann: If you have any design in your mind, send me pictures. ☺️☺️☺️
+Maryann: Then I could try them on your nails next time!!(^^)!!(^^)!!(^^)!
+Ammalee: Thanks, I will send you some pictures soon!
+Summary: Ammalee sent Maryann a photo of her nails that lasted over a month. Maryann will try Acrylic instead Linen on Ammalee's nails next time. Ammalee will send Maryann a photo of a design that she would like to have on her nails.
+Dialogue: John: Could you buy a set of forks for me at IKEA?
+James: LOL, set of forks?
+John: <file_photo> this
+Patt: no problem!
+John: thanks!
+Summary: James will buy a set of forks at IKEA on John's request.

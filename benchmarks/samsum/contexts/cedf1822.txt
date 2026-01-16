@@ -1,0 +1,447 @@
+Dialogue: Grace: Mike where the fuck are you?!!!
+Mike: Sorry, I got stuck in traffic!
+Grace: Why didn't u say anything?! I kept waiting in the rain like a moron!
+Mike: Sorry, I lost track of time
+Grace: You always loose track of time, I'm so fed up with it!
+Summary: Mike is late because of traffic. Grace has been waiting for him in the rain.
+Dialogue: Violetta: nice thought from the Bolshoi theater.. to see La Bayadère. It's such a long time i wanted to see it again. It's not the Kremlin but the Strasbourg movie theater is not bad either...
+Betka: that true, you may enjoy opera and ballet from the biggest stages in your local movie. I 'm in Vendome on my way back to Paris.
+Violetta: Have a safe trip back
+Betka: enjoy La Bayadère!
+Violetta: so nice. It's intersession for 25minutes. I miss champagneskoie and red caviar!
+Betka: of course red caviar! How is the primadonna?
+Violetta: Olga Smirnova plays Nikiya, and Artemy Belyakov is Solor.
+Betka: enjoy!
+Summary: Betka is in Vendome on her way back to Paris. Violetta is watching La Bayadère, with Olga Smirnova as Nikiya, and Artemy Belyakov as Solor.
+Dialogue: Elijah: What do you think about a new coach?
+Owen: I don’t think he’ll change anything
+Elijah: Why
+Owen: Look, he has some new ideas, that’s true, but he doesn’t seem to control anything
+Elijah: It’s all a bit messy, true. But it’s just the beginning, a few first games
+Owen: Aaand let’s hope it’ll get better, if not, we’re absolutely screwed
+Elijah: I believe in him, ha has such a wit, a lot of energy
+Owen: But he is NOT a good professional, you’ll see
+Elijah: Ehhh we can never afford someone really good…
+Summary: New coach has come with new ideas but after first few games he is judged poorly by Owen and Elijah.
+Dialogue: Magnus: did you see the new Netflix logo animation?
+Nina: I sure did
+Magnus: any thoughts
+Nina: I like it
+Nina: it's not super original but still
+Magnus: saw this at the beginning of that new series
+Magnus: the best thing about the show so far, hehe
+Magnus: it's okay
+Magnus: the animation I mean
+Nina: but it's just for the original Netflix series, right?
+Magnus: yeah
+Magnus: you know they're trying to differentiate their original productions
+Magnus: as war is coming :)
+Nina: you mean?
+Magnus: you know, the streaming war
+Magnus: there will be new streaming services from Apple and Disney
+Nina: right
+Nina: interesting times ;)
+Nina: I wish they'd update the chime ha!
+Magnus: it's too familiar to change it now
+Summary: There is a new Netflix logo animation. War is coming as there will be new streaming services from Apple and Disney. 
+Dialogue: Alexandra: Hi, could you send me a photo of that grammar tasks for tomorrow?
+Nicole: Sure. Wait a sec:)
+Alexandra: Great!
+Nicole: Ok... Here it is
+Nicole: <file_photo>
+Nicole: Enjoyyy!
+Alexandra: Ex 7-12, yes?
+Nicole: Exactly:)
+Alexandra: Its pretty difficult :/ You did it??
+Nicole: Not yet
+Alexandra: Ok
+Nicole: But it’s based on what is in our textbook:)
+Alexandra: Ok, many thanks :*
+Nicole: Anytime:)
+Alexandra: :)
+Summary: Nicole sent Alexandra a photo of grammar tasks for tomorrow. Nicole hasn't done them yet.
+Dialogue: Anne: Where did you park?
+Kirsten: at the city hall
+Johnny: but we have a new car, I didn't tell you, it's green
+Anne: ah! ok!
+Summary: Kirsten and Johnny parked at the city hall. They have a new green car.
+Dialogue: Benny: So, how does this ProtonMail work?
+Darcy: It's an end-to-end encrypted service, so whenever you send an email, your browser or provided creates 2 encrypted RSA keys. One stays on your computer and the other one is sent to the recipient. 
+Cory: I don't get it. 
+Benny: Sry, me neither. 
+Darcy: Watch this <file_video>
+Cory: Oh! That's more like it. 
+Benny: So except me and the other person no one else can read my messages?
+Darcy: Nope. Not the internet provider, not the service provider, not a hacker and not even the government. 
+Cory: Why would I use it? I don't have anything to hide.
+Darcy: Not even photos you're ashamed of?
+Cory: Well, maybe...
+Summary: Darcy explains to Benny and Cory how the ProtonMail works. Cory has nothing to hide apart from his photos.
+Dialogue: Chris: hey you
+Sue: hiya long time hows you?
+Chris: um not good iv fucked up my hip
+Sue: oh thats not good
+Chris: no I might need a hip replacement
+Sue: how did you do that
+Chris: I fell over in the snow
+Sue: where?
+Chris: Margate in march but walking again now
+Summary: Chris injured his hip when he fell in the snow in March.
+Dialogue: Mary: i met Jil in a mall
+Jane: oh! :) what's going on with her?
+Mary: she just came from Paris
+Jane: big return of..Jil?
+Mary: no, she just have to take her stuff
+Jane: so she's moving there for ever???
+Mary: unfortunately
+Mary: she met a cute Jean
+Jane: this guy from Vienna?
+Mary: no, that was Gunther
+Jane: so who is Jean
+Mary: it's the funniest part of story!
+Mary: he's her boss xd
+Summary: Jil came from Paris to take her things. She's moving there forever, because she met Jean, who is her boss. 
+Dialogue: Drew: <file_other>
+Drew: Here's my article
+Lloyd: Ok, thanks! I'll read it after lunch
+Drew: Thanks, I'll appreciate any comments and feedback
+Lloyd: Sure, no prob
+Summary: Lloyd will read Drew's article after lunch and provide feedback.
+Dialogue: Jane: Hi Mark, I woke up 2 the beautiful present :)
+Jane: Thank u!
+Mark: I hope the earrings will suit you!
+Jane: They're absolutely gorgeous! They match my red dress.
+Mark: Luv u to the moon & back!
+Jane: Luv u more <3
+Summary: Mark gave Jane a pair of earrings as a gift. 
+Dialogue: Natalia: Hi Julia, i met Sacha at the airport. He told me you're still in UK. Do you need anything?
+Julia: thanks Nat. I'll be back only for holidays. I'll call you for a lunch
+Natalia: ok. We'll go a couple of days to  Barcelona, but for sure we have lunch next week
+Summary: Natalia met Sacha at the airport. Julia is still in the UK and will be back for holidays. Natalia is going to Barcelona for two days but she wants to meet Julia for lunch next week.
+Dialogue: Philip: Hello beautiful
+Mary: heyyy
+Philip: you look so beautiful in in your profile pic
+Philip: you look good enough to eat
+Mary: ok...
+Philip: youre just so hot
+Mary: uhhh thanks???
+Philip: I just thnik youre beautiful
+Mary: thanks
+Philip: youre not being very nice
+Mary: excuse me?
+Philip: you could say something
+Mary: there's reallyu nothing I can say
+Philip: you could tell me I'm cute
+Mary: ????
+Philip: yeah, you could be nice and answer with something nice!
+Mary: I really don't know what to write to you 
+Mary: this conversation got very weird
+Philip: yeah you grils don't know how to be nice
+Philip: you're all the same
+Mary: ??? what the hell
+Philip: <file_photo>
+Mary:  a dick pic! really 
+Mary: Ok Im out of this conversation
+Philip: yeah well fuck you! 
+Summary: Philip is hitting on Mary. She is confused. When he sends her an improper photo, she leaves the conversation.
+Dialogue: Hugh: I'm going fishing on Sunday, who's coming with me?
+Jim: I'll go, as long as you lend me one of your fishing rods.
+Hugh: Sure, you got it.
+Mark: Sorry, it's my parents' wedding anniversary. Can't we postpone it?
+Hugh: I'm leaving on vacation next week. But we can go again when I'm back.
+Fred: I can go. And we could take my car, it's big enough for the three of us and all our stuff.
+Jim: Does beer count as stuff? I got a new portable fridge and I'm going to try it out.
+Fred: Hey, that's not fair, I can't drink if I'm the driver!
+Hugh: We're really sorry for you. Jim, of course we'll test your fridge!
+Jim: We can pack some coke for you, Freddie!
+Mark: I really hate you, guys!
+Fred: Me too! Next time it's Jim's turn to drive!
+Summary: Hugh will go fishing with Jim and Fred. They will take Fred's car and he is going to drive. 
+Dialogue: Edward: Clementine, have you looked over the notes that I sent you? It's imperative that this task is finished as soon as possible.
+Clem: No, I'm sorry but I haven't - I'm still reviewing the Damocles case. I'll get right on it once I've finished that.
+Edward: You can leave the Damocles case for now. Or give it to Ida or Rick to look over. It's more important that you finish this.
+Clem: With all due respect, didn't Mr Jones say that he wanted the Damocles case first? It's due tomorrow, while this still has a week left. Also, I can't give it to Ida because she's away on maternity leave.  
+Edward: The Damocles case has been rescheduled, so it's not longer a priority. Is Rick available? I'll contact him to let him know.
+Clem: There's no need - I'll ask him. However, I believe he mentioned that he was going on a business trip.
+Edward: That's true - Gordon needed someone to help him review a client. Ask him to be sure. 
+Clem: Of course.
+Summary: Edward would like Clem to prioritize the notes he sent her. Clem is still reviewing the Damocles case. Edward suggests she hands this over to Rick and focuses on the notes. Clem will contact Rick. 
+Dialogue: Ava: Billy dear! I'm such a scatterbrain. Could you please check if I've emptied the deep freeze.
+Billy: D'you mean the deep freeze in the basement?
+Ava: No. The compartment in the fridge. In the kitchen. I've put it on defrost but can't remember if I'd taken everything out.
+Billy: Just a mo.
+Billy: There's one pizza in it. Still frozen.
+Ava: Just have it. I'm sure it's in perfect condition. Thank you so much!
+Billy: Ta! A Sunday treat for me then :)) Where are you?
+Ava: At the airport. And of course out flight is delayed. By now only 20 mins :(
+Billy: Be happy that it's not cancelled.
+Ava: Still open to this development. George is already grumpy like an old woman.
+Billy: No worries. He'll perk up after the first drink on board.
+Ava: If we ever get there! "Your delay is 40 minutes". I hate it!
+Billy: Look, I have saved your fridge and my pizza. Sooner or later you'll be there. Cheer up! 
+Ava: You are right. I'd better go and have a drink with my beloved husband NOW.
+Billy: Have a short wait and a good flight!
+Ava: Ta!
+Summary: Billy checked the deep freeze on Ava's request, and found pizza in it. Ava told him to have it. Ava and George's flight is delayed for 40 minutes and it makes them angry. Therefore, Ava and George are going to have a drink.
+Dialogue: Tristan: i lost my wallet!!!
+Tristan: i'm freaking out!! :-0
+Tristan: did I leave it at your place?!?
+Laura: take a deep breath tristan
+Laura: let me check
+Laura: my place is a mess from the party last night
+Laura: it was crowded and i still haven't cleaned up :-(
+Tristan: thanks i appreciate it
+Laura: be patient while i look for it
+Laura: you should see this place, it's a pig sty
+Tristan: again, thanks so much
+Tristan: that wallet was a gift from my grandfather
+Tristan: it has a lot of sentimental value and i would never forgive myself if i lost it
+Laura: good news!! it's here!
+Tristan: I'M SO RELIEVED!!! :-)
+Tristan: THANKS LAURA!!!
+Tristan: can I pick it up later?
+Laura: sure, I'll be here all day taking care of the mess
+Tristan: i'll help you clean up!
+Laura: that sounds great :-D
+Summary: Tristan left his wallet at Laura's place. Laura's place is messy after the party last night. Tristan got the wallet from his grandfather. Tristan will pick up the wallet later and help Laura clean up. 
+Dialogue: Ian: God damn! I'm not gonna make it on time!
+Phil: What happened?
+Ian: Long story. I'll be there in about an hour.
+Phil: So, we'll begin the meeting without you?
+Ian: Certainly, you do that.
+Phil: Should I go into details?
+Ian: No, wait for me. Just give them the overall picture.
+Phil: No problem. Drive safely!
+Summary: Ian will be there in about an hour. Phil will start the meeting but won't go into details until Ian arrives.
+Dialogue: Carly: so tell me about yr holidays....drunk and debauched or lazy? xx
+Andy: A bit of both, it was all inclusive so I might have drank a bit too much. I was good though and only ate healthy meals lol x
+Carly: The food on the cruise was out if this world seriously..Proper fine dining or buffet whatever you wanted xx
+Andy: Wow sounds great, I do like a good buffet lol xx
+Carly: And the entertainment was brilliant.. saw Grease the musical..that was fab xx
+Andy: I'm getting very interested in a cruise now x x
+Carly: I'll come with you if you want.. you can get the taster ones for 3 or 5 days leave Southampton, the one I went on with Mum had a shopping mall in the centre of the ship.. it was amazing.. x
+Andy: Looks great we could have a great laugh together😂😂  you will have to come with me to show me the ropes x x
+Carly: I'd love too.. let me know your holidays and I'll see what's about.. the taster ones can be done on a long weekend mind xx
+Andy: I've got 15 days left this year I think its pretty free for when I can take them x x
+Carly: I'm flexible with my work too so we may find a decent cheap on.. we paid 400 each for that one we were on xx
+Andy: We need a balcony suite for def xx
+Carly: Defo, no point in going on a cruse if you cant see the sea from your bed :) 
+Andy: Hello you 😊I had a look online last night but it's a bit of a cruise minefield to be honest lol x x
+Carly: Yes it is a bit.. there's a 3 day taster to Bruges in Sept 300 ish each from Southampton .. no point in booking for longer unless you know you will like it... you could be green hanging over the side all week lol xxx
+Andy: If it sounds like it's a good deal and it's the right accommodation then I think we should book us a little getaway then x x
+Carly: Yes definitely be good.. I'll send you details tomorrow xxx
+Andy: Send me the dates and I will book the holiday with work
+Carly: Ok will do xxx I'm excited xx
+Andy: So am I. We are going on a cruise 😊😊x x
+Carly: There is an 80's special for 5 days but it's about 500 and we would probably end up drunk and disorderly
+Andy: Well I thought we would end up drunk and disorderly anyway lol. How do you feel about that one or are you wanting just a bit less mayhem 😊x x
+Carly: No it would be fab I expect I'll find out more and see how much I  can afford lol xx How about Southampton to Bruges back to Southampton on 5th Oct for 3 nights.. 366pp.. balcony suite..
+Andy: Sounds good, I'll come over this weekend and we can look together xx
+Carly: Ok Babe see you Friday xx
+Summary: Andy was on holiday. Carly suggests that they should go together for a cruise holiday. They want to take a balcony suite. Andy and Carly arranged a meeting on  Friday to discuss their holiday. 
+Dialogue: Ben: Surprise birthday party for Holly? any thoughts?
+Gina: OMG! i think it's a totally awesome idea!
+Mark: yeah, she loves surprises!
+Gina: so what do you want us to do?
+Ben: i'm gonna order a birthday cake but need someone to pick it up
+Mark: fine, no problem!
+Ben: i'm gonna do some shopping cause i wanna cook everything myself
+Gina: yeah, she loves your cooking! what about her birthday present? do you need a hand?
+Ben: that would be brilliant!
+Gina: any balloons or other birthday stuff?
+Ben: why not! just not to much!
+Gina: yes, sir! haha! i can't wait!
+Mark: and most importantly we have to keep our mouths shut! xx
+Summary: Ben wants a surprise birthday party for Holly. Mark will pick a birthday cake up. Ben will cook everything himself. Gina will buy a birthday presents and will take care of other stuff.
+Dialogue: Jack: Emelia, what grade did you get in Robotics?
+Emelia: A*
+Jack: Well that's great. I too got an A*
+Emelia: Superb
+Summary: Emelia and Jack both got A* in Robotics.
+Dialogue: Damian: Have a situation and need your help mate. Are you around atm?
+Jim: Sure. What's up?
+Damian: Got a flat tyre on the corner of Collins and Flinders St, and I have no jack or spare atm.
+Jim: Struth! You don't make it easy for yourself, do you?
+Damian: Apparently not.... can you drive around to my house and grab the spare from the garage? The jack should be next to the tool box.
+Jim: Sure. I can do it after work so you'll have to wait a while.
+Damian: Thanks! You're a lifesaver you! Owe you big time. 
+Summary: Damian's got a flat tyre on the corner of Collins and Flinders St. Jim will grab a spare tyre from his garage and will come to help him.
+Dialogue: Rory: school is fine... appart from the massibe bomb scare in the science block and the huge fire that destroyed 1/2 the school Polly has left choir so it's just me and josh arrowsmith holding up that fort. And 1/2 the teachers left because they were feeling rather cold. Oh, and Mr Tate is the new head teacher
+Rory: haasn't changed much though
+Alice: WHAT?!!!!!!!!
+Alice: HUGE FIRE!
+Alice: TEAHCERS LEAVING!
+Alice: MR TATE!
+Alice: (fainted)
+Rory: joke!!! none of that happened... appart from the 'Mr Tate' thing
+Rory: and the choir
+Rory: don't faint... please...
+Alice: wait, so there WAS a fire
+Rory: no... there wasn't a fire... or a bomb scare
+Rory: Mr tate isn't head teacher... and nothing burned down
+Rory: :)
+Rory: not yet anyway ;)
+Alice: ah
+Rory: sorry about that
+Alice: it's okay :P How did your History test go?
+Alice: Rory??
+Alice: rory's disappeared
+Alice: well, looks ike im gonna have to dissapear now :/
+Alice: bye bye
+Alice: PUFF (me dissapearing)
+Summary: Alice was scared, because Rory joked about a bomb attack and a huge fire in the school. Polly left the choir, so there is only Rory and Josh Arrowsmith in the choir now.
+Dialogue: James: hiya do you know whats wring with our washing machine?
+Sue: how would I know that james???
+James: lol.. yes well its stopped and the doors jammed but theres still water in the drum???
+Sue: hmmm.. that sounds like the fuse has gone or something.. are your lights working?
+James:  lights??? dunno what you mean?
+Sue: OMG james, the lights in the flat, you know switches on the wall.. stupid!
+James: oh right lol... no
+James: no they not
+Sue: what about the tv, are the lights on it, any power?
+James: no nothing
+Sue: ok do yu see the fuse box on the wall by the top of the front door? go to that and there is a big switch that say off and on do you see it?
+James: yes
+Sue: is it off
+James: yes
+Sue: switch it on
+James:  wow.. that nearly worked, it went on and straight off again
+Sue: oh that sounds like a dodgy fuse somewhere.. have any bulbs blown lately?
+James: dunno i just go up and saw washing machine was stopped i was gonna hang the clothes out
+Sue: ok, i'm gonna call John the electician to come over, are you in for the day or do I have to come over and wait for him?  This is a pain in the ass, i'm busy today
+James: no its ok I can be here
+Sue:  I'll call him now and get back to you
+Sue: right he says he can be there for 12 is that ok?
+James: yh thats good thanks Sue xx
+Summary: James had problems with washing machine. Sue instructed him to turn on the switch in the fuse box, but it didn't solve the problem so she called the electritian.
+Dialogue: Jerry: We are planning to spend Christmas in our house on Cape Cod
+Jerry: So we wondered with Jenny if anybody would like to visit us over the Christmas break
+Margaret: what a nice idea, I'm staying in Boston, so I may come over for 1-2 days
+Jerry: great. you can relax here quite well, take a walk on the beach etc.
+Pat: Can I come with children?
+Jerry: sure, it's perfect for children here
+Margaret: you may also come with me Pat
+Jerry: when would you like to come?
+Jerry: we'd prepare the rooms etc
+Margaret: maybe 26 of December?
+Pat: yes, I have to be in New York on 24th
+Sigmund: I will go from New York to Boston on 25th, so I can bring you back
+Pat: god, guys, you're so nice!
+Sigmund: c'mon, it's normal, and it's nicer not to drive alone for 3 h
+Jerry: ok, so we will expect you on Cape Cod 26 of Dec
+Pat: where exactly is the place?
+Jerry: in Chatham
+Margaret: lovely! it's such a charming town
+Jerry: it's indeed
+Jerry: and we want to share it with friends
+Margaret: so nice!
+Summary: Jerry and Jenny are planning to stay in their house in Cape Cod for Christmas and invite Margaret and Pat to visit them. Margaret and Pat together with her children are expected in Chatham on December 26th.
+Dialogue: Gwen: Great job, Joe, you only had one job - water the plants.
+Joe: I did.
+Gwen: I don't think so. I just got back home and they look pretty dead to me.
+Joe: They were absolutely fine yesterday. I watered them just like you told me.
+Gwen: It's a desert, Joe.
+Joe: What am I supposed to tell you, Mum? Maybe there was something wrong with the water.
+Gwen: Which watering can have you used?
+Joe: Green one.
+Gwen: Aha, thanks Joe. We don't have a green watering can.
+Summary: Joe didn't water the plants and killed them. 
+Dialogue: Isla: Hiya, we are looking for birthday present ideas for Isabel?
+Wendy: we are giving her a dolls house, so maybe some furniture? 
+Isla: what kind of dolls house is it?
+Wendy: <file_photo>
+Isla: that's very cute
+Wendy: cool eh? but no dolls or furniture yet
+Isla: leave it with me, anything else? 
+Wendy: She is a big fan of Paw Patrol, so anything from them is a hit.
+Isla: that's easy! is she still in to drawing and painting?
+Wendy: very much so, and duplo.
+Isla: brilliant, I have some ideas, thanks! 
+Wendy: no worries, see you on the 17th? 
+Isla: absolutely! 
+Summary: Wendy's giving Isabel a dolls house for her birthday. They have no furniture or dolls yet, so it's an idea for Isla. Something from Paw Patrol or drawing and painting things are further ideas. The party is on the 17th.
+Dialogue: Sophie: cooking session on tuesday
+Alice: i'll be there.
+Sophie: oops sorry, this tuesday it's serving class
+Alice: don't worry, whenever there is a practical session i'm here. I should be at school
+Sophie: it's gonna be great to see you again
+Alice: ok. let me see
+Sophie: Tuesday is definitely the best day of the week
+Alice: you say so...
+Sophie: i really missed you, you know!
+Alice: I'll be happy to see you again, but may be i'll sleep during the serving class
+Sophie: that's impossible!
+Alice: i'm very good at it
+Sophie: you're my sunshine
+Alice: you too
+Summary: Sophie is giving a service class on Tuesday. Alice will be there.
+Dialogue: Gordon: Did you see my car, bro?
+Gordon: <file_photo>
+Gordon: It's my first car ever! And I love it! :)
+Leo: Grats, bro!
+Leo: It looks awesome, I have to see it with my own eyes!
+Gordon: Are you home?
+Leo: Yeah
+Gordon: Look out of the kitchen window :)
+Leo: No shit :D
+Leo: Wait, I'm coming!
+Gordon: Waiting :D
+Summary: Gordon has bought his first car and shows it to Leo.
+Dialogue: Tiffany: finished?
+Will: oh yeah it was goooood
+Tiffany: remember to wash it down with beer 
+Tiffany: <file_gif> 
+Will: oh I will
+Will: <file_gif> 
+Tiffany: :D
+Tiffany: let's just hope u won't react to the mushrooms like we did last time
+Will: oh well, one or dwo days off won't harm anyone 
+Will: <fiile_gif>
+Tiffany: but the smell...
+Will: :X
+Tiffany: <file_photo>
+Will: ooooh good job!
+Tiffany: yeeaah, with meat!
+Will: homemade?
+Tiffany: Duh
+Will: I forgot. always.
+Tiffany: always.
+Tiffany: but this time I had to freeze them
+Will: <file_gif>
+Tiffany: but i had made them before freezing! 
+Will: yeah but now they're not that fresh, are they
+Tiffany: could argue with that!
+Tiffany: have to go. byeee!
+Will: bye 
+Summary: Will has just eaten and Tiffany hopes he won't react to the mushrooms like he did last time. 
+Dialogue: Marnie: Hello darling, how are you feeling?
+Tonya: the session's begun :/ :/
+Marnie: thats why im askin babes :D
+Tonya: you the drill, i had so much time to cram it and i left it for the last weekend, usual stuff hahah
+Marnie: thank God i finished with this evil heheh
+Summary: Tonya has a session. She had a lot of time to learn, but she left it for the last weekend.
+Dialogue: Arturo: <file_photo>
+Talia: Ah I love all the sea views
+Arturo: I do too, it really is great. I'm home now though.
+Talia: I wish to live in a place with such a view
+Arturo: That's the bay of Maputo.
+Talia: Really nice
+Arturo: When are you off to Faro?
+Talia: In September
+Arturo: That's around the time I'll be in Lisbon.
+Summary: Arturo send Talia a photo of the Maputo Bay. Talia's going to Faro in September, Arturo will be then in Lisbon.
+Dialogue: Eddy: Hey man. I need your help with something.
+Eddy: R U free later today?
+Jacob: Sure. What U need?
+Eddy: I need help with my laptop.
+Eddy: Something pops up, it crashes and it's generally too slow to even launch windows games
+Jacob: Sure. I'll bring my data storage so we could backup your files as you mentioned earlier
+Eddy: Thanks
+Eddy: I'll buy some beer
+Jacob: A beer with U is always a pleasure my friend :D
+Eddy: Hahaha. Likewise
+Summary: Eddy needs Jacob's help with his laptop. Jacob will come to Eddy today and bring his data storage to back up Eddy's files. Eddy will buy beer. 
+Dialogue: Sean: Could you inform the student that his application was accepted?
+Pieter: Of course, he will be relieved, I am sure.
+Sean: He should.
+Summary: Sean wants Pieter to tell the student his application was accepted and Pieter agrees.

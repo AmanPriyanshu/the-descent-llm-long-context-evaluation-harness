@@ -1,0 +1,367 @@
+Dialogue: Roger: Mr. Moore. Did you receive my letter?
+Moore: I did indeed.
+Roger: And? What do you think of it?
+Moore: Quite frankly, I am rather surprised.
+Roger: Surprised?
+Roger: What exactly surprised you, Mr. Moore?
+Moore: First of all, you don't seem to pay much attention to punctuation.
+Roger: Punctuation?
+Moore: Yes. It is quite important when it comes to clear writing.
+Roger: Perhaps, Mr. Moore. But it is not a writing contest, is it?
+Roger: What do you think about my offer, Mr. Moore?
+Moore: And here we have another little problem.
+Roger: What kind of problem, Mr. Moore?
+Moore: I thought we have agreed on a certain price.
+Moore: Or am I mistaken?
+Roger: We did Mr. Moore. But it just can't be done.
+Roger: Not with all the features you requested, Mr. Moore. You need to be more flexible these days.
+Moore: You see, in my days people stuck to agreements.
+Roger: You mean you don't accept my offer, Mr. Moore?
+Moore: I mean, I'll accept your offer if you keep agreed price.
+Moore: Otherwise, please, find yourself a more flexible client.
+Summary: Moore received a letter from Roger with an offer. He will accept the offer if Roger doesn't change the previously established price.
+Dialogue: Zachary: hey Kelly, can John and Sophia come by in the evening?
+Kelly: I'm sorry I don't feel so well, I'm dreaming about spending the evening in bed :(
+Zachary: that's too bad
+Kelly: I srsly don't feel like having guests :/
+Zachary: Ok, don't worry, we can see them some other time
+Kelly: <3
+Summary: Zachary wants to invite John and Sophia for the evening, but Kelly is not feeling well and wants to spend the evening in bed. They will see them some other time.
+Dialogue: Emily: Are you planning on visiting your old parents anytime soon?
+Mary: I'll try to drop by on Thursday.
+Emily: We won't be around forever, you know!
+Mary: Mom, stop it! I visited you like two days ago.
+Emily: Two weeks, young lady! 
+Mary: Same thing. You know Things have been hectic at work lately, give me a break!
+Emily: And who gave me a break when I was giving birth to you...?
+Mary: Moooooom!!! 
+Summary: Emily complains she hasn't seen her daughter Mary for two weeks. Mary has been busy at work lately. Mary will try to drop by on Thursday.
+Dialogue: Noah: I'm gonna be late!
+Clair: OK. I'll wait. 
+Noah: Sorry. Some traffic jam. 3 more minutes. 
+Clair: OK. Chill. 
+Summary: Noah will be late, he's in a traffic jam.
+Dialogue: Emma: Wanna go for a hike??
+Ron: Idk.. you going ?? I am free this weekend..
+Emma: Get ready at 0600 on Saturday..
+Ron: say no more
+Summary: Emma and Ron will go hiking this weekend. They meet at 6 a.m. on Saturday.
+Dialogue: Patti: When you're done, come upstairs please.
+Adam: Er, okay. Why?
+Patti: Because I want you to straighten this filthy room!
+Adam: Aw, today?
+Patti: I'm sick of it!
+Adam: Does it have to be today?
+Patti: Yes. Today.
+Adam: But...aw...
+Patti: Serious. Or no tv tonight.
+Adam: You're mean.
+Patti: Yep.
+Summary: Patti wants Adam to tidy the room upstairs today.
+Dialogue: James: I thought my my email box can't surprise me with anything
+James: But today I found that a mail that I sent to myself from the same address has been marked as spam
+Michael: Haha :)
+Michael: Technology never stops to amaze me :D
+James: Black mirror scenarios don't threaten us yet xD
+Michael: People use technology to change skin color, gender, to enlarge tits and penises. 
+Michael: Meanwhile space exploration is stuck 
+James: Quo Vadis humanity?
+Michael: Hahah.
+Summary: James and Michael are joking about technology and humanity.
+Dialogue: Gary: Who can help me to bake the birthday cake?
+Joy: me!
+Lillian: me too! 
+Summary: Joy and Lillian will help Gary with baking the birthday cake.
+Dialogue: Lena: Hi, do you have amixer at home?
+Gus: Blender, si. 
+Lena: Does it have a mixing option? <file_photo>
+Gus: <file_photo>
+Lena: its only a blender unfort... :)
+Gus: So I don't :) but there was somewhere this eggbeater, manual :D
+Lena: hehe
+Summary: Lena needs a mixer, but Gus only has a blender and an eggbeater.
+Dialogue: Jeanette: Hello Guy, how are the family?
+Guy: They're OK, thanks. Yours?
+Jeanette: Not bad Phillip went off to Belarussia for a charity trip to tend the Polish graves
+Guy: What about Patrick.
+Jeanette: Not so well. He is in a sanatorium until Christmas getting treatment for his alcoholism. I yold him I'm leaving him if he doesn't get cured.
+Summary: Philip went to Belarussia for a charity trip and Patrick is in alcohol rehab until Christmas.
+Dialogue: Monica: Ross, do you have an Umbrella??
+Ross: Yes women! I have one.. Come to my room and take it.. 
+Monica: You are an angel you know that.. Open the door
+Ross: Wait
+Summary: Ross has an umbrella in his room.
+Dialogue: Jay: where did you get this tea from babe?
+Mike: do you not like it?
+Jay: I really like it!
+Mike: it's from Tea Nepal in the mall
+Jay: it's really nice, I think my mum will like it too
+Jay: do they have gift packs or anything?
+Mike: yeah they do hamper type of baskets
+Jay: oh nice, I'll get one for my mum's birthday then
+Mike: cool, maybe one for Lindsay as well?
+Jay: why is that?
+Mike: it's her birthday next Tuesday
+Jay: ok, good idea 
+Mike: laters
+Jay: see ya!
+Summary: Jay likes the tea Mike got from Tea Nepal in the mall. Jay decides to get the tea in a gift pack for her mom's birthday. Mike suggests Jay to get another such present also for Lindsay as the next Tuesday is her birthday.
+Dialogue: Harry: Today I’ve read a really shocking news!
+Jenny: What is it?
+Patrick: Tell us
+Harry: You know that one in 103 children is homeless in the UK?
+Patrick: That’s hard to believe… in the UK???
+Harry: Yep! In the UK!!
+Summary: Harry read in the news that one in 103 children is homeless in the UK. Patrick and Harry are shocked.
+Dialogue: Alexander: Does anyone of you know a good product designer?.. I mean physical products..
+Ken: if i can think of one I'll let you know
+Cindy: Actually, my friend is one, check out his website <file_link>
+Summary: Alexander is looking for a good product designer. Cindy's friend is a product designer. Cindy sends Alexander a link to his website.
+Dialogue: Sue: Hey guys, have you heard about the news?
+Johnna: No?
+Pete: About John?
+Sue: yes
+Pete: I've heard he's moving
+Sue: They're moving him ;)
+Johnna: Really? 
+Johnna: Why?
+Pete: Some financial perturbances I guess
+Sue: That's what I heard too
+Johnna: That's a shame
+Johnna: I like him
+Sue: Well...
+Summary: John has to move due to some financial problems.
+Dialogue: Billy: You free 2nite?
+Pete: Sure, wanna hang?
+Billy: Maybe hit some clubs?
+Pete: That's lit!
+Summary: Billy and Pete are going to hit some clubs tonight. 
+Dialogue: Macy: hello
+Libby: hi
+Macy: want to go with me?
+Libby: where?
+Macy: some shopping
+Libby: just shopping or shopping with a reason?
+Macy: i need to buy some shoes
+Libby: you have 20 pairs of shoes!
+Macy: but i need ones with sparkling glitter
+Libby: party?
+Macy: new year's eve with my boyfriend :)
+Libby: uuuu! :D
+Macy: i have a dress bu i need these shoes
+Libby: so tomorrow?
+Macy: ok
+Summary: Macy needs glittery shoes for the new year's eve so she's going shopping with Libby tomorrow.
+Dialogue: Lin: hello
+Lin: are you asleep?
+Lin: heeeeeelllloooooo
+Lin: please dont!
+Samuel: what's up?
+Lin: are you asleep?
+Samuel: yeah, sleepwalking and typing to you
+Lin: i suppose you re not
+Lin: i'm bored
+Samuel: go to bed?
+Lin: i cant sleep
+Lin: talk to me
+Samuel: im tired
+Samuel: read some book
+Summary: Lin wants to talk to Samuel, but he's very tired and refuses.
+Dialogue: Hiram: <file_photo>
+Eva: Wow nice view of planes! 
+Eva: You boarding soon? 
+Hiram: Yes, I will arrive at 10pm
+Eva: Oki doki  
+Summary: Hiram is boarding soon and she will arrive at 10pm.
+Dialogue: Theresa: I'm leaving soon, I cannot wait anymore
+Maria: give us 5 more minutes
+Doris: We will go there by car, will be faster anyway
+Theresa: ok, but it's your last chance
+Summary: Theresa is leaving soon. Maria asks for 5 more minutes. Doris will go there by car because it's faster.
+Dialogue: Nasmith: guys prisoners on channel 4
+Jarman: with jake g and hugh jackman
+Nasmith: the same one
+Jarman: seen it. really good one
+Eldon: i haven't. thx for info
+Summary: "Prisoners" is airing on Channel 4 now. Jarman has already seen it and likes it. Eldon hasn't seen it.
+Dialogue: Jane: I've just seen Mary Queen of Scots
+Jane: at the cinema
+Jules: and?
+Jules: any thoughts
+Jane: well, I'm a bit disappointed
+Jane: while Saoirse is great, Margot Robbie is so-so
+Jane: though, to be honest, she doesn't have enough screen time
+Jules: that's a shame
+Jane: yes
+Jane: it's not a bad movie, by any means
+Jane: but there was potential for something more
+Jules: too bad
+Jules: but still, I'm gonna watch it
+Summary: Jane is a little bit disappointed with the Mary Queen of Scots movie. Jules will see it anywas.
+Dialogue: Patricia: what's up?
+Jacob: not much, same old, you?
+Patricia: I am good, thanks, I was thinking we could meet this week, you and Kate?
+Jacob: well I am not really sure, we already have plans for most of the week
+Patricia: Next weekend then?
+Jacob: we have all of our weekends planned until the end of the year, apart from the one 2 weeks for now
+Patricia: my father has his 50th birthday then...
+Jacob: maybe next week on Wednesday, you could come to our place ? 6 PM after work?
+Patricia: That might be fine, I will let you guys know tomorrow ok?
+Jacob: Sure 
+Summary: Patricia will let Jacob know tomorrow if she can come over on Wednesday at 6 pm. Patricia's father celebrates his birthday in two weeks, at the weekend.
+Dialogue: Hanna: Plans for Friday evening?
+Kate: Not yet. 
+Hanna: Movie? 
+Kate: Drink?
+Hanna: Drink sounds good. 
+Kate: :)
+Hanna: :)
+Kate: Heard about a new place in the city centre. Wanna try it out?
+Hanna: Sure. What is it?
+Kate: <file_other>
+Hanna: Looks all right. I like the garden space. 
+Kate: Me too. What time?
+Hanna: Around 8:00?
+Kate: Perfect!
+Hanna: Is Pete coming as well?
+Kate: He'll be still out of town.
+Hanna: Girls night then. Great!
+Kate: Maybe let's ask Mary to join us? She's been looking sad lately. 
+Hanna: I think she's working Friday evening, but yeah, let's ask her :)
+Kate: I'll write to her.  
+Summary: Hanna and Kate go for drinks Friday evening around 8.00. They will try out a new place in the city centre. They will ask Mary if she joins.
+Dialogue: James: Morning Vicky, just wanted to let you know I've accepted a parcel for you. A huge amazon box.
+Vicky: Many thanks James. Very kind of you.
+James: It's in the hallway.
+Vicky: Ta!
+Summary: James accepted an Amazon parcel for Vicky.
+Dialogue: Ben: How was the party yesterday?
+Amy: sooo good!! I slept until noon today
+Ben: did you get anything special?
+Amy: oh god my friends are the best!!
+Amy: I got 21 presents for my 21st birthday
+Ben: haha sounds great
+Ben: what were they?
+Amy: everything and anything! a t-shirt, a book by my fave author, earrings
+Ben: :)
+Amy: and some funny ones like 3 indivudually wrapped cookies
+Ben: :D creative
+Ben: so you stayed up late?
+Amy: yeah, last guests left at 3am
+Ben: quite a party then!!
+Summary: Amy enjoyed her birthday party yesterday. She got 21 gifts for her 21st birthday. The party lasted until 3am.
+Dialogue: Temple: playin 2moro?
+Pollard: why not. time?
+Temple: 7 pm?
+Chadwick: 8? id make it
+Pollard: ok with me
+Temple: me too
+Summary: Temple, Pollard and Chadwick agree on playing tomorrow at 8 pm.
+Dialogue: Yoan: hi Mark, how is it going bro?
+Mark: great... and you?
+Yoan: great! tell me please, is it possible to lend me one of your Playstations?
+Yoan: not the old ones though !
+Mark: haha yeah sure... well now I am playing with PS4, I can lend you the PS3
+Mark: does that work for you?
+Yoan: yes! thanks... do you have two joysticks?
+Mark: yes of course!
+Yoan: and can you lend me a video game where we can play in pairs? I wanted to play with my girl
+Mark: humm... let me think.. 
+Mark: I am a loner lol I mostly have individual video games 🤣
+Yoan: 😂 that is why I asked!
+Mark: but you can buy ones for cheap from a store next to my house!
+Yoan: ok, oerfect. When can I come over to take it?
+Mark: anytime today, I am just chilling at home. 
+Summary: Yoan asks Mark to lend him his PS3 and one of the co-op games. Marc has no such games but he recommends Yoan a cheap video game store nearby.
+Dialogue: Wendy: I'm popping out to the shop. Do you need anything?
+Alex: Will you get me some yoghurt and a chocolate bar?
+Wendy: Please? :-)
+Alex: Will you get me some yoghurt and a chocolate bar, please? :-)
+Wendy: Standard order, sir? Natural yoghurt and plain chocolate?
+Alex: You know my too well. You're getting dangerous :-p
+Wendy: I'll be back in 15 min.
+Alex: Thank you!
+Summary: Wendy is going to the shop and will buy yogurt and a chocolate bar for Alex. Wendy will be back in 15 minutes. 
+Dialogue: Winston: Hello, where are you from?
+Jane: I'm from Coxwold.
+Winston: Where's that?
+Jane: It's a small town in Yorkshire.
+Winston: Yorkshire's in the north east of England, isn't it?
+Jane: Yes.
+Winston: What's it like there?
+Jane: There are the Dles. And the North Yorkshire Moors. And there are some very pretty villages. It's lovely. You should go.
+Winston: What's the weather like?
+Jane: Well, it's changeable. Sometimes it's fine. And sometimes it's wet. Are you from London?
+Winston: Yes, I'm from Tooting.
+Jane: Where's Tooting?
+Winston: In the south east of London.
+Jane: What's it like?
+Winston: It's just a suburb. Nothing special.
+Summary: Jane is from Coxwold, Yorkshire. Jane thinks it's lovely but admits the weather is changeable. Winston is from Tooting. Winston thinks it's just an ordinary suburb in the south east of London.
+Dialogue: Esme: <file_photo>
+Esme: <file_photo>
+Bella: ooohh you finally finished it!
+Esme: Yes :)
+Bella: i think John will like it :)
+Esme: I certainly hope so!
+Ivy: he definitely will!
+Ivy: you really put a lot of work into that
+Esme: Yeah it took me much longer than I had anticipated...
+Esme: But I'm really really happy with the result :)
+Bella: proud of you, too ;)
+Ivy: it was worth it :))
+Esme: Thanks a lot for the kind words! :)
+Esme: Matters a lot to me. :)
+Summary: Esme has finished something she was working on for a long time.
+Dialogue: Tracy: Hi, is everything ok?
+Joe: Yep, we've just landed, there was a slight delay
+Barbara: Just turned our phones back on :)
+Tracy: Ok :) Let me know when you get to the city center :)
+Summary: Joe and Barbara landed. Tracy will come to the city center when they get there.
+Dialogue: Bella: I bough a ticket for 26 of December
+George: To your parents?
+Bella: Yes, 80 pounds
+George: Hmm
+Bella: Quite expensive, right?
+George: Christmas time, what can you do?
+Bella: such a waste of money
+George: But is it already with luggage?
+Bella: it is
+George: then it's not that bad, luggage is 30 pounds
+Bella: True
+Summary: Bella bought a ticket for 26 December to go to her parents'. It cost 80 pounds, with luggage.
+Dialogue: Barbara: girls, what do you think?
+Barbara: <file_photo>
+Esther: wooow look at you!!! :) :)
+Sonia: you look great! buy it!
+Barbara: I think I'm going to buy this one
+Esther: and red shoes! :)
+Summary: Barbara should buy it. She could also buy red shoes.
+Dialogue: Ned: Hey man! We're making dinner, but it looks like we're out of wine. Can you pick some up?
+Andrew: Yeah, but I'm probably going to be late--just so you know.
+Ned: No problem, we'll be eating later than usual anyways.
+Summary: Andrew is picking up wine for dinner at Ned's place.
+Dialogue: Kitty: I think Barbara is a bit angry about the holidays
+Sharon: Really? Why? I didn't see that yesterday
+Kitty: I know, she won't tell anything but she's disappointed
+Kitty: But I just don't want to go there
+Sharon: That's your choice, you have a right to go wherever you want
+Kitty: I guess she thinks I don't want to go with her and it's not the case
+Kitty: I just prefer to go for two weeks for the same money
+Sharon: Don't feel guilty, maybe she's disappointed but I'm sure she can understand
+Sharon: I think the problem is that Lucy set her up before and she thought she would convince you
+Sharon: Where are you going finally?
+Kitty: Not sure, I'll have to choose between Greece and Spain
+Kitty: I have to book next week before the prices get too high
+Summary: Kitty won't go for holiday with Sharon because she thinks she can find a better offer for the same amount of money.
+Dialogue: Rose: I'm in a hospital
+Cane: What?! Why?
+Rose: don't worry
+Rose: nothing serious
+Rose: only appendix
+Cane: u ok? I'm comming!
+Rose: I'm ok, don't panic
+Cane: which hospital?
+Rose: st. Martins
+Cane: on my way!
+Summary: Rose is at st. Martins hospital because of her appendix. Cane is about to go there.

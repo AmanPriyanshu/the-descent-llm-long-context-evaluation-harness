@@ -1,0 +1,260 @@
+Dialogue: Chris: do you have plans for the weekend of September 3rd-4th?
+Noah: mmm, nothing really concrete, what's up
+Chris: well, I was thinking flying out to Berlin that weekend
+Noah: ha, ok, just a casual weekend trip to Germany for the weekend, no biggie
+Chris: no I'm serious man, tickets are wicked cheap and this awesome band is playing there that weekend
+Noah: Dude, I really don't have money 
+Noah: that broke life has got me beat
+Chris: it won't be expensive, I have a friend we can stay with 
+Noah: ya ok, well I'm pretty sure the tickets are the most expensive part 
+Chris: o ho ho, well Im glad you brought that up, cause not even!
+Chris: check this out!
+Chris: <file_other>
+Chris: 50 bucks!
+Noah: wtf that's so cheap 
+Chris: uhh yeah exactly, some Black friday deal
+Noah: well damn, that's really cheap, ha now you've got me intrigued 
+Chris: WHAT?! I thought that would be all the convincing you'd need!
+Chris: What else is there to think about?!
+Noah: ha nothing nothing, but I just want to check  I don't have anything going on for sure
+Chris: Alrigh, well lemme know quick, I wanna buy these before the prices go up
+Noah: ok, I'll let you know by the end of the day
+Chris: yeah you better, or I'm asking Will if he wants to go
+Summary: Chris wants to go to Berlin that weekend as there is a Black Friday deal on concert tickets. Noah will let Chris know by the end of the day. 
+Dialogue: Will: Hey, Maggie, could you give me a hand? 
+Maggie: Hey, Will, sure. What’s the problem?
+Will: Well, I installed the apps, as it says on the box, but they don’t work.
+Maggie: Did you restart your computer before launching them?
+Will: Well, no...
+Maggie: Please try that and if it doesn’t work, you’ll have to redo it. 
+Summary: Maggie's advice for the apps that don't work is restarting the computer.
+Dialogue: Samir: Hello, can you tell me what time I have to go tomorrow in case you have a shirt for me? Thank you.
+Alena: Hey Samir, I still don't know if we have spare tshirts, I am waiting, so when I know I will tell you
+Samir: Okay, thank you
+Alena: Do you prefer with sleeves or without sleves?
+Samir: With sleeves...
+Alena: Ok, it will be waiting for you in the festival reception :)
+Samir: Thanks!!
+Samir: What do I have to say?
+Alena: Just your name and tell that it's from Alena
+Samir: I will, thank you very much!
+Samir: Have a nice day
+Summary: Samir enquires whether a shirt will be ready for him tomorrow but Alena is not sure. She will let him know as soon as his preferred sleeved shirt can be called from the festival reception upon giving his name and mentioning that it is from her.
+Dialogue: Louise: I am going to propose to Thelma at his birthday but I have no idea what kind of ring would she like
+Louise: could you help me with that?
+Vicky: wow dude that's amazing! congrats!
+Henrietta: wow! I would love to help you out!
+Vicky: I don't know much about rings but I think Thelma will say yes no matter what ring you'll buy
+Paloma: me too! did sth catch your eye?
+Louise: I saw this ring in Pandora but it might be too tacky
+Louise: <file_photo>
+Paloma: :O
+Vicky: it's not tacky, it's so Thelma
+Louise: wait, I also like this one:
+Louise: <file_photo>
+Paloma: I think the first one is better
+Vicky: yeah, the second one is too classic, too safe
+Louise: OK thank you guys
+Louise: just don't tell Thelma anything
+Vicky: sure!
+Summary: Louise will propose to Thelma at his birthday and has no idea what ring she would like. Vicky, Henrietta and Paloma are there to help and assess the ring Louise found in Pandora.
+Dialogue: Rachel: did you enjoy the balloon flight?
+Sally: oh yes it was beautiful I would do it again in the autumn the trees would look beautiful
+Rachel: oh yes thats a good idea I might come with you I fancy doing it.. let me now if you organise anything
+Sally: I will xx
+Summary: Sally may organize an autumn baloon flight and Rachel may join her.
+Dialogue: Alan: Wanna go for a walk tonight?
+Morag: Can't tonight. What about tomorrow night?
+Alan: Well I've got this concert. But maybe after thtat, like 9pm?
+Morag: OK. 9pm it is.
+Summary: Alan and Morag are going for a walk tomorrow at 9 pm.
+Dialogue: Daniel: I've got this one friend who's obsessed with animals.
+Daniel: She can't stand animals suffering so she sometimes takes animals from animal shelter.
+Daniel: Right now she has 6 dogs, a parrot, and fish in aquarium. 
+Jake: Haha. 6 dogs? Hope she has big flat :D
+Daniel: Yes she has. <file_photo>
+Jake: Wow. That's big. 
+Summary: Daniel's friend loves animals. She adopted few animals from the shelter. Now she has 6 dogs, a parrot and a fish.
+Dialogue: Goldie: Merry Xmas guys!
+Serena: To you!
+Jane: I'm like a stuffed turkey! <file_photo>
+Blake: HAHA <file_gif> I can relate!
+Serena: On diet after another piece of cake?
+Goldie: Not until the 1 Jan!
+Jane: Right, we still have other week of binge eating!
+Blake: Wanna meet up? All leftovers and a sleepover?
+Serena: Great idea!
+Summary: Jane and Blake are overeaten after Christmas. Blake proposed a meeting.
+Dialogue: Karen: I know a cool game. Would you like to play?
+Avi: Sure!
+Karen: So it goes like that: I write a sentence and you continue, then it's my turn etc. 
+Avi: I know it. It's fun. Let's play!
+Karen: Want to start?
+Avi: OK. I'm sitting in the room.
+Karen: It's dark and cold outside.
+Avi: I'm reading a book. The house is silent.
+Karen: Suddenly, I hear a tapping sound.
+Avi: Where is it coming from? - I ask myself.
+Karen: It's from outside. Is someone knocking on my window?
+Avi: No, it's impossible. You could only do that if you climbed on the roof underneath it.
+Karen: But the tapping continues....
+Avi: Louder and louder...
+Karen: I'm going to check it out.
+Avi: I'm a bit scared but anyway I approach the window.
+Karen: It's so dark outside, I cannot see a thing.
+Avi: But the tapping continues...
+Karen: It sounds like... OMG!!!
+Avi: What the hell is that???
+Summary: Karen suggests to Avi that they play a story-telling game and they make up they story.
+Dialogue: Gary: When are you guys arriving exactly?
+Stella: We're landing 6:40 PM, so add some 20 minutes and we'll be at the arrivals gate.
+Josh: Precisely.
+Gary: Okay, I''ll be there 6:40 to pick you up. Just to be safe.
+Stella: Thanks a lot, dad :)
+Gary: No problem :)
+Summary: Gary will be waiting at the arrivals gate at 6:40 PM to pick up his daughter Stella and Josh. 
+Dialogue: Mandy: new academic year is coming!
+Mandy: can't wait to see you guys!
+Troy: hey, how was your holiday?
+Mandy: 2 months in Brazil, amazing place
+Nate: hey, I missed ya
+Mandy: :*
+Troy: I wonder about curriculum
+Nate: ya, last one sucked
+Mandy: They should pay more attention to our remarks
+Nate: maybe they will improve that
+Troy: that would be great
+Mandy: it cannot be worse than last year
+Nate: haha true
+Summary: A new academic year is coming. Mandy spent her holiday in Brazil.
+Dialogue: Seward: no maths 2moro
+Lilian: ur kiddin right?
+Seward: no really. check online log
+Grayson: yeah Sew's right
+Lilian: the best news this weekdn
+Dudley: or ever
+Lilian: so when's the test?
+Seward: she'll be back next week. So then
+Lilian: at least 1more week to revise
+Grayson: yeah bloody triangles
+Dudley: cant we just poison her
+Grayson: & cancel mth forever hey?
+Dudley: if u do it ill love ya 4ever
+Grayson: i dont luv ya son so no thank you
+Summary: Seward informs that there's no maths tomorrow. The test will be next week.
+Dialogue: Monica: I think, i left my cable yesterday at your place.
+Josh: You mean this ? <file_photo>
+Monica: Nope, it was white.
+Josh: where did  you leave it? 
+Josh: what do you think?
+Monica: in the kitchen
+Josh: ok, there's sth... <file_photo>
+Monica: yes, that's mine!
+Monica: How can I get it back?
+Josh: I'll be in the centre Thursday evening
+Josh: is that fine for you?
+Monica: Thursday is too late, actually...
+Josh: So you need to come here, sorry!
+Monica: ok, what's your plan for today?
+Josh: homeworking all day long ;-)
+Monica: ok, I'll be in 1h.
+Josh: ok, waiting xD
+Summary: Monica left her cable yesterday at Josh's place. Monica will be in 1 hour.
+Dialogue: Frank: u up?? 
+Gregory: yeah
+Frank: go back to sleep then xD
+Gregory: wtf xD
+Summary: Gregory is awake. Frank tells him to go back to sleep.
+Dialogue: Bruce: Hey
+Kate: Hi Bruce :)
+Bruce: On scale from 1 to 10, how well are you prepared for tomorrow's exam?
+Kate: 1 
+Bruce: :o
+Kate: I haven't even opened the notes yet :/
+Bruce: Are you going to?
+Kate: I really don't want to, but I guess my sense of decency won't let me ignore it.
+Kate: But I'm sleepy and the gravity of my bed is so strong, I can't resist it.
+Bruce: Read notes in your bed :)
+Kate: That will result in immediate falling asleep :)
+Bruce: Right :)
+Bruce: You just made me feel better :P
+Bruce: I have similar lack of motivation to even open the book.
+Bruce: <file_photo>
+Kate: Haha. See you tomorrow Bruce, and good luck to us!
+Bruce: Good night and good luck Kate! :P
+Summary: Kate isn't prepared for the exam, but she goes anyway. Bruce is demotivated as well.
+Dialogue: Jill: i am so mad at him right now
+Jill: i am fucking sick of it
+Kate: what did he do again?
+Martina: how can you put up with that guy...
+Jill: he went for a beer with his boys last night
+Jill: he was supposed to come back by fucking 11 pm
+Jill: and he came at 3 am, drunk as shit, didn't respond to any of my calls
+Kate: lol.. this is absurd
+Kate: it's not the first time it happens is it?
+Jill: no lol, it's like the fifth time this year
+Martina: he is such an asshole, you should've dumped him long time ago ;/
+Kate: ye, he can't just keep disappearing whenever he feels like it
+Kate: that's not fair and who the hell knows what he is doing
+Jill: do you think he cheated on me?
+Jill: i don't know what to think anymore
+Martina: well did he say where he was?
+Jill: he said they just went to Mike's and he lost track of time
+Jill: usual excuse...
+Kate: that's what he always says lol stupid prick
+Kate: i don't know if he cheated, maybe he is telling the truth
+Kate: but even if he didn't then it's not an excuse of how he behaves
+Martina: yeah he totally has no respect for you girl
+Martina: you either give him hell or dump him, he needs to change
+Jill: he is still sleeping... i will talk to him when he wakes up
+Jill: i will let you guys know
+Kate: yeah but be strong girl
+Martina: we are here for you :*
+Jill: thanks <3 :*
+Summary: Jill is mad with her boyfriend. He went for a beer with his friends last night and came back at 3 am totally drunk. He didn't respond to Jill's calls. Jill will talk to him when he wakes up.
+Dialogue: Mom: how was your math test?
+Jim: ok, but i've forgotten to finish one task
+Mom: i'm sure you'll pass! :)
+Summary: Jim's math test went okay, but he forgot to finish one exercise.
+Dialogue: Lily: You guys free on Friday?
+Eve: Not really, Bob is taking me to his parents for the weekend
+Sue: I could be, I don't wanna go to see this movie with Mark and his friends, it's some racing shit
+Lily: I need you guys, I'm in deep trouble 
+Sue: What did he do?!
+Lily: It's not him, it's me this time, I just can't anymore:( 
+Sue: Oh hon, I'm sorry, you gotta do something with it
+Eve: But what? What about kids?
+Lily: I know, they should grow up with him, but we gotta change how it works
+Eve: What you gotta do is leave him
+Lily: Easy to say :( 
+Sue: Just pack your things and come live with us for a few days, we'll see what happens
+Lily: Really? You guys would take us? 
+Sue: Oh please, of course! I'll prep guest's bedroom
+Eve: I can help you move the stuff 
+Lily: You guys are saving my life<3
+Summary: Eve is visiting Bob's parent's Friday night. Lilly doesn't want to be in a relationship with her partner anymore, but is concerned about the kids. Eve and Sue advise Lilly to leave him. Sue offers Lilly a stay for her and the kids. Eve offers to help move Lilly's things. 
+Dialogue: Amanda: Do you know where is Peter? I've seen some pics on fb, looks amazing
+Maria: He's in italy
+Amanda: But where exactly?
+Logan: Abruzzo
+Summary: Peter is in Abruzzo.
+Dialogue: Cory: I just head youve been suffering from fever
+Zara: Yeah Thats why i didnt come to meet you guys
+Cory: How are you now?
+Zara: I am recovering. Hope to get better in couple of days
+Cory: You should take good care of yourself
+Zara: Yeah I will :)
+Cory: Teacher just gave whole class an assignment
+Zara: Which assignment?
+Cory: Economics
+Zara: I might not be able to complete it due to the stuation
+Cory: Dont worry I would do it for you
+Zara: Thats so nice of you :)
+Cory: i Wont come to college net week. and I will ask you to do mine then
+Zara: Sure why not :D xD
+Cory: Hhaha. Just get better. We would hangout together
+Zara: I need you to take me to starbucks
+Cory: Sure. Why wouldnt I?
+Zara: Cant wait to get well
+Cory: Mee too :) 
+Summary: Zara has a fever and she hasn't come for a meeting. Cory will do Economics assignment for Zara. In exchange, Zara will do Cory's assignment for her, next week.

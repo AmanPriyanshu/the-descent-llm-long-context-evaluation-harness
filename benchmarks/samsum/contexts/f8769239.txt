@@ -1,0 +1,299 @@
+Dialogue: Kim: can you give me a ride 2day?
+Beck: im already at school sry
+Elberta: no prob what time?
+Kim: can u pick me up at 9.00. or its too late?
+Elberta: lets make it 8.40. traffic might be pretty bad today
+Beck: yeah, it seems. It was already packed at 7 so you too make sure to leave Elary
+Elberta: or we'll miss the economy class. How could we
+Kim: terrible lol
+Elberta: ok then 8.30. shite, make up!
+Summary: Elberta will pick Kim up at 8:30 to avoid heavy traffic. If they get stuck in a traffic jam, they might miss the economy class.
+Dialogue: Miley: Have you thought about the name of the baby?
+Bryan: Nope, You have suggestions? 
+Miley: Lora, Lisa, Lilly?
+Bryan: Sounds good
+Miley: Maybe you can search online
+Bryan: I would, as soon as I get free
+Miley: Good Luck
+Summary: Miley has not chosen the name for her baby yet. Bryan has some suggestions for her.
+Dialogue: Arianna: Hello. I am sorry but I seem to have lost my confirmation email, and with it my reference number. Any chance you could resend this? 
+Robert: Hello, no problem. Where did you book to go and under what name?
+Arianna: I have booked the 4.35 coach to Birmingham, under A. Banssa.
+Robert: Just a moment please. 
+Robert: Please find attached a confirmation of your booking. You will need to show this to the driver when getting on the bus.
+Robert: <file_other>
+Arianna: That's great thank you
+Robert: No worries, enjoy your trip.  
+Summary: Arianna will need to show the booking confirmation to the driver.
+Dialogue: Andy: I am looking for a sofabed
+Phuti: Certainly sir, we have many different sofabeds in store.
+Andy: Do you have any which are just under 150cm wide?
+Phuti: Yes, one model is 144 cm wide and uses that space very well, no wastage of space with unnecessary ornamentation. The mattress is really broad enough for two people. It is the "Monica 144" model
+Andy: What colours is it available in?
+Phuti: We have black and beige only. There is blue, red and grey but you would have to order them, sir.
+Andy: Beige sounds very good for this room. Can I collect it?
+Phuti: Yes, just come in any time, but you will need a big vehicle, you won't get this inside of an ordinary car.
+Andy: I have a Chrysler Grand Voyager
+Phuti: The one where all the seats tuck in flat?
+Andy: That's the one. 
+Phuti: That is an excellent car, sir.
+Andy: It is very functional and practical. I just have the problem that I cannot find a good mechanic for it.
+Phuti: You should try maybe the workshop owned by the husband of my wife's boss. He is said to be the best mechanic in the country.
+Andy: Really? What is his name?
+Phuti: His name is Mr J L B Matekone. 
+Andy: I think I have heard of him, his workshop is called Speedy Motors, or something like that?
+Phuti: Yes, Sir. Out on the Tlokweng Road. You should definitely give him a try.
+Andy: I will. And I will come in later for the sofa
+Phuti: I'll put it aside for you, sir.
+Summary: Andy is going to buy a beige "Monica 144" sofabed. He will come and collect it later in his Chrysler Grand Voyager. Phuti recommends a mechanic for this car, the mechanic is called Mr J L B Matekone, his workshop is called Speedy Motors and it's stiuated on the Tlokweng Road. 
+Dialogue: Monica: Are we going to the forest tomorrow?
+Elisabeth: Yes, I will take the car of my parents
+Nathaniel: And everybody will prepare something for a picnic?
+Monica: sure, I have a cake and some olives from my grandparents
+Nathaniel: I will have pancakes
+Nathaniel: the American style
+Elisabeth: I am preparing a very nice surprise 
+Nathaniel: good!
+Summary: Monica, Elisabeth and Nathaniel are going to the forest tomorrow. Monica will take a cake and some olives with her. Nathaniel will bring pancakes.
+Dialogue: Josh: Hey, Mike
+Josh: How's your new job?
+Mike: It's okay
+Jay: You're designing for this friend of mine?
+Mike: Yeah
+Mike: He seems reasonable
+Jay: he is
+Jay: You can ask him any details
+Jay: He will help you
+Mike: good to know, mate
+Mike: I'm also finishing my previous project
+Mike: So I'm swamped
+Josh: shame
+Josh: wanted to grab a beer this afternoon with both of you
+Mike: I won't make it
+Jay: me neither
+Jay: next Tuesday?
+Josh: seems okay
+Mike: I'll do my best
+Jay: we're confirm later on this week
+Summary: Mike is designing for Jay's friend and finishing his previous project. Jay and Josh will probably see Mike next Tuesday. Jay will confirm later on this week. 
+Dialogue: Tristan: I've just read this interesting article about babies
+Gavin: hahah, why interesting?
+Tristan: Did you know that every year there are more male than female babies born?
+Shane: Sure, it's normal, a phenomenon known for centuries
+Tristan: really? I haven't known
+Tristan: so what is the reason for that?
+Shane: It's hard to say, there are different theories
+Shane: what does the article say?
+Tristan: that the main theory is evolutionary
+Shane: right
+Tristan: that boys and men generally die more often, so the nature regulates it to keep a balance between adult male and female
+Shane: true, but some other scientists say it's about sperm
+Tristan: sperm?
+Shane: yes, that female sperms (with chromosome X) are robuster 
+Shane: but one doesn't exclude the other
+Tristan: It's fascinating
+Gavin: You're such a nerd really
+Tristan: hahah, a bit
+Shane: Gavin, we all are nerds :P you're just a technology nerd and an ignorant in every other field
+Gavin: I'm afraid it may be true
+Summary: Tristan found out from an article that each year there are more male than female children born which is linked to an evolutionary theory. Shane alleges an alternative theory linked to female sperms.
+Dialogue: Sammie: <file_other> are we going? Haha
+Marina: Absolutely! I'm packing already!
+Sammie: Awesome :D
+Marina: :*
+Sammie: <file_video>
+Summary: Marina is already packing.
+Dialogue: Stan: Hello everybody, I need some help moving stuff out of my garage, any takers?
+Leo: What's in it for me?
+Fiona: what do you need help with? I can't carry heavy stuff but could ask my dad if I can take his van?
+Clay: I could come over on the weekend, give you a hand.
+Stan: Cheers for the response. I offer a crate of beer and pizza, nothing too fancy
+Fiona: Sounds good to me. The van?
+Stan: Yes please! that would be great! You are a STAR <file_gif>
+Fiona: Haha, no worries. No meat for me though! 
+Leo: Throw in a bottle of booze, and I'm there
+Summary: Stan needs help with moving things from his garage and offers beer and pizza instead. Leo will help but expects some alcohol. Fiona will borrow her father's van. Clay can also come to help over the weekend.
+Dialogue: Monica: hey babe, are you coming to work today? 
+Teresa: hey! no ... i work from home 
+Monica: i see! we are talking about grabbing a beer on thursday 
+Teresa: people from work?
+Monica: yes, the entire team, you know, before the boss arrives next month ;)
+Teresa: hahah yeah i get it, keep me posted!
+Monica: ok so what would you say about going bowling this thursday?
+Teresa: sounds good! i don't bowl but i'll pop up for a beer
+Monica: what do you mean you don't bowl?!
+Teresa: i don't, i don't find it entertaining ...
+Monica: oh god you're weird!
+Teresa: oh fuck off!
+Monica: hahha ok chill! i will sign you up for a beer only
+Teresa: thanks! 
+Monica: no problem ;) see you!!
+Teresa: see you love!!
+Summary: The team is going bowling on Thursday, Teresa will join just for a beer.
+Dialogue: Nina: Hi Carmen! I’m Nina, Rick’s sister.
+Carmen: Hi, how are you?
+Nina: Fine thx! And what about u?
+Carmen: I’m fine too. What can I help u? 
+Nina: I have some problems with math and Rick told me that u know someone that would help me.
+Carmen:  My bro is great in math. I’m sure he will help you.
+Nina: Thx, could you give me his mobile no?
+Carmen: Sure, it’s 555 154 124, but he is at gym now so try a little bit later.
+Nina: Thank u very much. I hope he will have some free time.
+Carmen: You must ask him, I don’t know.
+Nina: Of course, I’ll try to call him later. 
+Carmen: He should be at home about 8 pm.
+Nina: And what about your exam?
+Carmen: Quite good but I have a lot of tasks to do. It’s sometimes hard not to forget some dates.
+Nina: I have great book about the II WW. I’ll give it to Rick for you.
+Carmen: Thx, It will be helpful cause history is not my best side 
+Nina: Like math for me 
+Carmen: 
+Nina: Thank u for help, Have a nice evening with my bro!
+Carmen: Thx!
+Summary: Nina needs help with maths. Her brother Rick recommended contacting Carmen. Carmen's brother is good at maths and she gives Nina his phone number. Nina should call him in the evening, after his gym activity. Carmen's exam was good, but she forgets dates. Nina offers her a book about WW II.
+Dialogue: Lenny: So what about the exam. Anyone who passed it?
+Tanja: I failed :(
+Chris: Me too... she's a bitch!
+Greg: I passed, but I got C...
+Lenny: Well, it doesn't seem it's gonna be easy...
+Tanja: She's really tough... I studied a lot, really I spent last 2 weeks cramming!
+Chris: They say she always fail 70% of the students.
+Lenny: My summer is ruined, what a bitch!
+Tanja: Guys, I mean... we can always ask others about the questions and keep our fingers crossed...
+Chris: OK, yeah it's not gonna be that bad. So... she asked me about Bolivian revolution and agriculture in Chile in the 60s.
+Lenny: OMG!
+Tanja: Mine were: the geopolitical situation of Caribbean after II WW.
+Lenny: This one's better!
+Greg: I got the Cuban revolution! 
+Tanja: Lucky you! If she asked me that question I'd surely pass!
+Chris: What about others? 
+Lenny: I will ask Christina and Jason, they have the exam today.
+Greg: I can ask Pauline, she made a list with possible questions. This may help.
+Tanja: Oh, that's a good idea!
+Lenny: Guys, maybe we can grab a beer tonight? 
+Summary: Tanja and Chris have failed the exam and Greg got a C. They will ask Christina, Jason and Pauline for help. Lenny suggests they meet for a beer tonight.
+Dialogue: Craig: thanks to those FOUR of you who did send essays
+Jonathan: <file_gif>
+Carrie: well.. I guess you could have expected that….
+Craig: …
+Mark: i was planning on sending all of them at one go next week
+Craig: yeah right. send them then next week.
+Carrie: <file_gif>
+Craig: <file_gif>
+Summary: Mark will send his essays next week.
+Dialogue: Robert: Are you coming home for Christmas?
+Zack: Always :-) How are you?
+Robert: Good, thanks. 
+Zack: I suppose you would like to have a small get-together with your old pal?
+Robert: Always :-)
+Zack: I'll think about that :-p
+Robert: If you find an hour or two in your diary, don't hesitate to contact me :-D The phone number same as ever.
+Zack: Rob, I'm going to sacrifice one whole evening for you. Maybe even the whole night. And you demand only 1 or 2 hrs? 
+Robert: How kind of you :-)
+Zack: We'll get back to that some time in December, ok? It's too soon to plan anyth.
+Robert: Sure. Good to know you still remember about us.
+Zack: Every year you do your utmost not to be forgotten, Rob, if you know what I mean. Till later :-)
+Robert: Cheers!
+Summary: Zack is coming home for Christmas. Robert wants to meet with Zack. Zack will message Robert in December to schedule the meeting.
+Dialogue: Yann: How's it going?
+Poppy: Fine, uncle, how's the kebab business!
+Yann: Ticking over, my sweet! You all coming to your cousin's 18th?
+Poppy: Oh no! I forgot to RSVP the invitation! Yes, I wouldn't miss it for the world!
+Yann: Great! Give your Mama and Pappa my love!
+Poppy: Bye, Uncs, see you all on the 20th!
+Summary: Yann's kebab business is going fine. Poppy is coming to her cousin's 18th birthday on the 20th.
+Dialogue: Natalie: Lily are you alive? Did she kill you? We called you but no answer
+Alex: Call Mary 😂😂😂 and ask for Lily back in the office as someone is waiting for her for a meeting. Hopefully Lily is already driving back...
+Lily: Yes 😂😂😂 10 min and we are back.
+Natalie: I called Mary as well
+Mary: Sorry, I left everything in the car...
+Summary: Natalie is worried about Lily. Lily will be back in ten minutes.
+Dialogue: Kate: How many pomodori have you done so far?
+Mary: 6
+Gabrielle: 7
+Jack: 4
+Adrienne: 8
+Emma: 10
+Kate:  that's impressive!!
+Summary: Mary has done 6 pomodori so far, while Gabrielle has done 7, Jack 4, Adrienne 8, and Emma 10. 
+Dialogue: Emily: Do you have plans for the long weekend?
+Gavin: why?
+Emily: We thought it would be nice to take a boat trip in Croatia or Greece
+Gavin: aren't these expensive?
+Emily: if you have a group of 8 or 10 and you go by car it's not that bad
+Gavin: how much are we talkinh about?
+Emily: a thousand euros? something like that
+Gavin: per person?
+Gavin: how many nights?
+Emily: per person
+Emily: 7 nights
+Gavin: How many people declared already?
+Emily: 6
+Emily: Sam and Anna, Meg and Bill and us
+Gavin: couples, couples everywhere
+Gavin: where do you get the yacht from
+Emily: Oh come on we're not that bad :)
+Gavin: joking :)
+Emily: there this website <file_other>
+Emily: The catamaran looks fantastic
+Gavin: Holy shit! That looks amazing!! :)
+Summary: Emily plans a boat trip in Croatia or Greece. It will cost around 1000 euros for 7 nights per person. 6 people declared that they will go.
+Dialogue: Miranda: Hi
+Miranda: Take a look at these
+Miranda: <file_photo>
+Miranda: <file_photo>
+Miranda: <file_photo>
+Miranda: Want to try it on?
+Robyn: What are you doing? :)
+Miranda: I want to get rid of some old stuff
+Miranda: I won't wear that anymore
+Robyn: Are you sure?
+Miranda: Pretty sure ;) But all of this is almost new
+Miranda: I want to go shopping as a reward ;)
+Robyn: Oh and you need more space, I see ;)
+Miranda: Exactly!
+Robyn: I'm afraid it's all too small for me :/
+Miranda: No way!
+Summary: Miranda offered Robyn her old clothes that were almost unused but Robyn couldn't fit in them.
+Dialogue: Mum: thank you for a lovely weekend darling
+Shirley: thats ok mum it was great to see you
+Mum: have you finished the fireplace wall?
+Shirley: Not quite.. I need to finish the backing
+Mum: did you find a big enough piece of cardboard?
+Shirley: Yes there was some in the shed
+Mum: how are you going to fix it?
+Shirley: I have a staple gun
+Mum: will that work?
+Shirley: it should do
+Mum: are you going to wall paper inside the fireplace or paint it grey?
+Shirley: I'm not sure until I've enclosed it I'll see what will look the best
+Mum: the grey may look the best then the white fire may stand out more
+Shirley: yes thats what I'm thinking
+Mum: send me a picture when you have done it
+Shirley: <file_photo>
+Mum: wow darling that looks fab 
+Shirley: thanks mum xx
+Summary: Mum and Shirley saw each other in the weekend. Shirley hasn't finished the fireplace wall yet. Shirley needs to finish the backing and cover the inside of the fireplace. Shirley sends Mum a photo, when the work is finished.
+Dialogue: Alan: Hi Rob.
+Rob: Hi Alan.
+Alan: You know what, I have got a new business idea.
+Rob: Another website?
+Alan: No, this time it's food related.
+Rob: Another hamburger stall?
+Alan: No, it's fruit sushi.
+Rob: Fruit sushi?
+Alan: That's right. I have been trying different combinations of rice, fish and fruit to make sweeter versions of some traditional sushi specials.
+Rob: You have already tried making these sushi?
+Alan: Yes, I've got about twelve different recipes for maki and nigiri featuring slices of pear or guava alongside the other elements. Less fish, and not every fish seems to like it.
+Rob: OK, well you could try it. Take a stall in the middle of a mall corridor, get a certificate for HACCP and see if it takes off.
+Alan: But it's all oing to cost quite a lot of capital outlay. I reckoned about 30,000 dollars to get going and I can only put in ten. Would you be interested in lending me some start-up capital?
+Rob: If you can find 20 people to put in a thousand each, then I'll be one. How about that?
+Alan: I have done a business plan and the possible upside if it catches on is tremendous
+Rob: What's the  margin and the volume of sales you reckon you can get off one stall?
+Alan: I reckon it's going to be about a thousand dollars in gross profit every day, once it gets going. And that's conservative.
+Rob: Well, send me the numbers over. I might stretch to 5,000 if it's really convincing. But no abandoning it when you get bored like you did with the camper van renovation business
+Alan: well that business was just a hobby. It was never going to make much money. 
+Rob: Well that's not quite what you said at the time. 
+Alan: OK, well I'll send you the figures and you can see for yourself if I have left anything out.
+Rob: Alright. I will have a look at it later in the week. A bit busy right now.  
+Summary: Alan wants to start a business connected with fruit sushi and predicts big profit. He doesn't have enough money to start it and asks Rob for help. Rob will help Alan if he doesn't give up the business as he once did.

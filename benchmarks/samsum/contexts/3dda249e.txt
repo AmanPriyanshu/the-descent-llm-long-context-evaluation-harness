@@ -1,0 +1,744 @@
+Dialogue: Dustin: it was great to see aunty and uncle
+Tori: they were also pleased to see you cousin
+Dustin: tell them soon ill come and stay for a longer period
+Tori: sure, youll just let us know
+Dustin: cool
+Tori: bye
+Tori: take care
+Summary: Dustin found visiting his relatives pleasurable and will come and visit soon. 
+Dialogue: Mark: We'll be late 1 hour, sorry guys, you can start without us
+Paul: No, we will wait with the dinner
+Steven: Take your time, we're enjoying a nice chat
+Mark: ok, thanks a lot
+Summary: Mark will be an hour late for the dinner.
+Dialogue: Jess: Hey guys, would you like to go and grab some food?
+Quentin: Of course, where?
+Ralph: P-R-E-T 
+Ralph: Unless you know anywhere cheaper 😉
+Jess: Hmm well if you’re asking seriously we could go and check the Boots meal deals BEFORE we head for Pret
+Jess: You know, perhaps we’ll be able to get a sandwich just about to go off but not quite for 1£
+Ralph: That’s what I usually do 🤭
+Ralph: But today I feel like having one of those tuna and cucumber sandwiches at Pret. Would you be ok with it Quentin?
+Quentin: Sure
+Jess: Sounds good to me
+Ralph: OK then, let’s meet at the main entrance and then we can head to the nearest one
+Ralph: Which apparently is this one <file_other>
+Summary: Ralph, Quentin and Jess will go to Pret to have some food.
+Dialogue: Fred: Hey, how are you?
+Jessica: Well, thanks. You?
+Fred: A bit bored... I was looking for some tv series to watch.
+Jessica: What kind of series?
+Fred: I don't know, some sci-fi maybe...
+Jessica: Have you seen the Handmaid's Tale? It's maybe not sci-fi, but a bit dystopical, so kinda close.
+Fred: You mean dystopian?
+Jessica: Haha yes, sorry!
+Fred: What is it about?
+Jessica: Can't tell you, you must watch yourself!
+Fred: Oh, OK. Is it on Netflix?
+Jessica: I don't think so. Try subsmovies.com
+Fred: Thanks, I will.
+Jessica: Don't forget to tell me if you liked it!
+Fred: Sure!
+Summary: Fred's looking for a sci-fi TV series to watch, Jessica recommends Handmaid's Tale. He can watch it on subsmovies.com, because it's not on Netflix.
+Dialogue: Joe: Hello
+Joe: <file_photo>
+Chris: Hi :-) How are you?
+Joe: How are YOU? Why didn't you call me when you came back?
+Chris: I'm sorry! I needed to put some things straight first.
+Joe: ... and you didn't have time, did you?
+Chris: Exactly.
+Joe: Lame excuse. I don't accept it. You'd better think of something else.
+Chris: It may be difficult to believe but it's true :-(
+Joe: 2 months?
+Chris: That's right. Two months of no fun nor play.
+Joe: <file_photo?
+Joe: or
+Joe: <file_photo>
+Chris: More like the latter.
+Joe: Time to change it. How about that?
+Chris: Sounds great but give me a week or two more, ok?
+Joe: You really can't see me or are you shunning me?
+Chris: I'm not shunning you! I'm not shunning anyone! I don't go to parties behind your back only to pretend later that I'm so busy!
+Joe: OK. Calm down!
+Chris: Sorry
+Joe: I'll contact you at the beginning of December and then we'll fix something nice.
+Chris: Thanks, man!
+Joe: Take care
+Chris: You too!
+Summary: Chris didn't contact Joe for 2 months after he came back. They will try to meet up and party in December.
+Dialogue: Sally: do you have a few moments to hep me go over this form
+Lucy: yes
+Sally: what is the date of birth of the last puppy for show
+Lucy: 11 may 18
+Sally: colour
+Lucy: Apricot
+Sally: how many in the litter
+Lucy: 4
+Sally: mum and dad registered
+Lucy: yes
+Sally: shown before? have you got their numbers?
+Lucy: yes hang on
+Sally: ok
+Lucy: right mum 56566631/58 dad 56566547/97
+Sally: thanks
+Sally: thats all I need for now cheers x
+Summary: The last puppy for show was born on 11 May 2018. It's of an apricot colour. There were 4 puppies in the litter, their parents are registered and were shown before. Their numbers are: mum 56566631/58, dad 56566547/97.
+Dialogue: Kate: i'll have to send him to the cinema
+Kate: his mate stood him up:D 
+Courtney: haha 
+Courtney: if he doesn't want to go we can still go to the park and drink on a bench XD
+Kate: don't worry, he's going ;D
+Courtney: :D
+Summary: Kate is sending him to the cinema so she can meet with Courtney for drinks.
+Dialogue: Darin: Have you seen Tabitha?
+Serena: Nope. Haven't seen her since Tuesday.
+Darin: Shoot. Where is she?
+Serena: No idea. Sorry.
+Darin: I think she may have gone off somewhere alone.
+Serena: Not good.
+Darin: Definitely not.
+Summary: Serena has not seen Tabitha since Tuesday. Tabitha might be travelling somewhere on her own. Darin and Serena think this is bad.
+Dialogue: Melina: Hi, Just wanted to say thank you for favouriting me - it really means a lot :) Thanks again!
+Jada: Hi! It's been a long time since we contacted each other-I think it's because of something in FictionPress. It happened to my other fellow writers too. So anyway, I just wanted to say hi. I haven't forgotten about you, dear first FictionPress buddy.  :D
+Melina: Hey!! I'm so sorry for not being in contact with you. I keep meaning to write, and having to put it off because of something or another. So how are you? Written anything new recently? I recently wrote a poem which I most soon... And I'm glad you wrote :) xx
+Jada: I'm great! Today at school we learned hockey, and I discovered that I pretty good as a striker, but not as a goalie. :P So I posted my story so far on FictionPress, and another story, and a story that was chosen to be sent to a competition. Unfortunately, that story did not make it to the finals. :D I'm fine about it. My teacher was still proud of me. So what's your poem about? I've been reading more FanFiction things, I like reading them. 
+Melina: Nice... Hockey's fun, but I prefer basketball or running. You planning on joing any clubs? :)
+Melina: Lately I haven't been writing as much :( My creative juices are running pretty low. But I'm going to have to check out your stories!! :) Had any reviews yet? ANd well done for getting one sent to that competition! As for winning... there's always other opportunities :)
+Jada: Oh, believe me, I prefer running too... I can;t join any after-school clubs, because my dad didn't want to learn how to drive in Hong Kong, since Hong Kong drove on the opposite side of Shanghai, aka on the right side of the road. My dad was afraid his instincts might come back again and he might start driving on the left side of the road, so we didn't but a car. And I was too lazy to join any other clubs, and besides, Battle of the Books was just reading. Just reading and memorizing authors and book names, which didn't appeal to me, even though I love reading.
+Summary: Jada favourited Melina. Melina wrote a poem. Jada posted some stories on FictionPress but didn't make it to the finals of the competition. She can't join any after-school clubs. 
+Dialogue: Mari: How are you, how was your Christmas?
+Suzi: Great! Relaxing! We just stayed at home, just the 4 of us and ate and drunk ourselves silly! Typical Christmas in the Brown house!
+Mari: Do you ever do religious stuff?
+Suzi: Sometimes. Adam's parents are Jewish, mind, so it's not so much his thing, but when my parents stay we all go to Midnight Mass to sing carols.
+Mari: That sounds lovely, I must try it, I do love carols!
+Suzi: What about you? What did you do?
+Mari: Oh yes! We went up to Hull to Dave's family. I really think they must be related to Ebenezer Scrooge!
+Suzi: Why, what happened?
+Mari: Well, we got there quite late on the 23rd, about 9.30ish. They were ready for bed! They said they'd put a supper up for us in the kitchen and off they went! We had 2 crackers each, half a packet of crisps and a sliver of cheese. We did go to bed pretty hungry, but we're so tired, it wasn't too bad!
+Suzi: Let me guess, it didn't get any better!?
+Mari: Dead right! Breakfast was a slice of toast with a scraping of marge! I was starving by mid morning but nothing was offered. Dave was very reluctant to help himself, so we waited for lunch, 1 bloody Cup-a-soup each! Dave and I went for a walk and found a Burger King open, went and gorged on Whoppers! Dinner was a salad with a chicken breast between 4! I was dreading Christmas lunch! And, yes, it was as meagre as I'd thought! Well, this went on for another 3 days and then we went home, still very hungry.
+Suzi: Right! New Year's Eve, you're coming to us for a slap-up roast beef dinner! No excuses!
+Summary: Suzi spent Christmas at home having good time with her family. Mari went to Dave's family that wasn’t too generous and hospitable.
+Dialogue: Felix: do you need potatos?
+Leo: they might be helpful making french fries xd
+Felix: ok, so you have to buy them
+Leo: i thought there was some at home
+Felix: no, i have just checked
+Leo: ok, so i will buy them
+Felix: and ketchup, please!
+Leo: ok
+Summary: Leo might want to prepare french fries. He'll buy potatoes and ketchup.
+Dialogue: Ted: Have you seen that job advert?
+Ted: <file_other>
+Roberta: Nope, looks like it's a pretty decent job
+Roberta: Wanna apply?
+Ted: I'm still thinking, but I need to correct my resume
+Roberta: Do u need my help?
+Ted: I'd appreciate it very much :)
+Roberta: no problem, send me your resume
+Ted: <file_other>
+Ted: thanks Roberta :)
+Roberta: no problem :)
+Ted: I owe you a coffee :)
+Roberta: :)
+Summary: Ted wants to apply for a job but he needs to correct his resume first. Roberta offered to help him.
+Dialogue: Martha: Okay we've got the flights
+Martha: now we have to choose an apartment
+Martha: look at these:
+Martha: <file_other>
+Martha: <file_other>
+Martha: <file_other>
+Martha: which one?
+Donna: I'm not convinced either of them will work
+Martha: why?
+Donna: always check the opinions section
+Martha: what's wrong? they got an 8/10
+Donna: I know but read the most recent opinions
+Donna: see?
+Martha: Ugh, you're right, there is something wrong with every single one of them
+Donna: how about
+Donna: <file_other>
+Martha: isn't it a bit too expensive?
+Donna: I've got a 20% discount :)
+Martha: perfect!
+Summary: Martha and Donna have the flight tickets and now they need an apartment. Donna found quite an expensive one, but with her 20% discount it's perfect.
+Dialogue: Maya: Tomorrow is your birthday!!
+Maya: How would you like to spend this day?
+Elliot: With you 
+Maya: <3
+Maya: Anything you would like to do?
+Elliot: Maybe a spa and a dinner out?
+Maya: Sounds great!
+Summary: Elliot has a birthday tomorrow. He wants to spend the day with Maya in a spa and then go out for dinner. 
+Dialogue: Blair: Are you busy ?(＾ｖ＾)
+Kelly: Not that much. Why? (・・? (・・?
+Blair: Then how about working out and losing some weight?ヽ(´ー｀)ﾉ
+Kelly: What?<`～´>
+Summary: Blair wants to work out with Kelly, who is unconvinced about that.
+Dialogue: Clive: <file_photo> 
+Conrad: <file_photo>  this one looks better
+Craig: I am not a big fan of ties
+Clive: so what are you wearing to your suit for a wedding?
+Craig: just a shirt, without any tie or bow tie, it is in vogue
+Summary: Craig doesn't like ties. For a wedding he is going to wear a shirt without a tie or a bow tie.
+Dialogue: Maya: Hi Donna, Bill has had a prostate biopsy and 3 days in hospital due to bleeding from the bladder. He has cancer of the prostate but it's early stage so is treatable. We are grateful as it could have been worse.
+Donna: My dear Maya, so sorry for you two. But don't worry too much. Prostate cancers are nowadays no longer life threatening  and are curable. And you have a superb health system in ZA after all.
+Donna: Anyway I do a lot of thinking about you Maya. What a pity we are so far apart!
+Maya: Dearest friend, thank you for your supportive message. In 10 days' time we see our urologist and will discuss the treatment. I'm feeling very positive, but Bill not so because he is still in pain from the hospital treatment...
+Donna: Poor chappie! No painkillers?
+Maya: Only mild ones as he can't take anything else. He is a bleeder now that he is on blood thinning meds. Our urologist said it's his worst nightmare!
+Donna: Of course being in pain is an absolute horror. Has he still a catheter?
+Donna: Why is Bill taking blood thinning meds?
+Maya: He has no catheter now that we are at home.
+Maya: Where should I begin? In April, when Bill had a full medical, he was diagnosed as very nearly having a heart attack and 2 almost closed arteries. A stent fitted to one artery, the other arhery too small for a stent. He was put on blood thinning meds plus cholesterol plus high blood pressure pills. That's why.
+Donna: Sounds a real mixture.
+Maya: We are told by the heart specialist that without all these meds he has a high chance of heart attack or stroke.
+Summary: Bill has prostate cancer; it's early stage and treatable. He has had a prostate biopsy and has spent 3 days in hospital due to bleeding from the bladder. He also has a heart condition and is taking blood thinning meds. Donna lives away from Maya and Bill, but she tries to be supportive.
+Dialogue: Sue: Wanna do sth tonight?
+Vicky: Can't, I'm in Paris right now. I told ya.
+Sue: Oh, you're right!! I totally forgot, sorry
+Vicky: No problem :) I'm coming back tomorrow so I'll call you.
+Sue: kk :)
+Summary: Vicky cannot meet Sue tonight because she is in Paris.
+Dialogue: Dan: plans 4 tonight?
+Veronica: don't know, hasn't finish yet
+Dan: ok, call me after
+Summary: Dan asks if Veronica has any plans for tonight. She doesn't know and is currently busy.
+Dialogue: Margaret: Charlie I'm so silly, I forgot to take my wallet! Would you bring it to me on your way to work?
+Charles: Sorry honey I've already left home :(
+Margaret: Oh no, what a pity!
+Charles: But do you have any money on you?
+Margaret: Luckily my VISA was in my bag, so I should be fine
+Summary: Margaret forgot to take her wallet. Charles can't help her because he's already left home.
+Dialogue: Lizzie: What's the topic of your MA thesis?
+Susan: I'm writing about Ku Klux Klan :)
+Lizzie: Well well, that's a very interesting subject.
+Susan: Thanks, but there are a lot of materials, and I need to wade through hundreds of sources. There's a lot of work ahead of me!
+Lizzie: You'll manage. You're a hard-working person.
+Susan: Thanks Lizzie. Can I send you the first chapter? Can you take a look at it?
+Lizzie: No problem. 
+Susan: <file_other>
+Lizzie: Good. Give me a couple of hours and I'll give you the feedback.
+Susan: Thanks a million! You're an angel! 
+Lizzie: I don't have anything to do this evening so it'd be a pleasure
+Susan: <file_gif>
+Summary: Susan asked Lizzie to check the first chapter of her MA thesis on Ku Klux Klan.
+Dialogue: Sarah: I found a song on youtube and I think you'll like it
+James: What song?
+Sarah: <file_other>
+James: Oh. I know it! 
+James: I heard it before in some compilation
+Sarah: I can't stop playing it over and over
+James: That's exactly how I know lyrics to all of the songs on my playlist :D
+Sarah: Haha. No lyrics here though. Instrumental ;D
+James: Instrumental songs are different kind of music. 
+James: But you have to remember that the activity you do when you listen to this song
+James: Is the actvity your brain will connect to the song
+James: And everytime you play this song at home
+James: You'll be thinking of your work
+Sarah: Yeah, I know that. That's why we sometimes say - I used to like that song, but now it just reminds me of bad memories
+James: Yup. Everytime you change your partner, you have to get rid of your favorite music :D
+Sarah: Hahaha. True, true.
+Summary: Sarah sends James an instrumental song he might like. James knows the song. The brain connects the songs to the context they were played in and brings to mind the associated memories.
+Dialogue: Isabel: the conjuring or the exorcist?
+Darcey: exorcist
+Tilly: exorcist
+Aisha: exorcist
+Isabel: ok 3:0, the exorcist wins :D
+Summary: Isabel wants Darcey, Tilly and Aisha to decide on the film and the winner is The exorcist.
+Dialogue: Molly: WHAT THE FUCK ARE YOU DOING
+Noah: ???
+Molly: I CAN SEE YOU THROUGH THE WINDOW!! LEAVE THE HUMMUS RIGHT NOW
+Noah: you fuckin spying on me?!
+Summary: Molly is watching Noah through the window. She wants Noah to stop eating the hummus.
+Dialogue: Megan: Help me out here for a bit please. what am I supposed to bring to school this week? I am confused.
+Becky: A shoebox isn't it?
+Anna: Moon class a shoebox, they are making buildings this week.
+Amy: I thought I had to bring toilet rolls?
+Anna: Jupiter class needs to bring 2 toilet rolls per kid, they are making rockets
+Megan: ok, thanks. And what was this message about wellies? 
+Anna: Moon class are going to the park on Wednesday, so bring warm clothes and wellies in a bag
+Becky: Do we pick them up from the park? 
+Anna: No but from the other exit, by the studio
+Megan: oh, ok thanks. One more question, what is the £1.50 for?
+Anna: That's for the charity Mrs Nicholson is supporting by running 5 k every day for 3 months. 
+Megan: So I give that to Mrs Nicholdson? 
+Anna: No to reception.
+Megan: I'm going mad.
+Becky: I need gin.
+Amy: I am glad I only have one kid. 
+Megan: Everyone needs an Anna in their life! 😘
+Summary: Anna explains Megan, Becky and Amy what they should bring to school this week. They will pick their kids up by the studio exit and are supposed to give  £1.50 to the reception for the charity.
+Dialogue: Kiana: I still have not got the results for the competition in which i took part
+Kody: But it had been released yesterday
+Kiana: Omg :O
+Kody: Wait let me send you
+Kiana: k
+Kody: <file_photo>
+Kiana: I can believe, i got 2nd position <3
+Kody: Yeah you did it :D
+Kiana: Wbu?
+Kody: results for other competitions are yet to be arrived
+Kiana: Hope for the best
+Kody: :)
+Kiana: See you tomorrow
+Summary: Kiana took second place in the competition.
+Dialogue: Milton: looks like we are all free on Sunday, the 3rd so let's pick the place
+Olga: you know me, I always pick sushi place or pierogies
+Alexis: I'm fine with any place as long as it isn't sushi
+Alexis: I can't stand the smell when I'm pregnant
+Milton: I don't like pierogies but we can find the place with pierogies, no sushi and some other fish free options
+Olga: there's this cool Korean place on Washington street
+Alexis: oh Marika was there and she loved it
+Milton: I went there, it's amazing
+Alexis: I'm in
+Olga: yay
+Milton: ok so it's settled then
+Summary: Olga, Alexis and Milton are going to the Korean place on Washington street on Sunday, the 3rd.
+Dialogue: Darrell: Hey, are you back yet?
+Heidi: Hi, yes, I actually came back!!!
+Darrell: Cool. How was it?
+Heidi: It felt like I woke up from a coma.
+Darrell: hehe
+Heidi: Yeah, really weird. Have you moved to lublanska yet?
+Darrell: Yeah, we moved. It sucks now, it's so far.
+Heidi: Yeah, but now we work so close to each other.
+Darrell: That's about the only positive. You know it takes me an 1h 20m to get here. That's over 2.5 h for commuting.
+Heidi: Maybe you should consider taking your car.
+Darrell: Maybe, but it burns so much.
+Heidi: Get a new car! The newer cars burn like 5 nowadays.
+Darrell: Yeah, I'd love to, but no moollah!
+Heidi: I know what you mean. Everything keeps going up except our salaries.
+Darrell: Tell me about it. All my fav. restaurants jacked up their prices.
+Heidi: Speaking of which, let's have lunch? :)
+Darrell: Ok. See you at 12:30
+Summary: Darrell has moved to Lublanska. He spends over 2.5 h commuting, so he should get a new car. Now he and Heidi work close to each other. They'll have a lunch together at 12:30.
+Dialogue: Sarah: I got it!!!
+Miles: what did you get?
+Sarah: That acting job I told you about!!!!!!!!
+Miles: congratulations! i'm so happy for you!!  i knew you'd get it
+Sarah: Let's go out to celebrate!!!
+Miles: awesome, let's meet at that restaurant at the corner of 2nd avenue and 41st st
+Summary: Sarah got the acting job she told Miles about. They'll celebrate it at the restaurant at the corner of 2nd Avenue and 41st St. 
+Dialogue: Scott: Wanna smthg from the shop?
+Jenna: no, thx
+Scott: and from the pharmacy?
+Jenna: oh yes, can you buy me an adhesive bandage?
+Jenna: u know, yesterday I cut my finger…
+Scott: u did what?
+Jenna: I was slicing bread… everything’s alright now. Don’t worry
+Scott: OMG
+Scott: sure, no probs
+Jenna: thanx
+Summary: Jenna asks Scott to buy her an adhesive bandage. She cut her finger the previous day.
+Dialogue: Ben: hey anne gave me your phone number
+Ben: i think we got on the wrong foot
+Ben: i'm sorry for being so rude at the library
+Anne: that's fine…
+Anne: there's worse things than cutting people in line
+Ben: still it was kind of a dick move
+Anne: i'not gonna lie, it was... lol
+Ben: wanna go out for coffee?
+Anne: sure why not?
+Ben: wanna meet at the coffee shop next to the library at 4?
+Anne: sounds great :-D
+Summary: Ben apologises to Anne for being rude to her at the library. They will meet at the coffee shop next to the library at 4 and will have a coffee together. 
+Dialogue: Ellie: So what are we going to do about the wreath?
+Ellie: The funeral is approaching and we need to sort it out tomorrow at latest!
+Jay: I'm not good when it comes to flowers and I'm not sure if I can choose it myself
+Jay: but if send me a link, I can always order it
+Ellie: Ok, girls?
+Katie: let's look for it now and we will make a decision later
+Jay: <file_other>
+Jay: I found something like that. There are different sizes and even with the delivery we would be well within our budget.
+Jay: but as I said, not sure if it's visually pleasing
+Ellie: It's not bad
+Katie: <file_other>
+Ellie: This one is way too colorful for the occasion
+Katie: true and more expensive as well
+Monica: it's not that easy to find a good one
+Monica: so I'm not sure what to do
+Ellie: Can't find anything...
+Katie: me neither, all are either ugly or way too expensive
+Ellie: Maybe we should settle for the one Jay found in the beginning?
+Ellie: It's pretty nice and affordable
+Katie: I like it as well!
+Monica: I don't like the violet flowers in it
+Monica: violet is like my least favorite color!
+Ellie: Let's keep looking then and we will make a decision tomorrow morning
+Jay: if the violet color is the only problem, I can always call them in the morning and ask if they can swap those flowers for some other color
+Monica: that would be great
+Ellie: Yeah please do that but just in case keep looking for alternatives as well
+Jay: sure, I'll keep you updated tomorrow morning
+Summary: Ellie, Jay, Katie and Monica need to buy a wreath for the funeral. Katie, Ellie and Jay would like to buy a wreath found by Jay. However, Monica doesn't like the violet flowers in it. Jay will call the florist in the morning and ask if they can replace the violet flowers.
+Dialogue: Cindy: Hi Peter, the invitation for the New Year's party will be waiting for you at the office until 5PM tomorrow.
+Peter: Ok, thanks for letting me know. Who should ask about it?
+Cindy: It will be waiting for you at my desk. Do you know where to find me?
+Peter: Of course, I'll drop by tomorrow!
+Summary: Peter will pick up the invitation to the New Year's party at the office tomorrow by 5 pm.
+Dialogue: Elizabeth: I found a cheap flight to Mallorca in February
+Tom: How much?
+Elizabeth: 30$ to and fro for one person
+Tom: Take it!!
+Elizabeth: OK, take care of airbnb, find sth cheap but reasonable
+Tom: On it!!! :D
+Summary: Elizabeth found a flight to Mallorca in February. The round-trip ticket costs 30 dollars. Tom is looking for something cheap on airbnb. 
+Dialogue: Rene: need a minute!
+Rene: be right there!
+Clark: ok,ok
+Summary: Rene will be there in a minute.
+Dialogue: David: Just talked to John.
+Paula: How's he? What was that about?
+David: Eh, he was just asked if he was considering changing departments...
+Paula: What?!
+Paula: Oh dear, but John's so committed!
+David: I know, right?! I don't know what his deal is about.
+Paula: Did he say anything else? Did he suggest any department in particular?
+David: No, that's the thing. According to John, Powell was nice, but you know... in this mischievous way.
+Paula: At least he didn't fire him right away.
+David: Well, it's not that simple, but I don't envy him.
+Paula: Tell me more, poor John. I like working with him.
+David: Me too, pity he probably won't be here for long.
+Paula: Powell probably already has a list of people who want John's job. That'll be interesting.
+Summary: John might be changing departments and later on be fired. Paula and David sympathize with him. They like working with John.
+Dialogue: Maureen: Hey, do you want to meet up for that Thanksgiving dinner we were talking about?
+Austen: Sure, but we have to decide on a date that would work for everyone.
+Maureen: How about the first week of Dec? Next week it's my bday and then we have guests coming for the weekend.
+Austen: I think that would work.
+Maureen: Do you think your car can make it to my place?
+Austen: I don't think so. The shocks are shot and the wheel bearings need to be replaced. I'm afraid of getting stuck on that road :)
+Maureen: Ok, we'll work something out. I can bring over the Honda and pick you guys up and then you can take the Honda back.
+Austen: Cool, actually I was meaning to ask if we can borrow the Honda for a longer bit. 
+Maureen: Sure, it's just sitting here. It'd be good for someone to use it.
+Austen: I'll pay you something for it, of course.
+Maureen: Don't worry about it, that's what friends are for, right?
+Austen: :)
+Maureen: Now, what about that dinner. What shall we have? :) I can take care of the turkey, you can bring salads and cake. What do you think?
+Austen: Sounds good to me. Do you even have a big table we can all sit at?
+Maureen: Ya, I have one that opens up and extends. It can fit 10 people.
+Austen: Ok, cool. So Sat. Dec. 1st at what time?
+Maureen: I can come and get you guys after 2 because James has his soccer training before then.
+Austen: Ok, sounds good. Nathan should be back from his drum lessons at around 2:30.
+Maureen: Ok, I'll call before we come.
+Austen: Cool, see ya
+Maureen: Bye
+Summary: Austen and Maureen are going to have a Thanksgiving dinner together on the 1st of December. Maureen is going to pick Austen and her family up after 2 pm. Austen is going to borrow the Honda from Maureen for a time. Maureen will prepare the turkey and Austen will bring salads and cake.
+Dialogue: Lia: Where are you now?
+Tom: in Tunis
+Lia: how is it there, what's the weather?
+Rebecca: it's rained last 2 days, it's not hot, but warm enough
+Lia: even at night?
+Rebecca: nights can be very unpleasant
+Lia: what are your plans for the next days?
+Rachel: I'm trying to convince them to go to Algeria
+Lia: is it safe?
+Tom: exactly this is the point, we don't know how (un)safe it is
+Rachel: I think it cannot be worse than Tunisia
+Rachel: and we would just go to Algiers, and we're in a group
+Rachel: I've read a lot about the situation there recently
+Rachel: cities are very safe. One should only avoid traveling alone to small villages
+Rachel: <file_other>
+Lia: doesn't seem very bad
+Tom: ok, we will think about it
+Rebecca: the problem is that we don't have that much time left
+Lia: Anyway, I really envy you this trip
+Summary: Tom and Rebecca are in Tunis. Although it rained there it's not cold. Rachel suggests Tom and Rebecca could visit Algeria next. She states that it's safer than Tunisia. She wants to meet in Algiers. Tom and Rebecca will consider it, but they have little time. Lia envies them the journey.   
+Dialogue: Gabriella: Hey wassup? How's life/work/the pursuit of happiness and the like?
+Derek: Things are ok over here. How about you?
+Gabriella: I sold my car and bought a new one. Ahem, bought an almost equally old one. Cuh-razz!!! What are you guys doing during winter break?
+Derek: Hey, wow, cool. How did you sell it so fast? What did you buy? Casey is sick. In 2 weeks we're going to Cieszyn.
+Gabriella: 2005 Mercedes b class. What's wrong with Casey? What's in Cieszyn?
+Derek: Is it a sedan, hatchback, station wagon? Next week the kids have hockey day camp and then 2-day hockey training in Cieszyn. We'll stay the night there.
+Gabriella: Hatchback. So in one week you're going? Ali has day camp next week and I'll work from home because of the hours and the following week we are meeting Tasmin in Berlin. I sold it for 9000.
+Derek: I'd probably get like 3 for mine.
+Gabriella: I bought the "new" car for 10, but it has some rust.
+Derek: That's pretty good. Does it burn less?
+Gabriella: Supposedly 6 on the highway.
+Derek: That's pretty goo. Where did you find it?
+Gabriella: Olx, my mechanic said the engine was great. It's quite small outside and big inside.
+Derek: Cool. I'd like to see it.
+Gabriella: Next time we meet for lunch I'll show it to you.
+Derek: Ok, see ya.
+Summary: Gabriella got a new 2005 Mercedes hatchback. Derek and Casey are going to Cieszyn in 2 weeks. Their children will train hockey there. Gabriella will meet Tasmin in Berlin. Gabriella bought her car for 10k on OLX. She will show it to Derek when they have lunch together.
+Dialogue: Jerry: We are planning to spend Christmas in our house on Cape Cod
+Jerry: So we wondered with Jenny if anybody would like to visit us over the Christmas break
+Margaret: what a nice idea, I'm staying in Boston, so I may come over for 1-2 days
+Jerry: great. you can relax here quite well, take a walk on the beach etc.
+Pat: Can I come with children?
+Jerry: sure, it's perfect for children here
+Margaret: you may also come with me Pat
+Jerry: when would you like to come?
+Jerry: we'd prepare the rooms etc
+Margaret: maybe 26 of December?
+Pat: yes, I have to be in New York on 24th
+Sigmund: I will go from New York to Boston on 25th, so I can bring you back
+Pat: god, guys, you're so nice!
+Sigmund: c'mon, it's normal, and it's nicer not to drive alone for 3 h
+Jerry: ok, so we will expect you on Cape Cod 26 of Dec
+Pat: where exactly is the place?
+Jerry: in Chatham
+Margaret: lovely! it's such a charming town
+Jerry: it's indeed
+Jerry: and we want to share it with friends
+Margaret: so nice!
+Summary: Jerry and Jenny are planning to stay in their house in Cape Cod for Christmas and invite Margaret and Pat to visit them. Margaret and Pat together with her children are expected in Chatham on December 26th.
+Dialogue: Matthew: Booked the tickets!
+Mary: Thanks!
+Jay: Thank you Matthew!
+Matthew: <file_other>
+Summary: Matthew booked the tickets for Mary, Jay and himself.
+Dialogue: Beverly: When will you be home?
+Beverly: I’m cooking and I ran out of eggs…
+Roy: In 15 minutes. I’ll buy some on the way.
+Beverly: Thanks dear
+Summary: Roy will be home in 15 minutes. He will buy some eggs for Beverly on his way. 
+Dialogue: Jane: <gif_file>
+Jane: Whaddya think? 
+Shona: This ur tinder profile thing?
+Jane: Yeah, I'm updating my profile tonite. Kinda nervoous though... :( 
+Jane: What if i get another guy like John? o.O
+Shona: John was a dickhead
+Jane: preach sistah!
+Shona: anyhoo - this time I've got u :D No slimeballs for you 
+Jane: Not again *shudders*
+Jane: You know he forgot my birthday??!!
+Shona: wanker
+Summary: Jane is updating her Tinder profile tonight and together with Shona they don't want to find another guy like John, who forgot Jane's birthday.
+Dialogue: Milo: Hi
+Noelle: Hi
+Milo: How's it going ?
+Noelle: Everything is ok I finished my private lesson some time ago and now I'm just at home. I was talking to my student for so long time. Like 1 hours in general during and after the lesson. She even wanted to pay me more because she had taken my time but I didn't even want it since it was also my fault that we were talking and it wouldn't be fair. 
+Milo: Cool
+Noelle: And how about you?
+Milo: Nothing I'm just just drinking coffee watching a movie
+Noelle: Nice
+Milo: ;)
+Noelle: :) I've realised I need to learn English xd
+Milo: Why?
+Noelle: It don't know so many words yet... connected with law, parts of a car, medicine etc. Idioms, everyday words
+Milo: I see
+Noelle: What happened that u drinking coffee and not beer? Haha
+Milo: I only drink on the weekends now
+Noelle: Since when? Lol
+Milo: Since I've been in congo
+Noelle: Why that? What's the difference if it's Congo or Uganda or other countries?
+Milo: Just because I don't feel like drinking during the week here
+Noelle: Good
+Summary: Milo is watching a film and drinking coffee. He stopped drinking alcohol at the weekends after visiting Congo. Noelle plans to improve her English by learning more vocabulary and idioms.
+Dialogue: Beth: Hi gorgeous, you alright?
+Emma: Yeah, enjoying year 11?
+Beth: Hmm, no, it sucks actually! So much work!
+Emma: Yeah, I remember, actually, you won't like this, but Year 12 is even worse!!
+Beth: Yuck! I might look for an apprenticeship, I can't stand much more sodding school!😩
+Emma: Well, fine, but try to hang on to get a few GCSES, at least!
+Beth: Maybe, but my auntie is looking for a Saturday girl in the salon, might ask her.
+Emma: Nepotism, eh?
+Beth: Wot?!
+Emma: See, that's why education is a good idea!😏 I just mean, getting advantages through family connections.
+Beth: So what, everyone does it. I may give hairdressing a go, or there's a beauty bit there too now, auntie has just bought the shop next door and renovated it. I could be a beauty therapist?
+Emma: Pretty good idea, but think of doing Brazilian waxes on people!🤤
+Beth: I agree, it's pretty scary! We'll see, can't hurt to ask, anyway.
+Emma: Why not! Anyway, see you at the club on Fri?
+Beth: Oh, yessssss, heard a certain blond trainee mechanic will be there😍
+Emma: Oh God, yeah, the new guy, Nat, isn't it? Joe told me they had a newbie.
+Beth: Joe's pretty fit for an old guy, mind.
+Emma: Er, gross, that's my brother! See you!
+Summary: Emma and Beth don't like school. Beth is thinking about apprenticeship at her aunt's salon. Both girls like Nat. Beth also likes Joe, Emma's brother.
+Dialogue: Ann: Yo! Are we meeting today?
+Peter: Hey ho. 🙂 Actually, tomorrow would fit me better, are you free tomorrow as well or only today?
+Ann: Tomorrow I will spend all day in sintra
+Peter: after? 🙂
+Ann: I don't know what time I will come back. So I don't want to plan anything for tomorrow. And for sure i will be tired after walking the whole day
+Peter: mh.. ok so what would you suggest?
+Ann: If not today then Monday?
+Peter: sounds fine for me
+Ann: Ok
+Peter: ok, have fun in sintra 😉
+Ann: Thanks
+Summary: Peter would prefer meeting with Ann tomorrow instead of today. Ann will be in Sintra for the whole day tomorrow. Peter and Ann decide to meet on Monday.
+Dialogue: Maria: is everybody at the airport?
+Lore: Seems so, I've just counted all of them/us
+Joan: sir, I'm still on the bus
+Lore: how long will it take you to get here?
+Joan: there was a traffic jam
+Joan: I hope I should be there in about 30min
+Lore: 30min? ok, this should be enough but hopefully not more
+Joan: I'm doing my best, sorry
+Lore: ok
+Lore: we just have to undertake some special security procedure as a group apparently
+Lore: I've no idea how much time it can take
+Maria: Joan, just let us know as soon as you get here, we will start the procedure without you and you will do what regular passengers do
+Maria: is that ok with you?
+Joan: yes! thank you
+Summary: Everybody's at the airport apart from Joan. There was a traffic jam, but she should be there in 30 minutes. Maria, Lore and the rest will start a group security procedure without her. She'll behave just like a regular passenger.
+Dialogue: Isiah: Do you like Declan?
+Shyann: He's good looking
+Shyann: but yeah why
+Isiah: you think hes good looking?
+Shyann: Yeah not my type of guy tho
+Isiah: I see haha idk I don't know him well
+Isiah: Just met him down the hall today 
+Shyann: You guys can hang out more his a good pal and friend
+Isiah: Good to hear that 😄
+Summary: Isiah met Declan down the hall today. Shynann is just good friends with Declan and says that Isiah can hang out with him. 
+Dialogue: Lennon: dont forget my sports kit I left at yours
+Shaz: ok babe, the black one?
+Lennon: yh can u put some spray in for me too
+Shaz: ok see you at the gym later xx
+Summary: Shaz will bring Lennon his sports kit and some spray to the gym. 
+Dialogue: Lita: Hi Jane
+Jane: Hi Lita
+Lita: How's your day?
+Jane: Oh, it's ok but I have a terrible headache
+Lita: I bet it's the girls
+Jane: Sure, children are a blessing but sometimes I'd like to run a way
+Lita: I know, my son is seven now but I remember when he was two or three
+Jane: Hahaha
+Lita: Is Virginia still sick?
+Jane: A little but at least she's not crying all the time anymore
+Lita: Thank God!
+Jane: Tina was making fun of her yesterday, she called her "farty-poop"
+Lita: Oh, that's cruel!
+Jane: I know but I must admit that after 3 days of Virginia's bowel sickness it made me laugh
+Lita: Tina is about to turn 5 years old, right?
+Jane: Yes, next week, on Sunday
+Summary: Jane has a terrible headache because of her children. Virginia is still a little sick. Tina called her "farty-poop" yesterday. Tina's turning 5 years old next week on Sunday.
+Dialogue: Patty: Where are you guys? I'm waiting in front of the movies
+Erica: Sorry, I'll be there in 5 minutes
+Nia: Same here! Damn traffic
+Patty: Alright, alright
+Summary: Erica and Nia are running late, while Patty is in front of the cinema.
+Dialogue: Tristan: I've just read this interesting article about babies
+Gavin: hahah, why interesting?
+Tristan: Did you know that every year there are more male than female babies born?
+Shane: Sure, it's normal, a phenomenon known for centuries
+Tristan: really? I haven't known
+Tristan: so what is the reason for that?
+Shane: It's hard to say, there are different theories
+Shane: what does the article say?
+Tristan: that the main theory is evolutionary
+Shane: right
+Tristan: that boys and men generally die more often, so the nature regulates it to keep a balance between adult male and female
+Shane: true, but some other scientists say it's about sperm
+Tristan: sperm?
+Shane: yes, that female sperms (with chromosome X) are robuster 
+Shane: but one doesn't exclude the other
+Tristan: It's fascinating
+Gavin: You're such a nerd really
+Tristan: hahah, a bit
+Shane: Gavin, we all are nerds :P you're just a technology nerd and an ignorant in every other field
+Gavin: I'm afraid it may be true
+Summary: Tristan found out from an article that each year there are more male than female children born which is linked to an evolutionary theory. Shane alleges an alternative theory linked to female sperms.
+Dialogue: Martha: I bought a cow
+Penelope: WHat?
+Lola: Why?
+Lola: Where are you going to keep it???
+Martha: In my garden
+Martha: I will have fresh milk every day
+Martha: And I will make cheese
+Lola: Do you even know how to milk a cow?
+Martha: What's so difficult about it?
+Martha: I've already picked up a name
+Martha: Mathilda 
+Martha: It's a good name for a cow
+Lola: Do you know that cows shit a lot?
+Summary: Martha bought a cow. She named it Mathilda.
+Dialogue: Joni: Thank you for telling me about that concert! I had a really nice time!
+Michelle: That was the Budapest Festival Orchestra concert, right?
+Joni: Yes! A friend of mine is a big fan of theirs and I'd been meaning to see them.
+Michelle: Did you have good seats?
+Joni: No, we sat way in the back, but it didn't matter. The acoustics at the venue were exceptional.
+Michelle: Excellent. Glad that you enjoyed it. I'll try to see them myself the next time they are in town. 
+Joni: You should! Definitely worth it!
+Summary: Joni had a nice time at the Budapest Festival Orchestra concert, which Michelle had told her about. Joni went to the concert with her friend, who's a great fan of the orchestra. They sat in the back of the venue, but that wasn't a problem thanks to exceptional acoustics. 
+Dialogue: Steve: Good morning. 
+Andre: Good morning. How may I help you?
+Steve: I'd like to order 3 pairs of trousers. Catalogue id: 2457
+Andre: Of course. All in one size?
+Steve: Yes. XL. Different colours: black, navy blue and grey.
+Andre: Anything else? We've got leather belts discounted this month for purchases over 100 USD.
+Steve: Could you send me a photo?
+Andre: <file_photo>
+Steve: Are there any with a larger buckle?
+Andre: I'm afraid only the ones you can see in the photo.
+Steve: So, I'll think about the belts another time. Now only the trousers.
+Andre: Of course. How would you like to have them delivered?
+Steve: Door-to-door, if possible.
+Andre: The cheapest or the fastest delivery?
+Steve: The cheapest.
+Andre: OK. Could you please fill in this form and send it back to me?
+Andre: <file_docx>
+Steve: Done.
+Steve: <file_docx>
+Andre: Thank you. Your order should be with you within the next 7 days. Is there anything else I may help you with?
+Steve: Thank you. That'll be all.
+Andre: Thank you for your interest in our products. Have a good day!
+Summary: Steve ordered 3 pairs of XL trousers in 3 different colors. Steve chose the cheapest door-to-door delivery and filled in the form on Andre's request. Steve will receive the delivery within 7 days.
+Dialogue: Juliana: hey
+Juliana: hope you are okay?
+Juliana: so, on saturday are we going at the childrens centre?
+Triza: hey, im not yet sure.
+Juliana: why?
+Triza: my friend is having a wedding on saturday
+Juliana: oh..😟
+Triza: 😞😞😞
+Juliana: its okay
+Triza: but i'll let you know if i can come for atleast 1 hour
+Juliana: yeah, please try, the children there at beverly love you a lot
+Triza: haha, yeah i know😊😊
+Juliana: do i know that friend of yours?
+Triza: no, i really dont think so
+Juliana: why
+Triza: its a friend of Jeff's, i don't think you've met her before
+Juliana: oh😶😶
+Triza: yeah
+Triza: but we'll see
+Triza: we can also go together to the wedding
+Juliana: yeah, that sounds like a plan, lets meet up before and talk more
+Triza: cool
+Summary: Jeff's and Triza's friend has a wedding on Saturday so Juliana can't really go to the beverly childrens centre. She will try to go for at least 1 hour as she knows the kids love her.
+Dialogue: Lizzy: Hi girl!
+Mary: coffee time? :)
+Lizzy: Sure!
+Lizzy: With u - always !
+Summary: Lizzy and Mary are grabbing a coffee.
+Dialogue: Martha: By BF is throwing up in the toilet!!!
+Linda: Gosh! He's really sick
+Cecilia: Let him puke. It will bring relief. 
+Summary: Martha's boyfriend is throwing up in the toilet. He's sick and this should bring relief.
+Dialogue: Clair: Soo how was last night? ;>
+Ted: Mhmmm don’t even ask cause I'll start imagining that again <3
+Clair: We need to do it again ;>
+Ted: Yea definitely, but I don’t know about this week, I’m busy
+Clair: OK, let me know when do you have time then
+Summary: Ted and Clair met last night. They want to meet again but Ted is busy this week.
+Dialogue: Terry: do you know that the child of Gosia is already 7?
+William: right! it was abducted in 2012
+Meghan: a very sad story
+Ella: I wonder if she sees the child ever again
+Terry: she talks to her via Skype
+Ella: but that's not motherhood
+Meghan: even the father agrees now that the child should return to the UK
+William: So what's the problem?
+Ella: The grandmother doesn't want to allow it
+Ella: and the girl speaks only Arabic 
+Terry: this is really tragic
+Terry: I don't have an idea what else she could do
+Ella: go there?
+Terry: hmm, isn't it too dangerous?
+Terry: or maybe they know her there
+Meghan: and now she would abduct the child?
+Meghan: seems stupid
+Meghan: I believe in the legal battle
+Terry: but who in Libya cares about decisions of British courts?
+Terry: I think it's useless
+Summary: Gosia's daughter is 7. She was abducted in 2012 and lives in Libya. Gosia talks to her via Skype. She can't come back to UK because the grandmother does not allow it.
+Dialogue: Shelby: Does anybody know how to arrive to the place?
+Cole: She sent us some pics, right?
+Shelby: they are not very readable, at least I don't get it how to get there :P
+Tristan: Where are you know?
+Tristan: I know the way, I'm driving my car so you could just follow me
+Shelby: <file_other>
+Tristan: right, stay there at the patrol station, I'll be there in about 15-20 min and we can go together
+Shelby: perfect! thx!
+Summary: She sent some pictures how to arrive, but they are not readable. Tristan is going there by car. He will join Shelby in 15-20 minutes at the petrol station and show her the way.

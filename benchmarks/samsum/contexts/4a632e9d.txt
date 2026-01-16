@@ -1,0 +1,430 @@
+Dialogue: Peter: How is your day going?
+Peter: Hmm?
+Jess: Ah Peter, I'm sorry but I can't really talk right now. Maybe some other time. 
+Peter: Ok.
+Summary: Jess cannot talk right now.
+Dialogue: Eva: i have nothing to wear
+Grace: as always
+Eva: but today i MUST look gorgeous
+Grace: as always
+Eva: but today im going out with Tom
+Grace: Tom Morgan?
+Eva: of course, Tom Hotty Morgan
+Grace: restaurant?
+Eva: yes, La Donna Pasticella 
+Grace: so maybe this red dress?
+Eva: too long
+Grace: hmm, this orange is shorter
+Eva: i will look like Orange tree, with my green hair
+Grace: black is too obvious
+Eva: black is always a good idea ;)
+Summary: Eva is going out with Tom Morgan and she wants to look gorgeous. They are going to La Donna Pasticella restaurant. Grace suggests a red or orange dress but Eva prefers a black one.
+Dialogue: Randy: let's meet up at 7pm
+Bartek: sweet where exactly
+Bartek: i live near central station
+Randy: I'm in subburbs, maybe middle way?
+Bartek: aight
+Randy: Great! I will be with my boyfriend
+Bartek: boyfriend
+Bartek: i didnt know you have one
+Randy: Yes, I do! I'm glad you guys can meet
+Bartek: you know i forgot i have plans already
+Bartek: maybe next time
+Summary: Randy wanted to meet with Bartek at 7 p.m. halfway between the suburbs and the central station. Bartek did not know that Randy has a boyfriend. Randy wanted to go with her boyfriend at the meeting. Bartek was surprised by that and decided not to meet at all.
+Dialogue: Ross: Hey Isabella ! you have lost weight. you must be on a diet 
+Ayehsa: No Ross, I have started jogging.
+Ross: Well that's great.
+Ayehsa: Thank you
+Summary: Ayehsa has started jogging.
+Dialogue: Helen: Are you going to the dance on Saturday?
+Hannah: Of course! I'll be singing there
+Helen: What are you talking about?
+Hannah: We will have a small perfomrance
+Helen: What do you mean with 'we' I thought you'll be solo
+Hannah: Don't be funny I couldn't make something like this solo
+Hannah: We are 15 people, 10 are singing and rest is playing instruments
+Helen: Wow that sounds great, what instruments?
+Hannah: A guitar, 2 violins, an alto and one small drum
+Helen: That's almost a band
+Helen: What are you singing?
+Hannah: That should be a surprise for everyone so I can't tell you
+Helen: Please...
+Hannah: The only thing I can tell you that it will be a Christmas performance
+Helen: Yeah I can't wait!
+Hannah: What you are wearing for the dance?
+Helen: That's why I'm texting you...I honestly have no idea what to wear...
+Hannah: You have this gorgeus red dress that you wear on my birthday I think it wil fit for the Christmas theme
+Helen: That's actually not a bad idea
+Helen: I honestly forgot about that dress
+Hannah: It's really pretty. I will have a black long dress because we will all were black 
+Helen: It will be looking great, I'm sure!
+Summary: Hannah accompanied by 15 people will perform at the Saturday's dance. The song is a secret. Hannah thinks Helen should wear the red dress for the dance. Hannah will wear black, just like the other performers.
+Dialogue: Kamren: What a game today
+Kamren: 7-0
+Hattie: For who?
+Kamren: Portugal vs Estonia
+Hattie: Mm
+Hattie: Ok. Enjoy the match. We'll talk later
+Kamren: Game is done
+Summary: Portugal beat Estonia 7-0.
+Dialogue: Aurelia: Rory, you know that you‘re group admin 😂
+Rory: Oops
+Rory: She told me that’s her new number.
+Aurelia: Is she joining us in Belgium? I thought she has to work 💁‍♀
+Rory: She was going to check
+Rory: But I don’t think she can change her schedule
+Julia: I can! I’m going with you!!!! 🍾🍾🎉
+Aurelia: No way! I’m so happy! 😍 That’s going to be the best day ever!
+Rory: Awesome!!! I kinda miss you… 😘
+Summary: Julia will join Aurelia and Rory in Belgium. 
+Dialogue: Pam: Have you seen my hairdryer?
+Pam: I can't find it anywhere.
+Lisa: Oh, damn, I forgot to tell you...
+Lisa: It has broken down this morning
+Lisa: So I called Chris and he told me to bring it to him and he'll cast an eye over it
+Pam: For fuck's sake!
+Pam: What am I supposed to do now?! Shit!
+Lisa: I'm really sorry, but it's nobody's fault
+Lisa: It's called perversity of inanimate objects, nothing more
+Pam: Fuckin' bad luck
+Summary: Pam's hairdryer broke and Lisa gave it to Chris to fix it.
+Dialogue: Nathalie: hey we're going downtown to do some shopping
+Nathalie: let me know if you wanna come
+Therese: oh sure why not
+Nathalie: ok I'd like to pick you up at 2, is that fine?
+Therese: yeah, that's ideal, my dear ;-)
+Nathalie: we're gonna have so much fun haha!
+Summary: Nathalie will pick up Therese at 2 to go shopping.
+Dialogue: Aaron: Hi Abbey! :)
+Abbey: Hi Aaron! It's been a while!!!
+Abbey: How are you? Where are you now? 
+Aaron: Well, acctually I'm back in town and... I thought I saw you yesterday at the bus station. 
+Abbey: I was there!
+Abbey: Why didn't you say something?
+Aaron: At first I wasn't sure if it was you and then your bus arrived. 
+Abbey: I see. So how are you?
+Aaron: I'm fine. 
+Aaron: I came back to town for good. 
+Abbey: Wow, that's uite a news! 
+Aaron: Well, yes. 
+Aaron: It was a spontaneous decision to quite my job at the city and come home.
+Abbey: Why? What happened?
+Aaron: It's a long story.
+Aaron: Maybe you'd like to meet for a coffee and a chat?
+Abbey: I'd like to hear about that, so yes. 
+Aaron: Are you free tomorrow midday?
+Abbey: Yes, I'm on maternity leave, so yes.
+Aaron: Wow, you have a baby?!
+Aaron: That's wonderful! Congratulations!
+Abbey: It's not quite that simple. But we can talk tomorrow.
+Aaron: Okey... I'm not asking any more questions now. 
+Aaron: Can I come for you at 12:00?
+Abbey: I'd rather meet at a coffee, as I have thigns to do in town in the morning. 
+Aaron: Can you chose a place? Cos I have absoultely no idea where we could go now. 
+Aaron: So much has changed!
+Abbey: Yes, indeed it did change..
+Abbey: I'll write you an address later, ok?
+Aaron: OK! I'm so happy to meet you! :)
+Summary: Aaron quit his job in the city and came back home for good. He saw Abbey at the bus station. She now has a baby. They will meet for a coffee a chat tomorrow at noon.
+Dialogue: Josh: Hey there buddy! When are you coming to England to visit?
+Peter: What's up Josh! It's going to be a little difficult this year I'm afraid... Work has just been terrible lately.
+Josh: Oh I'm sorry to hear that :(  
+Peter: It's alright bro, I'm also changing houses btw. I bought a new flat and sold that big old one.
+Josh: Oh cool! I have to check it out next time I visit you in sweet sunny Portugal :D
+Peter: Dude it's gonna be so cool, going to make a gaming room and it's going to be awesoooome. 
+Josh: Sweeeet. Still playing PS4?
+Peter: Oh yeah, been playing Spiderman 4 and the game is just amazing, you should definitely check it out!
+Josh: Uuuh sounds good, is it really worth it?
+Peter: It really is, a little bit expensive but totally worth it.
+Summary: Peter is moving to a new flat. Josh wants to visit him in Portugal. Peter's been playing Spiderman 4 and reckons it's a bit expensive but worth the money.
+Dialogue: Jacob: soo how was the partyyy last night?
+Jacob: Did I miss much?
+Cynthia: tbh you missed indeed much! You have no idea who came to the party!
+Jacob: gimmie gossip girl :D
+Cynthia: Sweet Tooth Penny and her newest boyfriend :D
+Jacob: OMG srsly? How is she doing these days?
+Cynthia: Well she has recently started new work as a secretary
+Jacob: no wonder, she was born to do this kind of job XD
+Cynthia: and her boyfriend is a sailor
+Jacob: LOL 
+Jacob: do you have pics?
+Cynthia: sure
+Cynthia: <file_photo>
+Cynthia: <file_photo>
+Jacob: awww…that looks pretty awesome
+Jacob: and Penny is still pretty :D
+Cynthia: <file_video>
+Jacob: XD
+Summary: Cynthia went to a party last night that Jacob didn't go to. Penny came to the party with her new boyfriend who is a sailor. Penny has recently started a new job as a secretary. 
+Dialogue: Sebastian: How many days until end of school year ?
+Marta: 53 days
+Sebastian: So many days ? Looking forward to the holidays !
+Marta: You still have some time to buy your swimming suit :)
+Summary: Sebastian and Marta count down days until the end of school year.
+Dialogue: Jacqueline: Your homemade food is amazing babe!!
+Jacqueline: I will order more meals for next week :)
+Kaylee: Thank you darling :)
+Jacqueline: How are you managing to prepare so many meals each week?
+Kaylee: I'm not doing it alone, I'm doing it together with another girl from the gym 😉
+Jacqueline: Ah! Amazing!
+Kaylee: Tomorrow I'll send you the menu we have for next week
+Jacqueline: Perfect babe, thanks!
+Summary: Jacqueline will order more meals from Kaylee next week. Kaylee and another girl from the gym prepare the meals together. Kaylee will send Jacqueline the menu for the next week tomorrow.
+Dialogue: David: Guys, as you might already know, Tom won't be able to come with us to the Festival
+Olga: What happened?
+Fred: Just some work related stuff, don't worry.
+David: Still that leaves us with a spare ticket that we won't be able to return
+David: So ask around if anyone would like to come with us
+Nancy: What about the sleeping arrangements?
+David: We still have the rooms booked as before, depending on who'll replace him, we can always rearrange...
+Nancy: True
+Fred: If I remember Steve was interested when we started planning, maybe we can ask him?
+David: Already did, unfortunately he can't...
+Olga: I'll ask my brother, he likes that kind of stuff, so he might be interested to come
+David: Great, please do
+Nancy: What about the rest? They're not here atm
+Fred: I'll call them later and ask if they know anyone who would like to come.
+David: Great, that way I don't have to do it :P
+David: Anyway, we still have some time before the Festival so it's not super urgent
+David: but keep that in mind and if anything changes keep each other updated!
+Summary: Tom can't make it to the Festival so David suggests everyone asks around for someone to replace him. 
+Dialogue: Hunter: so, have I convinced you to give tennis a go? :)
+Natalie: maybe :)
+Natalie: definitely today’s class was less traumatic than what I remember from the middle school
+Hunter: “less traumatic”
+Hunter: you don’t seem to be overly enthusiastic :D
+Natalie: i didn’t mean it this way ;)
+Hunter: actually, why do you dislike tennis so much?
+Natalie: when i was in my early teenage years my parents used to make me play tennis, although i absolutely hated it
+Hunter: why?
+Natalie: my dad wanted me to become the next Steffi Graf
+Natalie: plus i was a little bit overweight and he thought that playing tennis would help me to slim down
+Hunter: i see...
+Hunter: that’s why you were so reluctant, huh?
+Natalie: mhm
+Natalie: but i had fun today, so maybe i’ll change my mind
+Natalie: i just have really bad associations with this sport
+Hunter: well, i hope you’ll rediscover tennis for yourself, you’re really good at it :)
+Hunter: you know, there’s no pressure this time :)
+Natalie: thanks! :) maybe, who knows... ;)
+Summary: Natalie has bad memories of tennis, because as a teenager her father forced her to play it. Hunter tries to convince Natalie to give tennis another shot, because she's good at it.
+Dialogue: Dan: Hi Jack, can I come over to play
+Jack: Don know, I'll ask mum.
+Dan: please ask her for mini choc rolls!
+Jack: mum say yes come now
+Dan: Mini roll?
+Jack: Yes!
+Summary: Dan will come to Jack to play and his mum will get them mini choc rolls. 
+Dialogue: Tay: Awesome deal! Sodastream Spirit for 39!
+Becca: No way!
+Tay: Yeah! Like 60 percent off!
+Becca: Where?
+Tay: Amazon...
+Becca: Sweet! I want one!
+Tay: Order! LOL!
+Becca: Can't afford it.
+Summary: Tay is happy about 60% discount on Sodastream Spirit on Amazon, but Becca can't afford it.
+Dialogue: Ellen: Are you taking a break now?
+Susie: Yep, in five, I just need to finish the report
+Ellen: Wanna get some coffee?
+Susie: Love to
+Summary: Susie is taking a break in 5 after she's done with the report. Ellen wants to get some coffee with Susie.
+Dialogue: Beth: Did you see what Lisa was wearing???
+Renee: YES!!!! GAG!!!
+Beth: I know!
+Renee: I mean, if you had that gut, would you dare?
+Beth: I don’t and I don’t! LOL!
+Renee: LOL!
+Beth: Does she not have a mirror?
+Renee: No way she has a mirror! LOL!
+Beth: I know crop tops are in but gawd!
+Renee: LOL!
+Beth: Maybe she borrowed it from her mom!
+Renee: LMAO!!!
+Beth: That’s even worse! LOL!
+Renee: See? Could be worse! LOL!
+Beth: Mom top!
+Renee:  Muffin top! LOL!
+Beth: LMAFO!!!!
+Summary: Beth and Renee are laughing at Lisa's crop top.
+Dialogue: Monika: say hi to your new Facebook friend, Monika
+Keith: Hi, Monika.
+Monika: Hello. Do I know you from somewhere?
+Keith: Yes, you remember, I am Sophie's dad. Our kids were friends at school. 
+Monika: Sophie from England?
+Keith: That's right, you do remember.
+Monika: I remember your Sophie punching my Paweł in the face, and me complaining to the school about it. How is she, anyway? Has she managed to stay out of prison?
+Keith: Yes, she is in Croatia now, for the holiday. She only punched him in the face because he was hitting her, by the way.
+Monika: Yes, but he was only hitting her because he liked her. But when she punched him back she broke his glasses, and you refused to pay for a new pair.
+Keith: That's right! So glad you remember us.
+Summary: Monika's son Paweł and Keith's daughter Sophie were going to school together. Paweł used to hit Sophie, because he liked her. Sophie hit Paweł back once and broke his glasses. Keith refused to pay for Paweł's glasses. Sophie is in Croatia now for holidays. 
+Dialogue: Tom: <file_other> read it!
+Bridget: gosh, how ghastly
+Tom: Yes, but he was also quite stupid the guy
+Bridget: True, and very disrespectful toward this people
+Tom: They've been living on the island for the last 55 thousand years, completely separated from the world and protected by the Indian state, so he shouldn't have tried to contact them
+Bridget: But the tribal tourism seems to by the big thing now
+Tom: How stupid. Those people have been aggressive to everybody for the last millennia, so why would they accept anybody now?
+Bridget: Especially one trying to "bring Jesus" to them
+Tom: exactly, he wanted to be a missionary, or maybe even a martyr
+Bridget: God, this kind of things happened hundreds of years ago in Europe. hahah
+Tom: But i read today a bit about the Andaman Islands 
+Tom: They are kind of paradise with at least a few other tribes that haven't been in touch with the rest of the world for millennia.
+Bridget: I know, it's fascinating. But it's also very dangerous for them.
+Tom: What do you mean?
+Bridget: Think what happened to indigenous population of America after they were contacted by Europeans.
+Tom: Conquered you mean
+Bridget: Sure, but that's not the point. Europeans brought diseases and things that had been unknown in America, like measles and alcohol. They decimated the indigenous peoples.
+Tom: I know, that's why they should have protected.
+Bridget: And I believe they have they right to choose to not being contacted by us. Let them be.
+Tom: yup. Anyway, I have to come back to work.
+Tom: It's always so inspiring to talk to you! Thanks!
+Bridget: and vice versa!
+Summary: Tom and Brigdet discuss an event involving an isolated island tribe and a man, who tried to contact them, wanting to convert them to Christianity. Bridget thinks outside contact could be dangerous for the people of Andaman Islands. She believes they should have the right to be left alone.
+Dialogue: Abby: What are you doing tonight?
+Gaby: Nothing much, Netflix and chill probably
+Abby: Really? No Valentine's Day romantic getaway?
+Gaby: We talked about and came to a conclusion that it's completely overrated and that we will not be forced to manifest our love just because a population of morons decides to do so
+Gaby: and to be truly honest
+Gaby: we forgot to make a reservation and everything's booked :P
+Abby: Haha I could help you with that
+Gaby: How so?
+Abby: We have a table for four at Boscaiola cause Mark's sister was supposed to bring her new boyfriend
+Abby: but stable as her life is -- they broke up with a huge fight last night :D
+Gaby: Poor Sandy!!
+Abby: Anyway, woulkd you like to join us?
+Abby: sorry it's last minute
+Gaby: What's the deal?
+Abby: It's a prefixed menu with three price option
+Abby: <file_other>
+Gaby: Wow, the appetizers looks amazing!! I'll run it past Jeff
+Abby: Ok let me know by tonight?
+Gaby: Sure, thanks!! :)
+Summary: Gaby will talk with Jeff about going with Abby and Mark to Valentine's dinner at Boscaiola.
+Dialogue: Harvey: Hey Dona, i'll be running late. please reschedule my meeting
+Dona: but its an important one
+Harvey: yeah, i know, but please find a way
+Dona: Okay Harvey, but better have an explanation for the client
+Harvey: Dont worry, i have one, but ill explain later after i arrive
+Dona: okay sir
+Harvey: thanks Dona
+Summary: Dona will reschedule the meeting on Harvey's request.
+Dialogue: Amka: Have you ever been to Erasmus? 
+Amka: and how are you spending Halloween?
+Mick: I've never done any student exchanges before.
+Mick: That sounds like a lot of fun.
+Mick: It's good you're doing a lot of this.
+Mick: T'll make your CV 10x better.
+Mick: Im'm gonna go to da club with my friends for Halloween loool
+Amka: I propably won't dress up.
+Mick: There was a plan for me to go to London for Halloween 
+Mick: with my grandparents
+Mick: But my grandma is having some health issues 
+Mick: and the plan does'nt exist anymore
+Amka: :(
+Summary: Mick has never dons student exchanges, but it may be good for the CV. For Halloween, Mick is going to go to a club with his friends. He had a plan to go to London with his grandparents, but his grandma is ill, so they aren't going. Amka probably won't dress up for Halloween. 
+Dialogue: Kaisey: Aiii hope you guys found a place to find shelter for the rain!!
+Luke: Just made it back. Was only sprinkling on our walk at least
+Fred: Same here ;)
+Kaisey: Oh. Not too bad :p
+Summary: Luke and Fred managed to return before a downpour.
+Dialogue: Anne: Hi Girls, r u going 2 the integration party tomorrow?
+Chantal: Of course I am!
+Meghan: Me 2!
+Anne: But Maggie's not.
+Chantal: Well no surprise there.
+Meghan: What's wrong with that girl?
+Anne: Dunno, she's so antisocial.
+Chantal: That's true, I don't think I've seen her at any of our company integration parties.
+Meghan: Oh well, her loss.
+Anne: That's right. We work hard & party hard :)
+Summary: Anne, Chantal and Meghan are going to the integration party tomorrow.
+Dialogue: Leo: Hello grandpa, can you come over and help me do my maths? please
+Leo: Grandpa, are you there?
+Grandpa: Hello Leo! I didn't notice your message at once. So you need help?
+Leo: Dad is busy and mom doesn't know
+Grandpa: But you know it's quite late now. By the time I'm at your place it will be midnight. Do you need my help NOW?
+Leo: No tomorrow will do
+Grandpa: OK, kid. I'll be there when you come back from school tomorrow.
+Leo: You are the best!
+Leo: Thank you
+Grandpa: Sleep tight, kiddo!
+Summary: Grandpa will help Leo tomorrow afternoon.
+Dialogue: Patty: what are we doing for New Year's Eve?
+Jill: I was just thinking about that... not to many prospects this year
+Patty: Dean is having a party
+Jill: Dean's parties are the worst :/
+Patty: A little dull but he does have some cute friends
+Jill: a trip to the seaside?
+Patty: isn't everything booked?
+Jill: we'll have to check.
+Summary: Patty has no plans for New Year's Eve, so Jill will check if there is any accommodation available at the seaside. They won't go to Dean's party as it's dull.
+Dialogue: Lauren: i tried calling you at the office today
+Lauren: but you never picked up :-(
+Lauren: and you're not picking up your cell phone either
+Lauren: is everything ok?
+Frances: YES! lol
+Frances: i've been on a meeting all day so i can't talk
+Frances: but i can text :-D
+Lauren: hahaha ok, i was beginning to get worried
+Frances: i'm bored out of my mind :-/
+Frances: we're not discussing anything important!!
+Frances: it's just a waste of my time!!!!!!
+Lauren: how long till it's done?
+Frances: i'm guessing a couple of hours :-(
+Lauren: sounds like torture
+Frances: it is, i've been playing angry birds through most of it
+Lauren: hahahaha, ok, that's not bad, you've been entertained at least
+Frances: kind of
+Lauren: anyway, i just wanted to text you to invite you to my birthday party
+Lauren: it will be this friday at my place
+Lauren: very casual, no gifts, just friends and drinks
+Frances: that sounds incredible!!! just what i need!
+Lauren: so i'll take that as a yes?
+Frances: YES! count me in!!! :D
+Lauren: i'll text you the details later :-D
+Lauren: also, enjoy your meeting!!!
+Frances: lol you're so cruel
+Summary: Frances is at a boring meeting at work. She will come to Lauren's birthday party on Friday. 
+Dialogue: Pete: Anyone up for movie tonight?
+Jo: I am, I'll be free at 7
+Jules: I can't today, have plans already
+Paul: I can too, around 8?
+Pete: Let's meet at the usual cinema at 8
+Summary: Pete suggests a movie tonight. Jo and Paul can join, so they will meet at the usual cinema at 8. Jules can't join, he has plans already. 
+Dialogue: Ruth: Hey guys! What are you wearing on our night out? Don’t want to look too dressed up! 
+Anna: i’m gonna wear off the shoulder bodycon. What about you Em?
+Emily: i’m gonna go for sequin mini dress and you Ruth?
+Ruth: i can’t decide between midi dress in leopard print or lace dress with pephem
+Emily: i don’t like animal prints so go for the lace one
+Anna: yeah, i’d go for the lace one as well
+Ruth: thanks guys! are you wearing heels?
+Anna: obviously! 
+Summary: For their night out Anna is going to wear off the shoulder bodycon, Emily — a sequin mini dress, and Ruth — lace dress with pephem. They are all planning to wear heels.
+Dialogue: Mike: hey let me help you with the project
+Blake: no i got it
+Mike: are you sure
+Blake: yes
+Mike: you had that assignment as well
+Blake: oh i did that last night
+Mike: oh, cool
+Blake: i will text you if i need any help with it
+Mike: okay..
+Summary: Mike offers to help Blake with his project. Blake doesn't need any help but will text if he does. 
+Dialogue: Kirk: this is crazy!!
+Kirk: i have two front row tickets for the basketball game tonight and i can't give them away
+Kirk: either they don't want them or they can't go
+Edward: WHAT?!!?!?!?!
+Edward: FRONT ROW TICKETS!!!!
+Edward: I'LL TAKE THEM!!!!!
+Kirk: really?
+Kirk: i'm so glad they're not going to waste
+Kirk: i didn't know you liked basketball!!
+Kirk: otherwise you would've been first on my list
+Edward: i love basketaball! it's my favorite sport
+Edward: and i really wanted to go to this game!!!
+Edward: i'm so stoked
+Kirk: who are you taking with you?
+Edward: my friend tony :-)
+Edward: he's really into basketball too
+Summary: Kirk has front row tickets to give away for the basketball game tonight. Edward is willing to go, and he will take his friend Tony, who is into basketball too.

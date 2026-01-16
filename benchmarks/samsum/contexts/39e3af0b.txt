@@ -1,0 +1,783 @@
+Dialogue: Ivy: What's the door code?
+Dawn: 4537
+Adrian: it's the apartment number followed by the key button followed by 4537
+Ivy: I don think it's working. I'm calling the apartment
+Dawn: Maybe you wait too long before pushing the key button  - it calls the apartment after 3 seconds
+Ivy: ok
+Ivy: ok it worked this time
+Dawn: and inside it's the 3rd floor
+Ivy: thanks ;)
+Adrian: good luck
+Summary: The door code is the apartment number followed by the key button followed by 4537. The entry phone calls the apartment 3 seconds after pushing the apartment number. The apartment is on the 3rd floor.
+Dialogue: Kate: We're about to leave
+Mary: Ok.
+Kate: We'll be at your place in 1 hour 
+Summary: Kate will be at Mary's place in 1 hour. 
+Dialogue: Caleb: Hey, do you wanna talk through Whatsup?
+Nathan: No, I'm doing my homework now.
+Caleb: Ok, but when can we hook up to play Fortnite?
+Nathan: I don't know, that game is getting boring.
+Caleb: Come on, I have to beat you again :)
+Nathan: You wish! I always kill you in that game.
+Caleb: Well, log in so we can play.
+Nathan: I have a math test tomorrow.
+Caleb: Errr...I hate math.
+Nathan: I don't mind it, actually. I'm one of the best in my class. It's easy for me.
+Caleb: You're lucky. My math teacher isn't very good. She doesn't know how to explain equations.
+Nathan: You should switch to my school then :)
+Caleb: Nah, I like my school for other things. We have the best basketball program.
+Nathan: Yeah, but you're not even on the team!
+Caleb: I plan to be, though, maybe next year.
+Nathan: Yeah right. Anyways, I gotta get back to this. Let's play tomorrow night.
+Caleb: Ok, good look on your test.
+Nathan: Thanks! See ya.
+Caleb: See ya online tomorrow ;)
+Summary: Nathan is doing his homework now. He has a math test tomorrow. Nathan will play Fortnite online with Caleb tomorrow.
+Dialogue: Emilia: hi! how was the weekend? :)
+Lucy: hey! :) pretty normal, thanks! 
+Lucy: and yours?
+Emilia: ok-ish
+Emilia: it would have been ok, if I my parents hadn't made me look after my younger sister
+Emilia: she's such a brat
+Emilia: on the good side, i've seen a fantastic film by Emir Kusturica, "Arizona Dream"
+Emilia: you should definitely see it!
+Lucy: actually, i've seen it hundreds of times - it's one of my favourite films of all time :)
+Summary: At the weekend Emilia had to look after her younger sister. She also saw 'Arizona Dream' by Emir Kusturica. Lucy has seen the film many times, it's one of her favourites. 
+Dialogue: Noah: My oven looks horrible! Any ideas how to make it shiny again? Thanks!
+Martha: try Astonish cleaner and a scraper- both very cheap! 
+Beth: try gel oven cleaner- you simply put it on for a while and wipe it off. Very easy!
+Martha: i have to try that gel cleaner thing
+Noah: i’m afraid they won’t work! It’s very bad!
+Martha: get a professional do it for you though it’s expensive
+Noah: how much?
+Beth: £80-100  
+Noah: jesus christ! 
+Beth: you have to keep your oven clean and hygienic
+Martha: I guess you don’t have a choice 
+Noah: is it really worth the money?
+Beth: i have my oven done once a year and can tell you it’s worth it!
+Martha: i agree it’s gonna look like a new one
+Summary: Martha advices cleaning the oven with Astonish cleaner and a scraper, while Beth - with oven cleaner. Noah's oven is really dirty so she will get a professional to clean it, although it's expensive.
+Dialogue: Mia: Mom, could you please send me a recipe for chicken stock?
+Joanne: You boil some water and then you add some carrots, some celeriac, parsley, 1 onion and a few chicken wings
+Joanne: And spices, of course.
+Mia: Mom, you know I'm just hopeless at cooking, you need to be more specific.
+Mia: How many carrots and chicken wings should I add? Do I add a whole celeriac or a part of it?
+Mia: What spices do I use?
+Joanne: Honey, I don't know, I eyeball everything.
+Joanne: You need salt, black pepper, allspice, bay leaves.
+Mia: Moooom
+Mia: What are the proportions of ingredients for 2 litres of water?
+Joanne: I've just made a chicken stock so I can send you a photo, if you want.
+Mia: Could you put all the ingredients into this blue metal bowl and then make a photo?
+Mia: It would help me estimate the size of vegetables that you used.
+Joanne: Sure, honey.
+Joanne: <file_photo>
+Mia: Thaks, mom! :)
+Joanne: Dad asks if you're having a date night with John.
+Mia: Yeah, why?
+Joanne: Dad says that you don't cook unless you have a date with John.
+Joanne: And he thinks that's not fair, that you should cook for your old father too. :)
+Mia: I wish he could see how much I'm rolling my eyes right now. :D
+Summary: Mia's mum Joanne sends her detailed instructions on how to make chicken stock (water, carrots, celeriac, pasrley, onion, a few chicken wings and spices). Mia has a date night with John and wants to cook for him. 
+Dialogue: Felix: do you need potatos?
+Leo: they might be helpful making french fries xd
+Felix: ok, so you have to buy them
+Leo: i thought there was some at home
+Felix: no, i have just checked
+Leo: ok, so i will buy them
+Felix: and ketchup, please!
+Leo: ok
+Summary: Leo might want to prepare french fries. He'll buy potatoes and ketchup.
+Dialogue: Susan: <file_other>
+Susan: Look what I found. Check it out, I think it's worth it and that you may be interested. 
+Mark: OK, thx.
+Mark: But what is it? More or less.
+Susan: I found this guy on yt.
+Susan: It's about motivation, being efficient and things like that. 
+Susan: We talked about it, you remember?
+Mark: yep. I get it.
+Mark: Thank you. I'll have a look later.
+Mark: You were right, he's good!
+Mark: many of the mechanisms sound familiar to me...
+Susan: :)
+Susan: I thought it might be useful :)
+Mark: Yes, it is.
+Mark: He does explain a lot of things. 
+Mark: And I've checked some other videos. There's a lot of interesting stuff.
+Susan: Which ones do you like?
+Mark: <file_other>
+Mark: <file_other>
+Mark: And this one, but it's a longer one and I didn't have time to finish it yet. But it seems worthwhile. 
+Susan: I've seen the first and the last one. 
+Susan: Yes, I think it's worth watching.
+Susan: Haven't seen the 2nd, but was planning to watch it as well :) 
+Summary: Susan sent Mark a motivational speaker's clip. Mark watched it. He liked it. He followef up watching another videos of the speaker. Susan will watch some as well.
+Dialogue: Jayce: I tried to approach to Jackie 
+Kaleigh: And what happened? 
+Jayce: We talked but she's not into me I think 
+Kaleigh: You sure? 
+Rory: You sure boi?
+Jayce: yea
+Jayce: I didn't manage to get her number
+Kaleigh: Omg hahah
+Rory: Well I think you can still try 
+Rory: There is nothing to lose bae
+Jayce: Haha
+Peter: Apparently she's seeing some other dude
+Jayce: How'd you know 😓
+Peter: I see her sometimes with the same dude
+Peter: This is a small town!
+Peter: She lives like down to street 
+Peter: I also think she's older, like 28 haha 
+Rory: 2 years older than us wow 
+Jayce: Oh really haha 
+Jayce: She doesn't look like her age 
+Peter: Well I know the neighbors here
+Peter: So im not lying 😓
+Summary: Jayce is worried Jackie is not into him, because she didn't give him her number. Peter is sure Jackie is seeing someone else. Peter is a neighbor of Jackie and he sometimes sees her with another man.
+Dialogue: Sheryl: Let's catch up tomorrow!
+Tina: Sure, I have some time around noon
+Joan: I can too, around 1pm, so I'll join if you decide to meet up earlier
+Sheryl: sounds perfect!
+Summary: Sheryl, Tina and Joan will catch up tomorrow at around 1 pm.
+Dialogue: Will: Hey Gertrude, did you get your car fixed yet? I was wondering if you could give me a lift from the gym.
+Gertrude: No, it's still in the shop, but I might have it back in a couple of hours. 
+Will: That's fine. I will be here for a while.
+Gertrude: Ok. I'll keep you posted.
+Will: Thanks. I appreciate it!
+Summary: Will is at the gym for the next couple of hours. Gertrude will get her car fixed and give him a lift.
+Dialogue: John: Happy birthday Anna!! 
+Anna: Thanks :) 
+John: How's your mum? 
+Anna: She's fine, thanks for asking
+John: How long is she going to stay? 
+Anna: Uhm... I don't know to be honest 
+John: :) I see 
+John: Say hello to her! 
+Anna: I will. Thanks
+Summary: John wishes Anna happy birthday. John asks about Anna's mum. Anna doesn't know for how long her mu is staying.
+Dialogue: Sam: Hey, guys! Read this: <file_other>
+Lonnie: What's this?
+Randy: I've read it yesterday! That's so great!
+Sam: Turns out Superheroes aren't that dumb after all!
+Lonnie: Duh! U don't have to tell me this!
+Randy: No, but now we have proof!
+Lonnie: What proof?
+Sam: Well, according to the article if u read comic books, graphic novels or watch films about superheroes, u become a better person!
+Lonnie: I must be a saint then!
+Randy: Lol. Me too!
+Lonnie: So how did they come up with this?
+Sam: It says here that superheroes reflect our best qualities: goodness, kindheartedness and so on.
+Randy: Duh. Never thought of that. Lol.
+Lonnie: And what has this to do with anything?
+Sam: Apparently, the more u identify yourself with the character, the more u want to be like them. 
+Lonnie: Makes sense.
+Randy: Sure it does!
+Summary: According to the article that Sam has posted, reading comic books and watching superhero movies makes us better people, because we want to identify with the protagonists and we try to be like them.
+Dialogue: Lisa: I'm writing these sentences for tmrw
+Dan: Good
+Lisa: And I got a problem
+Lisa: I don't know how to write in IT ''There is''
+Lisa: Any idea?
+Mia: Hmmmmm...
+Mia: Ci sono?
+Dan: Ci sono is There are...
+Dan: I guess :>>>
+Mia: Yeees, you're right
+Dan: I think I have it in m notebook
+Dan: I'll check it
+Dan: wait a sec
+Lisa: OK
+Dan: C'e
+Dan: C'è actually
+Lisa: OK!!
+Lisa: Thanks a lot x)))
+Dan: No problem ;)
+Summary: Lisa is writing sentences for tomorrow. She has a problem with the expression "There is" in Italian. Dan and Mia help her. 
+Dialogue: Clare: alright, I haven’t been in this group awfully long, but why isn’t Justine answering her phone or texting us? is she OK? is she still in the group?
+Maggie: it’s Justine 😕
+Florence: yes, typical Justine 😀
+Amelia: she does that on a regular basis, so we’re not really concerned or surprised (at least not anymore)
+Florence: she told us once that it just was her thing, this disappearing 😕 I guess she needs some space from time to time
+Clare: but why didn’t she write anything and, I don’t know, warn us?
+Maggie: well, that is the question, I guess 😕
+Clare: isn’t it kind of disrespectful?
+Florence: yeah, a bit
+Amelia: but it’s really up to you to decide if you want to feel offended
+Maggie: she’ll be back eventually
+Amelia: yeah, eventually 😀 
+Florence: and she’ll be acting like nothing really happened 
+Amelia: so we do the same…
+Maggie: if you want to you can talk to her, but I think it’s pointless
+Amelia: agreed^^
+Clare: ok, I guess i’m gonna have to get used to this, but I still think it’s weird
+Florence: because it is 😀
+Amelia:^^
+Summary: Justine is not answering her phone or texting on the group. Clare is worried about it. Florence, Amelia and Maggie already got used to it.
+Dialogue: Danny: Do I need to bring anything?
+Frank: No, no, we’re sorted, just waiting for all of you to come :)
+Leo: Grace and I are bringing some wine.
+Frank: Cool! xxx
+Summary: Danny and Leo are going to visit Frank. Leo's bringing some wine.
+Dialogue: Tim: Have you read the Century Trilogy?
+Anna: Follett's?
+Tim: yes
+Anna: I am just starting the third book!
+Tim: Did you like it?
+Anna: haha I wouldn't read two books with a thousand pages each if I didn't like them :D
+Anna: I loved it, the second part was scary though
+Tim: yeah the WW2 can be overwhelming to read about
+Tim: but what scared me most is how relevant it still is
+Anna: what do you mean?
+Tim: like when Carla noticed how important journalists and the judiciary were in protecting the citizens
+Anna: right I know what you mean
+Anna: like when Hitler was using the exact same slogans as the populists do now
+Tim: exactly!!!
+Anna: this is terrifying
+Tim: You have to finish the third part soon cause I can't wait to be able to discuss it with someone :D
+Anna: haha ok just give me a week it's even longer then the first two
+Tim: Let me know!!
+Anna: I will :)
+Summary: Anna is starting the third book of "Century Trilogy" and Tim can't wait as he wants to discuss it with someone.
+Dialogue: Selby: anybody for indian?
+Terri: yuo cooked?
+Selby: yessir
+Terri: sounds cool
+Winslow: gr8. ill be there too
+Summary: Selby invites Terri and Winslow for a home-cooked Indian meal.
+Dialogue: Becky: I'm thinking about signing to a cooking class
+Heather: why? you rarely cook at home
+Becky: because I'm not very good at it
+Becky: but maybe if I get better, I'll start do it more often
+Heather: that smells like Sean complaining to you about it
+Becky: surprisingly enough that's not the case
+Heather: then I really don't understand why
+Becky: what? that I want to do something nice to my fiancee?
+Heather: no, that part I can understand
+Heather: I'm just surprised about the cooking
+Becky: I just want to try it
+Becky: doesn't mean that I will keep doing it if I don't like
+Heather: of course
+Heather: after all it's your choice
+Becky: want to come with me? :P
+Heather: I guess you know the answer already ;)
+Becky: come on, it can be fun
+Becky: it will only be a demonstration
+Becky: we don't need to sing for it right away
+Heather: when is it?
+Becky: 7PM on Thursday
+Heather: alright, I'll go but just this one time
+Becky: really?
+Becky: that's great!
+Becky: I don't know why but I was pretty nervous to go there by myself
+Becky: thanks!
+Heather: no problem, that's what friends are for
+Heather: but you still owe me one for this ;)
+Becky: sure, we can go try something of your choice next time!
+Summary: Heather will go to a cooking class with Becky on Thursday at 7 pm.
+Dialogue: Monica: pls come with me <file_other>
+Melinda: I don't know man
+Roxy: I don't really read his books
+Monica: pls pls pls I just bought his latest novel and I want to meet him so badly
+Melinda: why don't you just go on your own?
+Monica: I'm shy, he's easily my favorite author and I need someone to hold my hand when I approach that table
+Roxy: but neither of us have read any of his books :|
+Monica: and that might just be a good incentive to start! I've been recommending his books to you for years now.
+Melinda: I'm not that big on fantasy
+Monica: low fantasy
+Melinda: ok, low fantasy, still not big on it
+Monica: it might be a fantasy setting but his observations are very relevant
+Melinda: I'm sorry, but if I went, I know I'd just be bored and annoyed that I have to be there
+Monica: :( Roxy?
+Roxy: ... I'm not saying no yet, but just give some time to think this through
+Monica: omg, you won't regret it, I assure you
+Roxy: I'm not saying yes either, just give me time
+Monica: ok ok
+Summary: Monica doesn't want to come alone to see the writer, because she's shy. Melinda won't join her. Roxy has to think about it.
+Dialogue: Bruce: mate did you remember to pay our landlord?
+Robin: yeah i think so
+Bruce: she just called me she did not get the money
+Robin: holy shit... you are going to kill me
+Bruce: did you forget AGAIN?
+Robin: shit i am so sorry... i was thinking of doing it and the i fell asleep i guess
+Bruce: Rob you are the worst roommate, she is so mad
+Robin: i am just wiring the money right now, i will call her to make it okay
+Bruce: do your freaking best
+Robin: i will, i will - sorry again bro :( i owe you a beer
+Summary: Robin forgot to pay rent. The landlord is upset. Robin promises Bruce a beer to make up for it.
+Dialogue: Jane: <gif_file>
+Jane: Whaddya think? 
+Shona: This ur tinder profile thing?
+Jane: Yeah, I'm updating my profile tonite. Kinda nervoous though... :( 
+Jane: What if i get another guy like John? o.O
+Shona: John was a dickhead
+Jane: preach sistah!
+Shona: anyhoo - this time I've got u :D No slimeballs for you 
+Jane: Not again *shudders*
+Jane: You know he forgot my birthday??!!
+Shona: wanker
+Summary: Jane is updating her Tinder profile. She's nervous and worried that she might get a bad match again. Shona reassures her.
+Dialogue: Jacob: Hey Martin, do you know what do we need to know for the tomorrow test?
+Martin: The german test?
+Jacob: Ja!
+Martin: nothing, this stupid whore is sick again
+Jacob: no kidding, really? Thanks, you made my day!
+Martin: Hehe, no problem
+Summary: Jacob and Martin won't have the German test tomorrow as their teacher is sick again.
+Dialogue: Steve: Did you get tickets for the foam party 
+Max: I havent! :(
+Max: You think they still have them
+Steve: They should
+Steve: Im going to the AG building rn 
+Max: kk 
+Steve: How many do we need? 
+Max: I think 3 
+Max: me you and Tyler
+Steve: Is Blake going?
+Max: I don't think so
+Max: Hes going to Cuba
+Steve: What?
+Steve: I didn't know that
+Max: They got a last minute deal I think 
+Max: I don't know what it happened
+Steve: Who hes going with? 
+Max: with his parents
+Steve: Lol really xd
+Max: yep!
+Summary: Max and Steve want to go to the foam party with Tyler, so they need 3 tickets. Blake cannot join them, because he's going to Cuba with his parents.
+Dialogue: Rory: yo.. mess?
+Reed: lets go
+Rory: your still in your bed arent you -_-
+Reed: just a few more minutes
+Rory: dude youve been sleeping since 5
+Reed: SO??
+Reed: sleep has no bounds XD
+Rory: yeah okay
+Rory: GET UPP
+Reed: okay okay
+Rory: -_-
+Summary: Rory encourages Reed to get up from bed.
+Dialogue: Julian: Remember we were talking about foxes the other day?
+Julian: <file_video> <file_photo>
+Hetty: Oh my word!! Is that in your garden?
+Julian: <file_photo>
+Julian: yeah it's by the shed! Mark could see them from the dining room.
+Hetty: They don't look shy
+Julian: no they are not, which is cool and worrying! 
+Hetty: yeah of course. Do they attack humans?
+Julian: Not really, they generallyare too scared. there have been reports of city foxes nibbling on little kids in cots though 😱 
+Hetty: yuk! that's pretty scary!
+Julian: Yeah I guess they are predators when given the opportunity!
+Julian: <file_photo> this one is not as clear as I tried to zoom in
+Julian: it's rare to see two together though, generally they roam on their own
+Hetty: and not during the day?
+Julian: that too. This was very early morning though
+Hetty: so what are they doing in your garden? what do they eat?
+Julian: peoples rubbish and rats I guess, birds, eggs maybe?
+Julian: we see a lot of opened bin bags lying around on bin day. Makes a right mess!
+Hetty: at least you don't have rats now! 
+Julian: I know, and I definitely prefer the foxes. besides the mess and sometimes evry stinky poo they don't bother me. 
+Hetty: they are quite beautiful aren't they
+Julian: I think so!  pretty cool!
+Julian: some people feed them in their garden to have them come back, but I don't think Tinkerbell would like that much! 
+Hetty: I guess cats and foxes don't mix?
+Julian: she's petrified! 
+Hetty: better not then, poor thing!
+Summary: Julian has two foxes in his garden. The foxes opened some bin bags and made a mess, but they do not bother Julian.
+Dialogue: Jim: there's a minimum of 10 images per user but it's not the limit
+Jim: you can upload more if you want to
+Carol: and they will take all of them?
+Jim: I'm not sure
+Jim: because you can upload like 20 or 30 or even more
+Jim: but you have to tag 10 of them as favourite
+Jim: so maybe they just pick the tagged ones for the first stage
+Carol: I'm not sure if I can find ten...
+Carol: I mean I have more obviously but you know...
+Carol: not sure about the quality
+Carol: <file_photo>
+Carol: <file_photo>
+Jim: these are really good ones
+Carol: thanks
+Carol: I mean these 2 are very similar and I'm not sure which one I should choose
+Jim: I'd go for the first one then
+Carol: ok :)
+Summary: Carol has to upload at least 10 photos but she's not sure if she finds as much as 10 of good quality.
+Dialogue: Sam: <file_photo>
+Dorothy: Who is that?
+Sam: That's Tom from my morning English literature
+Dorothy: Yummy
+Sam: Right?
+Dorothy: I'd date him
+Sam:  <file_photo>
+Dorothy: No...
+Sam: Yes!!!!!!!!!!
+Dorothy: Is that really him? Shirtless?
+Sam: indeed-o :D
+Dorothy: So what's the plan?
+Sam: Oh you know, acting casually, looking glamorous :P
+Dorothy:  <file_gif>
+Sam: Hahahaha
+Dorothy: <file_gif>
+Sam: LOL
+Dorothy: I just hope he doesn't have some lame girlfriend
+Sam: I did a basic facebook research and it seems like his miraculously single
+Dorothy: he's* 
+Sam: you nerd
+Dorothy: :*
+Summary: Sam is sending Dorothy Tom's photos. Sam and Dorothy are attracted to Tom. Sam wants to look glamorous and act casually to attract Tom. Sam found that Tom is single. 
+Dialogue: Steve: Hi Danny, you went out?
+Danny: i'm at the supermarket
+Steve: could you buy some more milk?
+Steve: ok! 2 bottles?
+Summary: Danny is at the supermarket. He will buy 2 bottles of milk at Steve's request.
+Dialogue: Tyler: Good morning!
+Ashley: Hello my dear
+Tyler: what do you want to do today?
+Ashley: i don't know, do you have any ideas? 😛
+Tyler: Dinner movies and drink a little bit and see where it goes
+Ashley: ok 😉
+Tyler: 😉
+Ashley: i'm open to any ideas 😉
+Tyler: ok we will drink a little bit and see 😉
+Ashley: ;)
+Tyler: and what are you going to do now?
+Ashley: eat something, i need to write sth also and then i need to go to the uni for a while. but i will go to school probably just before going to your bus station
+Tyler: ok
+Ashley: do u know warsaw or not so much?
+Tyler: not at all. i was just there for one night
+Ashley: ok. so i will have to think of some place where to go, or maybe we will find sth
+Tyler: i think we will find something
+Ashley: ok
+Tyler: so go and do whatever you have to do and see you later
+Ashley: 😉 see you later
+Summary: Tyler is seeing Ashley for drinks today. Ashley needs to write something and then go to the uni for a while. Tyler doesn't know Warsaw at all as he spent there one night only. Ashley will see Tyler later and they will find some place together.
+Dialogue: Sean: in case I’m late today
+Sean: get into the room and turn on the laptop
+Sean: and start getting ready for your presentation
+Sean: ok?
+Phil: <file_gif>
+Hailey: <file_gif>
+Dustin: yes, sir!
+Mel: ok
+Summary: Phil, Hailey, Dustin and Mel will start getting ready for the presentation if Sean runs late.
+Dialogue: Josiah: are you asleep?
+Claire: no
+Claire: has something happened?
+Josiah: i'll call you in a min
+Summary: Josiah will call Claire in a minute.
+Dialogue: Maria: Have you seen Theresa recently?
+Leon: She quitted
+Maria: What?! I didn't know
+George: Yes, she had a huge argument with John and just quitted
+Maria: pity
+Summary: Theresa quit after a big argument with John. 
+Dialogue: Agnes: Hi Andy!
+Agnes: I wanted to fix some details about tomorrow's session.
+Andy: Hi!
+Andy: Yes, what details?
+Agnes: Have you found a location?
+Andy: Yes, I forgot to write you.
+Andy: I have two possible locations.
+Andy: We could start in one place and see. If it's not good enough, we'll move.
+Agnes: Okey. 
+Andy: Thery are not far appart, so we should make it in 2-3 hours.
+Agnes: Great!
+Agnes: And what clothes do you want me to take?
+Andy: Take a few sets. Someting you feel comfortable in and can move in.
+Agnes: I get it.
+Agnes: What about colours?
+Andy: I prefer some bright colours. 
+Agnes: Okey.
+Andy: And if it's too colourful, we can always switch too BW. 
+Agnes: Okey. 
+Agnes: So what time do we meet?
+Andy: As we said, 9:00. 
+Andy: Can you take the car?
+Agnes: Yes I can. 
+Agnes: Ok, I'll be at your place at 9:00. 
+Summary: Andy found two locations for tomorrow's session. Agnes will come to Andy's at 9.00. She should bring comfortable clothes in bright colours.
+Dialogue: Dotty: Shall we go for a walk?
+Kyle: What now?
+Dotty: Why not? The sun's shining, it's nice.
+Kyle: You and your healthy lifestyle...
+Dotty: Don't be a spoilsport!
+Kyle: Where to?
+Dotty: Driving to Patches Green and walk around there?
+Kyle: Can't we go there later? Like 4?
+Dotty: By then it'll be nearly dark! Why?
+Kyle: But the pub opens at 5.
+Dotty: It was a joke now, eh? Not very funny.
+Kyle: Sorry Dotty. Just kidding. OK let's go for this walk...
+Dotty: Will you pick me up from the crossroads?
+Kyle: You just want a driver ;)
+Kyle: On my way.
+Dotty: CU!!
+Summary: Kyle will pick Dotty up at the crossroads shortly. Kyle will drive Dotty to the Patches Green area and they will go for a walk there. Dotty has a healthy lifestyle. 
+Dialogue: John: In which room do we have classes today? The uni webpage is broken
+Lucy: In N215
+John: Thanks
+Summary: John and Lucy have classes in room N215 today.
+Dialogue: Debbie: Hi, you ok, love?
+Fran: Yeah, bit stressed with work, can't relax!
+Debbie: Why don't you try yoga. I go on a Sunday at 7 in the Sports Centre. Should be room for another.
+Fran: Actually, that sounds great, I'll give it a go this week! Thanks, love!
+Debbie: No problem. I'll give you a bell Sunday to check you're coming. I can pick you up too, if you like?
+Fran: Yes, sounds Great! See you then!
+Summary: Fran feels stressed with work. Fran will try yoga this Sunday at 7 in the Sports Centre. Debbie will pick Fran up.
+Dialogue: Fred: hi, somehow i can't access our google account
+Fred: i wanted to download the pdfs you shared some time ago
+Fred: is there a chance you could send them to me here? :)
+Lana: sure :) 
+Lana: <file_other> <file_other>
+Fred: thank you ^^
+Summary: Fred can't access their google account and wants Lana to send him some pdfs.
+Dialogue: Max: Like even these books like Something 4 dummies?
+Payton: Sure!
+Max: Cookbooks?
+Payton: Duh! Gotta eat ;)
+Max: Right ;) any favourite genres?
+Payton: Not really. I enjoy sci-fi and world literature ;)
+Max: Both?
+Payton: Among others ;)
+Max: Anything u'd recommend?
+Payton: I just finished Hyperion by Dan Simmons :)
+Max: Any good?
+Payton: U have to get through the first 2 books to appreciate the whole thing.
+Max: How many books are there?
+Payton: 3.
+Max: So what is it about?
+Payton: It starts off with an intergalactic war hanging by a thread. Hyperion is the name of a planet to which 7 pilgrims arrive. They are tasked with finding some ancient tombs. And in these tombs, a superpowerful being is supposed to be living which may prevent the war and total annihilation of the humankind. 
+Max: Wow! Sounds really exciting!
+Payton: It is! But you have to read it very carefully!
+Max: Y?
+Payton: Because there are so many side notes and those little things u wouldn't normally notice that turn out to be really important!
+Max: Srlsy?
+Payton: Yeah, I had to read a whole chapter again just to understand what happened in the next book in the series ;)
+Max: Okay...
+Payton: Don't get me wrong! It's a great read! If u want, I can borrow it to u :)
+Max: That'd be gr8 :)
+Payton: No problem.
+Summary: Payton recommends "Hyperion" by Dan Simmons to Max. He will borrow it to Max.
+Dialogue: Roland: Are you in the library?
+Susan: yes, but the ground floor this time
+Yen: I'm upstairs, no idea how you can stand the coldness there Susan
+Summary: Susan and Yen are in the library.
+Dialogue: Lizzy: R u asleep?
+Paul: Nope
+Lizzy: I'm calling you
+Paul: ok
+Summary: Paul does not sleep, so Lizzy will call him.
+Dialogue: John: Could you buy a set of forks for me at IKEA?
+James: LOL, set of forks?
+John: <file_photo> this
+Patt: no problem!
+John: thanks!
+Summary: James will buy a set of forks at IKEA on John's request.
+Dialogue: Patrick: He's a prick, don't you ever trouble your head with such a dick
+Mike: Easier said than done
+Mike: We've got a lot of common friends
+Patrick: so what?
+Mike: I'm sure that he's going to say something which I didn't do
+Patrick: fucking asshole
+Mike: you're right
+Summary: Patrick believes Mike shouldn't worry about such an asshole.
+Dialogue: Kathryn: <file_other>
+Kathryn: one day I’m gonna buy this for Ron
+Kathryn: they’re gonna go wild :D
+Kathryn: it works with a PC
+Kathryn: or maybe we could find one that runs with PS4
+Josh: :D
+Kathryn: would make a great game
+Kathryn: plus it’s music practice 
+Josh: for bday maybe?
+Kathryn: yeah I’m thinking next year maybe
+Kathryn: this year i don’t think they’d appreciate it
+Josh: k
+Summary: Kathryn is thinking of buying a game with music practice for Ron's birthday next year. 
+Dialogue: Midge: gees I think I fucked it up
+Lisa: why?
+Midge: he got scared and ran away
+Lisa: shit
+Midge: yeah I know
+Lisa: give him time maybe he'll come back
+Summary: Midge scared him and he escaped. Lisa advises her to wait.
+Dialogue: Pete: Okay, the meeting is arranged for tomorrow.
+Pete: Make sure to be there.
+Zack: Thank you for the update :)
+Zack: I won't miss it.
+Pete: The meeting will be aimed at future investments.
+Zack: Investments... my favourite...
+Pete: Stop being lazy...
+Zack: I'm not. I'm not fond of investments.
+Summary: The meeting focusing on future investments is tomorrow. 
+Dialogue: Cleo: Hey, you wanna go for coffee?
+Rod: Sure, but first I have a few chores to finish up at home.
+Cleo: What kind of chores. I never have to do anything except clean my room.
+Rod: No chores? Get outta here.
+Cleo: Seriously
+Rod: I gotta vaccum, take out the garbage, mop the floor and clean my room. But that's only once a week, so it's not bad.
+Cleo: I guess it's a small price to pay for still living with your folks.
+Rod: Yeah, but I'm surprised your folks don't make you do chores.
+Cleo: Well, I chip in every month. I pay some bills.
+Rod: I have to find my own place, but I need a better job first.
+Cleo: You think you'd want to work where I'm at?
+Rod: I don't know. Are there any openings?
+Cleo: Well, I can ask. The pay is pretty good here.
+Rod: I hate earning minimum wage. 
+Cleo: You'll earn enough to move out if you work at my place.
+Rod: Ok, let's talk about it over coffee.
+Cleo: I'll refresh my resume and you can put in a good work for me :)
+Rod: Yeah, no sweat. Now get back to your chores :)
+Cleo: Shut up!
+Rod: Meet me at Tim Horton's at 3 if you can.
+Cleo: Ok, I should be able to get out by then :)
+Summary: Cleo wants to go out for a coffee. Rod has to finish up some household chores. Cleo just has to clean her room but also she pays some bills. Rod wants to move out but needs a better paying job. Cleo claims he'll earn enough at her place. Rod is seeing Cleo at Tim Horton's at 3 to discuss it.
+Dialogue: Lisa: I still haven't submitted the report.
+Arlene: Me neither. 
+Francis: The deadline is tomorrow. 
+Summary: Lisa and Arlene haven't submitted the report yet.
+Dialogue: Uri: Hi Tamar, this is Uri. We met in the Block last weekend
+Tamar: Hi! What's up?
+Uri: I'm going out. Thought about you.
+Tamar: I'm also going out :-)
+Uri: I was thinking of going to the Block.
+Tamar: I'm going to Kuli Alma with some friends
+Uri: Do you mind if I join you guys?
+Tamar: I don't. Come with us! It will be fun! 
+Summary: Uri will go with Tamar and his friends to Kuli Alma. 
+Dialogue: Fiona: I wonder where is my wallet. Have you seen it?
+Hannah: No, did you check your purse?
+Fiona: Yes, I checked my purse, and it's not there
+Hannah: That's not good. How about your coat?
+Fiona: No, it's not in my coat
+Hannah: Where did you see it last time?
+Fiona: In the store, when I paid for my purchases
+Hannah: Maybe you left it there
+Fiona: I don't think so, I saw it later in my purse when I was getting keys to my car
+Hannah: Then maybe it's in your car
+Fiona: You think? Let me check...
+Fiona: It was there. Thank you! I am glad I found it. 
+Summary: Fiona can't find her wallet. Following Hannah's advice, she finds it in the car.
+Dialogue: Allison: Should i buy Headphones or air pods for you?
+Xavi: Air pods
+Allison: k
+Summary: Allison will buy air pods for Xavi.
+Dialogue: Nicholas: what's up guys?
+Paul: nothing new, you?
+Clara: ah my "boyfriend" is driving me crazy
+Nicholas: what happend? and since when you have a boyfriend 
+Paul: ye and why are you using inverted commas
+Clara: ah boys.. this Jacob was so pressing and... I am with him right now
+Nicholas: what... omg he's a moron
+Paul: lol, are you joking? kkkkkk
+Clara: no, and now I don't know how to tell him that I don't feel anything for him
+Nicholas: why did you agree to become his girlfirend anyway?
+Clara: He told me that he loves me and bla bla bla
+Clara: I don't have anything against him but now I have a problem...
+Summary: Clara's boyfriend Jacob is driving her crazy, she's with him now, but doesn't feel anything for him. She doesn't know how to tell him about it. 
+Dialogue: Jimmy: Sorry, have you seen Maria today?
+Peter: Briefly, in the main corridor.
+Jimmy: Great! Do you think she can still be in the office? she's not answering my messages :/
+Peter: oh, yes, she's a deadline today, will be here till late hours I am sure.
+Jimmy: Perfect, thanks a lot.
+Summary: Maria's not answering Jimmy, she'll be in her office until late as she's a deadline today.
+Dialogue: Ben: Mr. Bradley wasn't fair at all...
+Carl: He is very strict.
+Derek: Right, you have to be extremely precise about definitions.
+Ben: I noticed.
+Summary: Carl and Derek explain to Ben that Mr. Bradley is strict and requires precise definitions.
+Dialogue: Paula: Hey, have you seen  that blondie who came with Alex yesterday?
+Paula: Who's she???
+Laura: u mean, the pink one?
+Laura: No idea...
+Laura: Do you think it can be his new "gf"? 
+Paula: What????
+Laura: Well, he told me, he met someone... 
+Laura: but can't believe he was talking about her!
+Paula: <OMG> Haven't talked to her, but she looks so dumb...
+Laura: I bet it's nothing serious...
+Paula: Sure thing! 
+Paula: How can you be serious after such a long relationship? <LOL>
+Paula: They were together with Annie for almost 4 years, right? 
+Laura: Yeah...
+Laura:  he just needs some fun now, I guess. 
+Paula: I don't  care, as long as I don't have to hang out with her :> 
+Laura: No way! 
+Laura: Let's talk to him about that this weekend before the game, ok?
+Laura: Anyways, need to go back to work now...:/
+Laura: I've got deadline tonight...
+Paula: ok, speak to u later.
+Paula: good luck!
+Summary: Alex told Laura he was seeing someone. Alex was with Annie for 4 years. Laura has to finish the work assignment tonight.
+Dialogue: Rob: Honey, can you make me a coffee?
+Wendy: Sure. 
+Rob: Thanks.
+Wendy: Could't you just shout?
+Rob: I don't want to shout. The cat is sleeping on my desk
+Wendy: Hahaha <3
+Summary: Wendy will make Rob coffee. Rob didn't want to shout as the cat is sleeping on his desk. 
+Dialogue: Ryan: I lost my new gloves
+Jeremy: Er, what?
+Ryan: I bought a new pair of gloves today but then I went to the ATM outside my bank, put the gloves on it and then forgot to take them
+Jeremy: Wtf
+Ryan: I went back to the bank later but they were no longer there, I guess someone's hands were cold and he or she took them
+Jeremy: Was the bank still open?
+Ryan: Nope, it was closed
+Jeremy: Why don't you go there again tomorrow? Maybe one of the clerks found them after work and put them somewhere safe inside the bank
+Ryan: I hadn't thought of that, thanks! I'll try
+Jeremy: No problem
+Summary: Ryan lost his gloves at an ATM. When he returned for them, they were gone. Jeremy suggested that a bank employee may have found them.
+Dialogue: Joseph: Hi, sup?
+Joey: Hey, man, everything's fine, you?
+Joseph: Not bad. 
+Joey: How was Rome?
+Joseph: Beyond words! It was fucking lit, man. The food, the people, the atmosphere.
+Joey: Nice girls, right? :D
+Joseph: Word! Italians are hot as hell!!
+Joey: Told ya! Got any action then? ;)
+Joseph: Got me some phone numbers, but there wasn't time...
+Joey: LOL, THERE WASN'T TIME?! Where r your priorities, man?!
+Joseph: Let's say the group didn't feel the same way about Italian asses as me...
+Joey: Let me guess: girls wanted to hit the museums and stuff? :D
+Joseph: Exactly. -.-
+Joey: We should go together sometime, you know?
+Joseph: Fucking A, bro!
+Joey: LOL I wonder if we would live to tell the story, we would be so drunk all the time 
+Joseph: Right, we'll have to find a nurse :D
+Joey: NurseS, plural, man
+Joseph: It's a plan then. :D 
+Summary: Joseph went tp Rome and shares details of the trip with Joey, Joseph liked Italian girls, but only got some phone numbers so they agree they go there together the next time.
+Dialogue: Erica: Guys, I'm trying MarieKondo now so if you have any free jars after jam or anything I'll be happy to use them
+Ingrid: what for?
+Nicole: MarieKondo is for decluttering
+Erica: <file_photo>
+Erica: it looks like this
+Ingrid: looks nice, but I wouldn't have patience for it
+Nicole: I think I have a jar or two 
+Ingrid: I don't think I have anything like this but next time I'll buy ketchup I'll pick glass jar
+Erica: thanks, I'll appreciate it!
+Summary: Erica needs free jars to try MarieKondo method. Nicole and Ingrid don't have any, but Ingrid will pick a glass jar next time she buys ketchup.
+Dialogue: Jeremy: Seems I can't log into my work account today. Have you had any problems today with logging in?
+John: No. My one seems to be working fine.
+Jeremy: Strange. My one keeps on saying - no such user.
+John: Are you sure you're typing in the right login and password?
+Jeremy: Yeah, I checked it's definitely the right user name and password.
+John: I can't help you much on that one then. Maybe ring tech support and see what they say.
+Jeremy: Oh joy! Here comes 45min of hanging on the phone to speak to some numpty that probably won't solve the problem.
+John: Yeah, but what else can you do?
+Jeremy: True! I guess I better brace myself and ring the helpdesk. I've think they've grown to hate me with all the problems with that account. 
+Summary: Jeremy cannot log into his work account. He is dreading the prospect of having to call tech support.
+Dialogue: Ken: Mom I need cash
+Kelly: What for?
+Kelly: I gave you money yesterday
+Ken: I need books for school
+Kelly: what books I'll get them on the way home
+Ken: <file_other>
+Summary: Ken wants his mother to give him some money for books. She decides to get them on the way home hersefl.
+Dialogue: Gina: <file_photo>
+Gina: pancakes with maple syrup 🥞🥞🥞
+Kimberly: Woooooow, looks good!! You did it yourself??
+Gina: Ofc 😎
+Agnes: Nice!
+Summary: Gina has made pancakes with maple syrup herself. Kimberly thinks the dish looks good.

@@ -1,0 +1,292 @@
+Dialogue: Salma: You understood tomorrow's statics lecture ? :/
+Cain: I couldnt understand even a bit
+Salma: Same here :/
+Cain: :(
+Salma: Maybe we can ask Ethan to help us out?
+Cain: I will call her in a while
+Salma: Yes please
+Cain: He might not be available
+Salma: Why? :/
+Cain: He said he would  be teaching Ethan today
+Salma: He is smart, our classmates would always be looking to get his academic help
+Cain: Yeah
+Salma: Maybe we can also go to Ethans
+Cain: Would be out of your house after 20 mins
+Summary: Salma and Cain need help with tomorrow's statics lecture. They will go to Ethan's to get their classmate to help them.
+Dialogue: Ash: how many tickets for Venom should I buy?
+Evelyn: mine, yours, one for Ginny and one for Harry
+Ash: Sara's not going?
+Evelyn: she has already bought her ticket
+Ash: k
+Summary: As regards tickets for Venom, Evelyn informs Ash that she should buy four such tickets, i.e. for Evelyn, Ash, Ginny and for Harry.
+Dialogue: Mike : Wassup buddy Long time no conversation
+Steve : Hey bro just got a little bit busy with my work
+Mike : Maybe we can meet this week
+Steve : Yeah sure i will call you
+Mike : Ok Bro!
+Summary: Mike and Steve will meet this week. Steve will call Mike. 
+Dialogue: Lucy: Hey sis, we just arrived to our hotel.
+Annie: Hey Lucy! I'm glad to hear that.
+Annie: How was the trip?
+Lucy: It was great, just long.
+Lucy: But so worth it!
+Annie: How's the hotel?
+Lucy: It's amazing, very clean.
+Lucy: And the view! :O We can see St. Peter's Basilica from our window!
+Annie: Oh how wonderful :)
+Lucy: It's about a 20 min walking distance.
+Annie: And the weather?
+Lucy: Sunny, about 20C.
+Annie: That's perfect for sightseeing :)
+Annie: Have a great time, enjoy it!
+Lucy: Thanks! Jack says hi. :)
+Lucy: xoxo
+Summary: Lucy and Jack have arrived to the hotel after their trip. St. Peter's Basilica is 20 minutes away and it is 20 degrees there.
+Dialogue: Matias: Do you have some little time now? 15 mins?
+Chad: I do, I think.
+Matias: Do you remember the english test i did with you? Now I have to do it but in Portuguese.  I already did most of the questions. Only listening and reading - 20 questions are missing. Wanna help :P?
+Chad: I can, I think.
+Summary: Chad is going to help Matias with listening and reading at Portuguese test.
+Dialogue: Arthur: hey is that beat coming from your room??
+Leon: yeah :D
+Arthur: cool, turn up the volume XD
+Leon: sure man ..
+Summary: Leon is listening to some music in his room. Arthut likes it and wants Leon to turn up the volume.
+Dialogue: James: How are you feeling?
+Mia: not so good
+Mia: she said while a yellowish fluid ran down from her nose to her chin
+James: haha I bet you still look cute af <3
+Mia: will you bring me food
+James: anything
+Mia: I need mac n cheese now
+Mia: :( comfort food
+Summary: Mia is sick. James will bring mac & cheese to comfort her.
+Dialogue: Jenny: <file_video>
+Jenny: Look!!! Tommy's first steps!!!
+Greta: He's sooo cute! <3
+Greta: <file_gif>
+Greta: Tell him auntie's proud of him <3
+Summary: Tommy made his first steps. Greta is proud of him.
+Dialogue: Winnie: Hello dear, how are you?
+Hilary: I'm fine, looking forward to your visit next week!
+Winnie: Well, yes, I'm afraid there's a bit of a problem with that. I've broken my leg, you see.
+Hilary: Oh, you poor thing! How did it happen?
+Winnie: Well, I slipped in the shower, of all things! Bert found me on the floor, crying in pain!
+Hilary: That's awful! Did you need an ambulance?
+Winnie: Yes, it was very embarrassing, me in my birthday suit with those young paramedics helping me. I did have a towel to cover my modesty a bit!
+Hilary: They don't mind, they've seen all sorts of sights!
+Winnie: Thanks a lot! Well, Bert managed to get a nightie over my head with their help and off I went! I actually need morphine as it was a spiral fracture, it bloody hurt!
+Hilary: I bet it did! Did you get seen to quickly?
+Winnie: Well, not immediately, but quick enough, I was past caring with the morphine kicking in, though!
+Hilary: Well, I am so sorry you can't visit, we had lots of lovely things planned for you both.
+Winnie: Well, it'll take me a few months to get over this, love. Perhaps we can come up in the spring.
+Hilary: That would be lovely. Look after yourself! 
+Winnie: I'll try not to break the other one! Bye dear!
+Summary: Winnie has broken her leg. She slipped in the shower and she needed an ambulance. She was given morphine. She can't visit Hilary. They postpone for the spring.
+Dialogue: Lilly: I've just received your postcard from Boston
+Joan: after 2 months? LOL
+Mick: hahaha, quite ridiculous, where has it been meanwhile?
+Lilly: Important is that is has finally arrived, thanks :*
+Mick: :*
+Summary: Lilly's just received a postcard from Boston. Joan and Mick sent it 2 months ago.
+Dialogue: Susy: I DID IT!!! 
+Lisa: CONGRATULATIONS!
+Susy: I've graduated uni and I have no need to study ever agin.
+Lisa: You forget about driving license exam next month.
+Susy: Shit. Shut up
+Lisa: :D :D :D :D :D :D
+Summary: Susy has just graduated. She also has a driving licence exam next month.
+Dialogue: Frederic: Guys I cannot make it
+Cindy: Why?
+Judith: We've been planning this meeting for so long...
+Frederic: I'm really sick
+Cindy: Really?
+Frederic: I just puked
+Frederic: <photo_file>
+Cindy: That's GROSS!!!
+Summary: Frederic won't make it to the meeting. He is ill.
+Dialogue: Isiah: Do you like Declan?
+Shyann: He's good looking
+Shyann: but yeah why
+Isiah: you think hes good looking?
+Shyann: Yeah not my type of guy tho
+Isiah: I see haha idk I don't know him well
+Isiah: Just met him down the hall today 
+Shyann: You guys can hang out more his a good pal and friend
+Isiah: Good to hear that 😄
+Summary: Isiah met Declan down the hall today. Shynann is just good friends with Declan and says that Isiah can hang out with him. 
+Dialogue: Ivy: Can you get me a baguette from the coop?
+Uma: I'm not going to the coop today
+Peter: I'll be coming back very late. The shop will be closed already 
+Summary: Peter will be coming back very late.
+Dialogue: Anne: have you bought the tickets?
+Charles: yes, we've even booked a place already
+Caroline: in Puerto del Rosario if you want to know
+Anne: good, that's the main town there, I believe
+Caroline: probably, very close to the airport
+Charles: let us know if you want to rent a car, would be really cheap for 4
+Anne: ok! I think we will, send me the address, so we will try to find something nearby
+Charles: I'll write you tonight
+Summary: Charles and Caroline bought the tickets already and booked a place in Puerto del Rosario. Anne will try to book a place nearby. She confirmed the will to rent a car. Charles will send her the address.
+Dialogue: Jess: Daniel, you're kind of past the point when it's "you broke up with a girl, it's okay to be sad" and went straight into pathetic
+Daniel: :(
+Jess: Fuck it, we're going out this weekend
+Daniel: can I go out in my pyjamas?
+Jess: you sleep in pyjamas?
+Daniel: yes.
+Daniel: she gave them to me
+Daniel: she was an angel
+Jess: Daniel, she was a selfish chick who dumped you the minute she spotted someone with more money
+Daniel: :(
+Jess: stop stop stop
+Jess: there's plenty of fish in the sea
+Daniel: you think?
+Jess: I KNOW
+Jess: <file_photo>
+Jess: come on you like boobs, right?
+Jess: <file_photo>
+Daniel: I do like boobs
+Daniel: I like the second ones better
+Jess: See? You can appreciate boobs. You're one step away from recovering
+Daniel: I liked her boobs.
+Jess: ...............
+Summary: Daniel's ex-girlfriend broke up with him. Daniel is still depressed and in love with her. Jess wants to cheer Daniel up and take him out this weekend. 
+Dialogue: Bill: Maybe try this one <file_other>
+Nate: Nah, the indoors are too modern.
+Bill: Is there a restaurant they'll like?
+Nate: Probably an old-fashioned one with traditional food.
+Bill: I don't think we have such places here.
+Nate: Me neither.
+Summary: They probably like an old-fashioned restaurant with traditional food. There is no such place in the city.
+Dialogue: Matt: Good job Suzi
+Suzi: Thanks Matt
+Shayla: Ya Suzi congrats on your project! 
+Shayla: Our client lovedd it! 🤗
+Suzi: Haha hard work pays off thanks pals! 
+Summary: Suzi did a great job on her project at work.
+Dialogue: Mandy: Do u take my car???
+Adam: Yes, I am on the carwash.
+Mandy: Great, thx honey :*
+Summary: Adam took Mandy's car. He is in a carwash.
+Dialogue: Tom: Hey dude, can you transfer me the money you owe me?
+Tom: It's been some time and I'm in a bit of a need
+Harry: Hey. Sure. Sorry it  took so long, but I had to straighten some things up.
+Harry: I'll send you confirmation in 5 minutes
+Tom: Chill. But thanks for quick reaction.
+Harry: And I thank you for your patience. :)
+Summary: Harry owes Tom money. He will transfer it in 5 minutes.
+Dialogue: Joe: would you like to rent a car with us next weekend?
+Lilly: where would you like to go?
+Michelle: we thought about some hot springs or thermal baths
+Lilly: that's actually quite an amazing idea!
+Lilly: I'll ask Jeff and let you know
+Joe: Perfect! We want to rent it from Friday till Tuesday
+Joe: so it could be a bit longer weekend :)
+Lilly: ok!
+Summary: Joe and Michelle are planning to rent a car from Friday till Tuesday and go to some thermal baths or hot springs. Lilly will ask Jeff if they want to come along.
+Dialogue: Ben: Could you send me your recipes  pls? I need new ideas.
+Joy: slice of fresh salmon plus sesame oil and soya sauce and honey
+Ben: so quick ...very efficient
+Joy: cod fillet, lime juice, olive oil and fresh coriander
+Ben: thanks a lot. Is the weather bad in Warsaw?
+Joy: i try to put some sun in it...
+Joy: chicken with peanuts butter and coconut cream. Delicious with rice
+Ben: super
+Joy: i've got some more..
+Ben: that's good for now. thanks
+Summary: Ben needs new recipe ideas from Joy. She suggests salmon with sesame oil and soy sauce and honey, cod with lime juice, olive oil, and coriander, and chicken with peanut butter, coconut cream, and rice. Joy is now in Warsaw. The weather is not very pleasant.
+Dialogue: Cindy: Ivy got promoted
+Miranda: Whaaaaaaaat?!!!
+Veronica: o_O
+Summary: Cindy got promoted.
+Dialogue: Tim: We're thinking about flying to Iceland this summer
+Jerry: we?
+Tim: haha, me and Jim
+Amanda: I'd love to go to Iceland
+Amanda: are you telling us this to make us envious or what?
+Tim: no, we're thinking about forming a group
+Tim: this would be cheaper - renting a SUV etc
+Jerry: right, if you want to explore the island you need a good car
+Jerry: i'd be interested but it depends on how long you're going to stay there and when
+Tim: we thought about the end of June
+Tim: then we could see the midnight sun
+Jerry: that sounds good
+Amanda: I like it as well
+Marcia: Me too
+Jerry: great, so think about it and let me know in the next weeks, so we could plan it
+Summary: Tim and Jim are planning to visit Iceland in the end of June and are looking for co-travelers to split the cost. Jerry, Amanda, and Marcia are interested. They will plan the trip in the upcoming weeks.
+Dialogue: Rose: Why aren't you picking up your phone :d
+Rose: I've been trying for 20 mins
+Rachel: because it's on mute i guess :D
+Rachel: lying somewhere
+Rose: Somewhere?
+Rachel: yeah it was in the bathroom
+Rachel: what's up?
+Rose: It's always on mute ffs xd
+Rachel: yeah it's been like that for 3 years
+Rose: What
+Rachel :P i'm in control of when i want to talk to somebody muahaha
+Rose: Ok calling you again
+Rachel: nooooo
+Rachel: hahaha
+Rachel: ok :P
+Summary: Rachel wasn't picking up her phone because it's been on mute since 3 years. This way she's in control of when she wants to talk to people. Rose is calling her again now.
+Dialogue: Adam: Have you arrived at your house
+Chris: Yeah I did
+Adam: Grab some sleep then we can talk tomorrow
+Chris: Okay
+Summary: Chris has arrived at his house and will go to sleep. He and Adam will talk tomorrow.
+Dialogue: Mindy: mom i need ur help 
+Mom: let me guess, with the dress?i
+Mindy: yes
+Mom: either that red one or the black one'
+Mindy: why just those two 
+Mom: im helping you -_-
+Mindy: whats wrong with others 
+Mom: i dont know, these two are.. decent
+Mindy: i have other decent dresses :/
+Mom: you wanted my help i am GIVING my help 
+Mindy: yea alright
+Summary: Mindy needs help from Mom regarding the dress. Mom suggests either the red one of the black one.
+Dialogue: Maverick: Hi Marcus! Got time for Skype today?
+Marcus: hi! yeah let's do it
+Marcus: 9pm?
+Maverick: Great. See you then!
+Marcus: see you!
+Summary: Maverick and Marcus will meet on Skype today at 9pm.
+Dialogue: Eva: Hey Eric! can you teach me how to play piano?? 
+Eric: You serious.. I would love to.. Come tomorrow at 7 pm
+Eva: Thank you so much
+Eric: :thumbs
+Summary: Eric will teach Eva to play the piano tomorrow at 7 pm.
+Dialogue: Adam: I don't know what to write anymore. I'm blocked
+Toby: Since when?
+Adam: Since I finished the fifth chapter
+Adam: I killed one of my principal characters
+Adam: It really drained me out
+Toby: Do you miss him/her?
+Adam: No. But I put so much effort into this.
+Adam: It's hard for me to go back to writing.
+Summary: Adam finds it difficult to get back to writing after finishing the fifth chapter.
+Dialogue: Diamond: Is it raining?
+Julio: How the f do I no? Go outside and see, bitch!
+Diamond: Shut up!
+Summary: Julio doesn't know if it's raining.
+Dialogue: Julianna: Mum, I'm soooo bored:-(
+Ivona: What's on TV, darling?
+Julianna: Nothing special.
+Ivona: There must be something on TV!
+Julianna: Nothing that's interesting FOR ME.
+Ivona: Well, maybe you can read the book I gave you last week? 
+Julianna: That one on healthy lifestyle?
+Ivona: Exactly. You can learn something new ;-)
+Julianna: You’re mean, mother. You know that? 
+Ivona: Gosh... what about that new game show?
+Julianna: Which one?
+Ivona: "Deal or No Deal"
+Julianna: Tell me you're joking.
+Ivona: I love that show.
+Julianna: I watched it once. That was enough.
+Ivona: It's on right now. Let's watch it together.
+Julianna: All right, it’s better than nothing, after all. Will be downstairs in 2 minutes. 
+Summary: Julianna is bored. Ivona suggests that they watch the new TV show "Deal or No Deal" together.

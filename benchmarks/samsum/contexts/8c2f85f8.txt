@@ -1,0 +1,639 @@
+Dialogue: Nat: i'll be there at 6:30 pm
+Paul: ok i'll come and  pick you up
+Nat: just landed, last turn..
+Paul: cool, i'm on my way
+Nat: luggage are annonced..
+Paul: ok i'm waiting
+Summary: Nat has landed and waiting for the luggage. Paul is waiting for her. 
+Dialogue: Neevah: I might need your DSLR this week
+Issac: Why do you need it?
+Neevah: There is a family function
+Issac: Where is yours?
+Neevah: Ethan needed to so i gave it to him
+Issac: Why dont you call her?
+Neevah: His number is closed
+Issac: Ok you will have to come to my place to take it
+Neevah: Ok I will ask my younger brother to come
+Issac: Ok when should i expect him?
+Neevah: I just called him, He is on the way
+Neevah: He would be outside of your house in an hour
+Issac: kk
+Summary: Neevah wants to borrow Issac DSLR camera this week for a family function. Neevah gave her camera to Ethan. She is unable to call him because his number is closed. Neevah's younger brother will pick up the camera from Issac in an hour.
+Dialogue: Anna: Hi! How are you doing?
+Herbert: Hi! I'm fine, what about you?
+Tomasz: Me too... just a regular day.
+Anna: I'm ok :) Just wanted to say hi. Have a nice day :)
+Tomasz: Ok, you too! Cheers
+Herbert: See you guys :)
+Summary: Anna says hi to Herbert and Tomasz.
+Dialogue: Alex: They closed King street, can you call dispatch?
+Penny: Sure. How long is it closed for?
+Alex: No idea. TFN really with these winds. Something fell in the road.
+Penny: Oh wow!
+Alex: Yeah, anyway, we need to let trucks know to go around.
+Penny: Okay, I'll call now.
+Alex: Thanks! I'll update you when I have more info.
+Penny: Okay!
+Summary: King Street is closed. Something fell on the road. Penny will let the trucks know to go around.
+Dialogue: Chloe: Don't forget to print that.
+Drew: shoot
+Drew: I don't have printer
+Eric: relax man, I can print it for ya
+Drew: thanks dude
+Summary: Eric can print something for Drew, because Drew doesn't have a printer.
+Dialogue: Terry: Will you be at the party?
+Sean: I am here already.
+Terry: oh, cool. How is it?
+Sean: Boring, almost nobody has come yet
+Terry: it's still quite early. I'm on my way now
+Sean: good!
+Summary: Terry will arrive shortly.
+Dialogue: Frank: <file_other>
+Louie: are you going to this event?
+Frank: that's why i am sending it ;)
+Louie: i will let you know later ok? need to check up with kylie
+Frank: okey please do
+Louie: kk talk to you later
+Summary: Frank is going to the even. Louie needs to check up with Kylie and he will let Frank know.
+Dialogue: Ben: Can u send me uncle Joe's number? 
+Adam: Sure. What do you need it for?
+Ben: My car broke down and he's an expert.
+Adam: Or so he says :P Wait, I need to ask Dad, I don't have uncle Joe's number either.
+Ben: OK, there's no rush, I borrowed Rosie's car for today.
+Summary: Ben's car broke down and he needs to contact uncle Joe, who's an expert in cars. Adam needs to ask Dad for uncle Joe's number. For today, Ben borrowed Rosie's car. 
+Dialogue: Mike: I broke up with Mary
+Mike: 😫😫😫
+Jacob: whaaat? 
+Jacob: U kidding? 
+Mike: No 
+Jacob: Should I come over and we'll talk in person 
+Jacob: I saw Mary today 
+Jacob: I said hi but she completely ignored me 
+Mike: Can you come tonight 😫😫😫
+Jacob: Sure thing bro
+Summary: Mike broke up with Mary. Jacob will come over tonight to cheer Mike up.
+Dialogue: Eric: Workout today?
+Adam: nope :/
+Eric: Come on
+Adam: im sick man, on antibiotics :/
+Eric: You? Sick?
+Eric: Hard to believe
+Summary: Adam is sick and won't be able to exercise with Eric today. 
+Dialogue: Adam: Did that customer find what he wanted?
+Sheila: Not really, but I don't think we carry that sort of thing.
+Adam: What was it?
+Sheila: A special tape. Something for electrical.
+Adam: He should have gone to the hardware store.
+Sheila: That's what I told him, but he'd been there and they didn't carry it either.
+Adam: Well, none of our stuff is up to that spec.
+Sheila: That's what I told him. But he bought something anyway.
+Sheila: I made darn sure he knew what our return policy is!
+Adam: Good. Hopefully it works for him or at least doesn't hurt him!
+Sheila: I know!
+Adam: Anything else?
+Sheila: Nope. Pretty quiet other than him!
+Adam: K
+Summary: Sheila's customer couldn't find what he wanted but he bought something anyway. Sheila made sure he knew what their return policy is.
+Dialogue: Rebecca: Are you going to stay till late tomorrow?
+Nick: don't know
+Nick: sorry, I can't tell you now.
+Nick: you expect to much :P
+Rebecca: :)
+Nick: let's say I will
+Rebecca: are you going to stay with them till 5 am
+Rebecca: ;)
+Nick: No, 2am max 
+Nick: maaaaaaax
+Rebecca: and that's what I call an answer :D
+Nick: oh, so yeah i am then ;D
+Rebecca: <file_other>
+Nick: <file_gif>
+Summary: Nick will stay until 2 am with some people tomorrow.
+Dialogue: Cynthia: come in front of the house
+Ann: u r here?
+Cynthia: yep
+Ann: comming!
+Summary: Cynthia is in front of the house. Ann is on her way to join her.
+Dialogue: Michelle: u coming tomorrow for the party?
+Shanon: No, I'm not in the mood. 
+Michelle: Pity. I'm not in the mood myself... 
+Summary: Michelle is not going to the party tomorrow.
+Dialogue: Maia: Hey babe
+Maia: When you come over can you bring Sophias bag please?
+Maia: I must have left it on your coach 
+Lala: Morning :)
+Lala: Sure :) See you soon!
+Maia: Thanks x x
+Summary: Maia asked Lala to bring Sophia's bag that she had left.
+Dialogue: Ken: Racing on Sunday?
+Damien: Sure! But I heard it's gonna rain:(
+Barry: I'll check but I'm pretty sure you're thinking Saturday
+Damien: You think so? 
+Ken: Oh man, no please, I need some sport action my dudes!
+Damien: haha we can bike in the rain:D no problem
+Barry: What the hell:D I'm down too
+Summary: Ken, Damien and Barry will go cycling on Sunday even if it rains.
+Dialogue: John: Hi Thabo, we really liked you fashion show
+Thabo: thanks! I'm glad you liked it
+Mary: it was brilliant!
+Caroline: Am I right that you used some ethnic elements?
+Caroline: or at least things inspired by them?
+Thabo: yes, I use traditional blankets of the Basotho people
+John: because you're from Lesotho, am I right?
+Thabo: yes, I am, from Maseru, but I spent a lot of time in the countrysides as a child
+Thabo: but the motives from the traditional Basotho blankets are very popular now
+Thabo: appropriated even by Louis Vuitton, unfortunately
+Caroline: Why unfortunately?
+Caroline: is it not promoting Basotho culture in the world?
+Thabo: ok, but what do the Basotho people have from that?
+Thabo: I think we need cooperation instead of appropriation
+Thabo: appropriation becomes stealing in this case
+Thabo: the things are neither designed not produced in Lesotho
+John: I get your point
+Thabo: I want to let Basotho people to tell their stories through their garments and clothing
+Caroline: this is an amazing project
+Summary: Mary, Caroline and John where at Thabo's fashion show. Thabo used ethnic elements from Basotho tribe. He's from Maseru, Lesotho and he wants to promote Basotho culture. Louis Vuitton used Basotho blankets in his collection.
+Dialogue: Janet: <photo_file>
+Julia: I saw that!!
+Janice: Who's that guy??
+Janice: Never heard of him
+Julia: That's obviously the father
+Janice: But where is he from?
+Janice: I thought Amy was in a relationship with Brody
+Janice: They've been together for over 2 years
+Janet: Apparently they are not anymore
+Janet: She's pregnant with this other guy
+Janet: Mister Mysterious  
+Janice: Who is he???
+Janice: I'm so curious what happened?
+Janice: And what Brody has to say about it
+Summary: Amy is not with Brody anymore, she's pregnant with someone else. Janice, Julia and Janet are wondering who the father is.
+Dialogue: Hannah: Hey, just wanted to let you know that our family is here for you guys
+baker: thanks alot
+Hannah: incase of anything, just let us know
+baker: i appreciate
+Summary: Hannah and her family offer Baker help.
+Dialogue: Andy: I am looking for a sofabed
+Phuti: Certainly sir, we have many different sofabeds in store.
+Andy: Do you have any which are just under 150cm wide?
+Phuti: Yes, one model is 144 cm wide and uses that space very well, no wastage of space with unnecessary ornamentation. The mattress is really broad enough for two people. It is the "Monica 144" model
+Andy: What colours is it available in?
+Phuti: We have black and beige only. There is blue, red and grey but you would have to order them, sir.
+Andy: Beige sounds very good for this room. Can I collect it?
+Phuti: Yes, just come in any time, but you will need a big vehicle, you won't get this inside of an ordinary car.
+Andy: I have a Chrysler Grand Voyager
+Phuti: The one where all the seats tuck in flat?
+Andy: That's the one. 
+Phuti: That is an excellent car, sir.
+Andy: It is very functional and practical. I just have the problem that I cannot find a good mechanic for it.
+Phuti: You should try maybe the workshop owned by the husband of my wife's boss. He is said to be the best mechanic in the country.
+Andy: Really? What is his name?
+Phuti: His name is Mr J L B Matekone. 
+Andy: I think I have heard of him, his workshop is called Speedy Motors, or something like that?
+Phuti: Yes, Sir. Out on the Tlokweng Road. You should definitely give him a try.
+Andy: I will. And I will come in later for the sofa
+Phuti: I'll put it aside for you, sir.
+Summary: Andy is going to buy a beige "Monica 144" sofabed. He will come and collect it later in his Chrysler Grand Voyager. Phuti recommends a mechanic for this car, the mechanic is called Mr J L B Matekone, his workshop is called Speedy Motors and it's stiuated on the Tlokweng Road. 
+Dialogue: Alan: are you going to eddie's new band's concert?
+Brenda: mmmmmm
+Brenda: i feel horrible for saying this...
+Brenda: but... i mean...
+Brenda: they suck :-/
+Alan: hahahaha
+Alan: come on! they're not that bad!!!
+Brenda: yeah they are :-(
+Brenda: their songs make no sense :-/
+Brenda: the singer screeches like a goat
+Brenda: even eddie is not that good of a drummer
+Alan: lol i'm going to stop this conversation!!!
+Alan: i don't ever want eddie to find out we talked shit about his band
+Alan: lol
+Brenda: well it's true!!!
+Brenda: they stink!!!!!
+Alan: ok, let's do this:
+Alan: whether you want it or not i'll pick you up in two hours
+Alan: we'll go to the concert
+Alan: AND WE'LL HAVE FUN! :-)
+Brenda: *rolls eyes*
+Summary: Brenda doesn't like Eddie's new band so doesn't want to go to their concert. Alan will pick her up in 2 hours anyway.
+Dialogue: Hetty: do you know how I can get an app on the ipad from internet
+Alfred: through the app store
+Hetty: no I mean if you are already on a site
+Alfred: what site?
+Hetty: if you are on a website and you want to make it an app
+Alfred: oh like a shortcut to a link
+Hetty: yeah that
+Alfred: when you are on the website there is a square with an arrow at the top
+Hetty: hold on, just opening the website
+Hetty: where is the square?
+Alfred: In the top right somewhere
+Hetty: where? I can't see it
+Alfred: <file_photo>
+Hetty: oh yeah, got it
+Alfred: if you look in there there should be a button called add to home screen or link to homescreen or something
+Hetty: hold on
+Hetty: is it in more?
+Alfred: No I don't think so, bottom row I think
+Hetty: oh yeah I found it
+Alfred: then give it a name and off you go!
+Hetty: oh wow, thanks lovely xx
+Alfred: no worries mum
+Alfred: what site are you on anyway
+Hetty: in my Hotmail
+Alfred: but that has  a link already!
+Hetty: where?
+Alfred: the envelope in the bottom row of your ipad!!!!
+Hetty: oh is that my Hotmail? I didn't know!
+Alfred: there you go, learned two things!
+Hetty: thanks lovely xx
+Summary: Alfred tells his mum, Hetty, how to create a shortcut on an iPad and where to find her e-mail app.
+Dialogue: Mom: Will you stop playing with the Nintendo and get to your books?
+Son: Mom, I just started playing.
+Mom: You have your exams the next week./
+Son: I know.
+Mom: Then what are you supposed to do?
+Son: Mom, please give me 10 more minutes, I'll study later.
+Mom: You have already spent over 2 hours on that stupid gaming console. Do you need more?
+Son: Oh ok mom, just a min, let me save the records.
+Mom: Are you done?
+Son: Done. I'll start my studies now. Happy?
+Mom: You are studying for yourself and not me, remember.
+Son: Ok. Will do that for my sweet mom.
+Summary: Son has spent over 2 hours playing games. Mom wants Son to start studying for his exams next week.
+Dialogue: Wanita: Hey
+Wanita: I'm walking up your hill now
+Wanita: I'll be there in about 5 min
+Hakim: Ok!
+Hakim: See you soon ;)
+Summary: Wanita will be there in 5 minutes. 
+Dialogue: Tracy: heyy 😃
+Tracy: just came back from skiing 😝
+Lewis: heyo
+Lewis: and?
+Tracy: you were right, it was awesome!
+Tracy: wanna go again asap
+Lewis: told ya 😃
+Lewis: i might go next week
+Tracy: when exactly
+Lewis: saturday morning
+Lewis: you know, its 2hours drive
+Lewis: i can be back home before it gets dark
+Tracy: if its a one-day trip, then count me in 😃
+Lewis: great
+Lewis: but i already invited Claire, is that ok?
+Tracy: sure. no problem
+Lewis: be ready at 8:30 am
+Tracy: i prefer 9, im not the morning person...
+Lewis: well, ok, but at 9 you're ready with shoes on
+Tracy: hahah ok
+Lewis: cool
+Lewis: see you this sat
+Tracy: see you, can't wait 😊
+Summary: Lewis came back from his ski trip thrilled. He is already planning the next one for Saturday. Tracy wants to go with him. They are meeting at 9 o'clock sharp.
+Dialogue: Amanda: We were at a Christmas Market today. Toby loved it! <file_photo> 
+Flora: Aww, what a cutie!
+Elena: Did you guys meet Santa?
+Amanda: Yes, but it didn't go very well. Toby was scared of him :D <file_photo> 
+Flora: Haha, he looks as if Santa was trying to murder him!
+Elena: Daddy looks happy though!
+Amanda: LOL, yes, daddy had a lot of fun today. I'm not sure which one of my boys is happier now :D
+Elena: I bet you're as tired as they're happy ;)
+Amanda: I'm exhausted! But it was worth it, you know?
+Flora: Did you buy something nice?
+Amanda: Lots of sweets and some Christmas decorations.
+Flora: Cool!
+Amanda: And they had this cool castle with artificial snow falling down all the time. Look! <file_video>
+Elena: Wow, it's really beautiful. 
+Flora: Looks kind of like the ice castle from “Frozen”.
+Amanda: Yeah, I thought about it too when I saw it!
+Summary: Amanda is with Toby and her partner at a Christmas Market. They bought lots of sweets and some Christmas decorations.
+Dialogue: Declan: hi! :) can i ask you something russian-related?
+Emilia: hi! :) yeah, sure
+Declan: how do you know when you should use longer or contracted form of an adjective?
+Emilia: it's easy, jewgienij have talked about this recently
+Emilia: you have to use a longer form before a noun and a shorter one after a noun :)
+Declan: thanks! :)
+Summary: In Russian, you have to use the longer form of an adjective before a noun and the shorter form after a noun. Jewgienij has talked about this recently, it's easy.
+Dialogue: Davon: You have power to do something about it
+Kendyl: I don't want ! I don't want to be a fucking politician
+Kendyl: I don't care about that shitty poland.  I know languages so instead of being constantly pissed off and stressed I will just move to another country to live without all this stress
+Kendyl: That kills me
+Davon: In way that is the problem. People desagree and say everything that is wrong sometime they even have ideas but they just don't do anything. That's why there is no development.
+Davon: But still I'm Portuguese I have nothing to do with Poland and you talk to me about the state of your country
+Kendyl: It's already being done by people who actually have power. I can only talk to individuals to make them aware and to make them e.g. follow a page to read.
+Kendyl: And I'm doing it.
+Kendyl: I care more about me than about poland
+Kendyl: I don't want to do something that brings me stress all the time
+Kendyl: No one will force me to do it.
+Davon: Yeah yeah
+Kendyl: So don't fucking tell me I'm doing nothing. It's already being done. That's why I know all this!
+Davon: No body is forcing you
+Kendyl: That's why I make other people know about it as well
+Davon: For me you can do whatever
+Summary: Kendyl wants to leave Poland to live abroad because he is stressed about the state of the country. Davon believes that she should try to change it instead.
+Dialogue: Peterson: <file_photo>
+Peterson: my assistant
+Philipa: what a cutieeee
+Philipa: these photos lighten up my day 😍🤗
+Peterson: 😘
+Summary: Peterson sends Philipa a photo of his assistant and she finds the assistant cute.
+Dialogue: Perry: I am looking for someone working in EY
+Josh: I know a guy, why?
+Perry: I need a way in, sorta
+Josh: I don't understand, why?
+Perry: ahah jk, I need to know how is it to work there
+Josh: Oh, well, he has junior position, so he won't tell you much, but some starters
+Perry: sounds perfect, I would start there too
+Josh: I'll tell him to reach out to you
+Perry: thanks
+Summary: Perry wants to work in EY. Josh knows a guy who has a junior position there and can share his experiences with Perry.
+Dialogue: Ella: Josh, what time should we meet?
+Joshua: I may not manage by 6PM
+Joshua: it's a very stressful day at work
+Ella: Ok, so take it easy
+Ella: we can meet even after 8PM
+Ella: I really don't mind
+Joshua: ok, nice!
+Joshua: I cannot drink too much as well tonight
+Ella: sure, me neither, I'm also working tomorrow
+Joshua: should we meet somewhere in Manhattan?
+Ella: Why not Brooklyn? More convenient for both of us
+Joshua: right!
+Ella: I will write later where exactly, I'll book a table
+Joshua: perfect, thanks for taking care of it
+Summary: Joshua has a stressful day at work. Joshua and Ella will meet after 8PM in Brooklyn. Ella will text Joshua the exact place and book a table. Ella has to work tomorrow.
+Dialogue: Gloria: Can we meet at 4? I forgot about my dancing classes at 5:30
+Margaret: 4:15?
+Gloria: If that makes any difference
+Margaret: Yes, I need some time to get back from uni.
+Gloria: Alright, see ya!
+Summary: Gloria and Margaret will meet at 4:15.
+Dialogue: Sam: So fed up with my assignment!
+Kevin: Go Sam go! Get your homework done!
+Sam: easier said than done!
+Jim: get off FB!
+Kevin: try having 3 of them!
+Jenny: Come on! You can do it!
+Jim: May the force be with you!  
+Sam: haha!
+William: come on! make me proud! just one more to go!
+Summary: Sam hates the assignment he has to do. His friends cheers him up.
+Dialogue: Margot: Should we go through Sarajevo?
+Edward: I was there once, nothing special really
+Edward: I'd skip Bosnia and Herzegovina
+Henry: what? are you insane? BiH is one of the most beautiful countries in the world
+Edward: LOL, you sound like a Bosniak
+Henry: Maybe I am, deep in my heart
+Henry: but seriously, Sarajevo is a beautifully located city
+Henry: the mountains around are amazing
+Henry: look at this: <file_photo>
+Lia: wow, I didn't know they have this high mountains there
+Henry: exactly, nobody knows anything about BiH
+Henry: and it's part of fun - no tourists, pristine landscapes....
+Henry: very special
+Margot: it sounds good to me guys
+Lia: I'm convinced as well
+Henry: Sorry Edie, you've been voted down...
+Margot: would you have any other ideas what we should see in BiH?
+Henry: hmm, maybe Mostar?
+Margot: I'll google it
+Henry: yup, look it up, the famous bridge
+Margot: right, the beautiful bridge with the hoooot men jumping from it <3
+Margot: <file_photo>
+Lia: this is a must!
+Henry: hahaha, I agree
+Edward: gosh.......
+Summary: Margot, Edward, Henry and Lia will go to Bosnia and Herzegovina. They want to see Sarajevo and Mostar there.
+Dialogue: Sam: Perfect job for me just came up! Sports Psychologist!
+Aria: You can't be a psychologist, idiot! You haven't a degree!
+Sam: Yeah, I guess I need one of those...
+Aria: Duh!
+Sam: Too bad. I'd be good at it!
+Aria: No you wouldn't. You're a mess!
+Sam: I am not!
+Aria: You so are!
+Sam: Hey, that's not very nice!
+Aria: True, though!
+Sam: Well, at least I know I'm a mess. 
+Aria: Sigh.
+Sam: Well, how about sales? I can do sales!
+Aria: People need to trust you for you to be good at sales. Next?
+Sam: Geez, I didn't know I was such a pos!
+Aria: You aren't a pos, just don't have many skills. Why don't you look for something more your level?
+Sam: But I want a higher level!
+Aria: So work for it! Start at the bottom, work up!
+Sam: That takes too long!
+Aria: So you should be in a management role, getting paid big bucks, without working for it?
+Sam: Exactly.
+Aria: You are high.
+Summary: Sam is looking for a high level job, but is not keen on working for it. Aria suggests he starts at a lower level and works his way up. 
+Dialogue: Zenek: are you coming to the conference in Brno in June?
+Jenny: I would like to, but I've no idea what I could present there
+Marcus: really? all your amazing research about the medical discourse
+Oscar: and especially the history of psychiatry in Italy
+Zenek: you still have some time to think about it
+Jenny: Do you really think so guys?
+Jenny: I really don't feel ready to show things to people
+Zenek: Jen, you'll never be ready, this is how it works
+Oscar: that's true. There's always something one can do better, improve, research more
+Marcus: honestly Jenny, you've spent a year on it
+Marcus: how long are you going to polish a chapter of your dissertation
+Marcus: after all it's just ONE CHAPTER
+Jenny: I know, I'm such a miserable perfectionist
+Marcus: just stop it, tell yourself: ENOUGH!
+Jenny: but I'm afraid that somebody will point out all the shortcomings.
+Marcus: some shortcomings will always be there, but mostly you'll be the only one knowing them
+Marcus: after a year of intensive work on it, you're probably the best expert in it in the world
+Jenny: you're right, I'll think about the submission and let you know guys
+Zenek: great!
+Zenek: good job Marcus!
+Summary: Jenny did research on the medical discourse and the history of psychiatry in Italy. She's not ready to present her work to people. She spent a year on one chapter of her dissertation. Zenek, Marcus and Oscar encourage her to participate in the conference in Brno in June.
+Dialogue: Alex: Hi. Can I talk to you?
+Lesley: Hi. Who r u?
+Alex: My name is Alex. U don't know me, 'cause we're not friends on Facebook yet, bt I have something important to tell you.
+Lesley: Ok...
+Alex: Have you heard about green wind turbines?
+Lesley: Wind turbines painted green?
+Alex: No, like ecological ones.
+Lesley: Aren't they all?
+Alex: Yes, probably, but these are like really eco-friendly.
+Lesley: Ok...
+Alex: So these wind turbines are killing birds.
+Lesley: Murdering wind turbines? Sounds like a horror-film-plot ;)
+Alex: I'm serious. I was in the fields last weekend and saw this qt jaybird get torn into pieces by the wings of a wind turbine.
+Lesley: That's awful.
+Alex: I know. I did some research and it turns out that thousands of birds die in this way every year. 
+Lesley: So?
+Alex: This is really important. I've created a petition to the government and would like you to sign it. 
+Lesley: Y?
+Alex: Don't u care about the birds?
+Lesley: I do.
+Alex: So will you sign the petition?
+Lesley: What are you petitioning?
+Alex: Ban on wind turbines.
+Lesley: No. 
+Alex: Y not?
+Lesley: 'cause it's a bad idea.
+Alex: But the birds are dying!
+Lesley: Stop texting me. 
+Alex: This is really important!
+Lesley: And this is spam.
+Summary: Green wind turbines kill birds according to Alex. Alex wants Lesley to sign the petition against them but she's not interested.
+Dialogue: Dean: hello
+Jill: hi
+Dean: would you like to go with me to a concert?
+Jill: what kind of?
+Dean: some classic rock music
+Jill: yeah, sure!
+Dean: it's on Saturday at 9
+Jill: good, i have no plans for Sat
+Dean: so i will collec you at 8 ok?
+Jill: can you collect me earier?
+Jill: we can have some dinner
+Dean: great idea
+Jill: so see you at 6
+Dean: see you
+Summary: Jill will accompany Dean to a concert which is on Saturday at 9. Dean will come over to Jill's at 6 and they will have dinner first.
+Dialogue: Jabari: I am sorry. Today is teacher's day but I cannot even visit you because of work.
+Josi: It's fine. Thanks for sending me messages.
+Jabari: When I was in high school, I was such an trouble maker.
+Jabari: Thank you for guiding me onto the right path. 
+Jabari: I will visit you another day.
+Summary: Jabari can't visit Josi on teacher's day, because of work.
+Dialogue: Peter: I am going to the gym tomorrow morning, around 11. Anyone care to join me?
+Raphael: We also planned to go tomorrow morning. What will you be working on? We have to do legs, right Brian?
+Brian: Sadly :( Mine still hurt from last time...
+Peter: Can't skip leg day! :D I will probably just do some cardio, probably on the bike
+Raphael: We can start with that and move on to heavier things ;) See you guys tomorrow
+Summary: Peter, Raphael and Brian will go to the gym tommorow around 11. They will start with cardio and then heavier things. 
+Dialogue: Lisa: Dear Victor, just wanted to say thank you for the invitation. It was such a nice afternoon and your daughters are really nice. It's late now, so I'll just wish you good night.
+Victor: Hi Lisa, I'm not asleep yet. I should thank you for joining us. Yes, it was a lovely afternoon and the girls loved it. I think they like you a lot.
+Lisa: Hope they don't dislike me :)
+Lisa: The choice of the place was great too. How come you know all those funny venues?
+Victor: Don't forget I studied in this city and it has not changed that much. We used to patronise White Dame more than we should have, I'm afraid.
+Victor: Did you like the food? I'm afraid they aren't at their best for vegetarians.
+Lisa: I liked it even if the combination of mushrooms and oranges was a bit unusual. Anyway the wine was superb.
+Victor: They've always had great wines from South America and from South Africa. Very little from Europe. But then one of the owners is Argentinian I believe.
+Victor: You looked lovely, Lisa. I liked your new hairstyle a lot. Suits you!
+Lisa: Thanks. I'll keep my hair short now. So comfortable!
+Victor: But then you'll have long hair again, ok?
+Victor: A! Let me send you the pics the waiter took of us today.
+Victor: <file_photo>
+Lisa: Oh my gosh! so many!
+Victor: <file_photo>
+Lisa: Hope it's all?
+Victor: Yes, all of them. Nice eh?
+Lisa: Thxs. You look so serious in some!
+Victor: After all it was my birthday party.
+Lisa: And you've got to wait one whole year for the next one.
+Victor: Who knows where we'll be celebrating it?
+Lisa: Who knows?
+Lisa: Now time to say good night. Thanks again for this splendid afternoon.
+Victor: My pleasure. Sleep well, Lisa.
+Summary: Lisa spent a nice the afternoon with Victor and his daughters. They were at a restaurant to celebrate Victor's birthday. They really liked the wine and vegetarian food. They took many pictures together.
+Dialogue: Peggy: Hello everyone! The national congress is held in Warsaw (12-13.01). You are going to have 2 days of meetings, workshops, and parties. All regional councils and team leaders are invited. I expect you to confirm your attendance until next Wednesday.
+Tim: I don’t want to go! 😟😟
+Peggy: Ok, that’s fine 🙄
+Peggy: Maria is looking for a logistician to help her with conducting the workshops for parents on Saturday (10am-5pm). We would be forced to cancel the meeting, if none of you could participate.
+Jada: I have my own workshops this Saturday 😒.
+Tim: What would I need to do?
+Peggy: Bring stuff, take it back, look after the participants. As always.
+Tim: I’m going with my kid to the cinema. It’s her birthday. But I’ll ask Mark 😉.
+Raphael: Where is it?
+Peggy: Your school.
+Raphael: Really 😱😱😱?
+Tim: Oh, Raphael. You’re the host, you should be a logistician 😅.
+Peggy: I’m surprised you didn’t know. You work in one team with Maria 😕.
+Peggy: I don’t understand why you avoid talking to each other.
+Raphael: She can do it herself 😒. I don’t understand why she needs a logistician.
+Peggy: Ask her, not me 😒.
+Raphael: Ok, I have workshops as well – I’m meeting with my new team members, and I have to explain them how the CRM works.
+Peggy: You can take them to the workshops 🦄. 
+Jada: Just do it! Just say yes! 😜
+Raphael: Naaah 🙄🙄🙄
+Raphael: Okay. Yes. 😞
+Summary: The national congress takes place in Warsaw, 12-13.01. Maria needs a logistician. Tim and Jada can't come. Raphael doesn't want to, but finally agrees. 
+Dialogue: Meghan: Baby, I miss you
+Simon: I miss you too pumpkin
+Meghan: When are you coming back?
+Simon: Monday the latest, I have my last meeting in the morning and then I'm catching the afternoon flight
+Meghan: Pick you up from the airport?
+Simon: baby you're too good for me
+Meghan: You can thank me later...
+Simon: can't wait, babe!
+Summary: Simon is coming back Monday the latest. He is catching the afternoon flight after his last meeting. Meghan is picking Simon up from the airport. Simon can't wait to see Meghan.    
+Dialogue: Adam: My wife is social media specialist
+Adam: She runs facebook, instagram and other social media platforms for different companies and people
+Mark: Is it even interesting?
+Adam: Not for me, but she seems to find a bit of satisfaction in it.
+Adam: I bought her this:
+Adam: <file_photo>
+Mark: ahahah
+Mark: I'm not wasting my time on facebook - I supervise social media
+Mark: Nice :-)
+Summary: Adam's wife runs social media platforms for different companies and people.
+Dialogue: Xavier: Are you going to vote?
+Hester: No, I don’t think so actually
+Xavier: Here people are almost set aside for not voting
+Hester: Weird
+Xavier: Why? For me it is a good thing
+Hester: Yea but what comes from that, not everyone should vote
+Xavier: What, that’s what democracy is about
+Hester: Think about it, do all people you know should vote? And if yes, you probably hang out with pretty intelligent people, there so many idiots
+Xavier: Hmmm maybe but their voice is important as well
+Hester: No it’s not, they don’t think, they don’t analyze, know nothing about politics, maybe only from on channel they watch from time to time, they don’t even know what they’re doing
+Xavier: So what we should ban them from voting??
+Hester: No, just don’t be sad if someone doesn’t do it
+Xavier: Still, you’re not an idiot, so why?
+Hester: I think so ;p but anyway I ‘m terribly busy right now, I don’t check any news, I don’t feel like I should cause I know nothing
+Xavier: Hmm I see your point
+Hester: You see, it’s not always good. What do you know about your candidates, you followed them for a longer time or you just watched some interviews with them and thought “yea he’s cool”?
+Xavier: Most f them are women actually xd
+Hester: Lol ;p but you see what I mean
+Summary: Hester has no time to follow politics now. He doesn't know much about the candidates and that's why he's not going to vote. 
+Dialogue: Isabel: the conjuring or the exorcist?
+Darcey: exorcist
+Tilly: exorcist
+Aisha: exorcist
+Isabel: ok 3:0, the exorcist wins :D
+Summary: Isabel wants Darcey, Tilly and Aisha to decide on the film and the winner is The exorcist.
+Dialogue: Karter: What party u had last night? hahah
+Albert: Barbecue at my boss' house
+Karter: Nice
+Summary: Albert was at a barbecue at this boss's house last night.
+Dialogue: Rebecca: please check your 'other' folder
+Rebecca: my msgs might be there
+Joseph: ok
+Eddie: ok
+Sophia: can i send you the essay tomorrow?
+Sophia: my laptop stopped working :/ 
+Rebecca: ok
+Summary: Sophia's laptop stopped working.
+Dialogue: Adam: Hey, you there, why aren’t you answering to my calls? Everything’s alright?
+Adam: Lucy, I see that you’re logged in!
+Adam: Hey!
+Adam: I guess that I’m being ignored… I care for you
+Lucy: Hey Adam! Sorry, I just needed to take care of my Katie, she’s a bit sick
+Adam: But, she’s ok now, isn’t she?
+Lucy: She’s much better now. She had a terrible fever, but I hope the worst’s over
+Adam: I’m so sorry. The next time just write me a short message so that I know that everything is ok. Deal?
+Lucy: Ok. I need to go! Bye!
+Adam: Bye!
+Summary: Adam is frustrated, because Lucy is not answering. Lucy was busy taking care of her sick daughter.
+Dialogue: Lisa: I need a dinner idea!
+Ruby: What's the occasion?
+Tony: What cuisine?
+Lisa: As simple as possible, as fast as possible and requires as little ingredients as possible.
+Ruby: Assuming it's not an anniversary dinner for your husband?
+Tony: Lol
+Lisa: No. I have to stay longer at work today and hubby doesn't know how to cook, so need to prepare him a recipe and instructions.
+Ruby: Lucky! I tell mine to take something from the fridge and that's it.
+Tony: Yeah, but u guys eat a lot of frozen meals.
+Ruby: Not so! Once or twice a week we have TV dinners, but otherwise, I cook.
+Lisa: Hey! Problem here!
+Tony: Sorry. So, maybe boiled water? All requirements fulfilled :)
+Lisa: Very funny. Ruby?
+Ruby: What does he like?
+Lisa: Basically everything you throw at him. He doesn't eat seafood and doesn't like meat too much, but what he hates the most is tacos. Don't know why.
+Tony: Well, this narrows it down a bit. 
+Summary: Lisa needs a simple dinner idea to prepare instructions for her husband, because she has to stay longer at work today. He doesn't like seafood, meat and tacos.

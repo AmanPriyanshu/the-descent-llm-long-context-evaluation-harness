@@ -1,0 +1,107 @@
+Dialogue: Walter: wanna joing my yoga class?
+Roland: i don't have any money to pay for it :-(
+Roland: and i hear yoga is really expensive
+Walter: this one's free!!!
+Roland: mmmm, i don't know if i'll like it
+Roland: i'm not really flexible
+Walter: yoga is much more than that!!
+Walter: it's about breathing and relaxation...
+Walter: trust me, you'll love it
+Roland: i'm still not sure
+Roland: do you have any other selling points for me? lol
+Walter: hahaha i have one
+Roland: what is it?
+Walter: it's a great way to meat girls!!!
+Roland: hahahaha, ok, that changes everything!
+Summary: Roland will join yoga classes as suggested by Walter.
+Dialogue: John: Hey, want to join us?
+Irena: I am broke ;)
+Irena: Saving for my trip in May
+John: Where to?
+Irena: Spain
+Summary: Irene won't join John and his companions as she is saving money for a trip to Spain in May.
+Dialogue: Peter: Pick a movie!
+Peter: I'll be there in 5
+Nancy: OK ;*
+Summary: Nancy will pick a movie. Peter will be there in 5 minutes.
+Dialogue: Hannah: The Body Shop offers free delivery on orders over £25!!
+Hannah: <file_other>
+Olivia: (^o^)丿(^o^)丿
+Ursula: oh nooo, why now?? i'm completely broke :<<
+Summary: Ursula cannot afford the special discount from the Body Shop
+Dialogue: Jessie: Hey Rose, when are you free to work on this project?
+Rose: Aw fuck. When is it due again.
+Jessie: End of next week. 
+Rose: I'm like super swamped with all my other classes, but I have play practice all week too. 
+Jessie: Yeah, I mean I get you, I have a lot going on too, but I think it's important we meet at least twice this week.
+Rose: Is there no way we can just work separately and just figure out some of this stuff online?
+Jessie: Rose? Seriously.
+Rose: I mean I feel like this isn't really that big of a deal. Mrs. Coud isn't that harsh of a grader anyway. 
+Jessie: That's not the point. The point is that we decided to work together. As a group to get this done. I think we need to meet to get this done.
+Rose: You are being way too serious about this. It is not that big of a deal. We can literally turn in anything and get a good grade.
+Jessie: I don't want to be the only person putting in the effort on this one. If you don't want to work together on this, I can talk to Mrs. Cloud about being on different teams.
+Rose: Whoa Jess, chill. It's cool. I'll find some time this week. I'll let you know tomorrow. 
+Jessie: ok.
+Summary: Jessie are Rose need to hand in a project by the end of next week. They're both very busy, but Jessie insists on meeting. Rose eventually agrees to meet some time this week.
+Dialogue: Harold: guys, wanna some beer?
+Aaron: yep, 2 
+Andrew: 2 for me as well
+Harold: ok, i'll be in 5min
+Andrew: k waiting
+Summary: Harold will bring beers for Aaron and Andrew in 5 minutes.
+Dialogue: Scott: Wish I would have seen that before.
+Kara: What?
+Scott: That broken window. I just came back with stuff to fix the door!
+Summary: Scott just came back with some stuff to fix the door, but he didn't see the broken window before. 
+Dialogue: Declan: hi! :) can i ask you something russian-related?
+Emilia: hi! :) yeah, sure
+Declan: how do you know when you should use longer or contracted form of an adjective?
+Emilia: it's easy, jewgienij have talked about this recently
+Emilia: you have to use a longer form before a noun and a shorter one after a noun :)
+Declan: thanks! :)
+Summary: In Russian, you have to use the longer form of an adjective before a noun and the shorter form after a noun. Jewgienij has talked about this recently, it's easy.
+Dialogue: Jeremy: how was the show?
+Eric: it was okay
+Eric: but honestly I expected more from it
+Jeremy: why?
+Eric: I don't know, I was expecting something more spectacular
+Eric: and it was just good
+Jeremy: so is it worth watching?
+Eric: I think you'll like it more than I did
+Eric: so that's a yes
+Jeremy: okay, thanks
+Jeremy: I was looking forward to it but the reviews so far were mixed
+Eric: maybe people were expecting more
+Eric: like me
+Jeremy: that's possible
+Jeremy: I guess I need to go and see it by myself
+Summary: Eric did not enjoy the show as much as he thought he would. Jeremy will go and see it for himself. 
+Dialogue: Linda: Hi Bryan, I just got a call from Bestbuy.
+Bryan: Hi Linda, regarding the fridge?
+Linda: Yeah, they changed the delivery date.
+Linda: There were some issues.
+Bryan: When will they deliver it?
+Linda: On Thursday at 4pm.
+Linda: But I need to be at my accounting course until 5pm.
+Bryan: OK, that's fine, I'll be @ home.
+Bryan: I'll leave the office an hour earlier and I'll stay longer on Friday.
+Linda: Great, thanks :)  
+Summary: Bestbuy informed Linda about change in delivery date of the fridge. It is on Thursday 4 pm. Linda has her accounting course until 5 pm. Bryan will pick up the fridge. On Friday he'll stay longer at work.
+Dialogue: Nat: How are you doing?
+Tom: Worse than I'd have thought.
+Nat: Me too. My head is getting heavy.
+Tom: I guess I'll call it a day. Whatever will be, will be...
+Nat: You think so?
+Tom: What's the point of sitting and struggling with your falling eyelids?
+Nat: OK. I'm going to sleep too.
+Tom: Yeah. See you before the exam.
+Nat: Good night!
+Tom: Good night!
+Summary: Nat and Tom are too tired to continue studying for tomorrow's exam.
+Dialogue: Eddy: i sell my speaker JBL at 15
+Andy: ok
+Eddy: do you want it? 
+Andy: no
+Eddy: this is the new one i bought
+Eddy: <file_photo>
+Summary: Eddy is selling his speaker JBL at 15. Andy is not interested.

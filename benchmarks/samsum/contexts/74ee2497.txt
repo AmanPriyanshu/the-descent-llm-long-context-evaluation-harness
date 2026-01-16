@@ -1,0 +1,289 @@
+Dialogue: Derrick: What's up
+Jazmin: I'm with my cousin now. He came to me from poland
+Derrick: Oh ok cool
+Jazmin: <file_photo>
+Jazmin: Vatican
+Derrick: Nice
+Jazmin: Yep
+Jazmin: <file_photo>
+Derrick: Cool
+Summary: Jazmin has been visited by her cousin from Poland. They went to Vatican.
+Dialogue: Aubrey: What about this dress?
+Aubrey: <file_other>
+Anne: I don't like this kind of red.
+Anne: and besides, it's too pricy.
+Aubrey: The prom night is near so you have to decide.
+Anne: I know... but there is no dress for me
+Aubrey: Let's find some clothing outlet.
+Anne: Sounds like a good idea.
+Aubrey: When do you have time?
+Anne: Let me check...
+Summary: Aubrey and Anne are going to a clothing outlet to find a prom dress for Aubrey.
+Dialogue: Kimberley: I'm dropping Annie in 5, anyone for coffee?
+Lexie: Perf! I'm dropping Jack in 10:)
+Lisa: so same place as always?
+Kimberley: sure, see you there:)
+Summary: Kimberley, Lexie and Lisa will meet for coffee.
+Dialogue: Bryan: Are you there yet?
+Kev: 5 more mins!
+Stuart: Same!
+Bryan: Im on my way.
+Bryan: see you soon!
+Summary: Bryan is going to meet Stuart and Kev in 5 minutes. 
+Dialogue: Lewis: you won't believe it!
+Lewis: my boss is sending me on a business trip!
+Heidi: really? Where?
+Lewis: that is the best part
+Lewis: to Finland! :D
+Heidi: omg, you're so lucky!
+Heidi: for how long?
+Lewis: two weeks!
+Heidi: <file_gif>
+Lewis: I'm so excited!
+Lewis: <file_gif>
+Summary: Lewis' boss is sending him on a business trip to Finland for two weeks. 
+Dialogue: Nadine: In what hospital is she at?
+Sam: St James's 
+Will: ok, we'll be there in 30 min. thanks!
+Summary: Will will be at the St. James's Hospital in 30 minutes.
+Dialogue: Nora: who tf left a drity pan in the kitchen??
+Mireya: not me...
+Nora: pls don't do that if you know you're leaving for the weekend. it's the second time i'm washing someone else's dirty pan
+Nick: so sorry, I totally forgot about it. you know how it is with pans heheh
+Nora: i repeat, it's not the first time
+Nick: I am really sorry. Won't happen again
+Nora: I hope so...
+Summary: Nick left a dirty pan in the kitchen so Nora is washing it again. Nick promises it won't happen again.
+Dialogue: Pascal: The school has just called me.
+Wendy: Oh no, again!?
+Pascal: yes, and again the same.
+Wendy: How embarrassing.
+Pascal: Oh, yes, believe me. This time they were not that understanding any more.
+Wendy: Did he got into a fight again with somebody?
+Pascal: Worse.
+Wendy: What can be worse.
+Pascal: The teacher said he was groping girls.
+Wendy: No!!!! What's wrong with him???
+Pascal: I have no idea.
+Wendy: I'm afraid our methods don't work.
+Pascal: They also said that if it happens again, we may have to look for a new school.
+Wendy: I understand, this is serious. Is our son becoming some kind of disgusting pervert?
+Pascal: We cannot think like this. I think he is troubled and he needs help.
+Wendy: You're right. I just can't relate any more. It's horrible.
+Pascal: We'll go together through this.
+Summary: Wendy and Pascal's son has trouble at school. He was accused of groping girls. If it happens again, he might get expelled. Pascal thinks their son needs help.
+Dialogue: Gabi: I saw this gorgeous man in the subway....
+Linda: That one???
+Gabi: Yes!!
+Petunia: OMG did you follow him?
+Gabi: He got off at the Piccadilly Circus 
+Gabi: I was in a hurry to get to work
+Gabi: Couldn't follow him
+Gabi: But I studied him carefully
+Gabi: he's pure perfection
+Summary: Gabi saw a man on the subway.
+Dialogue: Marie:  girls, I'm in Bologna
+Sarah: is it is Spain?
+Marie: lol, Italy
+Jessica: right!
+Marie: and I'm declaring it officially the world capital of hot man
+Jessica: really?
+Marie: they are too hot! everywhere, everybody
+Sarah: hahahaha
+Summary: Marie is in Bologna, and she finds the local men very hot.
+Dialogue: Cristina: What you doing up so early?
+Jaeden: My friend woke me up 10 mins ago
+Cristina: I'm going to the airport
+Jaeden: Ok. Have a lovely day
+Summary: Cristina is going to the airport.
+Dialogue: Mona: I'm going to make my first pizza ever
+Mona: But need somebody to instruct me though :D
+Tina: Hahaha so I'm the lucky one?
+Mona: Definitely :D
+Mona: It's high time to add something awesome to my cooking repertoire
+Tina: Aight, I think I can help you
+Tina: The first and the most difficult part is to prepare the dough
+Mona: Actually I've got some experience with making the dough
+Mona: I've done that many times before for my mom
+Tina: So you know the basics. But the pizza dough is specific
+Tina: You'll need: 250 grams of wheat flour, 150 ml of warm water, 2 spoons of olive oil, 4 grams of yeast, half a teaspoon of salt and the same amount of sugar
+Tina: You can also add 2 spoons of mixed herbs to that, but it's optional
+Mona: Good cuz I have everything besides the herbs!
+Tina: Awesome, so now the instruction. Ready?
+Mona: Ready!
+Tina: Pour the flour and yeast to a big bowl and mix them well
+Tina: Now add the olive, sugar and salt and mix again
+Tina: Now, while kneading the dough you need to add water little by little, until you get, say, a ball of dough
+Mona: Got it! I guess I should leave it for some time to rise, right?
+Tina: Exactly. Half an hour should be fine
+Tina: Use this time to prepare all ingredients that you'd like to put on pizza
+Mona: Olives, salami, onion, chicken... Yummy!
+Tina: Ok, now smooth the baking sheet with a bit of oil and form the dough on it
+Mona: Done
+Tina: Time for tomato sauce and all the ingredients you've prepared.
+Tina: Did I tell you to preheat the oven to 220 degrees? If not, do it now
+Tina: Put your pizza in the oven and wait more less 20 minutes. Check how's the baking going from time to time, maybe you'll have to get it out of a bit earlier
+Mona: Tina... You're fantastic! The first pizza I've ever made looks delicious!!
+Mona: Thanks a million! <file_photo>
+Tina: Looks good! Enjoy :D
+Summary: Tina instructed Mona how to make a pizza. It was Mona's first time doing it and it looks delicious.
+Dialogue: Zach: Did you end up counting all those coins for the customer?
+Holly: Yes. She wouldn't stop!
+Zach: Sorry! I couldn't get away to rescue you.
+Holly: It was fine. She was nice in the end.
+Zach: Next time, just tell customers we don't do that.
+Holly: Okay. No problem.
+Zach: We just don't have the time or the staff.
+Holly: Gotcha.
+Zach: This woman wouldn't take no for an answer, so I understand. Good job for dealing with her professionally.
+Holly: Thanks! I'll try something else next time.
+Zach: A polite no, I'm sorry, we don't have the ability to do that at this branch. Something like that.
+Holly: Got it!
+Summary: Holly was forced to count coins for a demanding customer. Zach advises her not to do this kind of thing in the future.
+Dialogue: Peter: Did Sam tell you anything about him being late today?
+Gloria: No, why?
+Peter: Cause it's half past ten and he's still not here.
+Gloria: No, he didn't say anything but you know how he is...
+Peter: Lazy? :D
+Gloria: i'd call it flaky...
+Peter: Eeeer, I hate it when people are late
+Gloria: I know...
+Peter: it's just disrespectful and rude.
+Gloria: I'm sure he's got an explanation
+Peter: Oh, I'm sure he does! But why should I care?! I wake up at the crack of dawn...
+Gloria: It's half past ten, Pete... <file_gif>
+Peter: Oh go to hell, you too! :D
+Summary: It's half past ten, and Peter is waiting for Sam, who is late.
+Dialogue: Ali: Should we buy something for Alice?
+Julia: like what?
+Ali: even a small thing, to show our gratitude
+Julia: I think it was her job to do it
+Marcus: I agree with Ali
+Marcus: Maybe it was her job, but she went an extra mile to teach us more
+Ali: exactly
+Julia: ok, we can buy something then
+Summary: Ali, Marcus and Julia are going to buy Alice a present for her extraordinary work as a teacher.
+Dialogue: Stephanie: What do you think of what's happening in the UK Parliament today?
+Fred: You mean the resignations of four high-ranking ministers over the Brexit deal?
+Stephanie: Yes.
+Fred: Well, I don't think this deal is going to get signed. Apart from anything else it is worse than simply taking a second vote and hopefully being able to withdraw from Article 50 notice.
+Stephanie: Can we even withdraw now?
+Fred: Apparently we can do that. There are some opinions that say not, but in reality it would be a big relief to the other countries. 
+Fred: The alternative, having no deal at all, is not only risky for the UK, but could cause big trouble to the rest of the states and of course there are quite big issues in the Eurozone already. This could tip over a very big landslide.
+Stephanie: So you think we could get a better deal if we hold out?
+Fred: Right now the optimal strategy would be to stay inside the EU, forget about leaving as we did not know the hurdles that would be placed by the powers that be. We need to work today with other Eurosceptic countries like Italy, Greece, Poland, Hungary and the other ex-Warsaw Pact countries.
+Stephanie: To do what?
+Fred: To change the EU into what we actually want it to be. To radically alter it so that it becomes what we hoped it was going to be.
+Stephanie: Can that be done?
+Fred: We see that the Germans have had enough of Merkel. When she goes, Macron also goes. It wouldn't take more than one of those bigger countries going the way of Italy, or a few more of the secondary states like Holland and Denmark, from the western side, to start a programme of deep change.
+Stephanie: Makes sense. IN the end we all need to have some kind of co-operation in Europe.
+Fred: Every Brexiteer I spoke to actually wants A European Union, they just don't want THIS European Union.
+Stephanie: But is there any chance that there will be a second vote.
+Fred: May has said no, but May could be finished in a week from now. If there is a General Election and all the Conservatives stand on a revote platform with UKIP and Labour saying no re-vote, then the Tories may well win. Then they would have to offer a re-vote.
+Stephanie: What if we then end up staying in but other countries start defaulting and leaving us picking up the bills which was going to maybe happen to France and Germany?
+Fred: That's the downside risk. Certainly if we are ever going to leave, the time to do it is now, or stay and fight for a different kind of Union which might not need countries to go crashing out of it that way. 
+Stephanie: I don't know if you will every find a format that 30 countries will be able to agree on. 
+Fred: Either you have to make it so that there is really not that much that they have to agree on, or you make everything so harmonised that it is really one country and everyone is unhappy with something. Where we are now is stuck in the middle, trying to agree and enforce too much, but still with options for countries to do things differently and to look after themselves. We haven't managed to deliver the European dream.
+Summary: Fred would like Great Britain to stay in the European Union but according to him the EU should evolve. Stephanie is sceptic if it's possible to find a solution on which 30 countries would agree.
+Dialogue: Mary: Love to know your tips on saving money on a daily basis!
+Greg: we cut back on heating, water, electricity
+Mary: seems easy!
+Ben: we always follow our shopping list and buy non-brand products at the supermarket
+Greg: they are much cheaper and of good quality too
+Nick: try cheaper shops like Asda, Lidl, Aldi
+Peter: we plan meals so as not to throw food away and we have take-away only in emergency
+Greg: some people throw away loads! such a waste!
+Mary: we try not to do that, my mother taught me it’s a sin! ;)
+Ben: some products are cheaper in huge bags, buy seasonal fruit & veg, eat less meat
+Mary: meat is very expensive, isn’t it?!
+Emma: i save a lot on packed lunches, homemade soups and cakes
+Peter: cancel Sky and go for Netflix
+Tom: give up alcohol and cigarettes perhaps
+Mary: i don’t drink at all and i’m not a smoker! X
+Tom: at all?! Yeah, whatever!
+Sam: never leave a house without snacks for kids! Haha!
+Greg: we simply try not to buy thing that we don’t need!
+Tom: when i go shopping for extra stuff i always carry cash with me and i leave my card at home!
+Peter: quit the gym, netflix and other stuff if you don’t actually use them!
+Zara: i save up every month to pay off my mortgage quicker
+Greg: switch to tap water- a lot cheaper than bottled water and better for the environment too!
+Mary: that is awesome!
+Summary: They give Mary a lot of advice on how to save up money. For instance, she can do her shopping in cheaper supermarkets, buy non-brand products and avoid throwing food away or switch to drinking tap water.
+Dialogue: Carrie: Did you listen to the JP Cooper yet?
+Tank: No, been listening to Pumpkins. It's good.
+Carrie: Oh, right, I got that too. It's so short!
+Tank: Thought it was just me!
+Carrie: Only 32 minutes according to iTunes. Pretty short for an album.
+Tank: Yeah, maybe we listen to too many greatest hits! LOL!
+Carrie: Possibly!
+Tank: What is this album you're talking about?
+Carrie: JP Cooper, just heard one track in the pub and looked it up but I quite like it.
+Tank: Is it Raised Under Grey Skies?
+Carrie: That's the one. The song is She's On My Mind.
+Tank: K thx!
+Summary: The Pumpkins album is good but so short. Carrie likes "She's On My Mind" by JP Cooper.
+Dialogue: Lindsay: how on Earth a girl like you is single?!
+Ronnie: I don't to ruin the surprise ;)
+Lindsay: or maybe this photo was taken 20 years ago
+Ronnie: tbh I'm very picky
+Lindsay: I think it's good
+Lindsay: I see no point in settling down for something mediocre
+Ronnie: and how would you answer that question?
+Ronnie: why are you single?
+Lindsay: I think I'm bad at dating
+Ronnie: really?
+Lindsay: I feel awkward about new people and take things too slow
+Ronnie: so you're shy!
+Lindsay: and I suck at flirting
+Ronnie: flirting is overrated
+Lindsay: are you good at flirting?
+Ronnie: haha I don't think so :)
+Ronnie: but I'm a good dancer
+Lindsay: how about you dance with me this Sunday?
+Ronnie: where?
+Lindsay: there's Kozidrak's party in Cocoon
+Ronnie: sound cringy and fun :)
+Lindsay: so is that a yes?
+Ronnie: yes :)
+Lindsay: great!
+Summary: Lindsay and Ronnie are going dancing this Saturday at Kozidrak's party in Cocoon.
+Dialogue: Ewa: Hi! Would you find some time to do the blog interview today or tomorrow? Whatever works best for you :)
+Becky: Sure! Tomorrow would be better
+Becky: Fred’s last day is today
+Ewa: Sure, tomorrow! What Time are you going to be available?
+Becky: How about after two?
+Ewa: perfecto ;) where?
+Becky: Selina? I’ll be working there all day cause of my video calls
+Ewa: Ok I will come to selina around two!
+Summary: Tomorrow Ewa will meet with Becky at selina to do the blog interview.
+Dialogue: Robin: Hi Jill, how are you?
+Jill: Great, I was going to email you about Christmas, present ideas, anything you'd like?
+Robin: Well, it's not much of a surprise then, is it?!
+Jill: Maybe not, but at least it'll be something you like! I usually spend about £25 per person?
+Robin: Right, let me think! I have just broken my cafetiere, so I'd love a new one, maybe some nice coffee and biscuits too! That should be at least 20 quids worth!
+Jill: Great! What about Adele?
+Robin: She loves cookery books so something on that line, I'll have to ask her for anything more specific.
+Jill: OK! And Kira?
+Robin: Anything glittery! Nail varnish, lip gloss, glittery pumps, size 1, I think! I'll have to check that too! I know you're on a safe bet with glitter, though!
+Jill: Are you going to ask what we want?
+Robin: Nah, sis, not my style, you'll get what you're given!
+Jill: Well, Kevin would like a new set of whisky tumblers, crystal if possible, I want some gardening gloves and green welles, size 6 and Alex wants a book on fossils and new pens.
+Robin: You'll never change! Thanks love, I'll get back to you about the stuff for Adele and Kira, Bye!
+Jill: Bye, Rob! Xxx
+Summary: Jill spends about £25 on present per person for Christmas. Adele loves cookery books. Kira loves glitter. Robin make gifts without asking what people want.
+Dialogue: Art: Did you follow the G20?
+Robert: unfortunately yes
+Alexis: in times like these I'm painfully remained that this guy is an embarrassment not just in the US
+Art: but you gotta admit that he's fun xD
+Robert: He's the president, he's supposed to be not fun
+Art: but he is and this is the least we can get out of this nightmarish presidency
+Art: you saw his face when Putin and MBS did the buddy handshake?
+Alexis: or that time he left the president of Argentina standing there alone.
+Art: every time he goes abroad there are those priceless moments :D
+Alexis: at least you are thinking this way, I'm dying inside
+Robert: I envy your optimism my friend.
+Art: It's not optimism it's more like... apocalyptic humor :P
+Robert: Either way, lend me some of it.
+Alexis: me too
+Art: You guys should just watch more late night shows that's the recipe.
+Summary: Discussing the G20 forum Art claims to have fun out of the situations the US President finds himself in. Robert and Alexis don't share Art's attitude and are embarrassed by the president's behaviours.

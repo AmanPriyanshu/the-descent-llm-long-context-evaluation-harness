@@ -1,0 +1,834 @@
+Dialogue: Ezra: I want to open a micro pub. 
+Mila: How much is that going to cost?
+Ezra: No idea...just really want to!
+Mila: Well, what's the first step?
+Ezra: Business plan. Then location. Then bank for a loan! LOL!
+Mila: Gotcha.
+Ezra: Should be a piece of cake LOL!
+Mila: Riiiight. Tell me another one!
+Ezra: No, if I can prove a good plan and how to make money, I just need someone to give me a shot.
+Mila: Sounds cool! Hope you can do it!
+Ezra: Me too. It will be hard work but I love beer so...
+Mila: Uh oh. Fox in charge of the hen house?
+Ezra: No! I just appreciate the suds!
+Mila: Just be safe!
+Ezra: No worries!
+Summary: Ezra wants to start up a pub. Mila wonders what the steps are. 
+Dialogue: Monica: Becky, will you make that white chocolate tart of yours for today? :)
+Becky: the one with advocaat?
+Monica: yes! and blueberries!
+Gabe: Oh yeeeeeeeeees!
+Becky: I was actually thinking about making a proper cake, with layers etc...
+Monica: no no no please, I was waiting for months for that tart
+Gabe: Me too and you know I don't like sweets
+Becky: ok ok I thought it might be too... normal? boring?
+Monica: I don't care, I'm waiting already
+Summary: Becky will make a chocolate tart with advocaat and blueberries.
+Dialogue: Bianca: hey
+Tevin: hey bi, u ok?
+Bianca: ah well dunno
+Tevin: what's wrong?
+Bianca: i feel so tense all the time.
+Bianca: and everything hurts 
+Tevin: u mean muscles?
+Bianca: muscles, joints...
+Tevin: doc?
+Bianca: it's psychosomatic 
+Tevin: shit. what does your therapist say?
+Bianca: that it will go away one day
+Bianca: the problem is i'm starting to regret going to therapy in the first place
+Bianca: maybe it was better when i didn't know why it hurts
+Tevin: <file_gif>
+Tevin: when are you seeing him again?
+Bianca: Tue
+Tevin: maybe try sooner? 
+Bianca: maybe ur right. i'll text him
+Tevin: u do that. he's good. he'll know what to do
+Bianca: ok he wrote back. i'll go tonight
+Tevin: great!!!
+Bianca: thanks :*
+Tevin: np:*
+Summary: Bianca suffers from muscle and joint sore. She is undergoing a therapy. She has an appointment scheduled with her physician for Tuesday.
+Dialogue: Peter: Guys, billiard today at 6? I have to try my new cue
+Andrew: Sure
+Eric: I already made plans :(
+Peter: No worries, beating Andrew will be pleasurable enough ;)
+Andrew: We saw what happened last time haha
+Summary: Peter and Andrew are playing billiard today at 6. Eric can't make it.
+Dialogue: Sierra: Anyone is registering for classes rn? 
+Taylor: Hey 
+Taylor: I havent! 
+Sierra: You should do it rn
+Sierra: Theres not many classes with open spots left
+Jorge: Oh noo
+Jorge: I can't believe people 
+Jorge: Are all choosing at the same time! 
+Sierra: I know right!! 
+Sierra: I don't know what to take 
+Sierra: honestly!! 
+Taylor: Were screwed 😵
+Taylor: I take a look at it rn 
+Jorge: Are we taking science together? 
+Sierra: Ye there's astronomy 102 
+Sierra: Like 5 spots left! xd
+Taylor: K lets do it rn!
+Jorge: Kk
+Summary: Jorge, Sierra and Taylor are taking the astronomy class together.
+Dialogue: Russell: This book is awesome!! <file_photo>
+Owen: Another cookbook? :-/
+Russell: I'm hooked! The more things I bake, the more I want to try to make new things.
+Owen: Maybe I should get into cooking
+Russell: You should! It's so addicting!
+Summary: Russel recommends Owen a cookbook. Owen starts thinking that he should get into cooking as well.
+Dialogue: Derek: U there man?
+Lars: Sorry
+Lars: Cant' talk now, got work to do
+Derek: Ok, sorry
+Summary: Lars is busy and can't talk with Derek.
+Dialogue: Barry: I need a beer
+Steve: you're not the only one
+Steve: but why are you telling me this?
+Barry: pub?
+Steve: that was predictable...
+Steve: sure why not
+Barry: now?
+Steve: 15 min
+Steve: need to finish something first
+Barry: ok!
+Summary: Barry and Steve are going to a pub in 15 minutes.
+Dialogue: Russel: yo
+Claire: hi
+Russel: whats up?
+Claire: nothing special
+Claire: i hate this weaher
+Russel: yeah me too
+Claire: i hope summer will return soon
+Summary: Claire and Russel hate the current weather. 
+Dialogue: Mr. Benson: Let's start with your workload for tomorrow. 
+Claudia: I have a couple of ongoing projects and 2 conference calls planned for tomorrow. Except for the latter, nothing too urgent that cannot be put off until later.
+Andy: I have a huge deadline for tomorrow and really have to focus on it. Probably will finish by midday and from then on nothing too urgent.
+Mark: I don't know how to tell you this, but I was supposed to have the next day off so I planned to finish all urgent tasks tomorrow.
+Mr. Benson: Mark, can you cancel the day off? We really need your help here.
+Mark: That's not really that important. I just need to make a few phone calls. When will you be back, Mr. Benson?
+Mr. Benson: On Tuesday. Thank you, Mark. 
+Mark: Can I have Wednesday or Thursday off then? 
+Mr. Benson: Of course. I'll tell Lona later to book both days for you. One is on the company.
+Mark: Thank you, sir. I'll be right back. 
+Mr. Benson: All right. Claudia - Since you have the smallest workload I want you to call all out major clients and ask them about client satisfaction. Lona has the survey, so ask her for it. 
+Claudia: Of course. 
+Mr. Benson: You don't have much time, because I'll need the processed data by 11.
+Claudia: You'll have it on your e-mail by 10:30.
+Mark: I'm back.
+Mr. Benson: Thank you, Claudia. Andy - I need you to prepare a presentation on our company. Something for laymen, not too complicated and not too specialised. A lot of positive figures.
+Andy: No problem, sir. Do you need any specific data?
+Mr. Benson: Financial, social and something intangible. 
+Andy: By when do you need it?
+Mr. Benson: By the end of the day. 
+Andy: Will do. 
+Mr. Benson: Thank you, Andy. Mark - you get the hardest task. I want you to do some data mining.
+Mark: Data mining? What am I looking for?
+Mr. Benson: I want you to pull everything you can find on our clients' financial situation before the agreement with us, one month after signing and their current standing. 
+Mark: That's a lot of work. I don't know if that's doable in one day. 
+Mr. Benson: I'm sure you can manage. 
+Mark: And when do you need it?
+Mr. Benson: Like Andy's presentation - by the end of the day.
+Mr. Benson: Since everyone knows what to do, let's make it work!
+Summary: Mark will cancel his day off on Mr. Benson's request. Claudia will call out major clients to ask about their satisfaction and provide data by 10:30. Andy will prepare a presentation on the company byt the end of the day. Mark will do data mining on client's financial situation.
+Dialogue: Matt: Love you!
+David: Oh you big bear! I love you too!
+Matt: mmmm.. xoxo
+Summary: Matt and David love each other.
+Dialogue: Ryan: I am going to Dublin next week, do you want anything from the city?
+Sean: you could buy me a book.
+Ryan: what book?
+Sean: I need sth to learn German
+Ryan: Should I ask in a bookstore or you have anything in mind?
+Sean: No, nothing in particular. But I need to work on the grammar.
+Ryan: What level should it be?
+Sean: like A2, I believe.
+Ryan: I'll send you a pic before buying.
+Sean: Perfect, thx!
+Summary: Ryan is going to Dublin next week. He will buy Sean a book for learning German. Sean's level is A2 and he needs to work on the grammar.
+Dialogue: Joe: hey, what's up? 
+Joe: Tired after xmass? :P
+Kate: Haha, i'm so full...
+Joe: same here <file_gif>
+Joe: r u back in town?
+Kate: on my way actually.
+Kate: should bb kind of eightish
+Joe: Let's meet up !:D
+Kate: why not?
+Kate: where?
+Joe: there ? <file_other> 
+Kate: looks good..
+Kate: it's free entrance?
+Joe: yep. 
+Kate: I can be there at 8:30..
+Joe: Oh, that's a bit too early for me.. 9?
+Kate: kk, let's make it 9.15! 
+Joe: Deal!
+Kate: gotta go now..
+Joe: cya there!
+Summary: After Christmas Kate is on her way back to town. She will meet Joe at 9.15.
+Dialogue: Felix: Im coming to Berlin on 21st till the end of the month :) Are you there to stay?
+Roxy: thats the plan, yeah
+Felix: Maybe we could hit rigoletto ? :)
+Roxy: awesome, is it for free for us? 8-)
+Felix: will check
+Summary: Felix's coming to Berlin on 21st and is staying there till the end of the month. Felix and Roxy agree to hit rigoletto.
+Dialogue: Iker: :)
+Iker: oh
+Mike: ??
+Iker: i was sending that to someone else. sorry
+Summary: Iker sent Mike something by mistake.
+Dialogue: Sofia: good morning!
+Veronica: heyo :)
+Sofia: how are you?
+Sofia: i still have a slight headache from yesterday ;)
+Veronica: hehehe
+Veronica: i'm ok, didn't drink too much, but Paul is sleeping it off on the couch
+Veronica: and our little Annie has been asking for you
+Sofia: oh my sweetiepie <3
+Sofia: you literally have the most adorable kid on earth
+Veronica: you have officially been adopted as her auntie XD
+Veronica: she doesn't even like my sister as much as she likes you
+Sofia: <3 <3 <3
+Sofia: I feel honoured
+Sofia: Auntie Sofia
+Sofia: I like the sound of that B-)
+Veronica: XD
+Sofia: so I'll come over again next weekend
+Sofia: that is if you want me to lol
+Veronica: oh god yes, it was a blast hanging out and Annie would be thrilled!!
+Sofia: :D deal! 
+Summary: Sofia will visit Veronica next weekend. Veronica's daughter Annie likes Sophie. 
+Dialogue: Ronny: What time do you finish today?
+Walt: 3
+Ronny: Me too, let's go back home together.
+Walt: Ok, meet you in front of my building after work.
+Ronny: Ok, see you
+Summary: Ronny and Walt finish work at 3 today and they want to go back home together. Walt will meet Ronny in front of his building after work.
+Dialogue: Denny: Hi. I have just asked for the upgrade of the Internet. They have to come and migrate to fibre. Will let you know when they call me as I have to be there.
+Max: Thank you! When do you reckon they would come?
+Denny: Monday, I think. Will keep you posted.
+Max: Fantastic! can't wait!
+Summary: Max will let Denny know when they come to upgrade the Internet as Denny needs to be there. It will probably be on Monday. 
+Dialogue: Monica: Hello :)
+Mary: Hi, what's up?
+Monica: Do u remember about mom birthday?
+Mary: OMG! I completely forget
+Mary: :‑/
+Monica: Don't worry i have some idea for gift if u don't have any.
+Mary: U're my hero! :D You always remember bout everyone.
+Monica: ;)
+Monica: I found some interesting painting, just look….
+Monica: <file_photo>
+Mary: I'll check it at home, i can't download it now.
+Monica: ok, call me when u'll be at home. We have to choose one of them.
+Mary: Sure, and what about flowers? 
+Monica: Jill will buy some. 
+Mary: ok, :x
+Summary: Mary forgot about mom's birthday but Monica remembers and has come up with an idea for a gift which is a painting. Monica also informs Mary that Jill will buy some flowers.
+Dialogue: Joseph: <file_photo> And let the holidays start fully ☀🌊😉
+Haley: Gosh it's boiling here as well... I’m on a bus towards the airport, looking for a seat in the shadow 😵. Enjoy Joseph!
+Savannah: Enjoy Joseph, you deserve it! I'm about to head to Victoria Park in the rain to take kids for a walk/cycle!
+Claire: 27° in London! Sweating my head off at the Notting Hill Carnival!
+Haley: It will become very "interesting" later on. I have memories of nice mess during and after the parade!
+Claire: Oh yeah! We went there when it was still quiet! Now we're off to the V&A
+Joseph: I simply love crazy parades. I’m not a ‘museum lad’.
+Summary: Joseph is starting the holidays. It's hot in London as well.
+Dialogue: Tim: Guys, I want to tell you something
+Tim: I know it's a strange place and moment
+Tim: but I decided to become open about it
+Jim: go on!
+Tim: I have HIV
+Jim: it's nothing really important fo me Tim
+Laura: of course! are you doing well? on treatment?
+Tim: yes very well, I just didn't want to keep it secret anymore
+Peter: great decision! you're not the only one I know and I know it's nothing to be really worried about
+Tim: you're great guys!
+Laura: we love you!
+Summary: Tim has HIV. Peter and Laura are very supportive.
+Dialogue: Jill: Did you see this guy, who sat next to you at the movies?
+Claire: I sure did. He was some half a meter away.
+Jill: And what do you think?
+Claire: He was all right, I suppose.
+Jill: Come on, Claire.
+Claire: What?
+Jill: The man was gorgeous.
+Claire: Maybe. But the movie was a piece of shit.
+Jill: Was it? By the way, I forgot the title.
+Claire: Gone with the wind, you genius.
+Summary: A handsome man was sitting next to Claire in the cinema when they were watching Gone with the wind.
+Dialogue: Fred: Would any of you like to watch the 1920s classic "Metropolis" with me? I recently downloaded it - the remastered version, high quality, and I just have my computer sooo anyone up for it?
+Harry: so you just want to use us for our big screen TVs :(
+Joyce: Don't we mean anything to you anymore???? ;((((((
+Joyce: But yeah, sure.
+Harry: I've seen it once a long time ago, could watch it again.
+Joyce: Obviously Fred's gonna choose whoever has the bigger tv :P
+Harry: and who will that be? :O
+Joyce: you
+Harry: YASS! My dreams have come true :D
+Fred: I didn't think my question would lead to such a dramatic exchange, but thanks :D
+Joyce: Apparently you don't really know us that well
+Summary: Fred wants to watch "Metropolis" with his friends. They suspect he only needs them for their screens. Harry has the biggest screen.
+Dialogue: Zachary: hey Adam i think the tracks you sent me are not right :P
+Zachary: riff C should be twice as long
+Adam: Shit!
+Adam: Hmm... I guess that's possible, I wasn't sure actually, so I sent them to Sebastian in the morning so that he would play along to them and see if they're correct
+Zachary: and he checked them?
+Zachary: you checked them Sebastian? :P
+Adam: He said he did and that they were good :P
+Sebastian: yeah i checked them
+Sebastian: but i guess not very thoroughly :D
+Adam: ...
+Zachary: hehehe
+Adam: Well, you know I'm at a concert right now so I can't really help you :P
+Adam: But you got from me the tabs as well, so install guitarpro or some other software, edit it and run it through some drums VST :P
+Zachary: yeah i guess we're gonna have to do that
+Zachary: damn i don't have anything on my pc here so it's gonna take extra time i guess eh
+Adam: Well... :P
+Summary: The tracks Adam sent to Zachary are not right in his opinion. Sebastian had checked them, but they're incorrect. Adam tells Zachary to instal a guitarpro and edit it.
+Dialogue: Aubrie: U had fun last night?
+Gunner: Yes in my bed haha I didn't go anywhere
+Aubrie: Mmm but still u had fun in ur bed xd So not that bad. Sometimes it is even better than going out
+Gunner: I was still hungover so no not really
+Aubrie: ok, hopefully now you are ok
+Gunner: kind of lol
+Aubrie: so you must have been very drunk
+Summary: Because of hangover Gunner didn't go anywhere last night but stayed in bed.
+Dialogue: Frank: There's hardship in reading (and understanding) a 300 page manual :D
+Josh: Write your own one.
+Frank: Nevah!
+Josh: Lazy writer!
+Frank: I found the tutorial super helpful so I assumed that the manual would help me to get everything out of the zing.
+Josh: Only casuals read manuals, truly hardcore people just click randomly on buttons hoping they'll achieve what they want!
+Josh: That being said, I can't remember the last time I read a manual before working with a new software
+Josh: I do look up stuff in manuals when I'm stuck with an option but I usually don't read them
+Josh: Too lazy to do that!
+Frank: Well, that's what I usually do. :D
+Frank: But I did something manually yesterday and as I found out there's an easier way after googling a bit, I decided that manual it is. :D
+Frank: I think Scrivener would be way more fun when starting a project straight in it!
+Josh: That's just a hint that you should start a new project from scratch :P
+Frank: Oh, the rest of my projects are WAY less refined atm. :D
+Frank: Book 2 - 15 pages of notes.
+Frank: Everything else 1-2 pages of notes per project.
+Frank: Naturally I started from the biggest one. :D
+Josh: Who wouldn't?
+Frank: Anyhow, I like how ze zing will compose my project into proper novel form when I'm finished.
+Frank: Also it seems to have GREAT script-writing tools.
+Frank: So when I finally get to the movie project, it'll be easier to do.
+Josh: The only question that remains is where to find the time to do all this?
+Frank: I'll cut down my Desktop Dungeons time 50% and I should have enough time to finish a book per month. :D
+Frank: I realized that I waste a ton of time playing some pointless flash games, etc.
+Frank: Although Desktop Dungeons is a "proper" game. :D
+Frank: Difficult as fuck but fun!
+Josh: Objection! Playing games is not a waste of time! :P
+Summary: Neither Frank nor Josh read the manuals before working with a new software. Frank has a few book projects drafted. Both Frank and Josh play computer games. Frank wants to limit gaming in favour of writing. Josh doesn't think playing games is a waste of time.
+Dialogue: Leonard: My father bought himself a smartphone
+Wisner: Cool 
+Zilda: Does he have a FB account also?
+Leonard: Not yet. I'm teaching him to use whatsapp 
+Zilda: Good boy 
+Leonard: It's challenging
+Leonard: But I'm not giving up
+Summary: Leonard's father bought a smartphone. Leonard is teaching him how to use WhatsApp.
+Dialogue: Sheridan: Did you see that pink fridge?
+Elias: Yes. Vomit!
+Sheridan: What WAS she THINKING???
+Elias: She wasn't!
+Sheridan: Fashion victim!
+Elias: A fridge isn't fashion!
+Sheridan: Don't care. It's still horrid.
+Elias: I'm not sure pink and gray are the in thing, you know?
+Sheridan: Remember when it was in in the 80s?
+Elias: Uh, how can I forget?
+Sheridan: Gray is in but with pastels? Vom!
+Elias: <file_photo>
+Sheridan: ARE YOU KIDDING????
+Elias: LOL!
+Sheridan: My eyes! My eyes!
+Elias: Some people like it!
+Sheridan: Not this people! LOL!
+Elias: Yeah, I got that!
+Sheridan: Anyway, can't unsee that.
+Elias: LOL! Brain bleach!
+Summary: Elias and Sheridan are highly critical of her pink fridge. Pink and grey do not combine well and grey is not fashionable anymore.
+Dialogue: Jake: Wanna come and visit me tonight?
+Jake: I have a wardrobe to assemble and I could use your help
+Jack: Wardrobe assembly sounds like very good excuse to buy few beers.
+Jack: I'll be there :D
+Jake: I new you'd be happy :D
+Jack: See you tonight then ;)
+Summary: Jack and Jake are meeting tonight. They'll have a few beers they'll assemble Jake's wardrobe.
+Dialogue: Cindy: What brand is that red lipstick you said was so awesome?
+Kate: The one you saw at Michael's birthday?
+Cindy: that one
+Kate: Rimmel :)
+Summary: Kate's red lipstick is from Rimmel.
+Dialogue: Matthew: Meggy got me the new addition for Lord of the Rings boarding game!!
+Bart: oh man that's dope, for your birthday?
+Matthew: yeah, among with some good whisky
+Bart: is this an invitation? hahaha :D
+Matthew: you bet it is! 
+Bart: tomorrow?
+Matthew: why not today? Meggy is out to the movies with her friend :D
+Bart: I am not sure if I will have any tram at this hour...
+Matthew: just get a taxi then, this whisky does not need to get any older than it is hahaha
+Bart: give me 30 minutes :D
+Summary: Bart will be at Matthew's place in 30 minutes. They'll drink good whisky that Meggy gave Matthew for his birthday.
+Dialogue: Norbert: How did you like Lopburi?
+Alba: It’s a dead town
+Alba: There are lots of monkeys
+Alba: Funny creatures
+Alba: But you need to be careful so they don’t steal your glasses or hat
+Alba: It’s better not to tease them as they can bite
+Norbert: I’ve seen monkeys only in a zoo
+Norbert: So where are you heading next?
+Alba: I’m going to Phitsanulok 
+Alba: There are some national parks around
+Alba: Then I’ll be going to Chiang Mai
+Norbert: Why didn’t you take a plane from Bangkok?
+Norbert: Domestic flights are really cheap
+Alba: I know, but I wanted to see a bit more of Thailand
+Alba: Go slowly through the little towns
+Norbert: Fair enough
+Norbert: Have you gone to the islands?
+Alba: Not yet
+Alba: At the end of my trip I want to rest there
+Summary: Alba is in Lopburi which is the city of monkeys. She's heading to Phitsanulok and Chiang Mai next. Alba hasn't been to the islands yet.
+Dialogue: Maria: so what are your plans for today?
+Saul: i don't know, i have already shown my sister the old town, we went for dinner and now we are just chilling
+Maria: do you plan to go out later?
+Saul: i guess not, she would rather stay home i think, maybe you can come over?
+Maria: sounds good, wanna drink some wine?
+Saul: or we could make mojitos... do you think we can buy mint somewhere?
+Maria: i can take care of it
+Saul: that's perfect!! :) when should we expect you? feel free to come anytime
+Maria: 8 PM is fine?
+Saul: sure, call me when you leave your house
+Maria: okay, talk to you later
+Saul: see youu :)
+Summary: Saul has been showing the city to his sister. Maria will come over to drink some mojitos with them at 8 PM.
+Dialogue: Sarah: still mad?
+Alex: A bit.
+Sarah: what can I do to make u forgive me?
+Alex: Dunno, just don’t ignore me next time.
+Sarah: r u free at 12?
+Alex: Yes, why?
+Sarah: let’s go grab some lunch and talk.
+Alex: OK
+Summary: Sarah and Alex will grab lunch at 12 to talk and make up.
+Dialogue: Finn: Hey did you get the notes from class today?
+Sarah: Yeah would you like me to send them to you?
+Finn: Yes please! I was so sick today and couldn't make it to class 
+Sarah: Oh no! are you feeling any better ?
+Finn: ehhh a little but I'm worried about the test 
+Sarah: Yeah me too, but I think we will be fine if we just study hhah :) 
+Summary: Sarah got the notes from the class today. She will send them to Finn. He is worried about the test.
+Dialogue: Laura: any ideas 4 mom's b-day?
+Wade: nope
+Laura: need your help Wade with this
+Wade: I know, it's hard to think of sth that she doesn't have already :/
+Laura: that's no excuse
+Wade: I know, meet me tomorrow, we'll think sth out
+Laura: ok, great
+Summary: At tomorrow's meeting Laura and Wade will discuss ideas for mom's birthday.
+Dialogue: Sydney: <file_video>
+Sydney: This is the video Karolina took while u were dancing😃😄😃😄😃😄
+Andrew: Omg so terrible((d[-_-]b))((d[-_-]b))((d[-_-]b))
+Sydney: But it is so funny!! XDXDXDXDXDXD(*^3^)/~☆
+Sydney: You looked like the octopus caught by the fisherman and shacking on the boat
+Andrew: I was drunk!!(*￣m￣)(*￣m￣)(*￣m￣)
+Sydney: I still remember what the instructor said to you 
+Sydney: What did he say to you?
+Andrew: Only one way I can dance well(－－〆)
+Sydney: That's the point! (⌒▽⌒）(⌒▽⌒）(⌒▽⌒）
+Sydney: You drank a lot and you looked like a live dancing octopus XD
+Andrew: Not everybody can be talented in dancing!
+Sydney: Of course you are right (●＾o＾●)(
+Sydney: But not many people could dance like octopus like you XDXD
+Andrew: Delete it!Delete it!Delete it!Delete it!
+Summary: Karolina took a video of Andrew dancing when he was drunk.
+Dialogue: Harriett: Tony, could you change the reservation?
+Tony: Hm, I think so, why?
+Harriett: Tina just told me that she may be her plus one… ;>
+Nina: Wow! You go Tina ;D
+Tony: And here I was worrying that you’re not coming
+Harriett: Me?! Hahaha no such luck :P
+Nina: Who’s he?
+Harriett: I don’t know, Tina’s being really secretive about him
+Tony: Guess we’ll find out this evening
+Nina: Can’t wait!
+Nina: <file_gif>
+Summary: Harriett, Tony, Nina and Tina are meeting this evening. Tony has to change the reservation because Tina will bring someone with her. 
+Dialogue: Ayden: Do you have LinkedIN? 
+Thomas: I do 
+Thomas: Why
+Ayden: its becoming more popular
+Ayden: I just made my account
+Thomas: Ye
+Thomas: I don't go on it too often
+Thomas: But elaborated on a few stuff! 
+Ayden: Thats great! 
+Ayden: Do you think employees care that much? 
+Thomas: ?
+Thomas: You mean employers
+Ayden: Oh sorry employers xd
+Thomas: I think they do and might even look at it 
+Thomas: I usually put it on my resume
+Thomas: employees might look at it too haha
+Ayden: haha
+Ayden: Interesting! 
+Summary: Ayden has just made his LinkedIn account. Thomas thinks employers might check LinkedIn profiles of their employees.
+Dialogue: Ally: Maybe you prefer to meet on Sunday when you're better?
+Ally: Harry invited Pete when they talked
+Oti: Hahaha he didn't tell me!
+Ally: Maybe he just doesn't feel like seeing us ;)
+Ally: I can understand that...
+Oti: "Oh yeah, I was going to tell you"
+Oti: I don't want to infect you
+Ally: Let's talk on Saturday, maybe you recover
+Oti: I think I will
+Ally: I'm going to prepare a dinner anyway
+Oti: Is anyone else coming?
+Ally: Sophie and Jim
+Oti: Great I haven't seen them for ages!
+Ally: They've been hiding away
+Ally: It's definitely high time to meet up
+Summary: Oti might come to Ally's dinner on Saturday if he's feeling better.
+Dialogue: Kenneth: It's almost 11 and the transport guy still haven't arrived
+David: Relax, normally they are late
+Daniel: He'll come
+Kenneth: We were supposed to depart at 11
+Daniel: Probably it will be at 11:30
+Daniel: But no worries, we're waiting for you
+David: We're not going anywhere 
+Summary: Kenneth is still waiting for the transport man. He's angry because they were supposed to leave at 11. Daniel calms him and says that he and David are waiting for them.
+Dialogue: Hazel: is anyone going by car?
+Evan: don't know yet, probably uber
+Rob: I'll take my car, want me to pick you up?
+Hazel: yes please! :)
+Rob: ok no problem
+Hazel: thanks! :*
+Summary: Rob will pick up Hazel with his car. Evan takes an uber.
+Dialogue: Patsy: pick up morning anybody pls
+Laurie: whats wrong?
+Patsy: my little toyota is in garage :(
+Alden: 8 ur place?
+Elfrida: can we share?
+Alden: sry what?
+Patsy: what you mean?
+Elfrida: i live close to pat. i can give u both lift on Friday
+Alden: oh i dont know you live close cool
+Summary: Patsy's car is in a garage, so she needs a lift. Laurie will pick up Patsy and Elfrida at 8 at Patsy's place. Elfrida will drive on Friday.
+Dialogue: Emma: Who touched my phone without my permission?
+William: Leah
+Emma: I will teach her a lesson
+Summary: Leah used Emma's phone without her permission.
+Dialogue: Wanda: I argued with Isho
+Kayla: What happened?? 
+Wanda: He was just being dumb
+Wanda: He talks shit about the girls
+Kayla: Girls?
+Kayla: Like Kailee and Coco? 
+Wanda: Yes
+Wanda: He said theyre bitchy 
+Wanda: Take advantage of other people
+Kayla: Hmm
+Kayla: Why he thinks like that
+Wanda: Just because they dont get along
+Wanda: Doesnt mean he has to call them bitches and shit 
+Kayla: Thats bad 
+Kayla: Isho is weird haha
+Wanda: Yeah,
+Wanda: I dont want to talk
+Wanda: to him for a while
+Kayla: Wanna go for a ride? 
+Kayla: To menchies? 
+Wanda: Nahh thanks, I will just sleep
+Summary: Wanda is mad at Isho, because he said bad things about the girls. She will not talk to him for a while and she will just sleep.
+Dialogue: Melany: Hey. How much did u pay for that card? 28 euro? Because on the website it is said a ticket for people up to 26 years costs 28 euro
+Brenden: Hi. Yes 28
+Melany: But why? U aren't 26 anymore
+Brenden: I'll be 27 in june
+Melany: Yes but it means u are 26 + some months which means u are elder than 26. At least in poland it is counted like that
+Brenden: I' m 26 now
+Melany: + some months. So it is ur 27th year
+Brenden: So up to 26 means 26 included. Yes
+Summary: Brenden has bought that card for 28 euros. Melany believes Brenden is too old to travel on a reduced fare.
+Dialogue: Fin: I can't afford a laptop but need to have one for work. What should I do?
+Chloe: Can you get a loan?
+Fin: Not sure I can. 
+Chloe: Is there financing form the pc place?
+Fin: I need to look into it.
+Chloe: I think you can rent one anyway.
+Fin: That's a great idea!
+Chloe: Yeah, they set you up so everything is stored in the cloud.
+Fin: So like you can get your stuff when you buy a real laptop?
+Chloe: Exactly.
+Fin: That's probably the way I'll go.
+Chloe: So just Google laptop rental and see how much.
+Fin: Probably I should compare that with the financing options.
+Chloe: Right. See which is cheaper per month.
+Fin: Okay, thanks! I feel better!
+Chloe: If you need it for work, can they help you out at all?
+Fin: It's a freelance job. I doubt there's an option for hardware.
+Chloe: Oh, gotcha.
+Fin: Besides, if I get a laptop, I can do other jobs and make more money. Nothing to do with this first one.
+Chloe: True. They may not want to give you a laptop for other jobs!
+Fin: Probably not!
+Summary: Fin needs a laptop but he doesn't have money. Chloe advices for a rental.
+Dialogue: Tom: haha did u see this <file_photo>
+Tom: sick
+Andrew: duuuude that's one hell of a dog haha
+Jack: lol is this for real
+Tom: yup, true story :D
+Summary: Tom sent a photo of a dog to Andrew and Jack.
+Dialogue: Kit: Hey, Sam, did you see the last ep of Game of Thrones?
+Sam: Nope, I'm almost a season behind ;(
+Kit: Why? I thought you were a fan, even more than me.
+Sam: Yeah, but you know...
+Kit: Uh huh. Katie? She hates it?
+Sam: No! I'm mean yeah, Katie, but it's not like she hates it or something. I couldn't be with a girl who doesn't appreciate GoT :P
+Kit: So when are you gonna watch it? Come on, I need someone to discuss it with! I tried talking to Steve, but he wants Jon Snow to get the throne, blah!
+Sam: Seriously? But Jon is boooring!
+Kit: And his mouth is open all the time :D
+Sam: Exactly! I'm telling you, it's going to be Tyrion!
+Kit: So are you watching it or not? :P
+Sam: I am! I just promised Katie I won't watch it without her, and she has exams next week.
+Kit: Can't you just watch it on your own and then pretend you didn't and see it again with her? :D
+Sam: Nope, she always knows when I'm lying. I'd rather wait than have a fight about it.
+Kit: Coward! :P
+Sam: Wait till you find a girlfriend. You'll learn to appreciate peace :P
+Kit: You know what? If you don't watch it soon, I'm gonna start spoiling things to you :P Like for example that scene from the last episode when the white walkers came and...
+Sam: Shut up!
+Kit: LOL, just kidding, bro :D
+Sam: I hate you! 
+Kit: Hate u too :P
+Sam: But did the white walkers really come through the wall?
+Kit: Watch it and see for yourself :P
+Sam: No, I really hate you now. I'm going to call Katie, don't wait for me :P 
+Kit: Bye! XDDD
+Summary: Kit wants Sam to watch the last episode of the Game of Thrones, but he is behind because of his girlfriend, Katie.
+Dialogue: Seth: How can you act like that
+Robin: Like what
+Seth: you are rude to my friends from work
+Robin: I am rude?
+Seth: Yes you are
+Robin: Better tell that stupid red head to stay away from you
+Seth: you are overreacting!!!!!!!!
+Robin: I AM NOT, she was totally flirting with you
+Seth: so what, that means nothing
+Robin: but all your other friends were like - this is normal, they do this all the time
+Seth: Is that a sufficient reason for throwing something at me, and them to be honest, cause Freddie got some food in his hair, too
+Robin: Good, I'm glad
+Seth: You are being childish and riddicoulus
+Robin: You know what's "riddicoulus"?
+Seth: ?
+Robin: That you can't even spell ridiculous!!!!!!!!!!!!!!!!!
+Seth: <file_gif>
+Robin: and you never ever think to take my side in situations like this
+Seth: because it's unreasonable
+Robin: I'm not talking to you.
+Summary: Robin is mad at Seth because his work colleague was flirting with him. She threw food at him and his friends at the meeting. 
+Dialogue: John: Do you know who's going to be next US ambassador to the United Nation?
+Kevin: No idea
+John: Trump said Friday that he's going to nominate Kelly Knight
+John: She's a current ambassador to Canada
+Kevin: Good to know. Do you think that she's a good choice?
+John: No idea. We'll know with the passing time.
+John: CNN says that it's rather not the best choice
+Kevin: We'll see
+Summary: John tells Kevin that Trump might nominate Kelly Knight as the next US ambassador to the UN.
+Dialogue: Amanda: Hi! I'm going on a date! I need some advice and support.
+Pam: Yeah, sure.
+Amanda: You know i'm shy right?!
+Pam: oh, so just talk about normal stuff a book that you're reading, your last weekend, your interests etc
+Amanda: so what do i do when i'm stuck and have no more ideas?
+Pam: listen to TED talks so you'll have something interesting to show off 
+Amanda: yeah, it could inspire a great conversation
+Pam: yeah, totally!
+Amanda: so what if he asks me if i go out with him again? i don't wanna sound desperate!
+Pam: just be cool! tell him to give you a ring cause you're not sure about your plans  
+Amanda: yeah, ok
+Pam: you'll be fine! trust me! 
+Summary: Amanda is going out on a date and needs some advice from Pam as she is shy. Pam gives her conversation topic ideas and advises Amanda about a response to a potential invitation for a next meeting. 
+Dialogue: Harvey: Hey Dona, i'll be running late. please reschedule my meeting
+Dona: but its an important one
+Harvey: yeah, i know, but please find a way
+Dona: Okay Harvey, but better have an explanation for the client
+Harvey: Dont worry, i have one, but ill explain later after i arrive
+Dona: okay sir
+Harvey: thanks Dona
+Summary: Dona will reschedule the meeting on Harvey's request.
+Dialogue: Keenan: Bro are you watching the Canucks game? 
+Carson: Are they playing rn? didn't know
+Keenan: yeah! Against the Wilds 
+Carson: K I am turning on the tv 
+Keenan: It's a nasty game 
+Carson: k I am watching it
+Carson: 5-5 seems rough hahahah
+Keenan: Bro the Canucks gotta win this game 
+Carson: Are you betting? 
+Keenan: Nope, I am broke 
+Carson: ditto. You coming over during the break? 
+Keenan: Sure! Should I get some beer or some snacks at Mac's?
+Carson: Nah, went to Sobey's this morning and got everything, come
+Keenan: Noice, I will! 
+Carson: Why isn't Sedin hitting the net? He had the whole space for himself?
+Keenan: Idk bro! I am pissed 
+Carson: Who else is playing tonight? 
+Keenan: I think the Maple Leafs vs. LA Kings xd
+Carson: That's rare! Gotta watch that too!
+Keenan: Yea we'll watch all day
+Keenan: Should i bring the boys and Kayla to your place? 
+Carson: Sure! I will text them 
+Keenan: Kk 
+Summary: Carson is watching Canucks game and is inviting Keenan to come join him during the break. Carson also wants to watch Maple Leafs vs. LA Kings as it is rare. They will be watching games all day and have other friends come over too.
+Dialogue: Victor: Hey mom, u need to come to the hospital quick
+Anne: What happened???
+Victor: it's Dad - he collapsed in the bathroom and fell unconscious
+Anne: Is he okay??
+Victor: Don't know :( hes in surgery right now
+Anne: Ok, I'm on my way
+Anne: And honey, it's gonna be okay 
+Victor: how can you say that?? you didn't see him
+Victor: Im worried mom
+Anne: I know
+Anne: We'll get through this - just stay put for now
+Victor: Okay
+Victor: Love you mom
+Anne: Love you too hon
+Summary: Victor informs Anne that Dad fell unconscious in the bathroom and is in the surgery now. Anne rushes for the hospital and settles Victor down.
+Dialogue: Tom: We're leaving Jim
+Tom: are you ok?
+Jim: yes, I'm good, with Molly
+Barbara: Do you have the key?
+Jim: sure!
+Barbara: Please, remember to water the plants
+Barbara: especially the palm
+Jim: will you come back on Saturday?
+Barbara: I've told you many times, that we're coming back on Sunday
+Jim: ok, afternoon?
+Barbara: I think so, please don't throw destructive parties
+Jim: sure, i won't
+Jim: afternoon is after 3PM?
+Barbara: no, it's about 1PM
+Jim: oh, ok!
+Summary: Barbara and Tom are leaving and they're coming back on Sunday about 1 pm. Jim has the key to their house and he's responsible for watering the plants there.
+Dialogue: Bryan: My mum didn’t take it very well
+Ora: I’m not surprised tbh
+Bryan: Why are you all so hysterical about it
+Ora: Sth may happen to you!!!
+Bryan: It won’t, ok? I’ll know what I’m doing.
+Ora: It doesn’t matter!! You can just have a bad luck
+Bryan: Are you done? I’m sick and tired of listening to everyone saying the same damn thing
+Ora: People worry about you, is it such a bad thing?
+Bryan: You’re all freaquing me out!!
+Ora: You should stop pretending that you’re not scared.
+Bryan: I’m nor pretending, I’m just not!
+Ora: Yea, keep saying that to yourself…
+Bryan: You’re impossible, I won’t talk to you about it anymore!
+Ora: Typical… Just take care of yourself, pleaseeee
+Bryan: I will, just leave me alone x.x
+Summary: Bryan is fed up with everyone worrying about him and wants to be left alone.
+Dialogue: Jonathan: wassup
+Bruno: sup with you
+Jonathan: where are you
+Bruno: Hyde Park, next to the lake
+Bruno: join me if you'd like
+Jonathan: I might
+Jonathan: just need to buy groceries
+Jonathan: how long are you gonna be there
+Bruno: probably till it gets dark or cold
+Jonathan: I can be there in an hour
+Bruno: alright
+Bruno: bring some snacks
+Jonathan: what exactly
+Bruno: idk
+Bruno: something salty
+Bruno: and soda
+Jonathan: will do
+Jonathan: see ya in a bit
+Bruno: see you
+Summary: Bruno will be in Hyde Park, next to the lake, until dark or too cold and invites Jonathan to join him. Jonathan will buy his groceries and also some salty snacks and soda for Bruno before meeting him there in an hour.
+Dialogue: Eddie: How’s your gym session today?
+Rob: Oh, man, I’m fed up. Too much deadlifts 
+Eddie: Told you, it’s too early to change the drill.
+Rob: Yeah, I know, but I thought I’d go up with the weight.
+Eddie: …but you didn’t ;-) 
+Rob: Yep. Will have to wait another week or so.  
+Summary: Rob is fed up with his gym. He needs to continue another week or so before he goes up with the weight. 
+Dialogue: Mark: Are you going to vote tommorrow for mid-term elections ?
+Monika: Sure I will. And you ?
+Mark: I'm not sure. For me all politicians are liars and I don't thing my vote won't change anything.
+Monika: Of course it will. If everybody does like you, we soon will have new catastrophes like we had last time
+Mark: You're talking about last presidential election ?
+Monika: Exactly. If people like you had voted then, results would have been different
+Mark: Do you think my vote can change anything ? Maybe you're kidding
+Monika: Yours maybe not, but if we add thousends of people like you, yes
+Mark: But I still don't know who I should vote for.
+Monika: Look at their programs and choose the best, or the least worst :)
+Mark: And if my candidate was not as good as I thought ?
+Monika: Next time you will know, and at least you will avoid that the worst candidate passes
+Mark: OK, you convinced me, I am going to vote
+Summary: Monika is going to vote tomorrow but Mark has some doubts. Monika convinced Mark to vote.
+Dialogue: Elektra: we should prepare something special for the ball tonight!
+Blanca: as usual!
+Elektra: no, no, no!
+Poppy: we're always amazing
+Sam: what's so special about tonight?
+Elektra: the category is: Dynasty!
+Blanca: Fuck! AMAZING
+Elektra: very amazing indeed
+Elektra: so we should be unbeatable, unstoppable, just stunning!
+Poppy: yes, queen!
+Elektra: I'm going to the second hand in the 111th Street
+Elektra: in half an hour
+Elektra: and I need help of my court
+Poppy: I'll be there of course
+Blanca: I'll do my best to join you
+Elektra: you better be there Blanca!
+Blanca: But I'm at work till 6
+Elektra: you choose your priorities my dear
+Sam: I'll be there for sure!
+Summary: There is a Dynasty themed ball tonight. Elektra is going to look for some fancy outfit in the second hand shop on the 111th Street. She'll go there in 30 minutes. Poppy will join her. Blanca will try to be there, but she's at work until 6 p.m.
+Dialogue: Kate: Have you seen Chris?
+Tim: No, has something happened?
+Kate: Hm, he texted me he was heading home. Does he leave?
+Tim: I don't know, I'm still here with the rest. I will ask around.
+Kate: And? Any news?
+Tim: No's seen him. He was chatting with Jack, but Jack's gone now.
+Tim: I called him, but he's not answering.
+Kate: I will try as well. Let me know if you find him.
+Kate: Was he really drunk?
+Tim: No, I don't think so.
+Kate: Ok, thank you Tim!
+Tim: Do you know anything? Can't find him anywhere, he must have left.
+Kate: Jack texted me back. They went to another pub.
+Kate: Obviously he didn't think about texting me about this ;/
+Tim: Hahaha, props to Chris!
+Summary: Kate is looking for Chris. Jack texted Tim to let him know him and Chris went to another bar.
+Dialogue: Letty: I'll go to the market, do u need sth?
+Cynthia: salad
+Cynthia: toilet paper
+Cynthia: soap
+Cynthia: peers
+Letty: sth else?
+Cynthia: not 4 now
+Summary: Letty will go to the market. Cynthia needs Letty to buy several things.
+Dialogue: Kate: girls night out?
+Jane: tonight?
+Jane: I can't i have an exam 2morrow
+Kate: shit I forgot
+Kate: how about 2morrow then
+Jane: That sounds great
+Kate: ok keep you posted
+Kate: Good luck
+Jane: thanks!
+Summary: Jane has an exam tomorrow. She can have a girls night out with Kate tomorrow. 
+Dialogue: Jay: So what you up to?
+Lisa: tomorrow im gonna hike to the beach
+Jay: cool!
+Summary: Lisa is going to the beach tomorrow. Jay likes it.

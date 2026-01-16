@@ -1,0 +1,400 @@
+Dialogue: Piotr: Are you girls coming today?
+Ewa: I am :) 
+Aneta: Me too :) I will be there around 8
+Piotr: Ok, see you there
+Summary: Ewa and Aneta are coming today. Aneta will be there around 8. Piotr will meet them there.
+Dialogue: Adam: ...i dont really know if i will come, i think im having a sort of nervous breakdown
+Ana: :'(
+Missy: Adam, what happened? you have to come and chill out
+Ana: need to press the STOP button?
+Bruno: OK, dont press STOP, you have to come along, with us and Ana. you will see it will get bettter once you come ;)
+Adam: id say, not in general
+Bruno: (Y)
+Adam: im not gonna make it unfortunately. it is too much. or i will be a wall flower
+Missy: I like flowers
+Ana: (Y)
+Adam: even faded on the wall?
+Ana: :D
+Margaret: C'mon Adam, a party without your advocaat?
+Gwen: Adam would bring chocolate ;)
+Bruno: (Y)
+Margaret: "chocolate" or chocolate? i dont remember chocolate :D
+Gwen: cause it was a special chocoooolaaaaaateeee
+Margaret: sillly me :d :D :D
+Gwen: Young and stupid :D
+Margaret: :D
+Adam: e\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; p
+Bruno: did u fall off the chair?
+Adam: dumb keyboard
+Summary: Adam is not feeling well. Missy, Ana, Margaret and Bruno want him to go out with them.
+Dialogue: Elle: Where are youuuuuuuuuuu <file_gif>
+Miles: running sorry!!
+Miles: Missed the bus
+Elle: hurry up I'm freezing
+Miles: just find the nearest coffee place and meet me there in 20
+Miles: send your location
+Elle: ok!
+Elle: <file_other>
+Summary: Elle and Miles are about to meet. Miles missed the bus and is running late.
+Dialogue: Aaron: Sleep
+Aaron: Sleeper
+Aaron: Sleeper
+Aaron: More sleeping
+Aaron: Sleepy
+Aaron: Zzzzzz….
+Debora: Hey love
+Debora: Where are you?
+Aaron: Drinking a beer
+Debora: Outside
+Aaron: I locked myself out
+Debora: You could have knocked on the door. I would have let you in.
+Aaron: I didn’t want to wake you up
+Debora: Ok I’m coming
+Summary: Aaron is drinking a beer outside. He accidentally locked himself out. Debora will come and let him in. 
+Dialogue: Natalie: Lily are you alive? Did she kill you? We called you but no answer
+Alex: Call Mary 😂😂😂 and ask for Lily back in the office as someone is waiting for her for a meeting. Hopefully Lily is already driving back...
+Lily: Yes 😂😂😂 10 min and we are back.
+Natalie: I called Mary as well
+Mary: Sorry, I left everything in the car...
+Summary: Natalie is worried about Lily. Lily will be back in ten minutes.
+Dialogue: Liz: shit, I forgot to pay that invoice
+Liz: what do I do now?
+Tim: what invoice?
+Liz: gas
+Tim: pay it asap and call them
+Liz: ok
+Summary: Liz forgot to pay the gas invoice.
+Dialogue: Alex: When are you going to Lisbon?
+Martin: this weekend
+Alex: for how long?
+Martin: 4 days
+Martin: why do you ask?
+Alex: curious, plus I wnat you to get me something :D
+Martin: ok, what do you want?
+Alex: a bottle of dry vermouth
+Martin: If I find any at the airport I'll get you one
+Alex: Thank you
+Summary: Martin is going to Lisbon this weekend for 4 days. He will get Alex a bottle of dry vermouth.
+Dialogue: Jimmy: Anyone up for a beer?
+Tom: Yep, for sure
+Rick: oh boy, definitely
+Rick: This week chewed me up, swallowed and then threw up on a sidewalk
+Jimmy: damn! It's a date then, 7pm at Morty's?
+Rick: sure
+Summary: Jimmy, Tom and Rick are meeting for a beer at 7 p.m. at Morty's.
+Dialogue: Tracy: hahaha did you know today is the pancake day? xD
+Tracy: haha and a hamster day
+Nick: at the same time? xD hahaha
+Dylan: poor little fella xD
+Summary: Today is pancake and hamster day.
+Dialogue: Peter: got anything planned for the weekend?
+Brian: not yet, why?
+Peter: Maybe you wanna drop by?
+Peter: Andrews coming up from Norway 
+Brian: Cool! haven't seen him in years
+Peter: Ok I'll let you know the time 
+Summary: Andrew is arriving from Norway. Peter and Brian will meet him on the weekend.
+Dialogue: Julianna: Mum, I'm soooo bored:-(
+Ivona: What's on TV, darling?
+Julianna: Nothing special.
+Ivona: There must be something on TV!
+Julianna: Nothing that's interesting FOR ME.
+Ivona: Well, maybe you can read the book I gave you last week? 
+Julianna: That one on healthy lifestyle?
+Ivona: Exactly. You can learn something new ;-)
+Julianna: You’re mean, mother. You know that? 
+Ivona: Gosh... what about that new game show?
+Julianna: Which one?
+Ivona: "Deal or No Deal"
+Julianna: Tell me you're joking.
+Ivona: I love that show.
+Julianna: I watched it once. That was enough.
+Ivona: It's on right now. Let's watch it together.
+Julianna: All right, it’s better than nothing, after all. Will be downstairs in 2 minutes. 
+Summary: Julianna is bored. Ivona suggests that they watch the new TV show "Deal or No Deal" together.
+Dialogue: John: A-yo, whazzup?
+Chris: <file_photo>
+Alex: what the fuck is that?
+Chris: guess
+John: That’s so boojee!
+John: Where did u get it? In Butt-Fuck, Egypt?
+Summary: Alex and John are querying what is on Chris'es picture and where he got it from.
+Dialogue: Logan: As you guys may know I recently adopted a dog - he has tendency to tear pillows and I was wondering if you guys know any good methods for teaching a dog not to do that.
+Annie: Hey, Logan. My dog used to do that to. I did some research on the topic and found this guide <file_other>, I found it very helpful.
+Logan: Thank you Annie :)
+Vince: The most important thing is reinforcement - you verbally punish your dog (never hit him tho) and reward the times when he starts tearing the pillows but listens to you when you tell him to stop. Be careful tho, he might start playing with them just to stop later and get a treat or something - reward the times when he's near the pillow in a playful mood and doesn't touch them. And most importantly - get him some toys. He might just need something to play with.
+Logan: Yeah, I got him several toys, but they might not be enough.
+Vince: Maybe something more pillow-like? Like a mascot for dogs or sth?
+Logan: Thank you, I'll think of something.
+Summary: Logan adopted a dog. The dog destroys his pillows. Annie sends him a book on how to teach the dog not to do that. Vince suggests to reward and punish the dog according to it's behaviour and to get it some toys. 
+Dialogue: Harvey: Hey!
+Jim: Hey, mate! How are you?
+Harvey: Fantastic!
+Jim: Did she say 'yes'?
+Harvey: :-) :-) :-)
+Jim: Congrats, man :-) I'm really happy! For you both.
+Harvey: Thanks. 
+Jim: How about talking about it at Big Steak?
+Harvey: That's exactly what I've been planning :-) Will you wait for me in the office?
+Jim: Sure. See you :-)
+Harvey: See you
+Summary: Harvey's girlfriend said "yes". Jim and Harvey will go to Big Steak together and talk about it.
+Dialogue: Dasmine: Sir, you are booked at 3pm tomorrow with Dr.Lee. 
+Dasmine: Please confirm us if you come today.
+Oliver: Yes, I am coming!
+Dasmine: Thank you. I will see you at the hospital tomorrow.
+Summary: Oliver confirmed his appointment with Dr. Lee.
+Dialogue: Caleb: How are you guys?
+Jeniffer: very good, thanks
+Brooke: yes, it's very exciting here
+Caleb: where are you exactly?
+Jeniffer: Now in New York!
+Caleb: how cool!
+Caleb: what have you seen so far?
+Jeniffer: We've been to Connecticut and Massachusetts 
+Jeniffer: But NYC is the best
+Brooke: you forgot about Rhode Island
+Jeniffer: right, such an important state! :P
+Brooke: ;)
+Caleb: you see, I knew you would like it
+Caleb: what do you like the most?
+Jeniffer: diversity!
+Jeniffer: something we don't have in Europe to that extend
+Jeniffer: you're walking down a street and you hear 15 different languages 
+Brooke: and everything is exaggerated 
+Brooke: too big, greater than needed, it's quite fascinating 
+Brooke: food, buildings, cars, everything
+Caleb: I'm glad you enjoy it girls!
+Brooke: :*
+Summary: Jeniffer and Brooke're in New York now. They've been also to Connecticut, Massachusetts and Rhode Island. The thing Jeniffer likes the most in America is diversity while in Brooke's opinion it's urban splendor.
+Dialogue: Norma: Hiya, how've you been?
+Helena: Good, thanks. Uni same as last year, with a tad less partying!
+Norma: God, yeah, I remember it well! Too knackered at the mo.to do much now!
+Helena: The world of full-time work treating you well, Love?!
+Norma: Well, yeah, the money's a lot better than being a student, I must admit, but I'm studying for my accountancy exams too at home. 
+Helena: Eek! I'm not looking forward to all that malarkey!
+Norma: You sorted out a job yet? 
+Helena: No, still doing the Milk Round, got a few nibbles though!
+Norma: Good luck, we may be working together one day. Of course, I'll be your boss, though!
+Helena: Big head! Anyway, we must make plans for Christmas!
+Norma: Love to, keep in touch.
+Helena: You too! Byeee!
+Summary: Norma works full-time, earns good money and prepares for her accountancy exams at home. Helena is still busy doing the Milk Round and suggests to make plans for Christmas.
+Dialogue: Sophia: Hi Lina, my daughter Parvati is interested in cooking classes. you still have room?
+Lina: of course, no problem, next session is saturday the 10th
+Sophia: thanks could you tell me how does it cost? 
+Lina: 20 euros each class. you may pay by cash or transfer
+Sophia: great, Parvati is so happy.
+Summary: Parvati will attend Lina's cooking class. The next session is on the 10th. Each session costs 20 euros, payable by cash or transfer.
+Dialogue: Kouki: I am starving!! 
+Jake: Me too
+Jake: But I have stuff to do rn
+Kouki: Hurry up!! 
+Jake: K Im done soon
+Kouki: 🙄
+Jake: Where we eat? 
+Kouki: downstairs cafeteria
+Jake: K 
+Summary: Jake and Kouki will have something to eat at the cafeteria downstairs.
+Dialogue: Amanda: <file_video>
+Amanda: I cried yesterday when I saw this film.
+Piper: I'll watch it after this lecture, but thanks!
+Piper: I see it's about a dog!
+Piper: *.*
+Amanda: Yup, but it's quite a sad film.
+Amanda: This dog is waiting for his owner.
+Piper: Oh, noo... Poor thing. :(
+Amanda: Okay, Pipes. I've gotta go  to the gym now.
+Piper: Have fun! :*
+Amanda: Thanks! Bye! :)
+Summary: Amanda saw a sad film yesterday. Piper will watch it after the lecture. Amanda is going to the gym now.
+Dialogue: Alex: What mark did you get for the maths test?
+Sandra: 95%
+Alex: Wow! That's amazing!
+Sandra: Yeah, I'm well pleased with that.
+Alex: I would be if I got the same.
+Sandra: What did you get?
+Alex: A measly 55%.
+Sandra: That's gotta suck! Poor you! Guess it's still a pass though.
+Alex: Just about.
+Sandra: Have the physics test tomorrow. Are you studying for that?
+Alex: Yeah.
+Sandra: Me too.
+Sandra: School is really hard this year.
+Alex: Says the girl that gets top marks in her class.
+Sandra: But I work for them.
+Alex: So do I and you still get better than me. Every time.
+Sandra: Hehehe...
+Alex: You're so modest ;-)
+Sandra: Yeah, I know. LOL
+Summary: At the maths test, Sandra got 95% and Alex got 55%, which is still a pass. They are studying for the tomorrow's physics test.
+Dialogue: Matthew: I'm picking you up at 5 p.m.
+Lisa: Ok
+Mark: Thanks!
+Summary: Matthew will pick up Lisa and Mark at 5 PM.
+Dialogue: Lucy:  thanks for the flowers they were lovely
+Sue: your welcome sweetheart xx
+Lucy: you spoil me ❤
+Summary: Sue is spoiling Lucy.
+Dialogue: Memphis: have you heard working me by quavo?
+Gigi: not yet, but i know quavo had a new song, how is it?
+Memphis: dope, look for it
+Gigi: i will when i get to the WiFi
+Memphis: you're not at home 
+Gigi: yeah, i'm in town
+Memphis: OK then, look for the song 
+Gigi: i will
+Summary: Gigi wants Memphis to listen to Quavo's new song.
+Dialogue: Leila: I just spent 150usd for one bag of groceries. ONE BAG.
+Diana: Don't worry, we spend way more than that and I honestly don't know on what #sad
+Leila: And I usually have no breakfast or lunch usually and eat all night. If I didn't exercise I'd be BLOODY ENORMOUS. I honestly don't know you're not the size of a truck
+Diana: You only see me on holidays and then I don't count what I eat. I normally don't eat that much
+Leila: I hear that. Me too but mostly I do eat like a pig
+Diana: You're so weird. And so much smaller than I am anyway
+Leila: You're insane
+Diana: What I am is too big for my favourite pants
+Leila: I brought my fav with me. i BETTER fit in those in a few weeks
+Diana: I cannot wear any pants. I only wear jeggings
+Leila: Mate :D I LIVE in leggings,
+Diana: Yeah but you're tiny! Bitch.
+Leila: You know what the box diet is?
+Diana: like portion control?
+Leila: Yeah, she gets all the meals delivered. She feels great and already has lost some weight
+Diana: Do they taste any good?
+Leila: Oh yeah, they are yummy. Healthy 5 meals a day and not more than 1200 cal
+Diana: I think I just had a piece of cheese that had 1200 :D :D :D
+Leila: I hear ya... I wish I could order one...
+Diana: Go for ti!
+Leila: Too pricey. I have a lot of free time so really no excuses for me not to cook
+Diana: I'm gonna do that next year. I've been eating some nasty stuff
+Summary: Leila and Diana are complaining about the expense of food. Leila would like to go on the box diet but it's too pricey. Diana is gonna do it next year.
+Dialogue: Mary: Can you recommend any gym in our neighbourhood?
+Mark: McFit is good
+Cole: I don't like it, it's too crowded
+Mark: I go there before midday, it's perfect
+Cole: in the evening, when the most people go there it's just a disaster
+Mary: But I am going to be there before going to the office
+Cole: so it can work for you indeed
+Mary: good
+Cole: and it's quite cheap
+Summary: Mark likes the McFit gym and goes there before midday. Cole doesn't like it, thinks it's too crowded in the evenings, but admits it's cheap. Mary wants to go to the gym before going to the office.
+Dialogue: Ivy: What day does your flight get in?
+Alex: Saturday before xmas.
+Ivy: That's the 22nd?
+Alex: Yes. I land at 0600.
+Ivy: Geez. That's early!
+Alex: I know... 
+Ivy: I'm thinking of the perfect welcome home meal.
+Alex: I bet you are, but I will just want sleep!
+Summary: Alex is landing at 6am on Saturday. Ivy will prepare a 'welcome home' meal.
+Dialogue: Erik: did Modric really win the ballon d'or XD
+Odin: yeah
+Erik: no way maannn ...
+Odin: why not
+Erik: dont tell me hes the best player in the world right now -_-
+Odin: he might not be but..
+Erik: BUT??
+Odin: but he had a great yaer.. trophy wise
+Odin: year*
+Erik: yeah so??
+Odin: so its really fine
+Erik: its not fine, that trophy is for the BEST player of the year
+Odin: you were hoping for Messi to win it for the 6th time?
+Erik: he's still the best for me
+Odin: go tell that to France Football XD
+Erik: i wish i could :p stupid STUPID people
+Summary: To Erik's disappointment, Modric has won the Ballon d'Or.
+Dialogue: Kate: I'm so bored. 
+Kate: can't study any longer...
+Agnes: so fuck it today and go out.. 
+Kate: i can't, I've got a test in 5 days
+Agnes: even for an hour?
+Kate: it's never an hour..
+Kate: u need to shower, dress up and so on
+Agnes: hah, so u're a dirty intellectual today
+Kate: kind of..
+Kate: tha's my way of not going out when I  have to study:D
+Agnes: hah, never tired it...
+Agnes: but it makes sense!
+Kate: usually it works and it kind of puts u in the right mood, but not today
+Agnes: try to go jogging or for a walk
+Agnes: or take a bath :D 
+Agnes: I always do it when I'm bored and I need to study:D
+Agnes: <file_gif>
+Kate: hah! B-)
+Kate: bath sounds like sth good and useful
+Agnes: Exactly!
+Agnes: enjoy and good luck with studying..
+Kate: thx <3
+Summary: Kate is tired of studying, she has a test in 5 days. Agnes suggests going out but Kate declines, she prefers taking a bath.
+Dialogue: Greg: Does anyone of you don’t have Netflix?
+Eve: I do, but maybe Paul?
+Paul: I don’t, why?
+Greg: I want to create an account, but I would like to share it with someone, you up?
+Paul: Sure, if it works, why not :)
+Greg: Thanks! I’ll read how to do it and then will let you know
+Summary: Eve has Netflix. Paul does not have Netflix. Greg will share a Netflix account with Paul.
+Dialogue: Sonia: Hey John! All ok with you?
+Sonia: It’s Ralph's birthday today 😊
+Sonia:  There is a party this afternoon 
+Sonia: I invited you on fb!!
+John: Toooop!!!!
+John: Happy birthday to Ralph!!
+Sonia: Try and come, will you??
+John: Sure thing 👍 👍 sounds ace!
+Summary: Sonia invites John to Ralph's birthday party tomorrow. John will attend.
+Dialogue: Hunter: Do you have classes with Agatha Meir?
+Leslie: Yes :)
+Peter: She's cool
+Peter: Why?
+Hunter: I'm starting a course tomorrow and I don't know what to expect
+Leslie: It will be fun!
+Leslie: She's entertaining
+Peter: In my humble opinion she's one of the best teachers in our school
+Hunter: Is she demanding?
+Leslie: Yes
+Leslie: But you will want to learn
+Peter: True
+Peter: I never thought I would enjoy mathematics... 
+Summary: Leslie has classes with Agatha Meir. Hunter is starting a course tomorrow. The teacher is demanding.
+Dialogue: Simon: Where are you guys?
+Katherine: 101
+Simon: Oh, ok. Coming! 🦄🦄🦄
+Peter: Please, bring my backpack. I left it downstairs 😓
+Simon: No worries!
+Summary: Katherine and Peter are in 101. Simon will bring Peter his backpack, that he left downstairs.
+Dialogue: Anna: Did you read "27 dreams"
+Mary: I do not remember, I do not think ...
+Mary: What is this book about
+Anna: This is the story of a writer who looks for inspiration for her new book in a mysterious village.
+Anna: It's a very magical and addictive book.
+Anna: u will like it for sure!
+Mary: thanks, I will definitely read it.
+Summary: Mary hasn't read "27 dreams". Anna recommends the book.
+Dialogue: Kayla: Hey mom 
+Kayla: Could you water my flowers please?
+Mom: Where are your flowers tho? 
+Kayla: Mom in my room!
+Mom: Okay 
+Mom: Only if I find them
+Kayla: Thanks mum!
+Kayla: Also give Bella something to eat xd
+Mom: I did
+Mom: Thanks for reminding me tho... 
+Kayla: No problem
+Mom: Be back early dont drink or party
+Summary: Kayla wants Mom to water her flowers.
+Dialogue: Ben: Surprise birthday party for Holly? any thoughts?
+Gina: OMG! i think it's a totally awesome idea!
+Mark: yeah, she loves surprises!
+Gina: so what do you want us to do?
+Ben: i'm gonna order a birthday cake but need someone to pick it up
+Mark: fine, no problem!
+Ben: i'm gonna do some shopping cause i wanna cook everything myself
+Gina: yeah, she loves your cooking! what about her birthday present? do you need a hand?
+Ben: that would be brilliant!
+Gina: any balloons or other birthday stuff?
+Ben: why not! just not to much!
+Gina: yes, sir! haha! i can't wait!
+Mark: and most importantly we have to keep our mouths shut! xx
+Summary: Ben wants a surprise birthday party for Holly. Mark will pick a birthday cake up. Ben will cook everything himself. Gina will buy a birthday presents and will take care of other stuff.

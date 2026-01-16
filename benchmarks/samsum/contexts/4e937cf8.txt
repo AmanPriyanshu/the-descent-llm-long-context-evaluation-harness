@@ -1,0 +1,695 @@
+Dialogue: Kim: Anybody got homework for 2moro?
+Melvin: Still working on it.
+Norma: Sure. <file_picture> <file_picture>
+Kim: Thx. Ur a lifesaver!
+Norma: Don't mention it :)
+Summary: Norma has completed homework for tomorrow.
+Dialogue: Alberto: here's my new number
+Isaac: what happened to the old one?
+Alberto: I lost the phone
+Isaac: you know you can ask for a new card, don't you?
+Alberto: no I can't
+Alberto: it's prepaid
+Isaac: still
+Alberto: really?
+Isaac: what company is it?
+Alberto: Vodafone
+Isaac: well I know you can do it with Orange for sure
+Alberto: anyway it's too late
+Alberto: I already have a new one
+Isaac: have it your way man
+Summary: Alberto gives Isaac his new phone number as he lost his existing phone. Isaac suggests that Alberto can ask for a new card but Alberto says that it's no longer relevant as he has a new number.
+Dialogue: Jill: I will be late
+Hubert: again? 
+Jill: just one last time, I promise 
+Summary: Jill will be late.
+Dialogue: Scarlet: What did you eat today? 
+Smith: Pizza 
+Scarlet: Where??
+Smith: Bun n Cheese
+Summary: Smith ate pizza today at Bun n Cheese 
+Dialogue: Ron: pizza for dinner?
+Felicia: ok
+Ron: I will order you will pay 
+Summary: Ron offers to order pizza for dinner. He wants Felicia to pay.
+Dialogue: Daniel: He is amazing!
+Daniel: finally a president that cares about us
+Mahoney: why?
+Daniel: they are putting new tarmac in our neighbourhood, everywhere
+Shirley: wow, that's something
+Jonathan: he won in style 
+Jonathan: with more than 60% votes in the second round
+Mahoney: you're talking about tarmac
+Mahoney: but what about prices?
+Mahoney: inflation is galloping
+Mahoney: he's a populist
+Daniel: He has been only one year at power, relax
+Mahoney: we will see
+Summary: Daniel's very glad with a president because he cares about people. As proof of this, there's new tarmac put everywhere in their neighbourhood. The president won with more than 60% votes in the second round.
+Dialogue: Rafael: How was Jordan?
+Ismael: Great great
+Ismael: Saw my whole family
+Rafael: Warm? 
+Ismael: Warm! very! 
+Summary: Ismael went to see his family in Jordan. It was hot.
+Dialogue: Jay: Hi guys, are you at Tiki Bikini Hut?
+Tommy: sure, as always
+Bill: will you join us?
+Jay: I'm not in Nassau today
+Bill: but where?
+Jay: Staniard Creek, I have to deal with some tourists here
+Josh: Jay, we've been actually discussing the federation idea :P
+Jay: again?
+Josh: I think it's a never ending subject. And I'm the only one still believing it would be possible, I need your support
+Jay: honestly? I think Turks and Caicos will rather join Canada than the Bahamas
+Bill: Exactly, they will join anything but The Bahamas, even Hell
+Jay: sorry Josh, I agree with Bill. 
+Josh: so we should conquer them! hahaha
+Jay: wouldn't work either 😂
+Summary: Tommy and Bill are at Tiki Bikini Hut in Nassau. Jay is in Staniard Creek.
+Dialogue: Ian: Mom, can I go to Zoe after school, plz?
+Mommy: Sure, but not for too long.
+Ian: Thx! You're great :x
+Mommy: I know :) Ask her mom if she will be at home tomorrow, ok?
+Ian: Ok, bye mom!
+Summary: Ian is going to Zoe's after school. Mommy wants to know if her mom is going to be home tomorrow.
+Dialogue: Andrew: <file_photo>
+Andrew: Care to join me? :D
+Herbert: HAHAHA! Are they really organizing CEMS party??
+Andrew: Why not, even such successful people need to let off some steam ;)
+Olga: What is so funny about them?
+Andrew: It is a course on our university filled with autists :D
+Herbert: Remember last year when I showed you that video of people on a show?
+Olga: Family Feud? That group from our uni?
+Herbert: Yea, the high guys
+Andrew: They weren't high, they were just retarded :D So imagine a full club of such people haha
+Herbert: Plus a handful of Indians taking that course
+Andrew: Oh yea, they can bring some spiked curry haha
+Herbert: HAHAHA
+Olga: I think I will pass on that :P
+Summary: They indulge in politically incorrect jokes about the CEMS students, who are socially awkward, and Indians.
+Dialogue: Julia: Wanna go to theatre? 
+Marie: Lol, we never go to theatre 
+Janice: exactly, we're perfectly uncultured people
+Julie: ahaha, I found 4 tickets on the pavement today
+Janice: what is it?
+Julie: Something by Ibsen
+Julia: "Nora"
+Marie: God, I used to love Ibsen when I was in high school
+Julie: so let's go!
+Summary: Julie found 4 tickets for Ibsen's 'Nora' on the pavement today. Julie, Julia, Marie and Janice are going to the theatre.
+Dialogue: Lucas: i never tired or bored of watching prison break
+Theodore: me too
+Lucas: my favourite character is your namesake
+Theodore:😂😂🙌 T-bag is the best
+Lucas: thug 
+Theodore: haha
+Lucas: haha 
+Theodore: haha  yeah
+Summary: Lucas always finds "Prison Break" entertaining.
+Dialogue: Jimmy: get me some fries too!!
+Dan: okay, ketchup?
+Jimmy: and mayo
+Dan: ok!
+Summary: Dan will get Jimmy some fries with ketchup and mayo.
+Dialogue: Becky: Are you going to the lecture?
+Sam: Yes
+Becky: Can we meet near the library? I need to tell you something.
+Sam: Can't you tell me now?
+Becky: No. Face 2 face.
+Sam: ok
+Summary: Becky and Same are meeting near the library.
+Dialogue: Jasmine: <file_other>
+Aurora: hahah, i love it!!
+Mia: <33
+Summary: Jasmine sent Aurora a file. Aurora enjoyed it greatly.
+Dialogue: Joan: Have you done the evaluation set for tomorrow?
+Becky: Not yet, I'm still thinking how to do it
+Becky: Can you send me the template?
+Joan: sure
+Joan: <file_other>
+Summary: Joan sent Becky a template of the evaluation set for tomorrow.
+Dialogue: Ron: does any of you have a drill I could borrow?
+Dave: Not me 
+Dean: Nope, but I know Henry does
+Henry: howdy, I have a drill. When do you need it?
+Ron: asap, it's a quick thing, I'll give it back the next day
+Henry: no probs. I have time in the afternoon if you want to come and pick it up
+Ron: oh, sweet, thanks man, I owe you
+Henry: no probs
+Summary: Ron will borrow a drill from Henry in the afternoon.
+Dialogue: John: Hey Dan, I'm gonna be late today.
+Daniel: Hey man, ugh no, don't leave me with this presentation alone!
+John: I know, I'm doing my best, but I'm stuck in traffic!
+John: There was an accident on the 401, ambulances & all...
+Daniel: OK, I'll try 2 buy us some time.
+John: I should make it in 30mins.
+Summary: John will be late for the presentation he has with Daniel. He should be there in 30 minutes.
+Dialogue: Tom: Hello, I would like to ask if you have a particular tropical fish I am looking for in your store
+Angela: Which fish?
+Tom: I need a female severum. I just have a male and I would like to give him a mate.
+Angela: How big is he?
+Tom: About 15 cm from the mouth to the base of the tail.
+Angela: We don't have any that big, and if you put too small a female in, he will probably just chase her to death.
+Tom: OK. If you do get any in, or see any, can you let me know?
+Angela: OK, or what I can do is put one or two females in a side aquarium and grow them on. They will be ready in six months, but you won't find any that big in the trade, normally.
+Tom: That's a great idea.
+Angela: No problem, but it mean you need to pay a bit more and I need a payment in advance. Please call in tomorrow and we'll discuss it. 
+Summary: Tom is looking for a female mate for his tropical fish. Angela doesn't have any specimen at the store that would be big enough to be safely put together with Tom's fish. Angela offers to grow one of the females to the required size, but it's more costly and requires a payment in advance.
+Dialogue: Karine: there is a sleepover scheduled at Angie's saturday
+Charlotte: Vicky didn't tell anything
+Charlotte: i'm not found of it
+Karine: girls organize it for Kira's birthday, you can't refuse
+Charlotte: who's going to drive them there?
+Karine: Philippe could do it
+Charlotte: who's in charge of the present?
+Karine: ask Vicky, she must know.
+Summary: Girls organize a sleepover at Angie''s for Kita's birthday. Vicky knows who's responsible for the present.
+Dialogue: Bob: Congrats on your role as Ra's al Ghul in Gotham.
+Han: The what now?
+Bob: Ellie is binging it, which is a bit annoying.
+Bob: But when Ra's came on screen the first time, we both asked "What the fuck is Han doing there?"
+Han: Haha
+Han: I'm famous!
+Summary: Bob recognised Han as Ra's al Ghul in Gotham and congratulates him getting the role.
+Dialogue: Peter: 10:10 <3
+Nathalie: It's me, thinking about you! <3
+Peter: you're the best ;*;*;*
+Nathalie: No, you're the best!
+Peter: <file_gif>
+Nathalie: how's work?
+Peter: sucks, cause you're not here...
+Nathalie: You're sweet ;*
+Summary: Pete doesn't like having to work when Nathalie is not there.
+Dialogue: William: Are you watching the Voice?
+Anne: Yes.
+William: Could you believe the judges didn't turn around for that girl from Wales?
+Anne: Yes, terrible.
+William: I think they are tone deaf. I only hope she comes back next year, or does a youtube channel or something.
+Anne: Yeah, she had a really nice voice.
+William: that was the best rendition of that song I ever heard, and it's one of my all time favourites. I will never forgive them for not picking her.
+Anne: Write in to the studio and complain
+William: I think I will.
+Summary: Anne and William are surprised the judges form the Voice didn't turn for a girl from Wales.
+Dialogue: Jack: I'm coming in 10 minutes
+Jason: ok
+Lucy: buy some beer in the coop
+Lucy: we're running out of beer
+Lucy: And vodka
+Jack: ok
+Jack: Anything else?
+Lucy: No, thanks 
+Summary: Jack's arriving in 10 minutes. He'll buy some beer and vodka in the Coop at Lucy's request. 
+Dialogue: Kate: Hey, are you ok?
+Clark: Yeah, why?
+Kate: Just asking. I've heard some rumours in the cafeteria. Is it true you're changing jobs?
+Clark: It is. Seems like everyone's talking about it :-(
+Kate: Is it because of that clash with the big boss?
+Clark: Yes and no. It's not that simple. People will be talking different things.
+Kate: Hey! I don't give a fuck what they are saying. Let them talk. I'm more interested in your version of events.
+Clark: My version? I don't even know where to start. There was this old bugger, my health issues, some fits of depression. Maybe I'm just burnt-out. I just want a change.
+Kate: Listen. You're the one who's always backed me up. I'm really sorry about all that shit.
+Clark: Thanks, Kate. 
+Kate: :-)
+Clark: I'll be fine. I've already done some re-thinking. 
+Kate: Hope it'll be all for the good. But it doesn't change the fact that weI'll miss you.  
+Clark: We?
+Kate: Well, there's me, Gina, Tom...there are a few black sheep in this 'corporate family'.
+Clark: Yeah... the 'corporate family' with the big daddy. I'm really sick of his 'committment to duties'.
+Kate: Me too :-( 
+Clark: You cannot teach an old dog new tricks.
+Kate: Come to think of that now I don't know if I'm more sorry for you or for me because I must stay here. 
+Clark: Why?
+Kate: Primo, I'm not as outspoken as you. I can't stand my ground like you. So probably, I'll be stuck in this hell... like... forever?
+Clark: Don't make a hero of me.
+Kate: Secundo, with the mortgage that we took last year and the kids... No, I can't risk that much.
+Clark: I know. It's a little different in my case. Sorry, Kate.
+Kate: So, you know. Should you need some devoted team to lead your campaign, do not hesitate to contact us :-) 
+Clark: You're the best!
+Kate: I've been learning from the best :-)
+Clark: Good girl! 
+Kate: Keep my fingers crossed for you!
+Clark: Thx
+Summary: Clark is changing jobs. People gossip about possible reasons why he's leaving the corporation. In fact it was a combination of different factors. Kate has to stay in the job because she took a mortgage last year and has children to keep. 
+Dialogue: Luisa: Babe do you feel like going to the cinema today?
+Luisa: They released Glass this week and I'm dying to see it 😋
+Mandy: Hey! Hmm..I'm not sure
+Mandy: It's not really my kind of movie 😁
+Luisa: Pleeeease??? 🎉🎉🎉
+Mandy: Hahaha
+Mandy: What time where you thinking?
+Luisa: The one that's on at 9? What do you think?
+Mandy: Ok, but you're paying for the popcorn!! 🤣🤣
+Luisa: DEAL!!! 😘
+Luisa: I'll pick you up at 8.15?
+Mandy: Ok 🙃
+Summary: Luisa and Mandy will go to the cinema to watch the film "Glass" at 9. Luisa will pick Mandy up at 8:15.
+Dialogue: Terry: Hi Sara!
+Terry: I'm sorry, but I won't come tomorrow, I'm ill. 
+Sara: Hi!
+Sara: Sorry to hear that.
+Sara: Of course, I understand. 
+Sara: Take good care of yourself!
+Sara: Do you have everything you need? 
+Terry: Yes, I'm okey, I have good neighbours. Just need a few days of rest. 
+Sara: I see. Get well soon!
+Terry: Thank you & have fun tomorrow!
+Sara: We will! :D 
+Summary: Terry won't come tomorrow as she is ill. Terry has good neighbors.
+Dialogue: Julian: Sorry, i have beeeen asleep ;) I work nights/weekends as a bouncer now. So i am off to manchestwr tonight
+Emma: Sweet! Is that any good then? :)🙂 My plans in comparison are kinda boring :P just tying up some loose ends before the break
+Julian: Yeah its amazing ;)  im gonna be breaking heads left right and center ;)
+Emma: Someone's having fun :P How are Elle & Lucy doing btw? 🙂
+Julian: Yeah i know ;) they are both good thanks!
+Emma: I'll just be chillin' with the cat :P Got any plans for th eweekend?
+Julian: Well, sleeping ;) but other than that, not a lot! You?
+Emma: Not to sound too boring but... studying :( It's my dad bday tomorrow so I'll probably take a brrak 
+Emma: 🙂After all, Im making the cake 🙂;)
+Julian: Aah its okay ;) oooh cake ;) What are you gonna make?
+Emma: I was thinking of banana fudge cake... mainly cos it sounds tasty :P
+Julian: Ooh that spunds amazing
+Emma: Lets hope it tastes amazing ;)
+Julian: I bet you it does ;)
+Emma: I'll let you know ;)
+Julian: Okay ;) save me a slice ;)
+Summary: Julian works as a security guard on nights and weekend and is going to Manchester tonight. Julian will sleep in the weekend. Emma will study. Emma's dad's birthday is tomorrow and she will make a banana fudge cake for the occasion.
+Dialogue: Reece: Have you bought toilette paper?
+Victoria: Nope. I forgot.
+Reece: Just great. Are we going to use our clothes because you're too lazy?
+Victoria: I'll come back to Tesco and get some.
+Reece: I hope so.
+Victoria: BUT YOU'RE A BITCH :*
+Summary: Victoria forgot to buy toilet paper, so she will get back to Tesco to get some. 
+Dialogue: Lars: need some air
+Elsa: walk?
+Lars: yes :)
+Summary: Lars and Elsa will go for a walk.
+Dialogue: Martin: do you have any food allergies? 
+Martin: I'm planning the menu for the party
+Helga: cashew nuts
+Helga: I mean, I won't die, but I'm bloated as hell
+Nicky: I'm lactose intolerant
+Helga: I think David is vegan
+Martin: yeah I remember
+Summary: Helga is allergic to cashew nuts, Nicky is lactose intolerant and David is vegan.
+Dialogue: Grant: Did you see what that crackpot president said today?
+Sue: No, haven't had time to look at the news.
+Grant: Something about this Saudi thing and the prince probably being innocent. What a moron.
+Sue: OMG...
+Grant: The guy is just a joke!
+Sue: He is, I can't believe he got elected!
+Grant: Neither can I...
+Sue: He certainly isn't doing much for the country's morale.
+Grant: All he does is stir up hate.
+Sue: Yep. It's sad.
+Grant: Very sad.
+Sue: And we can't eat lettuce anymore...
+Grant: What?
+Sue: Romaine lettuce gives you ecoli.
+Grant: Okay then...
+Sue: LOL just reading the news now...
+Grant: Didn't see that!
+Sue: Yep. 
+Grant: So much for my all lettuce diet!
+Sue: NOT! 
+Grant: Exactly! LOL!
+Summary: Grant and Sue are unhappy about the president. Sue also learned form a news article that Romaine lettuce is bad for your health. 
+Dialogue: Karter: What party u had last night? hahah
+Albert: Barbecue at my boss' house
+Karter: Nice
+Summary: Last night Albert had a barbeque party at his boss' house.
+Dialogue: Sophie: Have you definitely not come across james on tinder? I’d appreciate it if you told me the truth. I’m sorry for the weird questions.
+Jill: I really don't remember everyone, but I don't think I saw James.
+Sophie: Is there a way you can check?
+Jill: Kind of. We can have a chat tomorrow about it, ok? Ah, no. You won’t be here.
+Sophie: It’s ok. It doesn’t matter
+Jill: But you can create a fake profile, and search for men within 5km around, 29yo. That's the only way you can find him, if he's there. The city is not too big.
+Sophie: Don’t judge me. I’m pathetic, I know. 
+Summary: Jill doesn't remember coming across James' profile on Tinder. She gives Sophie advice on how to check, if James is using the app.
+Dialogue: Liz: where are you watching the game tonight?
+Pamela: what game?
+Liz: don't be like that lol
+Pamela: is ther something i should know??
+Liz: we're playing Germany tonight!!
+Pamela: christ i totally forgot
+Pamela: what hour?
+Liz: 9pm... dont tell me youve made plans
+Pamela: i'll make them go away lol
+Liz: good! wanna watch it at mine or are we hitting a bar?
+Pamela: just give me like an hour and i'll get back to you
+Pamela: i have a few things to sort out
+Liz: well don't keep me waiting too long :)
+Pamela: i'll get back to you asap!!
+Summary: Tonight at 9 pm is the game with Germany. Pamela forgot about it. Liz wants to make plans with her to watch the game together. 
+Dialogue: John: Can't find my car keys. Do you remember where you put them?
+Gina: Fucked if I know. You had them last.
+John: Thanks for being ever so nice.
+Gina: No worries. You're welcome.
+Summary: John lost his car keys.
+Dialogue: Ian: Ready for my flight! 4 am!!! coffee urgently needed!
+Anna: Have a safe flight!
+Oliver: enjoy your trip! x
+Alan: safe journey!
+Kelly: keep us updated! xxx
+Summary: Ian is ready for his early morning flight. Anna, Oliver, Alan and Kelly all hope it's going to be fine.
+Dialogue: Cath: What time is the party tomorrow? I've lost the invitation, sorry!
+Mariah: Hi Cathy, it's at 2pm at Sir Bouncealot Soft Play.
+Cath: Fine, thanks. Where is the place, is it in the enterprise park?
+Mariah: You've got it, next to the Garden Centre, opposite the dry cleaners.
+Cath: Right, yes, I know where it is. Any thoughts on presents for little Kia?
+Mariah: It's Keela actually, just so you spell it right on the card, she's not a small car!
+Cath: I'm aware of that, just a mistake! Does she like those horsey figures, Ruby is mad keen at the moment.
+Mariah: No, sorry. Unicorns only, with rainbows AND glitter. She's been very specific!
+Cath: OK, bit worried about not getting one in time. 
+Mariah: Well, there's a toy shop in Camarthen that does a fantastic range of unicorns, top quality, all under £50 too! You can just pop in before the party, job done!
+Cath: Right, hmmm Camarthen is quite a way away, especially on a Saturday morning.
+Mariah: Well, you could always have connected me earlier, I sent the invitations out 2 weeks ago and you have my messenger, phone and email.
+Cath: Yes, I'll see what I can do!
+Mariah: Don't forgot the unicorn costume for Ruby too, glitter and rainbows on it, naturally. 
+Cath: Right, got to go now, I think I can hear Ruby being sick! Bye!
+Summary: Cath is going to a party tomorrow. She has lost the invitation. The party is at 2pm at Sir Bouncealot Soft Play, next to the Garden Centre, opposite the dry cleaner's. Keela's name is not spelt "Kia". Keela likes unicorns with rainbows and glitter. Maria sent invitations 2 weeks ago. 
+Dialogue: Josh: hi!
+John: hi
+Josh: SHE was here.
+John: FUCK
+Josh: yup, but hasn't notice anything.
+John: what a relief 
+Josh: but we should hide it better.
+John: we will!
+Summary: She was here but hasn't noticed anything. 
+Dialogue: Jason: remember those awful hedaches i used to have?
+Lori: yes, you looked miserable last time you got one. :-/
+Lori: i could tell you were in pain
+Jason: i don't get them anymore!!!
+Lori: that's incredible!! what did you do?
+Jason: i'm taking this medication the doctor prescribed
+Jason: they're like magic pills
+Lori: i'm so glad for u!
+Jason: the problem is that now i have trouble falling asleep
+Jason: and i wanted your opinion, should i stop taking them?
+Lori: you're putting me in a delicate position here jason
+Lori: you should ask your doctor, he's the professional
+Summary: Jason is taking pills to prevent headaches, but has troubles falling asleep. Lori can't help him, so he will need to go to the doctor.
+Dialogue: Charli: I bought a new dress :S
+Bowen: Show me 
+Charli: <File_photo?
+Summary: Charli bought a new dress and is showing it to Bowen. 
+Dialogue: David: we're waiting outside
+Bill: give us 10 min
+Victoria: we're almost done
+David: ok
+Summary: David is waiting outside. Bill and Victoria are almost done, they need 10 minutes.
+Dialogue: Pedro: I'm so frustrated
+Pedro: It's the fifth time I'm taking this exam
+Pedro: And I cannot get a good score
+Francis: What are you talking about?
+Pedro: TOEFL
+Kamil: I took it once
+Kamil: It was horrible
+Kamil: Super stressful
+Pedro: Did you get a good score?
+Kamil: I don't remember. I guess it was enough for what I needed
+Francis: I've never heard of it
+Pedro: It's an English test
+Pedro: You do it on a computer in a special centre
+Pedro: There is no human interaction
+Francis: That sounds weird 
+Summary: Pedro took TOEFL 5 times already, but he didn't manage to get a good score. Kamil took it once. His score was enough for him.
+Dialogue: Charlotte: Guys
+Charlotte: Heeeeelp
+Daniel: ?
+Charlotte: I'm writing my cv and i don't knwo what to put in SKILLS
+Daniel: You don't have any?xD
+Charlotte: Very funny ^^
+Oscar: Just type in google "skills examples" and choose those skills that match
+Oscar: I always do that
+Charlotte: Mmm, sounds like a plan
+Charlotte: I'll check it
+Daniel: What kind of job?
+Charlotte: Junior Sales Assistant
+Daniel: Nice
+Charlotte: But I don't know if I got any chances
+Daniel: Why not?
+Charlotte: Competition is high
+Charlotte: And I don't meet all the reqs actually xD
+Daniel: Don't bother, probably nobody does
+Oscar: It'll be fine, keep my fingers crossed
+Charlotte: Thx ;*
+Summary: Charlotte is writing her CV to apply for a Junior Sales Assistant position and doesn't know what to put in the "Skills" section. Daniel advises her to look for examples on Google. The competition for the position is high and Charlotte doesn't meet all the requirements.
+Dialogue: Moira: Hello dear Barbie, greetings from Havana! I thought you might like a few pics of the city you'd told me so much about. My footnote to our talks about art deco:
+Moira: <file_photo>
+Moira: You can probably recognise these, as they are all in the centre of Havana. But I also found some fine examples of the style in the suburbs:
+Moira: <file_photo>
+Barbie: Hello dear! Thank you for the pics. Splendid as usual. I especially like your take of Hotel Nacional. At first I didn't recognise the zoomed tympana. They are gorgeous, aren't they?
+Moira: I waited till late afternoon to get them. But they're  sort obvious, anyone can see them. I'm quite proud about my finds in the suburbs.
+Moira: <file_photo>
+Barbie: Indeed! Fantastic in design but in a horrific state of preservation, aren't they?
+Moira: Some of them would be deemed uninhabitable in Europe but here they can house even a few families. That's post-Fidel Cuba for you!
+Barbie: Politics aside they are supreme piece of architecture that should be taken care of. Any movement, initiative into this direction?
+Moira: Not to my knowledge as far as the suburbs are concerned. The ones that are successful are active in the areas under the UNESCO World Heritage patronage.
+Barbie: Have you been to Vedado? Seen villas there?
+Moira: Yep. Fantastic. But wept over their condition. They really don't know what sort of treasures they have.
+Barbie: I know! That "remodelling" should send them to prison, if you ask me. I photographed one shocking example of it and sent it to "Architectural Review" to be put on file. They were quite obliging, I must say.
+Barbie: <file_photo>
+Barbie: How did you discover these houses in the suburbs!?
+Moira: By accident. I went on a tour of the city in an open-top bus and had a glimpse of some from the top deck. Took snaps with their GPS location and came back. By taxi.
+Barbie: Splendid!!! If you have some more or less complete series of photos of singular objects with their GPS, we can assemble a portfolio and submit it to "Architectural Review". They are usually not only pleased but also pay for valuable contributions.
+Moira: I would be flattered! I'll show you what I've got when I'm back home.
+Barbie: Which is?
+Moira: End of January.
+Barbie: Looking forward to our meeting then.
+Moira: Me too! Thanks for your suggestion.
+Barbie: Pleasure. So good luck and keep photographing.
+Moira: I can't stop!
+Barbie: :-)
+Moira: <file_photo>
+Summary: Moira is in Havana and is taking photos of art deco style buildings. She has found some are in a bad condition, especially in the suburbs. Barbie suggests she collates the pictures in a portfolio and sends it to the Architectural Review. 
+Dialogue: Rebecca:  Timmy!
+Rebecca:  Timothy? R U there?
+Timothy: Yeah, I'm on a meeting though
+Rebecca: I forgot, so sorry. But I have a problem
+Timothy: Can it wait till the end of the meeting?
+Rebecca: Yes it totally can, I'll just send you a pic
+Rebecca: <file_photo>
+Rebecca: So that you know what I'm talking about when you come to me :)
+Timothy: Thanks, I think I know already where the problem is :D
+Rebecca: I knew I could count on you! :D
+Summary: Timothy will help Rebecca with her problem after his meeting is over.
+Dialogue: Wendy: I told you not to eat my yoghurts!
+Lark: Sorry, I'll buy you some later
+Wendy: Sure... You always say it
+Wendy: I'm fed up with it
+Summary: Lark once again ate Wendy's yoghurt and she is fed up with it.
+Dialogue: Michael: are you still selling your furniture?
+Mark: No man everything is gone just one small table is left... interested?
+Michael: oh no thanks.. i was interested in L shaped sofas..
+Mark: oh that went within an hour of ad posting...
+Michael: really? better luck next time
+Mark: yup
+Summary: Mark has sold almost all of his furniture. 
+Dialogue: Nate: Where are you?
+Julien: I'm here, where r YOU?
+Nate: Here as well.
+Julien: Lol, great. :D
+Nate: Wait, I see you. Don't move.
+Summary: Nate and Julien have both arrived in the agreed meeting place and they are trying to find each other. 
+Dialogue: Sixx: have you seen that new place on sandy park road
+Lucy: no what is it
+Sixx: Its a deli style cafe with a little deli style shop bit
+Lucy: how hippy?
+Sixx: medium hippy...
+Lucy: avocado?
+Sixx: probably
+Lucy: bearded blokes?
+Sixx: none spotted
+Lucy: let's go! 4ish?
+Sixx: see you there
+Summary: Sixx and Lucy are going to see at deli style cafe on Sandy Park Road around 4 pm.
+Dialogue: Kurt: Shall I bring a bottle of bubbly for tonight?
+Isa: Not necessarily. I've already put one in the fridge.
+Kurt: What is it?
+Isa: Dunno. The Hobbs know nothing about wine anyway.
+Kurt: But we have to drink it too! I'll bring my bottle, it's one of my fraixenets.
+Isa: If you want to. I thought I'd get fresh orange juice and we'll have mimosas. Then I can get rid of the bottle I have. Someone had brought it long ago and I'm sitting on it.
+Kurt: Use it for cooking!
+Isa: Yeah.... I might. Get your fraixenet then!
+Kurt: I'll bring two.
+Isa: Cool.
+Summary: Isa has a bottle of wine of unknown kind that she wants to use up. Kurt will bring 2 bottles of sparkling wine to Isa tonight.
+Dialogue: Mia: Eco friendly alternatives to usual laundry detergent due to very sensitive skin? 
+Nick: there are loads eg Tesco or Sainsbury eco friendly range
+Mia: are they any good?
+Nick: yeah, they are absolutely fine
+Kim: can’t see the difference and check out eco egg ;)
+Mia: haven’t heard of eco egg
+Kim: just google it. It’s very good
+Nick: both my sister and my mum use liquid soap flakes 
+Mia: i hope they won’t irritate my skin 
+Kim: they are all natural! they will definitely be more gentle! x
+Summary: Mia is looking for an eco-friendly detergent for sensitive skin. Nick recommends detergents by Tesco or Sainsbury's and liquid soap flakes. Kim recommends Eco Egg.
+Dialogue: Kathryn: i'm almost done
+George: ok we're home
+Kathryn: ok. i'm finishing the treadmill in 3 mins
+Kathryn: then some stretching and i'm coming
+George: shall we wait for you with lunch?
+Kathryn: no i'll be having a shake 
+Kathryn: have you bought bananas?
+George: shit i forgot
+George: i'll go and get them when ur back ok?
+Kathryn: ok tx
+Summary: Kathryn is finishing her workout. She will drink a shake. George will buy bananas, which he forgot about.
+Dialogue: Toby: What would you do if you won a lottery?
+Melanie: lol, where does this question come from?
+Toby: my neighbour has just won billions, it's quite interesting to observe what he's doing
+Toby: he's moving out, of course
+Marion: wow, I don't really know
+Toby: would you quit your job?
+Charlie: I love my job
+Charlie: but I would be free from the pressure of money, no overtime anymore eg
+Melanie: exactly
+Marion: I'd quit it and go for a journey around the world
+Marion: for a few years
+Toby: I really don't know
+Toby: it seems I don't have real dreams
+Marion: wow, maybe you're just happy?
+Toby: maybe!
+Summary: Toby's neighbour has just won billions in the lottery and he's moving out. Toby, Charlie, Marion and Melanie discuss what they would do if they won the lottery.
+Dialogue: Jenny: Guys, let's plan the trip here
+Tom: ok, but I though we've decided most of the things
+Jenny: only main points
+Jenny: so we would go there for 3 weeks?
+Tom: yes
+Tom: to Barcelona (Mary really wants it) and things nearby, then to Madrid
+Jenny: but that's 1 weeks, maybe 1,5
+Jenny: the question is: should we go north or south afterwards
+Peter: I would prefer the south - Sevilla, Grenada
+Peter: And you have a real summer there
+Mary: maybe too much?
+Mary: I've heard so many amazing stories about Northern Spain
+Mary: especially the Camino de Santiago
+Jenny: yes, this is surly pretty cool, but I don't think we have enough time to do it in one trip
+Peter: and it's walking, hiking, you need to have different preparation for that (shoes, backpack etc.)
+Peter: we planned it as a chill-out holidays with beaches and nice cities
+Mary: right, so it makes sense to come back to the coast after Madrid
+Jenny: yep, I've heard costa tropical is nice, google it
+Mary: seems quite nice, not so urbanised
+Peter: ok, so from Madrid let's go to Sevilla or/and Granada and then to the coast!
+Jenny: sounds like a perfect plan!
+Summary: Jenny, Tom, Peter and Mary are going to Spain for 3 weeks. First they'll visit Barcelona and Madrid, then Sevilla and/or Granada.
+Dialogue: Debbie: Hi, you ok, love?
+Fran: Yeah, bit stressed with work, can't relax!
+Debbie: Why don't you try yoga. I go on a Sunday at 7 in the Sports Centre. Should be room for another.
+Fran: Actually, that sounds great, I'll give it a go this week! Thanks, love!
+Debbie: No problem. I'll give you a bell Sunday to check you're coming. I can pick you up too, if you like?
+Fran: Yes, sounds Great! See you then!
+Summary: Fran feels stressed with work. Fran will try yoga this Sunday at 7 in the Sports Centre. Debbie will pick Fran up.
+Dialogue: Jenny: You have to see the dress I bought!!!
+Hanna: Another one?? 
+Jenny: You know I can't resist a sale :-/
+Hanna: No, you never could :) Anyways, tell me about the dress
+Jenny: It's indescribable!! All I can say is that it's navy blue and I look Amazing!
+Hanna: And where do you plan on wearing it?
+Jenny: To Josie's wedding, of course!
+Hanna: Of course, I completely forgot. When is that?
+Jenny: First week of June. What are you wearing?
+Hanna: Well, I'll find something in the old wardrobe :) I'm strapped for cash at the moment.
+Jenny: There's an awesome sale at R&W now
+Hanna: If you want we can go window shopping, or who knows, maybe you'll find a great deal!
+Jenny: I guess. I'm free Fri night, if you can.
+Hanna: Sure, remember I don't work :)
+Jenny: How could I forget :)
+Summary: Jenny bought an amazing dress for Josie's wedding. She and Hanna will go window shopping Friday night, as Hanna is broke.
+Dialogue: Nick: <file_video>
+Amy: dafuq?
+Nick: oops sorry, I meant to send it to Tom XD
+Nick: sorry
+Amy: phew, at first I thoguht I srsly don't know something ;-)
+Nick: my mistake :-)
+Summary: Nick has sent Amy a video intended for Tom by mistake.
+Dialogue: Nick: So, so? Have you finished yet?
+Haley: yes :(
+Nick: I know, right?
+Haley: I hate u. The ending was heartbreaking af
+Nick: I know, but then again the whole game is soo good.
+Haley: True that
+Nick: So what did you sacrifice?
+Haley: Arcadia Bay.
+Nick: Srsly?? I was 100% certain, you're going to sacrifice Chloe.
+Haley: I mean it wasn't an easy decision, but it made sense to me. What did you choose? 
+Nick: I sacrificed Chloe, obviously.
+Haley: obviously :P
+Haley: You know it's almost 50/50 with this choice among the players
+Nick: I've seen the statistics, yes. So why did you choose Chloe?
+Haley: Because it's actually the one person that you truly care about. Who's like your best friend and means something to you. You've tried so hard for her and now you're just gonna throw that all away and kill her? I just couldn't do it.
+Nick: Yes, but that's one life against several thousands of lives including Chloe's mother. How do you think that would make her feel?
+Haley: I know and as I said it was a devastating choice, but I couldn't let her die after all that emotional build-up.
+Nick: I sorta get it... in theory. But for me the math was simple. Plus there was this part where you had to see the damage the storm had done and save your classmates and all that. It really got to me.
+Haley: I know all that but it was just... pursuit of happiness I guess. Like if it was Josie or your mom, what would you do?
+Nick: yeah, but for me it wasn't a Josie/mom kind of relationship. Chloe and Max just spent several days together after some long years of zero contact. I just didn't really feel that close to Chloe, I guess.
+Haley: I totally adored her and actually felt guilty a lot o f times on Max's behalf for abandoning her like that those years ago. I know Chloe is difficult and troublesome, but for me that was kinda lovable.
+Nick: I didn't connect with her like that at all. I mean it wasn't ok, what Max did, but I feel like Chloe was constantly guilt tripping Max throughout the game. It was kinda annoying.
+Haley: i dindn't really see it that way. Chloe's just sorta emotional, says what she feels.
+Nick: That's a polite way to put it but ok. :P What about the other choices? And most importantly - did you water the plant? :D
+Haley: Yes! :D I watered it exactly right.
+Nick: Haha, me too. I wish I was able to do that in real life :P
+Summary: Nick and Hayley finished the game. Nick sacrificed Chloe and is surprised that Hayley sacrificed Arcadia Bay. 
+Dialogue: Alanna: heeeey, I need your advice! 
+Sam: hahha, ok what’s up 
+Alanna: so I think I want to do something new with my hair! Do you think I would look with blonde hair ???? 💇🏼‍♀️
+Sam: lol I think it depends on the blonde 
+Alanna: hmm, well, I’m thinking like Brittany Spears blonde when she was a cutie 
+Sam: haha well when you put it like that, then I think you should go for it 
+Alanna: are you just saying that? 
+Sam: haha yeah, lil bit, I’m not sure it fits her personality, but you know, you do you. 😘
+Alanna: thanks girl, appreciate the honesty ♥️
+Summary: Alanna will dye her hair blond after consultation with Sam.
+Dialogue: Alicja: I have found my new passion :D
+Weronika: Which one?
+Alicja: Curling haha
+Kinga: I saw the pictures, how was it? :)
+Alicja: It was really fun and so much differen't than what I expected
+Weronika: Did the guys like it?
+Alicja: My brother loved it, but Filip is unhappy because he scratched his shoes :D
+Weronika: Typical :) How did he manage that?
+Alicja: You have to slide your leg on ice when releasing the stone :p
+Kinga: Hahaha
+Weronika: Where did you play?
+Alicja: On the national stadium, there are ice skating rinks and this field for curling, since it isn't the same ice
+Kinga: What is the difference?
+Alicja: It is not at all slippery :)
+Kinga: So there was no falling down? ;)
+Alicja: Of course there was, they give you some special slippers for sliding :D
+Weronika: We have to all go there when we see each other :D
+Kinga: Agreed :D
+Alicja: We need to organise ourselves and play 4v4, ask some friends to come :)
+Alicja: And btw, you can drink beer while playing ;) 
+Summary: Alicja has loved curling. Her brother loved it, too, but Filip didn't. They played on the national stadium. The ice for curlin isn't slippery, but you gest special slippers. Weronika, Alicja and Kinga will go curling together. 
+Dialogue: Tricia: Are you going to the party?
+Helen: No, I can't.
+Tricia: Why not? There will be all of us, plus Ben and Susie.
+Helen: Not this time. I need to finish the project. My boss will kill me if I put off the deadline once more. 
+Tricia: Can't you just pop in for one drink? It won't kill you and you'll take your mind off this damn thing for a while.
+Helen: Yeah, yeah... one drink. Trish, not this time. Sorry.
+Tricia: I'm sorry too. I've been counting on you.
+Helen: Don't make it worse, please. Can't you understand?
+Tricia: This mad workaholism? No, I can't. Can't you forget your job for one evening? Please?
+Helen: No :-( It's sink or swim for me.
+Tricia: Really? That serious.
+Helen: Really. Next time, Trish. I promise!
+Tricia: All right. If you say so. I'd like us all to stick together. But when there's always someone missing, it's difficult to keep it going.
+Helen: Next time, ok?
+Tricia: Ok. Do your best!
+Helen: Thanks. Have fun!
+Summary: Helen is not going to the party because she needs to finish a project.
+Dialogue: Jenny: Hey girl! What’s up?
+Audrey: hey you, I am doing great! And you?
+Jenny: good, good. So Nadia is getting married in two months, and we need to organise an awesome bachelorette party for her 💃. Are you in to do it in the last week of June?
+Audrey: Oh yass!! That will be great if we can also gather the other girls. Do you have anything planned yet? 
+Jenny: well I though about organising a spa day with the girls, a nice restaurant afterwards…. And of course we can party all night long somewhere.
+Audrey: that sounds great, she loves pampering herself! So a day at a spa is PERFECT! 
+Jenny: yeah thought so too. 
+Audrey: oh, we can buy some matching robes for us bridesmaids 😍and one in white for her… you know like the things we see on Instagram lol 
+Audrey: <file_photo> 
+Jenny: oh yeah, these are so cute she would love them. And we will buy her a cute crown… gotta make her feel extra special. 
+Audrey: haha 😹 yeah she’s so extra!
+Summary: Jenny enlists Audrey to help organise a hen party in the last week of June for Nadia who is getting married in two months. Jenny thinks about spending the day in a spa and going to a restaurant afterwards. Audrey suggests they buy matching outfits for them as bridesmaids and for the bride.

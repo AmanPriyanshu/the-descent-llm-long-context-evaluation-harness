@@ -1,0 +1,502 @@
+Dialogue: Amelie: where are you?
+Charlie: home
+Amelie: you're not going out?
+Charlie: I'm really tired
+Amelie: but we could just go for one/two drinks
+Charlie: but to do that we would have to go to the city centre 
+Charlie: and it would need at least 30-40min one way
+Amelie: it's true
+Charlie: and I have to get up early tomorrow
+Amelie: so maybe I'd just come over with a bottle of wine?
+Charlie: hmm, quite a nice idea
+Amelie: I could be there at 7PM
+Charlie: very good:)
+Amelie: I'll write you when I'm on the way
+Charlie: ok
+Summary: Amelie will come over at Charlie's at 7 PM to drink some wine. Charlie is too tired to go out in the centre.
+Dialogue: Will: Hey long time no speak :P .... you wanted to know about brandon and dom? x
+Sarah: gosh, it HAS been a long time! no one ever talks to me nowadays, its quite depressing :P o yeah, what hav brandon + dom been up to NOW? :P
+Will: LOllllll how've you been? 🙂 ... and they got caught with alot of drugs... they've been suspended for 7 weeks and the police are involved :P
+Sarah: your joking!! they're not that stupid are they?
+Will: yes they are :P
+Sarah: you seem awefully happy bout this - care to explain why?
+Will: because i hate them?
+Sarah: its not cos they stole your phone, is it?
+Will: My iPod and that's partly it. But they're really not very nice lads lol... Don't tell them I said any of this though :L
+Sarah: how can i? im not exactly best of chums either :P still, its best to hang out with people you can trust and who accept you for you 🙂
+Will: They're not my friends Sar :P i try and avoid them :P
+Sarah: i never said they were :P
+Will: loool
+Summary: Sarah and Will didn't speak for a long time. Their colleagues, Dom and Brandon got caught with drugs and they've been suspended for 7 weeks. Will hates them because they stole his iPod and they are not nice.
+Dialogue: Jerry: My phone is not working. If u need to reach me, text here
+Alexandra: It didn't like the swim?
+Jerry: Nope
+Alexandra: :(
+Summary: Jerry's phone is broken, so Alexandra should text him here.
+Dialogue: Melissa: Are you still in touch with Carol?
+Kevin: From time to time, why?
+Melissa: I need her recommendations but I barely know her
+Melissa: Maybe you could introduce us?
+Kevin: We are not friends
+Kevin: We talk only about the kids
+Kevin: Why don’t you talk to Martha, she’s a good friend of Carol
+Summary: Melissa needs Carol's recommendation. Melissa should talk to Martha. 
+Dialogue: Natalie: Hello :) Are u there?
+Mike: Hi my princess :*
+Mike: How is ur day?
+Natalie: Terribly.
+Natalie: I lost my wallet and all my cards ;(
+Mike: Oh… I'm so sorry. 
+Natalie: How did this happen?
+Summary: Natalie had a bad day because she lost her wallet and all her cards.
+Dialogue: Peter: Filipino would you be available for Intel that night? Around 10pm to midnight?
+Fili: On that day i am collecting someone from Cork Airport
+Fili: 10pm flight
+Peter: ok
+Fili: Before that OK
+Summary: Filipino is collecting someone from Cork Airport from 10 pm flight. before that he can be available for Intel. 
+Dialogue: Peter: Why are you not here?
+Liam: we had a little accident on the way
+Peter: what?
+Liam: nothing serious, but we will be late
+Sam: is everything ok?
+Liam: sure
+Jenny: nothing serious, really
+Summary: Peter is waiting for Liam and Jenny. They'll be late, because they had a little accident. They are OK.
+Dialogue: Don: Do you see me online?
+Alfred: Nope
+Don: Ok, something's wrong, I'll have to check my settings
+Alfred: Ok
+Summary: Don is not showing to Alfred as online. Don will check the settings.
+Dialogue: Jim: Hello, Ronnie. How can I help you?
+Ronnie: Hi! I need some help with my phone.
+Jim: Sure thing. What seems to be the matter?
+Ronnie: Well, the battery drain is really bad. 
+Jim: Can you describe the issue further?
+Ronnie: For the first 2 weeks it was fine but now the batter doesn't last for more than 4 hours on full charge.
+Jim: OK. Can you send me the battery usage data?
+Ronnie: Sure. <file_photo>
+Jim: I see you're using antivirus software?
+Ronnie: Yeah. Installed it some time ago.
+Jim: Have you tried changing its settings?
+Ronnie: How?
+Jim: Go into Settings, Device maintenance, Apps, Antivirus and settings. Check frequency settings.
+Ronnie: It's on high.
+Jim: That's probably the issue. Try changing it to lower settings. This should help.
+Ronnie: Thank you!
+Jim: No problem, you're welcome. Can I assist you any further?
+Ronnie: No, thank you.
+Summary: The battery drain in Ronnie's phone is bad. Jim advises to change frequency settings to lower.
+Dialogue: Tom: Are you home? A delivery guy just sent me a text that he'll be there in 15
+Julia: No, I'm at work as usual 
+Tom: Well, that sucks ... 
+Julia: I know, I'd rather be home as well :P
+Tom: Oh you know what I mean ;) 
+Summary: The delivery guy will be there in 15 minutes but Jula is still at work.
+Dialogue: Willow: have you fed Fluffy before you left to work?
+Dylan: of course I have
+Dylan: why do you keep asking this
+Willow: I'm just worried, you tend to forget about this :P
+Dylan: She's pretty fat, nothing bad would happen :P
+Summary: Dylan had fed Fluffy before he left for work.
+Dialogue: Donna: I gotta go check out this movie
+Bruce: What movie?
+Donna: Venom, you know new superhero one
+Bruce: With Tom Hardy?
+Donna: Exactly, I've been waiting so, so long for it
+Bruce: Really? What do you girls see in him?
+Donna: In this actor? I am not going to see this movie for him, come on:D
+Bruce: Yeah right, it's like saying that when Charlize Theron is on the screen it is completely irrelevant for men's attitude towards the movie:D
+Donna: hahahah what are you talking about:D I just really like Marvel stories
+Bruce: Oh I do to, I'm just teasing you babe
+Donna: You wanna go with me?
+Bruce: On a date to watch some handsome dude?
+Donna: Oh just stop it finally:D
+Bruce: hahaha sure I'll go with ya, probably there is gonna be some pretty lady there too, I'll be fine
+Donna: OMG one more word:D:D 
+Summary: Donna is eager to see the new superhero movie Venom with Tom Hardy. Bruce is surprised as to what girls see in this actor. Donna wants to see the film because she likes Marvel stories. She suggests that Bruce joins her. 
+Dialogue: Julia: What are you and Patrick up to tonight?
+Maria: I have this wonderful plan to go to bed at 9
+Julia: Seriously?
+Maria: Why?
+Julia: It's Halloween! It's girls dressing dirty not worrying about it and boys looking good in Han Solo costumes
+Maria: 9 still sounds good
+Julia: Loser.
+Maria: <3
+Summary: Maria and Patrick are going to bed at 9. It's Halloween.
+Dialogue: Cynthia: Hiya, do you know where I can have passport photos taken?
+Amanda: Any boot will do I think? post office, Boots etc?
+Cynthia: Oh sorry, I meant for the kids, I'll never get them to comply with those boots!
+Amanda: No that would be hard! wriggly little things...
+Amanda: erm I think maybe Tesco has a photo service in the back of the shop
+Cynthia: aren't they just print machines?
+Amanda: No they have a little desk with a little man behind it
+Cynthia: the little photo man? 🤣 🤣 🤣 
+Amanda: that's the one 👍 🤣 
+Amanda: there is also a photo shop in keynsham who will take pp photo's
+Cynthia: on the high street?
+Amanda: yes, we have been there a few times, theyre great with kids!
+Cynthia: better than the little man? 🤣 
+Amanda: probably! 😂 
+Cynthia: Cool I'll venture to Keynsham
+Cynthia: Are you allowed to countersign PP photos?
+Amanda: Yes, I think so
+Cynthia: Awesome. Would you mind? 
+Amanda: of course, no problem!
+Cynthia: Are you around over the weekend for me to pop over? I'll hopefully have the pics by then.
+Amanda: yeah no worries, we are away on Saturday but in on Sunday
+Cynthia: Great thank you so much. 
+Amanda: are you staying for lunch? Ben would love to see the kids!
+Cynthia: Oh yes please, lovely!
+Amanda: Great, 11?
+Cynthia: perfect, see you soon!
+Summary: By Amanda's recommendation, Cynthia will have the passport photos of the kids taken in the photo shop in keynsham. Cynthia will drop by at Amanda's on Sunday at 11 to countersign PP photos.
+Dialogue: Jeffrey: Have you found the book?
+Juliet: Nobody seems to have it. But I know I lent it to somebody.
+Jeffrey: I check again at home. I don't have it, I am sure.
+Juliet: Thanks a lot. My grandma used to say "neither a borrower nor a lender be."
+Jeffrey: I'm really sorry about that. Let me know if you find it.
+Juliet: I will. Thanks
+Summary: Juliet cannot find the book she lent to someone. Jeffrey doesn't have it.
+Dialogue: Billy: are you coming later
+Mandy: yeah, i'm coming, but ill pass at the supermarket first
+Mandy: but i wont be late
+Billy: cool
+Summary: Mandy will come to Billy's after her shopping at the supermarket.
+Dialogue: Kane: Hey
+Kane: I'mm lokking for someone from HR
+Hank: What do you need?
+Kane: I'm starting a project and I need some input 
+Hank: Can you give me some more details
+Kane: not at this point sorry
+Hank: could be difficult if I don't have any details 
+Hank: anything I could pass along to this person?
+Kane: the project will start in March 2019
+Kane: This person can work with us online
+Kane: would just need to come to 3 meetings
+Kane: first meeting is January 6th
+Hank: Ok, I think Maya could be someone who could be interested
+Kane: oh and this person has to have experience in finance
+Hank: ok, so Maya is out
+Hank: Maybe Peter will be up for it
+Hank: I'll ask
+Kane: Thanks
+Hank: what are you willing to pay?
+Kane: that's negotiable
+Hank: Ok I'll ask and let you know 
+Summary: Kane is looking for an HR person experienced in finance. Kane needs him or her to start from March 2019. Hank will ask Peter if he's interested.
+Dialogue: Albert: Good evening, I am writing in connection with the advance payment which I transferred before the first lesson in your sports’ club. 
+Albert: It was impossible for me to attend lessons this year.
+Benjamin: Good evening, pursuant to the rules of procedure, we are unable to return your advance payment. We checked that your last visit at our club was one year ago.
+Albert: Can I count on some partial return of my advance payment?
+Benjamin: I’m afraid we cannot return any sum transferred to us at that time. I invite you to read the regulations available on our website.
+Albert: Ok, thank you very much.
+Benjamin: You’re welcome
+Summary: Albert is a member of a sports’ club. He wants a partial return of his advance payment. Benjamin says that the club is unable to return any money.
+Dialogue: Elena: Let's meet at the bar downstairs in 15 min
+Jerry: Perfect, I want to leave as soon as possible
+Elena: so maybe in 5min?
+Jerry: Yes!!!
+Summary: Elena and Jerry will meet at the bar in 5 minutes.
+Dialogue: Joey: she took fries off of my plate >.<
+Phoebe: joey don't be a baby
+Joey: JOEY DOESN'T SHARE FOOD
+Phoebe: pfftt..
+Summary: Joey is unhappy cause she took food of his plate. 
+Dialogue: Wendy: Hey, Pam has her birthday on 24th.
+Diana: Hey Wendy, yes I remember.
+Wendy: I want to make her happy😉
+Diana: I was thinking of a big cake, decorations, inviting close friends.
+Wendy: Surprise party? Oh I see! 😎
+Diana: Yeah, I'm sure she won't do anything by herself.
+Wendy: That might be true. Let's invite people, and think of a plan on how to arrange this.
+Diana: We can come to her place and after some time we'll tell her to go to the store.
+Wendy: Yes, and when she's gone we will let people in, brilliant! 😎
+Diana: It's gonna be legen-wait for it-dary. 😎 
+Wendy: Hope it all works out. 😎 Gotta go. Speak soon.
+Diana: Sure, take care.
+Summary: Wendy and Diana are going to throw a surprise party for Pam. The event will take place at Pam's. They will invite her close friends.
+Dialogue: Hank: How's it going?
+Tom: Like blood from a stone mate!
+Tom: Been struggling with the damn pump all day.
+Hank: Damn!
+Tom: Yeah and I'm still no closer to a solution.
+Hank: What's been going on with it?
+Tom: It kinda works and pumps the water out but it doesn't produce enough power to pump it out through the hose.
+Hank: Air bubbles?
+Tom: Yeah, I thought that too but I'm not so sure now.
+Hank: Have you tried throwing it into the pond and wiggling it around to see if you can dislodge the air bubbles.
+Tom: Yeah, been there done that.
+Hank: And...
+Tom: Seems to work for a moment then you put it back in the sump and we're back to square one.
+Tom: I thought of taking it apart to see if maybe the turbine needs cleaning out.
+Hank: If you can help it please don't do that as it might invalidate the warranty.
+Tom: Might need to do that because I think I've exhausted every other option.
+Hank: Wait until I come home and I'll see if I can manage to get it going.
+Tom: OK.
+Hank: I'll be home by 7pm.
+Summary: Tom's pump doesn't work properly. It sucks the water in but pumps out just the air bubbles. Nothing helps. The pump is still on warranty. Hank will be home at 7 pm and will check the pump. 
+Dialogue: Todd: hey, you there?
+Adam: will be in 5 minutes. at the store atm
+Todd: cool, can you buy me a red bull and a pack of marlboro lights?
+Adam: sure. anything else?
+Todd: a lighter :)
+Adam: :)
+Summary: Todd asked Adam to buy him an energy drink, cigarettes and a lighter.
+Dialogue: Devin: have you been watching that crime show i recommended?
+Johnny: i have and i'm obsessed with it \ (•◡•) /
+Johnny: it's sooooo good, so well done
+Devin: how many episodes are you in?
+Johnny: i'm on episode 3 where marco finds out the murder weapon
+Johnny: i could not believe the twist!!!
+Devin: wait til you get to episodoe 9
+Devin: your head will explode! lol
+Summary: Johnny's on the third episode of the crime show Devin's recommended to him. Johnny's astonished by the action twist but Devin assures that the episode 9 will be a shocker for him.
+Dialogue: Jessica: I heard you got caught during the exam.
+Gareth: ya... that sucks
+Jessica: I told you, don't mess with her.
+Gareth: cmon, it was impossible to learn everything
+Jessica: at least you could have tried
+Gareth: no, I had a shift yesterday
+Jessica: but you knew about the exam from the beginning.
+Gareth: you're not helping...
+Summary: Gareth got caught cheating in the exam.
+Dialogue: Farah: hey girl? i am waiting for my money
+Emma: oh yes sorry i forgot
+Farah: please send me money i need it.
+Emma: yes yes sure i am out as soon as i get home i will transfer... dont worry 
+Farah: yes please when you do send me message.
+Emma: ok sure.
+Summary: Emma owes Farah some money and she's going to send it back today.
+Dialogue: Heather: Eh, I've been thinking recently...
+Joe: Is something the matter?
+Heather: It's nothing really, just that... well
+Heather: Social media seem kind of scary to me these days
+Heather: It feels like the internet used to be a better place
+Heather: But I'm not sure any more if it's just a typical case of thinking things were better when you were younger, not noticing some things... or a legit thing
+Joe: Oh...
+Heather: I mean sure, there were some bad things, but, uh, how do I explain it
+Joe: Take your time
+Heather: On Twitter, for example, there's millions of people, so if you post something someone doesn't like, it can blow up for some reason
+Heather: And you could be bullied by complete strangers who know NOTHING about you
+Joe: Right... :/
+Heather: I know people could harass you in the past, too, but it feels like there was more of smaller communities compared with current social platforms
+Heather: So you'd feel safer... I must say it's kind of scary when I think about it
+Joe: You have a point but I don't think you'd post anything controversial enough for that to happen! Don't worry about it too much 
+Heather: Well, some of my friends have received death threats over minor things, so I'm not so sure lol
+Joe: ...How did it come to this, eh...
+Summary: Heather thinks that the Internet is a scary place today. Some of her friends have received death threats.
+Dialogue: Dean: check out Sophie's new profile picture
+Dean: <file_photo> sweet
+Matt: omg that ass
+Dean: I know right
+Matt: I'd do her
+Dean: you'd do anyone
+Matt: <file_gif>
+Matt: <file_gif>
+Matt: <file_gif>
+Dean: that's too much even for me
+Dean: You need to get checked by a professional :P
+Matt: I like big butts and I cannot lie
+Dean: anyway...
+Dean: what's the plan for tomorrow?
+Matt: Oh I can't, forgot to tell you
+Matt: Dad asked me to help him with his car
+Dean: Pity
+Matt: I know
+Dean: call if you need help!
+Matt: thanks <file_photo>
+Dean: Duuuuuuuuuuuuuuuuuude
+Summary: Dean and Matt like Sophie. Tomorrow Matt is helping dad with his car. 
+Dialogue: Hetty: do you know how I can get an app on the ipad from internet
+Alfred: through the app store
+Hetty: no I mean if you are already on a site
+Alfred: what site?
+Hetty: if you are on a website and you want to make it an app
+Alfred: oh like a shortcut to a link
+Hetty: yeah that
+Alfred: when you are on the website there is a square with an arrow at the top
+Hetty: hold on, just opening the website
+Hetty: where is the square?
+Alfred: In the top right somewhere
+Hetty: where? I can't see it
+Alfred: <file_photo>
+Hetty: oh yeah, got it
+Alfred: if you look in there there should be a button called add to home screen or link to homescreen or something
+Hetty: hold on
+Hetty: is it in more?
+Alfred: No I don't think so, bottom row I think
+Hetty: oh yeah I found it
+Alfred: then give it a name and off you go!
+Hetty: oh wow, thanks lovely xx
+Alfred: no worries mum
+Alfred: what site are you on anyway
+Hetty: in my Hotmail but that has  a link already!
+Hetty: where?
+Alfred: the envelope in the bottom row of your ipad!!!!
+Hetty: oh is that my Hotmail? I didn't know!
+Alfred: there you go, learned two things!
+Hetty: thanks lovely xx
+Summary: Alfred helps his mother Hetty create a shortcut to a link in her Hotmail.
+Dialogue: Anna: Bodyguard got nominated for a Golden Globe! I love that show!
+Heidi: Me too! And he is hawt!
+Anna: Oh yeah!
+Heidi: Do you really think she died or were they protecting her?
+Anna: Nope. I think she really died.
+Heidi: I'm kind of rooting for the wife and kids, so...
+Anna: You would! But me too.
+Heidi: Hope there's another season. 
+Anna: Yeah, but have him guarding a real jerk!
+Heidi: I know. Everyone was invested in the PM, she was cool.
+Anna: She didn't really agree with the war stance he had, though.
+Heidi: Two different perspectives.
+Anna: True. Still, I hope it wins.
+Heidi: Me too!
+Summary: Bodyguard got nominated for a Golden Globe. Anna and Heidi hope for another season and hope the series will win.
+Dialogue: Ezra: Hey! :)
+Ezra: Can you send me the recipe for this greek soup you made for your housewarming party? It was a-freaking-mazing! :D
+Jason: Hi! Glad to hear that! :-) Sure, why not.
+Jason: <file_photo>
+Ezra: Thank you!
+Ezra: What is the difference between green and red lentils?
+Ezra: Which one should I use?
+Jason: Red lentils have shorter cooking time, but they tend to turn out mushy. Green lentils, on the other hand, are firmer after cooking than red lentils, but it takes more time for them to cook completely.
+Jason: I usually use green lentils.
+Ezra: Ok, thanks!
+Ezra: I have one more question: what have you written under the list of ingredients?
+Ezra: I can't decipher your writing. :)
+Jason: '1 tbsp. of red wine vinegar'
+Jason: Is everything clear now? :)
+Ezra: Crystal clear! Thanks once again! :)
+Jason: You're welcome. :)
+Summary: Jason shares his greek soup recipe with Ezra. Ezra loved the soup. Jason explains him the difference between green and red lentils.
+Dialogue: Mum: Hello darling, do you have the tickets for the cinema, or will I get them?
+Rob: Hi Mum xx dont worry Sally is getting them while she is down the quays
+Mum: ok thats fine, did you manage to get to the doctors?
+Rob: Yes I went this morning
+Mum: What did they say?
+Rob: Well she said it looks like rotatory cuff damage.. she said I need physio first
+Mum: wont that make it worse?
+Rob: Well it does hurt when I move it but I have to go physio first before they will consider an operation
+Mum: oh right
+Rob: she has booked me an xray so the physio know what they re working with
+Mum: when is that for?
+Rob: Should be in the next week or so
+Rob: she said they would call me and write to me
+Mum: Well hopefully they wont take long darling
+Rob: me too
+Mum: I'll call you later xx
+Rob: ok Mum xxx
+Summary: Sally will get the cinema tickets when she is down the guays. Rob went to the doctor this morning about his rotatory cuff damage. The doctor ordered him to have an xray before an operation is considered. He should have it next week. 
+Dialogue: Vicki: Happy birthday, Patricia! I wish for you to always be happy and have loving people around you :) Hope Archie brings you flowers every day! Always be yourself and never change, sweetheart :* All the best!
+Patricia: Thank you so much, Vicki :* Haha, Archie and flowers, bitch please :D
+Vicki: Just wanted to be nice to you :D 
+Summary: Patricia has her birthday and gets birthdays wishes from Vicki.
+Dialogue: Lia: what is going on in the streets?
+Amanda: they're protesting
+Mary: yes, nothing we can do about it
+Lia: the traffic is unbearable today
+Jenny: I know
+Lia: what is it about?
+Amanda: the price of fuel, against the 25% rise
+Lia: right, that's harsh
+Lia: is it only Conakry or also other places?
+Amanda: only Conakry I think
+Lia: ehhh
+Summary: People are protesting against the 25% rise of the fuel's price. That's why there's a huge traffic on the Conakry streets today.
+Dialogue: Max: I'll be late
+Sylvia: why:
+Max: beer with Tom
+Sylvia: ok
+Summary: Max will be late because he is having a drink with Tom.
+Dialogue: Robert: Have you seen the news?
+John: Yup. You looked cool describing how you break the law driving like insane idiot xD
+Robert: Oh come on. You say you always obey the law? >:-)
+John: There is a difference in crossing the speed limit by 10 km/h and 100 km/h
+Robert: One zero here, one zero there Doesn't matter.
+John: Ehh. I'm amazed that you're still alive xD
+Summary: Robert was on the news describing how he breaks the law while driving. John saw it. For John driving insanely fast is fine.
+Dialogue: Alba: I’m sitting in the train
+Alba: Still 1 hour
+Norbert: What time did you get on the train?
+Alba: At 12
+Norbert: That’s a long ride
+Alba: I should arrive at six
+Alba: It’s a slow train
+Alba: It stops in every little village
+Norbert: Why didn’t you take the fast one?
+Alba: It was sold out
+Alba: I could book the fast one for tomorrow
+Alba: Or go today with the slow one
+Alba: And I didn’t want to spend another night in Lopburi
+Summary: Alba should arrive at 6 as she picked the slow train. She didn't want to spend another night in Lopburi and the tickets for the fast one were sold out.
+Dialogue: Rick: hi mate
+John: yo
+Rick: are u up to going out today?
+John: yeah why not
+Rick: any ideas?
+John: wanna check out his new club?
+Rick: which one?
+John: <file_other>
+Rick: looks interesting, lets do that
+Summary: John and Rick will go to a new club today.
+Dialogue: Jasmin: I'm organising our bills
+Jasmin: I gathered all I found around the house
+Patrick: Cool
+Jasmin: And I have a few which I don't know where to put 
+Jasmin: <file_photo>
+Jasmin: Is it a medical bill?
+Patrick: It's my insurance that I need to pay
+Jasmin: I'll put it with the medical bills. Later you can rearrange it
+Summary: Jasmin organized hers and Patrick's bills. She will put the insurance bill with their medical bills.
+Dialogue: Juliet: Hey. I can't come today for the class. We can meet one day and practice our song
+Eva: Yes, don't worry, I won't come too
+Juliet: Hahah. Ok
+Summary: Neither Juliet nor Eva will come today for the class. They can meet some other day to practice their song.
+Dialogue: Kelly: Amazing Peppa Pig cake for my 3-year-old birthday girl!
+Joanna: totally awesome!
+Ben: wish it was my birthday! haha!
+Karen: did you do it yourself?
+Kelly: i did.. ordered it myself! ;)
+Daniel: let us know if it's as good as it looks! x
+Summary: Kelly has a Peppa Pig cake she ordered for her daughter. Joanna, Ben, Karen and Daniel agree it looks amazing.
+Dialogue: Rory: Hey, what's up?
+Dale: Trying to get our of bed. you?
+Rory: slept better today?
+Dale: Oh yeah, new sleeping pills work great
+Rory: I'm so freaking cold, freaking Spanish with their poor isolation ;)
+Dale: damn, you should get a small heater or sth
+Rory: my flatmate has one, I'm just looking for an opportunity to nick it ;)
+Dale: That's the spirit! I hate the cold
+Rory: Me too:/ Makes me soooo lazy
+Dale: It's okay for you to be lazy one day. You're usually hyperactive ;)
+Rory: Yesterday I had to go pick up my car and totally froze my ass off. Rewarded myself with banana bread ;)
+Dale: Damn, I wish I were you. It's 9.30 and I'm still in bed having coffee
+Rory: I didn't get up until 12.30 today. and only because I had to go to the office... Then I promised myself I'd get some shit done but all I'm thinking is blankie and Netflix 
+Dale: Sounds like a terrific idea ;)
+Rory: Any recommendations?
+Dale: Saw the new Clinton documentary. Mini series. Interesting but not very relaxing ;)
+Rory: I've been watching The Sinner. Do you know it?
+Dale: Don't think so?
+Rory: 1st season was amazing, the second is just okay but still good. It starts with a murder. You know who did it but the way they investigate it is really interesting
+Dale: I'll check it out. Is it scary?
+Rory: not at all ;)
+Dale: If you want a funny one, try Curb Your Enthusiasm. Weird and dry sense of humor but it cracks me up
+Rory: With Larry David? I think I've seen some random episodes 
+Dale: It takes some time but now I think it's hilarious. Give it a go from the beginning, maybe you'll like it better
+Summary: Dale's new sleeping pills are working well. Rory is cold all the time and hates it as it makes him lazy. Dale finds the new Clinton documentary interesting and recommends the comedy series "Curb Your Enthusiasm" to Rory. Rory recommends an investigative series "The Sinner".
+Dialogue: Peter: <file_photo>
+Josh: what is it?
+Peter: you don't get it?
+Josh: ah... another racist content
+Peter: damn, you are right
+Josh: Can you stop sending me this bullshit
+Peter: What the hell is wrong with you, are you kidding?
+Josh: Yes, hahah, give me more
+Peter: <file_photo>
+Josh: That one is better
+Peter: You almost got me with this joke
+Josh: Cuz ya stupid
+Peter: Shut up <file_photo>
+Josh: <file_photo>
+Summary: Peter sends Josh racist content. Josh is joking.

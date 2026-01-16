@@ -1,0 +1,342 @@
+Dialogue: Kiko: Ok, so we need to decide who's preparing what.
+Gigi: I can do the map.
+Kia: I'm up for the landmarks.
+Kiko: Ok, so I can prepare the notes for each landmark.
+Gigi: Empire State Building?
+Kia: MoMA, The Statue of Liberty, Rockefeller Building
+Kiko: Brooklyn Bridge
+Gigi: Central Park
+Kiko: Ok, 7 pm at my place?
+Kia: OK
+Summary: Gigi is doing the mand, Kia - the landmarks and Kiko - notes for the landmarks. They meet at 7 at Kiko's.
+Dialogue: Felicia: Which one do you think is better, Multikino or Helios?
+Eva: Well, I'm not really a fan of cinemas tbh
+Eva: Everything there is too expensive, from a movie ticket to popcorn...
+Eva: But if you ask me, I'd be rather in favor of Helios
+Felicia: Sure, I agree
+Felicia: They're trying to rip us off at every turn...
+Felicia: But it's nice to see a good movie on a big screen with all the sound effects once in a blue moon
+Eva: Definitely
+Eva: What movie are you going to watch?
+Felicia: Halloween, it's the in-thing now :)
+Eva: I see. Enjoy ;)
+Summary: Felicia and Eva are not fans of cinemas as they consider them overall too expensive. If Eva had to choose, she would prefer Helios over Multikino. Felicia is going to watch Halloween.
+Dialogue: Brad: Hi. I'm messaging you about the room to rent. Is it still available?
+Andy: Yes it is. Do you know where we're located?
+Brad: Yeah. I drove by this morning and I liked the location. What's the rent?
+Andy: It's $650 a month. So you would pay $325 a month plus half of the bills.
+Brad: How big is the place?
+Andy: It's a two bedroom, one bath and roughly about 800 square feet.
+Brad: Is the complex pretty quiet? Can you hear a lot of noise or anything like that?
+Andy: They have a strict policy in the apartment complex concerning noise level. So it stays very quiet after 10 PM.
+Brad: Are you the only person who lives there now?
+Andy: Yeah. I'm only looking for one roommate.
+Brad: Everything sounds good. Can we schedule a time to meet so I can look at the place?
+Andy: I'm available anytime today or tomorrow.
+Brad: How about if I come over now?
+Andy: That works with me. But what is your name?
+Brad: Oh sorry, my name is Brad.
+Andy: Ok. I'm Randy. So I'll see you in a bit?
+Brad: Should only take about 15 minutes to get there.
+Andy: Sounds good.
+Summary: Brad is interested in renting a room in Andy's apartment. Brad and Andy are meeting up in 15 minutes.
+Dialogue: Jorge: Hello everyone, thank you for volunteering to help out. I believe all the questions have been answered already but I'm here if anyone has any doubts.
+Daniel: Hi, always happy to help and looking forward to this Sunday!
+Marge: Hello! @Jorge - can we still bring someone in to the even or is it too late?
+Jorge: Dear Marge, we are always looking for volunteers but I think we have currently all positions filled in! However, we will be starting another round next month, let your friends know! 
+Summary: Jorge thanks the voluneers for their wilingness to help. Daniel is looking forward to this Sunday. Marge wants to take additional volunteer with her, but all the positions are already taken.
+Dialogue: Eric: Wya?
+Eve: College Green
+Eric: stay there, I'll pick you up
+Eve: <3
+Summary: Eric will pick Eve from College Green.
+Dialogue: Cedric: bro, i know you must be mad at me?
+Suarez: haha, you bet i am
+Cedric: ill bring your flashdrive tomorrow. i forgot yesterday
+Suarez: okay then, give it to Nolito if you dont find me
+Cedric: Ok, i will
+Suarez: haha, if you forget ill strangle you
+Cedric: haha, i wont
+Suarez: hehe, you bettter not
+Summary: Cedric will bring Suarez's flash drive back tomorrow. If Suarez is not there, Cedric will give it to Nolito.
+Dialogue: Theresa: I'm leaving soon, I cannot wait anymore
+Maria: give us 5 more minutes
+Doris: We will go there by car, will be faster anyway
+Theresa: ok, but it's your last chance
+Summary: Theresa is leaving soon. Maria asks for 5 more minutes. Doris will go there by car because it's faster.
+Dialogue: Theo: I loved your outfit today
+Luke: Thanks ;-)
+Theo: You're always so stylish 
+Summary: Theo compliments Luke on his today's outfit.
+Dialogue: Greg: want some spaghetti?
+Anna: always! 
+Greg: come downstairs 
+Summary: Greg invites Anna for spaghetti.
+Dialogue: Jane: Thank you for contacting custommer support
+Jane: how can I help you?
+Irene: Hello
+Irene: I wanted to talk to you about my order
+Jane: yes ofcourse
+Jane: how can I help you
+Irene: I'm missing an item
+Jane: Im sorry to hear that
+Jane: Which item is missing?
+Irene: the vanilla hand cream
+Jane: Would you like me to ship a replacement or would you prefer a refund?
+Irene: a replace ment please
+Jane: Ok, would you please give me your shipping info
+Irene: Irene Chelsea, 675 ave. Chicago IL
+Jane: Ok Someone will contact you with hte shipping details as soon as they are available
+Irene: Thank you!
+Summary: A vanilla hand cream is missing from Irene's shipped order. She contacted customer support about it. They will send her a replacement.
+Dialogue: Isabel: the conjuring or the exorcist?
+Darcey: exorcist
+Tilly: exorcist
+Aisha: exorcist
+Isabel: ok 3:0, the exorcist wins :D
+Summary: Isabel wants Darcey, Tilly and Aisha to decide on the film and the winner is The exorcist.
+Dialogue: John: Hello! I've been thinking about becoming a programmer for quite a long time and would appreciate a piece of advice from you guys. Thanks!
+Victoria: Hi John! What would you like to know? :)
+Alex: yeah what kind of programmer? back end front end?
+John: I don't know yet, I can't decide
+Alex: great start man hahahaha
+Alex: u know the difference?
+John: I do, I'm not sure I'd be better at
+Victoria: In my opinion, it depends on your character and what you enjoy doing
+John: But I don't know any programming languages yet
+Mike: i don't get it, you said you were thinking about for a long time and still haven't even tried?
+Alex: my advice - get on with it!
+Victoria: Well, do you prefer more technical stuff or... design? If you know the difference back-end and front-end, this is a thing you should figure out by yourself
+Mike: Try different websites with free online courses
+Mike: I started just trying stuff until I finally liked something
+Victoria: Yeah, I'm more into front-end, but... I don't know, you should just feel it
+Patrick: Hm, any websites you can recommend?
+Alex: <file_other>
+Victoria: for front end <file_other> and <file_other>
+Summary: John wants to become a programmer. He does not know any programming languages yet.
+Dialogue: Patrick: Dear Harry, could you present something in our seminar in May?
+Harry: Sure, I would be honoured! 
+Patrick: Do you have any idea what it could be?
+Harry: I am currently working on the Troubles in Northern Ireland. I could talk about violence.
+Patrick: Perfect! That would match our general topic.
+Harry: It's what I thought.
+Patrick: We're focusing more on the state violence: army, police and we're paying a lot of attention to the gender aspect, especially different construction of masculinities.
+Harry: I see.
+Patrick: Do you think you could do something like that?
+Harry: Sure, I cannot think about a better case study than Northern Ireland.
+Patrick: Great! Do you know Sean Brady from Birckbeck University?
+Harry: Sure I know his work, although I have never met him.
+Patrick: His works will be very helpful for you
+Harry: Yes, they have already been.
+Patrick: And I want to present you to Sean after the seminar
+Harry: That would be very nice of you.
+Patrick: ok, let's be in touch here
+Harry: Of course, have a good day.
+Summary: Harry is going to present something  in Patrick's seminar in May. Seminar main topic is state violence. Patrick will introduce Harry to Sean Brady after the seminar. 
+Dialogue: Steve: Are we going for a swim today?
+Nick: Sure, what time?
+Steve: Right after work?
+Nick: Perfect, I'm off at 5.
+Steve: I finish at 4 so I'll be at your office at 5 pm and we'll take my car.
+Nick: Sure, what about Jackie?
+Steve: She can't today, it's only going to be the two of us.
+Nick: ok, will you take my stuff?
+Steve: sure, where is it?
+Nick: in my room - on the bed, I have everything prepared
+Steve: OK
+Nick: Wanna grab sth to eat afterwards?
+Steve: sure, burgers?
+Nick: great, there's this new place I wanted to try out.
+Steve: It's a plan then
+Nick: OK, gotta go back to work
+Steve: Sure, see ya in 5 hours ;)
+Nick: see ya
+Steve: <file_gif>
+Nick: LOL
+Summary: Steve and Nick will meet at 5 PM at Nick's office and go swimming together. Steve will take Nick's stuff from his room. They will go for burgers at a new place afterwards.
+Dialogue: Mom: clean your room!
+Derek: later
+Mom: do it now
+Derek: don't have time
+Mom: do it or I will!
+Derek: ok,ok I'll do it today
+Mom: :)
+Summary: Mom wants Derek to clean his room now and in the end he agrees to do it today.
+Dialogue: Aria: <file_other>
+Aria: amazing song :)
+Isabelle: wooooow <3
+Eliza: beautiful voice *.*
+Eliza: give me goosebumps
+Summary: Aria sent Isabelle and Eliza a song. They all love it. 
+Dialogue: Gloria: Happy birthday, uncle Tom!!!
+Uncle Tom: Thank you sweetness. So kind of you to remember. Will you pop in and have a drink with me? Would be nice.
+Gloria: Yes, I will.  At around 6-ish? And I may need a drink too.
+Uncle Tom: What is it? Brokenhearted?
+Gloria: Sort of. Just split with my boyfriend.
+Uncle Tom: So sorry to hear it. But there will be another boyfriend I'm sure.
+Gloria: But I really really like that one! I miss him.
+Uncle Tom: You'll tell me all about it when you are here. OK?
+Gloria: Will we be alone? Probably not.
+Uncle Tom: I don't know. Why don't you come earlier? Nobody will show up before 5.
+Gloria: Then I'll come at 4.
+Uncle Tom: Do so!
+Summary: Gloria will visit Uncle Tom, because he has birthday. They will talk about Gloria's breakup with her boyfriend. She will come at 4pm.
+Dialogue: Kate: Mom, you there?
+Carol: Yeah, honey, what's up?
+Kate: Where's dinner?
+Carol: There's no dinner, I didn't have time, just order what you want, money is on the counter
+Kate: Dope! thanks mom
+Summary: Kate's mom had no time to prepare the dinner, so she left her money on the counter to order something.
+Dialogue: Terry: I need your email addresses to send presentation
+Joe: here goes mine joe@bubblegum.net
+Terry: Seriously lol
+Mindy: mindy.d@yahoo.com
+Jake: happypotatoe@gmail.com
+Terry: even better lol
+Jake: hahaha I don't want any spam like this on my work emails
+Terry: Oh sure thing:D It's probably pizza@orderme.com
+Jake: hahahaha you got me bro lol
+Summary: Terry will send Joe, Jake and Mindy a presentation. Joe's email is joe@bubblegum.net, Mindy's: mindy.d@yahoo.com and Jake's: happypotatoe@gmail.com.
+Dialogue: Alice: Hi Mary, It's Alice.
+Mary: Do you change mobile number?
+Alice: No it's my mom phone. My mobile is broken.
+Mary: What happened?
+Alice: I dropped it into the bath :(
+Mary: What?! You are crazy!
+Summary: Alice dropped her mobile phone into the bath and it's broken.
+Dialogue: Stef: Hi my dear, just to tell you that Dave's dad died yesterday. What do think about sending some flowers?
+Marion: Good idea, you can count on us
+Stef: Thanks for you quick answer
+Marion: you have to order them today, don't you?
+Stef: done,I make an order on interflora and signed for both of us
+Marion: Thanks so much. Tell me how much I owe you, and I'll make a transfer
+Stef: <file_photo>
+Marion: done. I make the transfer on Nick's account. 
+Stef: great. Talk to you soon
+Summary: Dave's dad died yesterday. Stef has made an order on interflora signed for herself and Marion. Marion will transfer what she owes Stef to Nick's account.
+Dialogue: Kit: Back. Sry.
+Amanda: NVM! Gossip! Now!
+Kit: Fine ;) ur needy ;)
+Gale: Kit! Pls!
+Kit: You know Jake, the freshman?
+Amanda: Which one is it?
+Gale: Tall, broad shoulders, nice lips, deep, blue eyes, veeery handsome
+Amanda: Oh! That one! Half the school is in luv with him!
+Kit: Ik! And have gossip about him! A little bird told me he's got a sweetheart ;)
+Summary: Half the school is in love with Jake.
+Dialogue: Oleg: Are you ok? I don’t know if youre angry at me or sth
+Dakota: I was busy for a few days then I realized I’m better off without you
+Oleg: -_- Are you fucking kidding me
+Dakota: It’s true, I don’t want to talk to you
+Oleg: What the fuck did I do to you?
+Dakota: I’m not going to explain you that
+Oleg: One day youre laying in bed with me, cuddling and the next youre telling me youre better off without me wtf
+Dakota: Shit happens
+Oleg: you are the reason guys treat girls like shit
+Dakota: Oh am i
+Oleg: I shouldve just kick you out after fucking you
+Dakota: youd really do that
+Oleg: after all I did for you, you say sth like that
+Dakota: pls just leave me alone
+Oleg: I hope you get pregnant
+Dakota: read what you wrote again, thanks for convincing me I was right about you
+Oleg: you are never right if I told you half the truth you wouldnt deal with the reality
+Dakota: Goodbye
+Summary: Dakota doesn't want to talk to Oleg. She believe she is better off without him. Oleg is angry at Dakota. Oleg hopes Dakota will get pregnant.
+Dialogue: Ian: i can't meet today bros, i forget i have a date with Lucy
+Chase: ah man can't you reschedule?
+Tyler: dude that sucks
+Chase: or just tell her you are not feeling well
+Chase: you can't ditch us dude
+Ian: sorry boys, i am just on my way to pick her up, forgive me :<
+Summary: Ian has a date with Lucy and is on his way to pick her up. Neither Chase nor Tyler are happy about it.
+Dialogue: Ala: did you see it?
+Ola: see what
+Ala: <file_photo>
+Ola: ...
+Ola: is it for real?
+Ola: wtf
+Ola: is it photoshop?
+Ala: I don't think so
+Ola: i mean seriously, wtf
+Ola: how could he did it to me
+Ala: sorry you learned this way
+Ola: im going to kick his ass 
+Ola: after all of what i did for him
+Ola: now im going to do things to him
+Ala: relax, just take a breath, don't rush
+Ala: let's go for a beer
+Ala: then we can talk about it
+Ala: maybe it's nothing serious
+Ola: I dont wanna drink
+Ola: lets go to the club
+Summary: Ola is upset with him. Ala wants to cheer Ola up. Ola would like to go to the club.
+Dialogue: Ernie: im fed up with ppl
+Jeremy: then y ru texting me
+Ernie: cause yknow
+Ernie: your special in a way 😝
+Jeremy: lol dude so gay 😂
+Summary: Ernie is fed up with people, but considers Jeremy his special friend.
+Dialogue: Emsi: Im watching this new crime series
+Emsi:'The Mentalist'
+Emsi: I love it! Have you seen it?
+Katie: no, Im afraid
+Martie: I've heard of it only, but never seen
+Emsi: Omg, girls! It's fantastic!
+Emsi: and this actor in the leading role is soooooo good lookin!
+Katie: ok, now I know why you like it so much 
+Katie: ;)
+Emsi: :D
+Martie: I guess that's Patrick Smith in the leading role, right?
+Emsi: I guess thats his name
+Martie: oh yeah, Hes quite good looking I guess
+Emsi: Very!
+Katie: :D
+Summary: Emsi's watching "The Mentalist" and likes the actor in the leading role. Katie and Martie haven't watched it. 
+Dialogue: Sophie: hi! how are you?
+Sarah: Hi! I'm fine, thanks. And you? Btw Jack (my bf, I told you about him) told me that he knew you! You apparently attended the same high school! :)
+Sophie: Omglol
+Sophie: i don't remember him at all
+Sophie: send me a picture of him
+Sarah: <file_photo>
+Sarah: As far as I know he looks a lot different now. Back in high school he had long hair, reallyyyy bad acne and he didn't have a beard.
+Sophie: LOL I KNOW HIM!!!
+Sarah: it's a small world, isn't it :D
+Sophie: say hi from me! :)
+Summary: Jack, Sarah's boyfriend, told her that he went to high school with Sophie. Sophie recognized Jack from a photo sent by Sarah.
+Dialogue: Frederick: hey, so how was Eivør concert last night?
+Amelie: Oh Fred
+Amelie: it was pure magic! Simply wonderful
+Amelie: you srsly lost great performance!
+Frederick: such a pity I couldn't come, but I needed to stay at work :/
+Amelie: She was simply stunning, her voice, her show
+Amelie: In my opinion she sounds even better live
+Frederick: were there many ppl?
+Amelie: yeah, the show was sold out really quickly
+Amelie: but I tell you it was so beautiful
+Frederick: did she sing Spellbound?
+Amelie: yeah she did <3<3<3
+Amelie: I love this woman! The energy she has on stage is amazing!
+Frederick: now I envy you :(
+Amelie: perhaps you can go to her concert next time?
+Amelie: you actually HAVE to go, I tell you :D
+Frederick: Hopefully I will be able to…
+Frederick: <file_gif>
+Summary: Amelie was at the Eivør concert last night and she loved it. Frederick couldn't go because of work. Frederick wants to go to the concert next time.
+Dialogue: Ellie: <file_photo>
+Ellie: <file_photo>
+Ellie: looks like allergy again :'(
+Stephanie: oh... poor girl
+Stephanie: are you sure it's allergy?
+Stephanie: to what?
+Ellie: no idea... maybe shrimps
+Ellie: I think I remember that Radha had something like that once
+Ellie: it was a long time ago but I think it was because of shrimps then
+Stephanie: or maybe milk?
+Stephanie: the one on the elbow looks bad :(
+Ellie: we are going to see our doctor in the morning
+Ellie: it's a never ending story :'(
+Stephanie: put her the lotion I gave you
+Stephanie: it's really good, I'm sure it's going to help her
+Ellie: I'm not sure if I should put something on it before the doctor sees it
+Summary: Ellie's daughter probably has an allergic reaction. They are going to see the doctor.

@@ -1,0 +1,678 @@
+Dialogue: Karine: the date for the celebration has been scheduled for june 30th. Could you confirm it's ok for you
+Eleonore: great, thank you so much. You may count on me. 
+Karine: ok. Don't forget to send me you written confirmation. How many of you will participate?
+Eleonore: For sure 3 people. I'll let you know about Jane asap.
+Karine: thanks
+Summary: Eleonore and two other people will take part in the celebration on June 30th. Eleonore will let Karine know about Jane asap.
+Dialogue: Kate: Hello, remember me? From the library?
+Jill: Oh, yes, sure
+Kate: I guess you left a book on your desk at the library. I noticed it after you went back to class
+Jill: I thought that my bag was too light 😉
+Kate: Can we meet tomorrow at the entrance to the building and I’ll give you the book back?
+Jill: Sure, thanks a bunch. When do you wanna meet?
+Kate: Before classes at 8 a.m. is ok with you?
+Jill: Would be perfect
+Jill: Thank you once again, Kate
+Kate: Nothing
+Summary: Kate collected book that Jill forgot. Kate is going to give it back to Jill tomorrow at 8 a.m. at library entrance.
+Dialogue: Silvia: Mary ran away from school again
+Mohammad: What
+Mohammad: It’s the third time this month
+Silvia: Actually fourth
+Silvia: I didn’t tell you about one
+Mohammad: Good to know, why?
+Silvia: You had all those problems at work, I didn’t want to worry you…
+Mohammad: Great, turns out I don’t even know what’s going on with my kids, congratulations
+Mohammad: Wife of the year
+Silvia: Don’t get angry, we need to figure it out somehow…
+Mohammad: Maybe you should to this alone
+Mohammad: You don’t tell me anything anyway
+Silvia: I don’t even have time to talk to you
+Mohammad: I work!!! Which is what you don’t do…
+Silvia: Here we go again
+Mohammad: That’s the reality!!
+Silvia: We have three kids, I take care of them, I clean the house, if you had to pay for it all…
+Mohammad: At least I could live in peace
+Summary: Mohammad and Silvia's daughter, Mary, skipped school again. It is the fourth time this month but Mohammad only knew about three of them. He is upset with his wife not telling him and not working. Silvia takes care of their three children and is a housewife. Mohammad works too much.
+Dialogue: Lassie: <file_photo>
+Lassie: Thank you Lawrence! The mask is superb, perfect fit, and it works super.
+Lawrence: Glad to hear it. Enjoy!
+Lawrence: Has dad been using it too?
+Lassie: He tried today but it seems not to be tight around his neck, so for the time being he gave up on it.
+Lawrence: That would be a pity. Did he try to loosen it a bit? If you had it first, it's probably too tight for him. He has a bigger head :)
+Lassie: We tried it out but it didn't work. So we gather it's because of his beard.
+Lawrence: Is he going to shave his neck then? I would!
+Lassie: I suppose that finally he will. Being jealous of all my descriptions of the underwater beauties!
+Lawrence: Talk him into it.
+Lassie: I'll definitely try!
+Summary: Lassie had a snorkeling mask from Lawrence. His dad didn't use it, because it doesn't fit. 
+Dialogue: Alleatha: Hi, I have a question MTG related. If I exile a permanent with something and it will later return to play
+Alleatha: will ETB effects happen? I suppose "exiling" doesn't trigger "dies" but this is a bit different, right? 
+Gerard: It will trigger ETB, sure. 
+Gerard: Won't trigger "die"
+Alleatha: Thankee :)
+Alleatha: There was this "mount" that exiled guy for +2/+2 bonuses, and I was pondering if the "delayed blink" could be used for further advantages.
+Alleatha: I likes this card <file_other> for some weird reason.
+Gerard: Nice one
+Gerard: I like the angel cause it's pretty
+Alleatha: I'm slightly lost.
+Gerard: What? Why?
+Gerard: I don't remember card names...
+Alleatha: I'm looking at the cards looking for an angel
+Gerard: Black and white, with a scales on a picture
+Alleatha: Seraph of the Scales?
+Gerard: Yes
+Alleatha: She's pretty
+Gerard: Very. I like the picture. Card is ok too
+Alleatha: Haven't been really paying attention to MTG for a while, as I don't play it outside of prereleases
+Alleatha: And I tent to miss even those
+Gerard: We recently started playing with little group
+Alleatha: Ye, that's the problem with games - they need actual people for them.
+Summary: Exiling a permanent triggers ETB. Recently Alleatha plays MTG rarely and only with prereleases.  
+Dialogue: Ada: Do you guys have any idea where tomorrow's seminar is gonna be?
+Dan: You mean the seminar on horror literature?
+Steve: It's either that or the one on Trollope
+Ada: Yeah, the horror one, don't tell me you ever even considered going to the other one
+Jamie: Of course we didn't
+Ada: So, where it is? There's no news on the department's site
+Steve: Well, I think it's understandable that there are some organizational problems after half of the classrooms were flooded
+Kate: Yes, we all know... just sent a text message to Dr. Olsen :P
+Steve: Ok, let's just wait for her answer
+Ada: Ok
+Steve: Anyway poor good guy Trollope, no one's interested in him
+Kate: Trollope got trolled
+Dan: Poor fellow
+Steve: Lol
+Ada: I bet Kate will go to both seminars in the end
+Dan: Right
+Kate: That's obvious... ok, got a message from her
+Ada: What did she say?
+Kate: Room 342 at 3 p.m.
+Dan: Ok
+Ada: Cool
+Summary: Kate, Dan, Steve and Ada will have the seminar with Dr. Olsen tomorrow at 3 p.m. room 342. 
+Dialogue: Stephanie: I can't believe it
+Stephanie: Billy forgot about our anniversary
+Ashley: what?? 
+Ashley: I can't believe it
+Ashley: Billy, of all people? this man remembers EVERYTHING
+Stephanie: well, that's what I thought, too... he's never forgotten before!
+Ashley: are you sure everything's okay? I think you've told me before that you don't get to spend too much time together these days
+Stephanie: ever since he got promoted, he's had his hands full
+Stephanie: we barely go out any more, so I was hoping that at least on our anniversary...
+Stephanie: but I guess not
+Ashley: I'm so sorry :( is he home yet?
+Stephanie: no, he called earlier today to say he might be late
+Stephanie: something about a longer business meeting
+Ashley: I see...
+Ashley: maybe he's got something planned and wants to surprise you?
+Stephanie: but he knows I hate surprises
+Ashley: well, a nice surprise every now and then should be okay, right?
+Ashley: stay positive!
+Stephanie: I don't want to get my hopes up and end up even more disappointed later on
+Ashley: oh come on, you're being too pessimistic now
+Stephanie: I guess this isn't like me, but I'm really bummed, I don't know
+Stephanie: these things have always been important to me
+Summary: Billy forgot his anniversary with Stephanie. They don't spend time together lately, because after the promotion Bill has a heavy workload. He called earlier to say he may be late. 
+Dialogue: Alexander: Does anyone of you know a good product designer?.. I mean physical products..
+Ken: if i can think of one I'll let you know
+Cindy: Actually, my friend is one, check out his website <file_link>
+Summary: Alexander is looking for a good product designer. Cindy's friend is a product designer. Cindy sends Alexander a link to his website.
+Dialogue: Stef: Hi my dear, just to tell you that Dave's dad died yesterday. What do think about sending some flowers?
+Marion: Good idea, you can count on us
+Stef: Thanks for you quick answer
+Marion: you have to order them today, don't you?
+Stef: done,I make an order on interflora and signed for both of us
+Marion: Thanks so much. Tell me how much I owe you, and I'll make a transfer
+Stef: <file_photo>
+Marion: done. I make the transfer on Nick's account. 
+Stef: great. Talk to you soon
+Summary: Dave's dad died yesterday. Stef has made an order on interflora signed for herself and Marion. Marion will transfer what she owes Stef to Nick's account.
+Dialogue: Una: are you guys hiring?
+Midge: I'm currently not looking for anyone
+Midge: but I can ask around in the other departments
+Una: Please I'd be very greateful
+Midge: what happened?
+Midge: everything ok at work?
+Una: no not really
+Una: my boss is a fucking psycho
+Midge: Well yah I know I met her
+Una: so you know what I'm talking about
+Midge: yeah I know I'll ask around
+Una: thanks let me know
+Summary: Una is looking for a job because her boss is crazy. Midge has met Una's boss. Midge isn't hiring at the moment, but she will ask around if other departments are hiring. 
+Dialogue: Jack: hi could u meet me at 8am?
+Karl: sure
+Jack: i'll bring my large red suitcase
+Karl: no don't, take the grey one, it's bigger
+Jack: fine but are u sure we'll find room for it?
+Karl: yep no prob
+Summary: Jack and Karl will meet at 8 am. Jack will bring his large grey suitcase.
+Dialogue: Anna: I went shopping in my slippers this morning! Happy Saturday!
+Oliver: looking for an excuse to buy another pair of shoes?
+Anna: i went grocery shopping! x
+Tom: What did you do last night? Haha!
+Anna: I’d rather not tell. 
+Tom: Yeah, that’s what i thought!
+Carla: at least you were comfy! ;)
+Beth: when did you realise?
+Anna: at the check out!
+Beth: haha! You are so funny! You always make me laugh!
+Anna: xxx
+Summary: Anna forgot to change her shoes when she was going grocery shopping this morning. Only at the checkout did she realize that she still had her slippers on. 
+Dialogue: Ali: Mr Bongo went back to Morocco
+John: what? really?
+Jean: Yes, this is getting quite ridiculous
+Cecilia: and so little information
+Ali: of course, he's just miserably clinging on power
+Jean: honestly I prefer him that a military junta
+Ali: he managed to survive one coup 
+Cecilia: hahah, have you seen the memes making fun of the failed coup?
+Ali: no! 
+Cecilia: <file_other> 
+Ali: hahaha
+Jean: yes, it's very funny how they mock up their own versions of the coup
+Ali: Jean, I prefer anything than Bongo family
+Ali: but they seem a never ending story for this country
+Summary: Mr Bongo went back to Morocco. He survived a coup, as Ali reports. Cecilia sent a meme about the failed coup.
+Dialogue: Phil: What fucking party? We weren't at a party for ages!
+Nicky: No comment.
+Phil: What party?!
+Nicky: Sry. Forgot u were away then. Was meaning to tell u, but kinda forgot.
+Phil: Are u fucking joking?! U went to a party and didn't tell me? And now u spend 3k?
+Nicky: I said I was sry. What else can I do?
+Phil: Now tell me what the other 1k went on!
+Nicky: Stuff.
+Phil: What stuff?!
+Nicky: Oh, the little things we have at home.
+Phil: Like what?!
+Nicky: Remeber that little duvet on the couch?
+Phil: Yeah... How much?
+Nicky: 200. 
+Phil: Ur fucking killing me here! 200 bucks for a fucking blanket?
+Nicky: Duvet.
+Phil: Does it really matter?!
+Nicky: To me, yes.
+Summary: Phil is angry because Nicky went to a party and she spent a lot of money on things Phil considers useless.
+Dialogue: Horace: Hello Kristopher, are you going for our chess tournament today :-)
+Kristopher: I’m not sure, my friend, I don’t feel very well
+Horace: I understand, everyone says the same…
+Kristopher: At our age it’s not surprising
+Horace: Yes, you don’t even have to leave the building!
+Kristopher: Still, Horace, I feel very dizzy, it’s dangerous even to go downstairs.
+Horace: Some of the workers could help you, this is why we live in a retirement home!
+Kristopher: Horace, you are right of course, but I don’t want to force myself if I’m going to fall asleep all the time at the table, as Roosevelt did a week ago.
+Horace: Yes, it was funny but not comfortable for him, I’m sure ;-)
+Kristopher: Especially because you used it to cheat.
+Horace: I couldn’t stop myself, let us have some fun before we die.
+Kristopher: Or maybe just get some rest at last.
+Horace: You are way to pessimistic!
+Kristopher: It’s difficult not to, after what I experienced.
+Horace: Each of us has some bad experiences, we were all challenged by life.
+Kristopher: But some of us more than others.
+Horace: Okay Kristopher, I can see you’re in a bad mood, if anything changes, feel welcome to our chess championship :-)
+Kristopher: I will surely remember about that, thank you.
+Summary: Kristopher feels dizzy, so he's not sure if he's going for their chess tournament today. Last time he cheated while Roosevelt fell asleep at the table to have some fun before they die. He's in a bad mood today.
+Dialogue: Kim: Have you seen the last job advert of Translators World?
+Sarah: Nope, wanna apply?
+Kim: Noooo, the rates they're offering are beneath any standard!!!
+Kim: They propose 2.5 Euro per 1000 characters. Can you imagine?
+Sarah: It's devastating how low prices are offered to translators nowadays
+Kim: Translating is becoming a hobby and not a proper job...
+Summary: Kim won't apply for Translators World because the rate is below the standard.
+Dialogue: Bruce: I need to change job soon!
+Bruce: <file_gif>
+Julia: Mr. Hawkins again? XD
+Bruce: yeah, he's just impossible to stand on a daily basis!
+Julia: you go man! Just leave him! :)
+Summary: Bruce needs to change a job soon because of Mr. Hawkins.
+Dialogue: Your_Health: Hi Tamara, I was just wondering if you might be able to do us a vlog on salsa dancing?
+Your_Health: Maybe a short demo and / or a talk on the health benefits? Carrie
+Tamara: Hi Carrie. Sorry for a late response but I just saw your message
+Tamara: Of course I can do a vlog for you about it
+Tamara: Let's talk details :) Best, Tamara
+Summary: Your_Health asked Tamara to record a vlog on salsa dancing. She accepted the challenge.
+Dialogue: Nick: Hi Charlie. Thanks for yesterday. It was nice to see you
+Charles: Hi Nick. So nice indeed. Come back whenever you want. How was your trip back?
+Nick: good good. Except the journey in the metro.
+Charles: What's happened?
+Nick: we had a control in the subway.  Almost a face control!
+Charles: are you kidding?  what have you done?
+Nick: nothing special.  We bought our reduced  tickets at the  machine, and then the controllers stopped us  like thieves.
+Charles: did you cheat?
+Nick: of course not! we had our discount family card. But the red one, not  the blue one!
+Charles: and so what...red or blue, it's a discount card, isn't it?
+Nick: yes but the discount is not the same. With the red one the reduction is for train, only the blue one gives you discount on subway!
+Charles: didn't know that.
+Nick: me neither, and when i tried to explain it, i've been consider like a thieve.
+Charles: did you get a fine?
+Nick: yes! quite expensive. Next time i'll book a cab.
+Charles: next time i'll come and pick you up!!
+Summary: Nick had a control in the subway when coming back from Charles yesterday. Since he had the discount card only for train, he got a fine.
+Dialogue: Samantha: How was yesterday?
+Samantha: will you be celebrating with a dinner too?
+Maya: hey hey
+Maya: it was fun
+Maya: my mum cooked me a nice dinner haha
+Maya: my cousin and my aunt came
+Maya: my bro and his gf also
+Maya: I made a ridiculously huge cake
+Maya: 😂😂
+Maya: yeah, I'm planning to go for dinner with a few of my friends during the weekend!
+Maya: nothing fancy though
+Samantha: sounds fab!!!
+Samantha: super duper babe!!
+Samantha: <file_gif>
+Summary: Maya had a great evening with her family yesterday. At the weekend she will also be celebrating with her friends. 
+Dialogue: Sandra: Hey Petra are you coming over?
+Petra: No, I'll stay at home
+Sandra: Why?
+Petra: I don't feel like going out
+Sandra: As you wish
+Sandra: But I was hoping for a nice time together
+Petra: I'm sorry Sandra, not tonight 
+Summary: Petra is staying at home tonight.
+Dialogue: Jeffrey: i'm thinking about driving for uber :-D
+Jeffrey: what do u think?
+Shannon: i'm surprised you want to drive for uber!!! lol
+Shannon: that's so unlike you
+Shannon: why do you want to drive for uber?
+Jeffrey: the extra money could come in handy
+Jeffrey: i want a new flat screen tv and those are expensive :-/
+Jeffrey: i think if i drive for uber for a couple of weeks i can make that money
+Shannon: you don't mind putting mileage on your car?
+Jeffrey: not really
+Shannon: and having strangers in your card?
+Jeffrey: no, i really don't
+Shannon: then maybe uber driving it's a good idea
+Jeffrey: yeah :-D i'll give it a try
+Shannon: please let me know how it goes!
+Shannon: i'm genuinely curious lol
+Summary: Jeffrey is considering driving for Uber as he needs money to buy a new TV. Jeffrey doesn't mind putting mileage on his car or driving strangers.
+Dialogue: Maja: hey
+Kimberley: ?????
+Kimberley: do we know each other?
+Maja: no, but I'm from your group, I'm new and I was wondering if you could tell me anything about the subjects, lecturers and so on :)
+Kimberley: aaaa I get it, no problem, ask whatever you want :)
+Summary: Maja is new so needs some information from Kimberley as they are in the same group.
+Dialogue: Peter: <file_photo>
+Charles: :o :o :o
+Charles: wtf mate? What happened!?
+Peter: 7 a.m, morning traffic, slippery road and a mild turn. I've flown out of the road and was stopped by a lantern?
+Charles: OMG, are you okay?
+Charles: Are you hurt?
+Peter: Luckily I'm okay. The car's not though :(
+Charles: Yeah, I can see that in the picture :( 
+Charles: I'm sorry man. Thank God that nothing serious happened to you
+Peter: My father came to pick me up. Car's on it's way to mechanic. 
+Charles: Nobody else was injured?
+Peter: No. Everybody else was far away behind me, so they had time to react. I got blown out of the way into the green belt between two lanes. Lantern pole stopped my car and nobody drove into me.
+Charles: Unlucky and lucky at the same time. 
+Peter: The accident didn't kill me, but the repair cost will :/
+Charles: Any ideas how much will it cost?
+Peter: Hard to guess right now.
+Peter: We're waiting for the mechanical expertise. 
+Peter: Around 7 a.m there were 3 more accidents in the area. WTF is going on today?
+Charles: Winter surprised road services again... Did you change your tires to winter ones? 
+Peter: I had winter tires. It's just that one piece of the road after tunnel exit was in the shadow and was still covered in ice. I lost traction and bank.
+Peter: Whole life flashed through my head.
+Peter: But everything is fine now,
+Peter: Hate it that car is broken, but I'm glad I'm totally fine.
+Charles: Yeah. Me too. Give me a call when you're home. I will drop by and you will tell me everything.
+Peter: Sure. See ya.
+Charles: Yo.
+Summary: Peter had an accident on the road, and he destroyed his car. Luckily, Peter did not hurt anyone, including himself.
+Dialogue: Betty: Paul I'm with Granny at the doctor's now. She says she lost her hearing aid, could you look for it?
+Paul: I'll do my best, the electrician will be here any minute though
+Betty: I hope it doesn't get crushed or something
+Paul: I'm just wondering where she could have lost it
+Betty: Try her bedroom first
+Paul: Been there
+Betty: Bathroom and kitchen?
+Paul: Yeah, gimmie some time
+Betty: Just let me know when you find it
+Paul: Got it! It was on Toby's pillow! Hairy bugger!
+Betty: That's wonderful, put it somewhere safe!
+Paul: Consider it done :)
+Summary: Betty is at the doctor's with Granny. Paul is looking for Granny's hearing aid and finds it on Toby's pillow.
+Dialogue: Mark: I've just bought a new Mody CD!
+Anna: Really? 
+Kate: <file_photo>
+Anna: OMG, You're lucky!
+Summary: Mark has just bought a new Mody CD. 
+Dialogue: Nina: I'm leaving. sorry, not feeling well
+Ted: I see, take care
+Jim: see you tomorrow
+Nina: see you
+Summary: Nina is leaving because she is not feeling well.
+Dialogue: Artur: Where do we send the project from Start Mangt?
+Essa: To Daniel
+Artur: Thanks. How about those presentations from the beginning? Also to him?
+Essa: Yea, we send it all together
+Przemek: As pptx?
+Artur: All has to be in PDF, I remember him saying that
+Daniel: Speaking of, I have only received 15 emails. From 51 :p
+Artem: Deadline?
+Daniel: Today...
+Artem: What time?
+Daniel: Let's say 23:59 :)
+Artem: Ok, thanks
+Bartek: There is no way I can send it today. When do you have to send it to the professor? Maybe we can get some extension?
+Daniel: I spoke to the professor, he said that I have to send it to him by Sunday. I guess I can accept all during the night, but no later, sorry guys. Btw, 28/51
+Maria: We still have a few minutes left :D
+Daniel: I know we have exams next week, but please guys, the final is tomorrow. I can't send what I have so far - 31/51
+Daniel: <file_other>. Please have a look, all student numbers marked in green are the ones I have received on my email
+Viktor: I sent you mine over a week ago, but it isn't green?
+Daniel: Found it, thanks for pointing that out. If someone isn't marked just send it to me again :)
+Aigerim: I sent mine as well - 79730
+Daniel: You were marked already...
+Aigerim: Ok, sorry, thought you marked only people that haven't submitted yet
+Summary: Daniel is collecting the presentations from Start Mangt to send them to the professor by Sunday. He has received 31 e-mails out of 51 so far. The deadline is tomorrow at 23:59.
+Dialogue: Arthur: hey
+Arthur: have you heard about the concept of hygge? 
+Linda: sure
+Arthur: can we redecorate our apartment in that style? 
+Linda: are you serious? 
+Arthur: yeah I need cosy places 
+Linda: let's redecorate our apartment then! 
+Summary: Arthur and Linda agree to decorate their apartment in the hygge style.
+Dialogue: Alan: are you going to eddie's new band's concert?
+Brenda: mmmmmm
+Brenda: i feel horrible for saying this...
+Brenda: but... i mean...
+Brenda: they suck :-/
+Alan: hahahaha
+Alan: come on! they're not that bad!!!
+Brenda: yeah they are :-(
+Brenda: their songs make no sense :-/
+Brenda: the singer screeches like a goat
+Brenda: even eddie is not that good of a drummer
+Alan: lol i'm going to stop this conversation!!!
+Alan: i don't ever want eddie to find out we talked shit about his band
+Alan: lol
+Brenda: well it's true!!!
+Brenda: they stink!!!!!
+Alan: ok, let's do this:
+Alan: whether you want it or not i'll pick you up in two hours
+Alan: we'll go to the concert
+Alan: AND WE'LL HAVE FUN! :-)
+Brenda: *rolls eyes*
+Summary: Brenda doesn't like Eddie's new band so doesn't want to go to their concert. Alan will pick her up in 2 hours anyway.
+Dialogue: Tamara: It feels just wonderful to put my feet up after the whole day on high heels...
+Jerry: Good for you!
+Jerry: Being a stewardess isn't as nice and easy as one would expect, right?
+Tamara: Actually I'd thought about it in that way until I became one myself
+Jerry: People tend to judge a book by its cover
+Tamara: Amen to that, brother :D
+Jerry: Little Stella wants to see auntie Tamara, it seems that she won't give up asking me easily
+Tamara: I can come on Thursday if that's OK. I've got all day.
+Jerry: Perfect, I won't tell Stella though
+Jerry: Can't wait to see her surprised :)
+Summary: Tamara is a flight attendant and she can finally rest her legs. She will see Jerry on Thursday and she will surprise Stella.
+Dialogue: Mom: put the soup into the fridge!
+Dina: why me?
+Mom: beacuse!!!
+Dina: ok, I will
+Summary: Dina will put the soup in the fridge at Mom's request.
+Dialogue: Diana: One year ago my mother passed away
+Danielle: I’m sorry to hear that
+Diana: She was an amazing woman
+Diana: She was born in 1920
+Diana: She was a young woman when the war started
+Danielle: Like my mother…
+Diana: Is she still alive?
+Diana: No. She died in 1977.
+Danielle: My mother joined the communist party and was fighting in the resistance movement
+Danielle: She saw many of her colleagues arrested and executed but she was lucky to survive
+Danielle: She met my father in 1943
+Danielle: He was also a communist
+Danielle: He was killed one year after I was born
+Diana: So you don’t remember your dad?
+Danielle: Sadly I don’t. But my mother loved him dearly.
+Danielle: He was the love of her life. 
+Danielle: She was with a few men later in her life
+Danielle: But none of them was so dear to her
+Danielle: Mostly she brought me up alone, which was uncommon in the 50s. 
+Danielle: She was a really strong and courageous woman.
+Danielle: I miss her a lot. 
+Danielle: For the past 10 years, we used to call each other everyday at 9 p.m.
+Danielle: And suddenly she passed away
+Danielle: I still feel the need to talk to her in the evening.
+Danielle: But she’s not there anymore to pick up my phone call… 
+Summary: Diana's mother died a year ago. Danielle's mother died in 1977. They used to talk every day at 9 pm.
+Dialogue: Cindy: can i take your bag?
+Pat: no!
+Cindy: oh please
+Pat: no it was too expensive!
+Cindy: i will not broke it
+Pat: NO
+Cindy: fuck you
+Summary: Pat refuses to let Cindy take Pat's bag.
+Dialogue: Bradley: CU 2nite?
+Jessica: Mabeeeee
+Bradley: ?
+Jessica: Don't feel so hot.
+Bradley: Aw sorry can i help?
+Jessica: Nah
+Bradley: oh
+Summary: Bradley won't probably see Jessica tonight.
+Dialogue: Ellie: Could you give me John's phone number?
+Gina: let me check
+Gina: no I don't have it sorry
+Ellie: Okay thanks anyway!
+Gina: :*
+Summary: Gina couldn't give John's phone number to Ellie because she didn't have it.
+Dialogue: Grace: You're originally from New York, right?
+Fred: Yes.
+Grace: It seems like a beautiful place.
+Fred: If you like an urban set up, it's lovely.
+Grace: I'd love to go to Central Park one day.
+Fred: It is beautiful, especially in the fall. You should go.
+Grace: I'd love to.
+Summary: Grace would like to visit New York, especially Central Park. Fred recommends seeing it in fall.
+Dialogue: Ana: Hey, what time are you coming?
+Lisa: four or five p.m. 
+Lisa: How that suits you?
+Ana: Ok I'm going to order pizza
+Ana: Any wishes?
+Lisa: Just pick some, no meet
+Ana: Done
+Ana: I'm glad you'll be our guests finally
+Ana: And kids will have fun with a puppy
+Lisa: They can't wait actually
+Lisa: very curious to see their favourite auntie running a new house ;-)
+Ana: Oh, what have you told them?
+Ana: I could imagine
+Lisa: All the good things, don't worry
+Lisa: We'll have a great time together
+Lisa: Text me in case, we have to bring something and see you soon
+Summary: Lisa and the kids are coming over to Ana's house in the afternoon. Ana will order pizza without meat and the children will play with her dog.
+Dialogue: Stella: What do you want for dinner tonight?
+Jonah: something Italian?
+Stella: ciacio e peppe?
+Jonah: deal!
+Summary: Stella and Jonah will have ciacio e peppe for dinner tonight.
+Dialogue: Lola: hey girlfriend, what's up?
+Adele: Oh, hi Lols, not much.
+Adele: got a new dog.
+Lola: another one?
+Adele: Yup. a pup biscuit lab. 4 months. Chewy.
+Lola: how did the others react?
+Adele: the cats keep their distance, Poppy and Lulu seem to mother him. Speedy wants to play.
+Lola: no fighting? that's new.
+Adele: they say puppies are accepted by other animals more easily than older dogs
+Lola: especially girl dogs, probably
+Adele: with the other ones I had to wean them because I took them in as adult dogs. And girls like to fight. like crazy.
+Lola: doggies, right/.
+Adele: that too :P
+Lola: haha. true though.
+Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
+Lola: cute. can't wait to see him.
+Summary: Adele bought a new dog. It's a 4 months old biscuit lab. She called him Bones because he's plump. Her other dogs mother him, but her cats keep their distance.
+Dialogue: Kim: Imagine Dragons are playing a concert in Prague next month!
+Kim: Wanna come with me?
+Jennifer: That's absolutely wonderful!
+Jennifer: How much are the tickets?
+Kim: Not much, I'll tell you later
+Kim: Gotta go now
+Jennifer: ok, bye
+Summary: Kim has invited Jennifer to an Imagine Dragons concert in Prague. She is going to tell her how much the tickets cost.
+Dialogue: Mary: Hey.
+Mary: I sent you a task.
+Mary: Can you check if you can solve it?
+Adam: Sure, no problem.
+Adam: Give me a moment.
+Adam: I will send you the result immediately.
+Mary: OK,
+Mary: thanks.
+Summary: Mary sent Adam a task. Adam will solve it and send her the result immediately. 
+Dialogue: Bran: Has the boss accepted your request?
+Joe: He's thinking about it.
+Bran: So you still don't know what to do?
+Joe: Exactly.
+Bran: Not good.
+Joe: Are you going to plead with him again?
+Bran: If I don't get the answer today, I guess I will have no other choice.
+Joe: Have you got any strategy?
+Bran: Have you ever had any strategy when it comes to the boss?
+Joe: You're right. No approach is good enough.
+Bran: I just need to wait. Till tomorrow. Then I'll act .
+Joe: Keep my fingers crossed for you :-)
+Bran: Thanks, man :-)
+Joe: I really think that your request is well-grounded. You have every right to ask for some free days. This company is not your whole world. You need a break, take it.
+Bran: Well, you understand it, a few other people understand it. I need some understanding from the top too. And here is the problem.
+Joe: That sucks. 
+Bran: As hell.
+Joe: Anyway, if you get the decision, whatever it is, let me know.
+Bran: OK. Thanks for the support.
+Joe: Next time I will need your support and I'm sure you'll be there for me too :-)
+Bran: As always.
+Joe: Exactly. Take care!
+Bran: Cheers!
+Summary: Bran asked his boss for some free days, but he hasn't got any answer yet. Joe believes Bran's request should be satisfied.
+Dialogue: Lincoln: Hi! :)
+Lincoln: Have you taken any photos during our wedding day?
+Carson: Hey! :-)
+Carson: Yes, I have. I can send you them, if you want.
+Lincoln: I'd be really grateful, if you did it - the photographer we hired got plastered before the ceremony(!), so our wedding photos are a mess. :/
+Carson: I'm so sorry to hear that! :-(
+Carson: I hope you'll find some decent photos among your guests' photographs.
+Lincoln: I hope so too. Thank you very much! :)
+Carson: You're welcome. Good luck! :-)
+Summary: Lincoln's photographer got drunk at his wedding and didn't take good pictures. He needs Carson to send over all the wedding photos she took.
+Dialogue: Lily: I will live with your mum 🙂
+Mia: That sounds really good 😁 For how long?
+Lily: Till the end of January
+Mia: I love the fact that you are just “international” and I can speak english with you. Well thank you ☺️
+Lily: I thank you 🙂
+Mia: I will be around from 17th of October for a few days, im gonna make a surprise to my mom, so don’t tell her 😂
+Lily: Ok! 🙂 On 19th I'm going to Açores probably
+Mia: Oh that's great !! Never been to Açores before, but my mom was, I sure she can tell you a lot of nice places to go 😁
+Lily: I will do couchsurfing there (you know it?)
+Mia: Never heard about it
+Lily: Google it. It is a way of travelling. People can host you for free and you spend time with them. I did 2 weeks in Sicily this summer doing only couchsurfing
+Mia: That sounds so great, what do you mean by spending time with them, like company? Or do they show you places and walk with you around?
+Lily: You spend time, cook together , walking travelling,  partying.  It all depends on a person . Sometimes they don't have much time. All depends on a person
+Mia: That sounds so much fun, for free, i will check it out, i actually love traveling, but well done, hope you enjoy it, i heard its amazing
+Lily: Yes, it was awesome. Usually, people travel in 2- it's safer. But I love traveling alone 😉
+Mia: I wish one day i can do the same, thats awesome, really ☺️
+Lily: Yes but you need to be careful. Weird people are everywhere
+Mia: Yeah that's not surprising nowadays, unfortunately
+Lily: True. I'm going to sleep. Good night!
+Mia: Good night, hopefully I will meet you sometime soon xoxo
+Summary: Lily will live with Mia's mum till the end of January. Mia will be around from 17th of October for a few days and she wants to surprise her mum. Lily is going to Açores on the 19th. Lily loves travelling alone but realizes it isn't very safe. Lily is going to sleep. Mia hopes to meet Lily soon.
+Dialogue: Samantha: hey
+Samantha: just wanted to thank you
+R.city: its nothing, we all love music, we do it for love
+Samantha: still, thanks for attending my solo launch
+R.city: anytime samantha
+Samantha: see you soon
+R.city: i'm sure we will
+Summary: R.city attended Samantha's solo launch. Samantha will probably see R.city soon.
+Dialogue: Fiona: Hi, can you spare some time for me this afternoon?
+Dave: Hi, what are you planning?
+Fiona: Nothing exciting. Well, actually it's more like cringy...
+Dave: ???
+Fiona: I don't want to waste your time or something.
+Dave: What is it?
+Fiona: And it's like... I hate to ask you for that.
+Dave: Just spit it out!
+Fiona: Will you come over to me and help me with the essay?
+Dave: :-D
+Dave: <file_photo>
+Fiona: Very funny!
+Dave: Come on! I thought it's going to be like a great favour or something with which I would earn your gratitude until the end of your life. And it's just an essay :-)
+Fiona: It's just an essay for you. For me it is something I can't get through on my own :-(
+Dave: What time?
+Fiona: Up to you.
+Dave: I'll come about 7
+Fiona: Thank you!
+Summary: Fiona asks David to come over and help her with her essay. They will meet about 7. 
+Dialogue: Jake: Mom! where's my charger.
+Mom: How would I know?
+Jake: You know everything.
+Mom: Yeah why don't you check the third drawer, to the left.
+Jake: HOW DO YOU DO THAT?
+Mom: Just go get your damn charger.
+Summary: Jake is flabbergasted that Mom knew where his charger is.
+Dialogue: Mary: Look what I've bought today
+Amelia: <file_photo>
+Amelia: Isn't it lovely?
+Mary: It's gorgeous!
+Summary: Mary's bought something nice today.
+Dialogue: Jim: Hey, what's up?
+Tim: Not much, having an beer and watching netflix
+Jim: Cool, that's exactly what I need :) I've been browsing netflix for like an hour now and can't find anything :/
+Tim: What you looking for?
+Jim: Don't know. At this point anything really...
+Tim: Right, but you want some super engaging intellectual challenge or some simple action flick?
+Jim: Well, since it's already 10.30 pm intellectual challenge is out of the equation :)
+Tim: Good point :) Have you seen the new Castlevania series? 
+Jim: No, what's that?
+Tim: It's like a slightly anime-like cartoon based off a super old video game
+Jim: Right, I've heard about the games, never played one. Is the cartoon any good?
+Tim: Yeah, surprisingly so actually. I don't even know who made it, but the animation's cool, the dialogues are decent, and the plot makes sense :)
+Tim: Plus its only 20 minutes episodes, so not much time investment if you don't like it:) 
+Jim: Awesome, will give it a shot!
+Summary: Tim is having a beer and watching Netflix. Jim has been browsing Netflix too. Tim recommends him the Castlevania series, with short 20 minutes episodes.
+Dialogue: Michael: Did you see what your son was watching this a.m.?
+Lolly: It's okay if he watches the weather channel, isn't it?
+Michael: Slightly strange, but yes, okay.
+Lolly: You'll be glad to know he has a crush on the one girl who is on. That's why he watches it.
+Michael: Whew! I thought he was just a nerd!
+Lolly: LOL!
+Michael: You know, like a sciency type.
+Lolly: What's wrong with that?
+Michael: He'll be smarter than me!
+Lolly: Like that's hard.
+Michael: Hey!
+Lolly: J/K!
+Michael: Besides, he's only 4.
+Lolly: Just let him live!
+Summary: Lolly's 4-year-old son was watching the weather channel this morning as he has a crush on the girl who appears there.
+Dialogue: Harry: you free this afternoon?
+Karen: no, I've a job interview :)
+Harry: wow! good luck then!
+Karen: thanks, will need it!
+Harry: fingers crossed, let me know how it went!
+Summary: Karen has a job interview this afternoon.
+Dialogue: Mel: how about a movie night
+Tessa: when?
+Mel: this saturday
+Tessa: I'm free
+Tessa: what movie night?
+Mel: mayby some action...
+Mel: die hard?
+Tessa: no, I just watched it with dad :/
+Mel: ok, so maybe sth funny...
+Mel: Whoopi Goldberg?
+Tessa: sounds good, but Norman wont like it much
+Mel: right
+Mel: ok, so maybe Avengers?
+Tessa: yes! everyone like it!
+Mel: good
+Mel: I will organize the food
+Tessa: I'll inform the rest
+Tessa: and tell them to bring drinks ;)
+Mel: fantastic!
+Summary: Mel, Tessa, Norman and others will watch Avengers on Saturday. Mel will organize the food. Tessa will inform others.

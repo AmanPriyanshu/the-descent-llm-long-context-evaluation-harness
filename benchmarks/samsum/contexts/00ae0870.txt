@@ -1,0 +1,424 @@
+Dialogue: John: Hey, want to join us?
+Irena: I am broke ;)
+Irena: Saving for my trip in May
+John: Where to?
+Irena: Spain
+Summary: Irene won't join John and his companions as she is saving money for a trip to Spain in May.
+Dialogue: Hanna: Plans for Friday evening?
+Kate: Not yet. 
+Hanna: Movie? 
+Kate: Drink?
+Hanna: Drink sounds good. 
+Kate: :)
+Hanna: :)
+Kate: Heard about a new place in the city centre. Wanna try it out?
+Hanna: Sure. What is it?
+Kate: <file_other>
+Hanna: Looks all right. I like the garden space. 
+Kate: Me too. What time?
+Hanna: Around 8:00?
+Kate: Perfect!
+Hanna: Is Pete coming as well?
+Kate: He'll be still out of town.
+Hanna: Girls night then. Great!
+Kate: Maybe let's ask Mary to join us? She's been looking sad lately. 
+Hanna: I think she's working Friday evening, but yeah, let's ask her :)
+Kate: I'll write to her.  
+Summary: Hanna and Kate go for drinks Friday evening around 8.00. They will try out a new place in the city centre. They will ask Mary if she joins.
+Dialogue: Hugh: I'm going fishing on Sunday, who's coming with me?
+Jim: I'll go, as long as you lend me one of your fishing rods.
+Hugh: Sure, you got it.
+Mark: Sorry, it's my parents' wedding anniversary. Can't we postpone it?
+Hugh: I'm leaving on vacation next week. But we can go again when I'm back.
+Fred: I can go. And we could take my car, it's big enough for the three of us and all our stuff.
+Jim: Does beer count as stuff? I got a new portable fridge and I'm going to try it out.
+Fred: Hey, that's not fair, I can't drink if I'm the driver!
+Hugh: We're really sorry for you. Jim, of course we'll test your fridge!
+Jim: We can pack some coke for you, Freddie!
+Mark: I really hate you, guys!
+Fred: Me too! Next time it's Jim's turn to drive!
+Summary: Hugh will go fishing with Jim and Fred. They will take Fred's car and he is going to drive. 
+Dialogue: Luke: did u know they cancelled Daredevil for season 3
+Cage: what do you mean
+Luke: i mean on Netflix
+Cage: are you kiddin
+Luke: NO
+Cage: why??
+Luke: how would i know -_-
+Summary: Luke tells Cage that Netflix cancelled Daredevil for season 3. 
+Dialogue: Todd: hey bro, have u got a spare sleeping bag to borrow?
+Peter: I've got only one, when  do u need it?
+Todd: this weekend
+Peter: u can take mine, coz I'm not going to use it this weekend
+Todd: cool!
+Todd: Where/when can I get it?
+Peter: I'll be at home today  after 7
+Todd: can u remind yr address?
+Peter: sure, it's here <file_other>
+Peter: what time will u come?
+Todd: around 8, ok?
+Peter: yep, car or what?
+Todd: bike, why?
+Peter: I'll get some beers then
+Todd: good, cu!
+Summary: Todd will come to Peter's place to borrow his sleeping bag at 8 pm tomorrow. They will drink beer.
+Dialogue: Royden: Howdy, trust you are well. May I pose a question of Polish taxi etiquette?
+Ed: Hi! Yeah, absolutely. Although I wouldn't say it differs much from the international one.
+Royden: Ah, perhaps. 
+Royden: In SA we have a tipping culture.  
+Royden: So, in Poland one just pays the fare, no tip?
+Ed: Feel free to give the driver the tip, of course it will make no harm. About 10% is enough, I believe.
+Royden: Cool, thanks.
+Royden: See you on Friday?  Are you going?
+Ed: Yes, definitely! I'm really looking forward to meeting you in person!
+Royden: Oh dear :-)
+Royden: It will be great to put faces to typing :-)
+Ed: Exactly! :)
+Ed: Should you have any questions before the trip, just let us no. But no worries, it's a civilised country. We have electricity, running water and even the Internet connection ;) 
+Royden: Truly, I know. I have a great deal of respect for Poland.  
+Royden: I was young when Poles decided to change things, despite what others thought - certain famous shipyards and workers etc.
+Royden: Actually, your internet seems spotty today, as you appear to be typing for ages :-)
+Royden: Must be off - cheers for now
+Ed: Take care and see you soon!
+Summary: Royden is asking Ed for tips before he visits Poland and they meet in person on Friday. Ed finds a 10% tip suitable for taxi drivers in Poland.
+Dialogue: Ben: Tomorrow is the submission deadline.
+Jack: I know
+Sandra: Thanks for reminding, I forgot!
+Summary: Ben is reminding Jack and Sandra about tomorrow's submission deadline.
+Dialogue: Jerry: Guys, tomorrow we’re having the last class this year. Wanna go out for a beer after the classes?
+Jerry: Let me know what u think about it
+Kate: I have a train to Boston tomorrow at 6 p.m. Do u propose to go out somewhere near the university?
+Michael: I’m in 😊 Last week we were with Mike and Susie at John’s. We were waiting for our order for half an hour but it was great to be able to meet…
+Jerry: I was thinking about a pub somewhere in the downtown…
+Mike: Yes! Let’s meet in a really nice place, not where we’ll have to wait ages for our order!
+Patricia: Guys, I can’t meet this weekend, sorry ☹
+Frank: Me neither, soooory!
+Jerry: I’m just thinking that if we can’t meet this weekend maybe in two weeks’ time?
+Patricia: I’m away in two weeks ☹
+Kate: I can’t guys, sorry!! I’m in Boston
+Frank: What would you say if we meet on Wednesday?
+Mike: Sure, Wednesday is perfect for me!
+Michael: For me too!
+Jerry: Ok then, who can meet on Wednesday at 7 p.m.?
+Kate: Well…I’m away, guys 
+Patricia: Ok, I’m in 😊
+Mike: Me, too!
+Jerry: Me, too
+Frank: And me!
+Jerry: Great! Let’s meet at the entrance to our university on Wednesday at 7 p.m.
+Mike: Ok!
+Patricia: Sure!
+Summary: Jerry, Patricia, Mike, Frank and Michael are meeting at the entrance to their university on Wednesday at 7 p.m. to go for a beer. Kate's away, so she can't join them.
+Dialogue: Mary: I will not come to the presentation tomorrow, sorry
+Jenny: you cannot do like this, we relay on you
+Tim: Anything happened?
+Mary: somebody has just broken into my car
+Mary: my laptop was stolen, as well as all the data on the stick
+Jenny: I'm so sorry! this is horrible
+Mary: so as you can see, I just have nothing to add tomorrow
+Jenny: of course, I didn't even suppose something like this
+Jenny: forgive me, we're in streets here right now
+Mary: so I think you can imagine my stress right now
+Jenny: sure, completely
+Tim: did you go to the police?
+Mary: I'm at a police station right now
+Summary: Mary is at a police station right now. Someone broke into Mary's car and stole her laptop. Mary will not come to the presentation tomorrow.
+Dialogue: Jayleen: I'm dyeing my hair
+August: What colour?
+Jayleen: I'm staying with my blonde. I had to refresh my colour
+August: Ok
+Jayleen: I haven't dyed my hair for around 9 months xd
+Summary: Jayleen is dyeing her hair blonde for the first time in 9 months.
+Dialogue: Ingmar: Hi Judy, do you think you might have time to look at my CV today?
+Judy: Yeah, I think so. When do you need it?
+Ingmar: I'd like to send off my job application around 10 am tomorrow.
+Judy: Ok, that'll work. Anything that needs special attention?
+Ingmar: Yes, my education section. No sure what 2 include or leave out
+Judy: Ok. I'll see what you have.
+Ingmar: Thanks!
+Judy: What job are u applying for btw?
+Ingmar: It's for a customer service role.
+Judy: I see. Is it an exciting company?
+Ingmar: Sorta. I heard theyre good to work for at least.
+Judy: That's good. Good luck!
+Ingmar: Thanks!
+Summary: Igmar is applying for a customer service job tomorrow at 10 am and needs Ingmar to check her CV, especially the education section.
+Dialogue: Joanna: Feel free to come over, I have made a lot of apple pie :p
+Joanna:  <file_photo>
+Ula: How come?
+Joanna: My family visited this weekend and left me a ton of apples :)
+Jacek: The invitation is for real? Because I will go anywhere for home-made apple pie :D
+Joanna: Absolutely :)
+Jacek: Me and Alex will come after class
+Joanna: And you Ula?
+Ula: I will see if I find time after work, but probably :)
+Summary: Joanna's parents came over this weekend and left her a lot of apples so she made an apple pie. Jacek and Alex will come and try it after class. Ula will too, if she is free after work.
+Dialogue: Adele: What was the name of the show you told me?
+Martin: Money heist. it's on netflix
+Adele: You liked it?
+Martin: a lot! you'll like it too :) it's in spanish
+Adele: OK, I'll check it out tonight
+Martin: Im watching Ozark right now but after money heist it seems so... i dont know... too american :) 
+Adele: house of cards season 6 is coming
+Martin: I know, s5 was great. s6 is going to be odd without spacey
+Adele: What do you mean?
+Martin: he's not in the cast
+Adele: Really?
+Martin: yes. RIP Frank Underwood :(
+Summary: Martin recommends a new movie called Money Heist to Adele as he thinks Ozark is too American. Both thinks that the season 5 of the House of Cards was great but Adele did not know that Kevin Spacey will not be part of the cast in season 6. 
+Dialogue: Karen: i just took half a sleeping pill
+Karen: big mistake
+Karen: THOSE THINGS ARE POWERFUL!!!
+Karen: and now i'm falling asleep
+Anthony: isn't that what you wanted?
+Anthony: why did you take it in the first place?
+Karen: I've been trouble sleeping and i thought this would give me the kick I needed
+Karen: i just didn't know it would kick RIGHT AWAY.
+Anthony: just close your eyes and enjoy the restful night!
+Anthony: good night!
+Summary: Karen took a half of a sleeping pill and she is falling asleep. She had some sleep problems.
+Dialogue: Jack: What time will you be home?
+Annie: I'm already here
+Stephanie: In 5 minutes 
+Jack: Don't lie Annie
+Jack: You're not home
+Annie: How do you know?
+Jack: because I'm home
+Annie: How come?? You were supposed to be in the office 
+Summary: Annie lies she's at home. Jack is at home. Stephanie will be there in 5 minutes.
+Dialogue: Jennifer: How long are we going to stay in Maldives? I have to apply for a leave.
+Brad: 5 of December till 5 of January 
+Jennifer: ok, I am soooo excited!
+Brad: Me too. It's gonna be AMAZING
+Jennifer: Do you want to stay only in Thailand or visit also other countries?
+Brad: We will see, we can do whatever we want, that's the best part.
+Jennifer: I've just talked to a colleague, she told me that Laos is amazing. 
+Brad: Is it?
+Jennifer: She was astonished by the nature, some cool waterfalls and amazing vegetation.
+Brad: So we can also go to Laos.
+Jennifer: But it's also a bit dangerous, there are apparently some land mines there.
+Brad: LOL, a paradise indeed.
+Jennifer: I'll google it first. You can as well.
+Brad: I will, I don't really want to pay with my legs for seeing a waterfall.
+Jennifer: Hahah.
+Brad: ;) When are you home?
+Jennifer: After 6.30 I think, depends on traffic.
+Brad: I will cook something.
+Jennifer: How nice of you! I am very hungry already.
+Brad: :*
+Summary: Jennifer and Brad are going to stay in Maldives for one month. They are also thinking of visiting Laos. Jennifer will be home after 6.30, so Brad is going to cook something.
+Dialogue: Dave: See that? <file_video>
+Spud: hell. grose man 
+Dave: yeah, bugs in sweets
+Spud: where?
+Dave: dunno. but need to be careful lol
+Summary: Dave has sent Spud a video with bugs in sweets.
+Dialogue: Kylie: What is your favourite dish?
+Ian: Paella
+Kylie: What's that??
+Ian: Spanish dish, with rice, saffron and seafood
+Kylie: Never heard about it. Interesting!
+Summary: Ian's favorite dish is paella. 
+Dialogue: Tobi: You going to birthday party tomorrow?
+Maxx: Yes! I love bowling.
+Tobi: Me too!
+Maxx: See you!😎
+Summary: Tobi and Maxx are going to a birthday party tomorrow. 
+Dialogue: Bob: Hi, Sandra. You there?
+Sandra: I am. So good to hear from you!
+Sandra: How are you feeling?
+Bob: A little better now.
+Sandra: How is the hospital?
+Bob: Quite all right. Considering.
+Sandra: Do they take good care of you?
+Bob: Nothing to complain, really.
+Sandra: How about the food?
+Bob: They could make some improvements there.
+Sandra: That bad, ha?
+Bob: Let's just say I don't enjoy it.
+Sandra: I can bring some food tonight.
+Sandra: What can you eat?
+Bob: Practically nothing. So, don't bother.
+Sandra: There must be something:)
+Bob: Well, you could bring some fruit, I suppose.
+Sandra: What do you want?
+Bob: Perhaps a couple of bananas and some grapes?
+Sandra: No problem. I'll see you after work.
+Summary: Sandra is at hospital and is feeling a little better now. Bob will bring her some fruit when he visits her after work. 
+Dialogue: James: Have I left my gloves at your places? Can't find them anywhere
+Sylvia: Yes, I have them with me :)
+James: Perfect, thank you so much!
+James: Can I pick them up tomorrow?
+Sylvia: I'll bring them to the office
+James: Thanks!
+Summary: James left his gloves at Sylvia's place. She will bring them to the office tomorrow.
+Dialogue: Makayla: <file_other>
+Makayla: What happened to this place? Are they closing down the hotel too?
+Harold: The hotel has already been closed down. The restaurant will shut down on Sunday. It has been going bad for a while now unfortunately 
+Makayla: That's very sad news. I loved that place
+Harold: Yeah, it's sad
+Makayla: I had no idea
+Summary: The hotel has been closed down. The restaurant will be closed on Sunday. 
+Dialogue: Erica: what should i buy Chloe for her birthday?
+Amelia: i am getting her some cute bunny slippers
+Erica: aww.. i am totally clueless
+Amelia: maybe nice pyjamas? you know she loves to sleep
+Erica: maybe... any ideas?
+Amelia: <file_photo>
+Erica: this is so cute!! where do you find these?
+Amelia: <file_photo>
+Erica: this is even better!!! send me the link please
+Amelia: <file_other>
+Erica: and they are so cheap also.. wow i am getting one for myself too :D do you know Chloes size? I will take this pink one for her
+Amelia: get her an extra small and you can always exchange it later if it does not fit
+Erica: they allow for returns?
+Amelia: as long as it's in perfect condition and with all the packaging then it shouldn't be a problem :)
+Erica: great :D thank you!!
+Summary: Erica will get Chloe some pink pyjamas for her birthday. Amelia will get her some cute bunny slippers.
+Dialogue: Josh: Hey Josh, it’s me again 😊
+Alexandra: Do you know if the copy shop at our university is any good? I need to print some important stuff.
+Josh: Well, I guess it’s not. They've screwed up my BA thesis…
+Alexandra: Tell me more
+Josh: They’re fucking terrible. I had to bloody argue with them. They didn’t want to accept my complaint. Terrible! Keep the fuck away from them!
+Alexandra: Lol :D Did they accept your complaint in the end?
+Josh: Yep but only after I told them they were assholes 😉
+Alexandra: Hahah
+Josh: Fuck. I hate to think about it
+Alexandra: Sorry ‘bout that
+Josh: That’s ok^^
+Alexandra: so, do you think there is a decent copy shop somwhere near?
+Josh: At Charing Cross I guess
+Alexandra: Perfect! Thanks!
+Josh: Nothing
+Summary: Alexandra needs to print some materials. Josh once used the copy shop at their university but he was utterly dissatisfied with their service and argued with them. Therefore he recommends using a shop at Charing Cross.
+Dialogue: Nicky: I must cancel our meeting today, I am sorry
+Kim: no problem
+Sam: ok
+Nicky: I will write you as soon as I know when we can meet instead of this Wednesday
+Summary: Nicky's cancelling this Wednesday's meeting with Kim and Sam. She'll get in touch to reschedule.
+Dialogue: Omar: what phone do you have??
+Aliyah: samsung galaxy s5 i think
+Omar: ok thanks
+Aliyah: why did you want to know?
+Omar: Rachel told me she really liked yours and I am planning to get her one for christmas :)
+Aliyah: ah fine :) good choice, I really love it and you can get in gold colour also haha, she will love it
+Summary: Omar wants to buy a Samsung Galaxy s5 as a Christmas gift for Rachel.
+Dialogue: Ron: Hi, Dorothy...
+Dorothy: Oh, hi, Ron. Here to apologize?
+Ron: Yeah, I know, I'm so sorry... I wasn't exactly myself last night...
+Dorothy: You must admit that drunk messaging a girl you've met just a couple of days ago was not the greatest of ideas.
+Ron: Yeah, yeah, I'm really sorry, you know...
+Dorothy: You should be.
+Ron: But really, if I can do anything so that, you know, you forgive me for what I wrote...
+Dorothy: Ok, so now you're (hopefully) sober please remind me and yourself what your wrote.
+Ron: Uh, well, is that really necessary?
+Dorothy: Yes, it is.
+Ron: Well, I wrote a William Blake-like poem about your breasts...
+Dorothy: The "fearful symmetry" part was interesting, I have to admit it.
+Ron: Yeah... I'm really sorry about that and the audio message...
+Dorothy: If you mean the recording of you singing The Bad Touch, yes, that was pretty inappropriate.
+Ron: Damn, I'm an idiot. Will you ever forgive me?
+Dorothy: I'll let you know. Sorry, I'm in a troll-ish mood today, so don't expect me to forgive you just like that! Let me have my revenge first. How's the headache?
+Ron: Well, I've been drunk before, so I'll survive, I'd say...
+Dorothy: So I guess you can survive not writing to me for a while. See you!
+Summary: Ron apologizes for drunk messaging Dorothy. Dorothy is still upset. She doesn't want to hear Ron for some time.
+Dialogue: Todd: Hi, Sara.. just wondering, did you get my email?
+Sara: Yes. Sorry,  I've been very busy. 
+Sara: Will answer you tomorrow, ok?
+Todd: Ok. tomorrow is fine;-) 
+Todd: But no later, please. 
+Summary: Sara will answer Todd's email tomorrow.
+Dialogue: Jack: Wanna play some game tonight?
+Zack: Yup. I have time tonight.
+Jack: Cool.
+Jack: I haven't been online for a month now.
+Jack: Shame that mature life gets you so fast
+Zack: Yup. Mature life at 25
+Zack: It's surprising we're not married and don't have kids by this time :D
+Jack: Hahah. Please don't even say it.
+Jack: I can't afford a kid right now. 
+Zack: Hahaha.
+Summary: Jack and Zack will play a game tonight, they complain about being an adult.
+Dialogue: Adrian: Are you coming for a coffee or not? 😆
+Janet: I'll be at yours in half an hour
+Janet: Wanna buy some sweets for us 😜
+Janet: Any requests?
+Adrian: FUDGE
+Janet: Didn't see that coming 😜
+Adrian: 😕
+Janet: Wait..
+Janet: Found it!
+Adrian: You're the best! 😁
+Janet: OK, coming!
+Summary: Janet will be at Adrian's place for a coffee in half an hour. On his request she is buying fudge.
+Dialogue: Ann: Hi, Robert. How are you?
+Robert: Hi, Ann. What a nice surprise?
+Ann: We'll see about nice:)
+Ann: I've got a favor to ask.
+Robert: What kind of favor?
+Ann: I wonder if you could help me.
+Ann: But if you can't, just tell me right away.
+Ann: I will not be offended:)
+Robert: Right. But do I get to know what is it?
+Ann: Sure. It's about the book, you wrote.
+Robert: What about it?
+Ann: The ladies in my book discussion club.
+Robert: What about them?
+Ann: They love your book!
+Ann: And they know I know you, so...
+Robert: Do they want to meet?
+Ann: That's it, Robert. But if you can't, I'll understand.
+Robert: They read my book, I'd love to meet them.
+Ann: This is so awesome! We meet every Thursday, 7 pm.
+Robert: Will be there next Thursday then. Just email the address.
+Ann: I'll do that. And I'll owe you one, Robert:)
+Summary: Ladies from Ann's book discussion club want to meet Robert. He would love to meet them. They will meet at 7 pm on Thursday.
+Dialogue: Maisie: I'm writing our next company article about evergreen content.
+Toby: That's interesting.
+Maisie: Should be good!
+Summary: Maisie is writing an article about evergreen content.
+Dialogue: Alleatha: Hi, I have a question MTG related. If I exile a permanent with something and it will later return to play
+Alleatha: will ETB effects happen? I suppose "exiling" doesn't trigger "dies" but this is a bit different, right? 
+Gerard: It will trigger ETB, sure. 
+Gerard: Won't trigger "die"
+Alleatha: Thankee :)
+Alleatha: There was this "mount" that exiled guy for +2/+2 bonuses, and I was pondering if the "delayed blink" could be used for further advantages.
+Alleatha: I likes this card <file_other> for some weird reason.
+Gerard: Nice one
+Gerard: I like the angel cause it's pretty
+Alleatha: I'm slightly lost.
+Gerard: What? Why?
+Gerard: I don't remember card names...
+Alleatha: I'm looking at the cards looking for an angel
+Gerard: Black and white, with a scales on a picture
+Alleatha: Seraph of the Scales?
+Gerard: Yes
+Alleatha: She's pretty
+Gerard: Very. I like the picture. Card is ok too
+Alleatha: Haven't been really paying attention to MTG for a while, as I don't play it outside of prereleases
+Alleatha: And I tent to miss even those
+Gerard: We recently started playing with little group
+Alleatha: Ye, that's the problem with games - they need actual people for them.
+Summary: Exiling a permanent triggers ETB. Recently Alleatha plays MTG rarely and only with prereleases.  
+Dialogue: Jane: I think I may be getting old
+Brian: Newsflash honey - you do
+Sandra: What led you to this conclusion? ;)
+Jane: I went to the cinema and they were showing the last trailer of that new Lars von Trier film
+Brian: The House That Jack Built?
+Jane: Exactly! So, I used to love films like that, you know with serial killers, psychopaths, quite gore and everything, but yesterday I could barely watch the trailer
+Sandra: I've heard people were going out of the screening because it was too much
+Brian: Yeah, he's famous of doing films to hard to handle
+Jane: It's not that. I watched his previous films, I watched more hardcorde films, but I was... bored? 
+Brian: Bored? At the trailer? How long is it? 2 minutes? :D
+Jane: Hahahaha, it wasn't too long :P
+Jane: I was bored because it was boring. That's why I think I'm just getting old. A couple of years ago I would be crazy excited about this film.
+Jane: Now I'm only thinking - another serial killer, another film about psychopaths and murderers, it seems awfully tedious
+Sandra: I think I get what you mean
+Brian: Maybe it's different and you should give it a shot? The same rule applies to films about love
+Jane: I guess so, but I now kind of enjoy more films in which people don't murder each other
+Jane: Maybe it is the age thing after all, I don't think I can handle all those negative emotions to that extent
+Sandra: I never liked films like that exactly because of that
+Sandra: You can just watch daily news instead of an horror
+Brian: I'd give it a go if I were you, wait a bit and watch it. I've heard it's a masterpiece
+Jane: Well, maybe, will see, now I don't feel like watching. I was yawning at the trailer
+Summary: Jane got bored by the new Lars von Trier movie trailer. 

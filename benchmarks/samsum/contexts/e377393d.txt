@@ -1,0 +1,536 @@
+Dialogue: Tom: what lines are you flying to Stockholm with?
+Jenny: with British Airways
+Tom: wow, they are super expensive!
+Tom: why not Ryanair?
+Sophia: We never use them, it's too tiring and unpleasant
+Tom: Yes, but super cheap, sometimes even a few pounds
+Sophia: I know, but to go through their website is a nightmare
+Sophia: and even a bigger nightmare on board
+Tom: I see, but cheap...
+Summary: Jenny and Sophia are flying to Stockholm with British Airways. Tom is very surprised that Jenny and Sophia didn't choose Ryanair.
+Dialogue: Tom: Have you seen dr Baraglio?
+Peter: No, I don't think he works with us any more
+Tom: Shit! I lent him something
+Peter: write him an email
+Summary: Dr Baraglio doesn't work with Tom and Peter any more. This is unfortunate for Tom, because he lent him something.
+Dialogue: Jay: Dumb question - how do you cook an artichoke? :D
+Olivia: why are you cooking an artichoke? ;D
+Jay: god knows, I don't know what got into me
+Lea: <file_other> here's a tutorial
+Lea: It doesn't look easy - good luck mate
+Summary: Lea sent Jay a tutorial on how to cook an artichoke.
+Dialogue: Aron: Is anyone free and near the university? We could go to some coffee
+Ivan: I will have a break in 10 minutes, but I planned on eating something
+Aron: That is also cool, anyone else?
+Karlo: I have a class right after this one...
+Luka: And I am home :p
+Summary: Karlo and Luka can't have a coffee with Aron. Ivan will have a break in 10 minutes.
+Dialogue: Anne: hello ;)
+Josh: now I see you 🙂
+Anne: ok
+Josh: and what are you doing today?
+Anne: studying for the exam
+Josh: do you have any exam today or just tomorrow?
+Anne: tomorrow and after tomorrow
+Josh: so maybe today we can talk on Skype
+Anne: i have to study...
+Josh: ok 😞
+Anne: i have just told u i have exams tomorrow and after tomorrow...
+Josh: I know but you are not studying all day
+Anne: no?
+Josh: Okay forget about it. I'm looking at your photos and did you go to a topless beach?
+Anne: no
+Josh: Because in one of your pictures it looks like you're not wearing a top
+Anne: actually i was wearing it but i just took off shoulder straps. I don't know the proper name for it
+Josh: the straps
+Anne: ok
+Josh: I see that you love the water as much as I do
+Anne: yes
+Josh: And do you know now if you're going to Spain or not
+Anne: not yet
+Josh: Okay I'll be right back I need to make myself something to eat for breakfast
+Anne: ok, enjoy 😉
+Summary: Josh wants to talk to Anne on Skype but she has to study. Josh asks Ann if she is going to Spain, she answers she won't. Josh goes to have a breakfast.
+Dialogue: Mirco: So you should arrive at 21.20?
+Rushanara: yes, will you come to the station?
+Mirco: sure I will
+John: great, thanks
+Mirco: I can take car2go if you have a lot of luggage
+Emma: that would be good
+Mirco: ok
+Summary: Rushanara will arrive at 21:20. Mirco will pick her up from the station. 
+Dialogue: Boris: Hello, I did shopping in your store today and I believe there is a problem.
+Elton: Good morning, what happened?
+Boris: I think I’ve been charged twice for one of the products.
+Elton: I see. The procedure is has a few steps, I’ll present them to you one by one.
+Boris: Ok, go on.
+Elton: First, you need to send us a copy of the receipt, you can do this online, detailed instructions are on our website.
+Boris: Of course, what’s the second step?
+Elton: More complicated, it requires you to show up in our store.
+Boris: When?
+Elton: We process your application in 5 business days and then a manager will contact you to organize the meeting.
+Boris: Will he call me or send me an e-mail?
+Elton: We prefer calling, as it is easier to communicate and go through all details. You can choose your preferred way of communication and set up the times you’re most usual available to talk.
+Boris: That’s ok, I just don’t check my e-mail so often, that’s why I’m asking.
+Elton: No problem, as I said the form of communication is up to you, don’t forget about it while sending your application.
+Boris: It will be somewhere in the options?
+Elton: Yes, all the steps are explained in details on our website.
+Boris: Great, so how does the meeting look like?
+Elton: While processing your application we will check the video footage from the shop, trying to find out how many products you bought.
+Boris: I understand, but why am I needed?
+Elton: If it’s confirmed, just to sign the documents.
+Boris: And if it’s not?
+Elton: Then the manager will explain you further steps.
+Boris: If you don’t agree, will it go to the court?
+Elton: As the last instance, yes, it may happen. But we always try to resolve it in a different way.
+Boris: Okay then, thank you very much for help.
+Summary: Boris believes he was charged twice for one of the products when he did shopping. He has to send them a copy of the receipt first. Then he needs to show up in the store. They will check the video footage to confirm the problem.
+Dialogue: Edgar: im starving
+Sergio: im not your mom
+Edgar: :/
+Edgar: wanna order a pizza
+Sergio: yeah i knew what you meant xD
+Edgar: -_-
+Edgar: so??
+Sergio: your treat?
+Edgar: why my treat??
+Sergio: your idea, your treat 
+Edgar: thats not how it works -_-
+Sergio: thats exactly how it works xD
+Edgar: :p
+Summary: Edgar wants to order a pizza. Sergio wants him to pay for it.
+Dialogue: Mike: So when are you starting with the renovation?
+Lenny: next year I guess, probably spring
+Mike: Why so late?
+Lenny: we don't wanna do it in winter, and also we still need to get a loan for it
+Mike: ah right, how big?
+Lenny: more than 100k probably
+Mike: 100k?!
+Lenny: ye, that's how much these things cost
+Summary: Lenny will probably start the renovation in the spring of next year. Lenny needs to get a loan of 100 000 for the renovation.
+Dialogue: Sean: Yo, who's that chocolate for?
+Emil: What chocolate?
+Sean: The one in your bag.
+Emil: Don't go through my stuff dude. 
+Sean: I can sure as hell do that without asking you. I'm your ONLY friend dude. XD
+Emil: Ha Ha, really funny dumbass.
+Sean: You ARE gonna tell me or else.
+Emil: Or else what?
+Sean: I'm gonna eat it, that's what.
+Emil: Hey no, don't. It's for Lisa.
+Sean: Liiissaaaa? 
+Emil: Yeah. What's so funny about that?
+Sean: Nothing. xD
+Emil: Then shut up.
+Sean: I thought you two broke up.
+Emil: Yeah, so?
+Sean: SO?
+Emil: So what?
+Sean: So why're you giving this stuff to her?
+Emil: Because i want to. :/
+Sean: Are you stupid?
+Emil: This doesn't mean anything.
+Sean: Yeah right! I'm sure she will see it that way.
+Emil: Whatever dude go to hell. 
+Summary: Sean goes through Emil's bag and finds chocolate. Chocolate is for Lisa.Sean thinks it's a bad idea since Emil and Lisa are no longer a couple.
+Dialogue: Kim: hey did you see mikes email?
+Kim: why do we have to pay more money???
+Lars: <file_gif>
+Linda: how much did you pay in septermber?
+Kim: cant remember now. around 50-60
+Lars: we had 1500 in total end of sept. like... where is it?
+Summary: Kim doesn't understand why she, Lars and Linda are supposed to pay Mike more money. Kim has already paid about 50-60 and 1500.
+Dialogue: Paula: Fuck this shit!
+Stan: What's wrong?
+Paula: I really want to get home
+Paula: And I'm stuck in this fucking traffic jam
+Paula: Because some idiot in BMW in a car faster than his brain just drove right into a tree
+Paula: And the whole road is blocked.
+Paula: I will never get out ;(
+Stan: Chill out. You have no power here. Sometimes you have to just embrace hard reality and just get through it.
+Stan: When you get home, the warm dinner will wait for you in company of our 2 furry life companions.
+Paula: You can give them food, so they won't moan at you.
+Stan: Noo. We will all wait for you.
+Stan: They are used to the fact, that they get food, when You get  home from work. They don't use the clock.
+Paula: I'm afraid that I will be at home in more than 1 hour.
+Stan: Easy. Just make sure that You don't cause accident.
+Paula: For now, I can't even drive 3 meters so unless I go and hit my head against a car it won't happen :(
+Stan: Calm down, play some nice track or audiobook and just get through it.
+Stan: We're all waiting for you :)
+Paula: Thanks <3
+Summary: Paula is stuck in the traffic jam. Stan tries to comfort her. Paula asks Stan to feed the pets, but he refuses. Paula will get home in more than an hour.
+Dialogue: Danny: Do I need to bring anything?
+Frank: No, no, we’re sorted, just waiting for all of you to come :)
+Leo: Grace and I are bringing some wine.
+Frank: Cool! xxx
+Summary: Danny and Leo are going to visit Frank. Leo's bringing some wine.
+Dialogue: Ian: On way back see you in 20
+Alice: Cool
+Ian: Just noticed your house keys are in the car so don't lock yourself out
+Alice: (y)
+Ian: ok, on way now, got held up
+Alice: K. All good?
+Ian: yep stopping for fuel first
+Alice: (tu)
+Summary: Ian will come to the house soon, but he is stopping for fuel first. Alice has left her house keys in the car.
+Dialogue: Chelsea: The girl working at the reception lost my multisport card ヽ(`Д´)ﾉ
+Chelsea: And they said they would find it till tomorrow.
+Chelsea: But im just nervous what if they cannot.
+Kyle: What:D
+Chelsea: How can you find it if the person who brought my card didn’t contact them?
+Kyle: How did they do that:D
+Chelsea: Idk. I got a stamped paper so that i can enter tomorrow. （´-`）.｡oO( ... )
+Chelsea: I’m kinda annoyed.
+Kyle: In that case I will order you new one, and until that moment you will enter the gym for free xD
+Kyle: Morons!
+Chelsea: But you already paid for March, didn’t you?¯\_(ツ)_/¯
+Kyle: Yes. But in case you loose your card I can order new one for free
+Chelsea: *lose, darling
+Kyle: Yes, *lose
+Chelsea: I don’t wanna have it issued again and wait for it. One time is enough (╬ ಠ益ಠ)
+Chelsea: I understand they were not the girl who made mistakes (＃ﾟДﾟ)
+Chelsea: But if they get this situation apology is a must. (＃ﾟДﾟ)(＃ﾟДﾟ)(＃ﾟДﾟ)(＃ﾟДﾟ)
+Kyle: You can always ask for manager. 
+Chelsea: I will be waiting till tomorrow but if they cannot find it, then that’s it. 
+Summary: The girl at the reception has lost Chelsea's multisport card. Chelsea has got a stamped paper until they find her card. Chelsea is going to wait until tommorrow and if the card is not found she will talk to the manager.
+Dialogue: Lidia: Are you inside Tesco
+Caesar: yes, wait outside
+Tom: we're almost done
+Lidia: ok
+Summary: Lidia is waiting for Caesar and Tom outside Tesco. 
+Dialogue: Abigail: i'm reading this very inspiring book
+Abigail: it says you have to follow happiness when you can :-D
+Natalie: i could use a book like that!!
+Natalie: lately i've been disenchanted with school and i'm tired all the time :-/
+Abigail: the semester is about to end
+Abigail: it's normal to feel that way :-D
+Natalie: i know! happens every year
+Natalie: thank the universe for the winter break!!!
+Natalie: maybe i'll read the book during the break
+Abigail: you can borrow it from me :-D
+Summary: Abigail recommends Natalie the book she is currently reading. Natalie expresses interest in the subject.
+Dialogue: Stan: Josh
+Josh: sup
+Stan: Are you at home right now?
+Josh: yup
+Stan: Could you go over to my desk and in the 2nd drawer from the top there should be a red folder. 
+Josh: Can't see any
+Stan: what about on the desk? Or other drawers?
+Josh: Still nothing. any other ideas?
+Stan: Shit. those shelves in the hall?
+Josh: give me a sec
+Josh: It was on the fridge, you dumbass
+Stan: phew, great thanks. There should be an application form inside. Could you give me the name and address of the recipient?
+Josh: You mean the Elaine lady?
+Stan: Yes
+Josh: K, here it goes <file_photo>
+Stan: thanks a bunch
+Summary: Josh was looking for Stan's red folder on Stan's desk, but it was on the fridge. Stan needs details from an application form inside it.
+Dialogue: Rose: read this <file_other>
+Amelie: hehe, Guardian again :P
+Rose: sure, I like them!
+Amelie: it's quite interesting
+Rose: it is, but also maybe a bit naive?
+Amelie: Yes, like comparing Europe nowadays to Europe in 536 is a bit simplistic.
+Rose: True, people had different expectations then, perceptions, believes etc. Also imagination of what was possible or not.
+Amelie: Exactly!
+Rose: Like the volcanic eruptions they read as the anger of God.
+Amelie: on the other hand, we have this kind of people here and now as well.
+Rose: Good point. They vote for Trump
+Amelie: So maybe it's not that stupid, the article. Maybe we've never changed, as humans
+Rose: At least not as much as we would like to believe.
+Amelie: Which is a beautiful but also sad realisation.
+Rose: Look at all this racism and xenophobia around the world right now. If not even IIww and Holocaust has changed us, what could?
+Amelie: nothing, I am afraid.
+Rose: We just keep repeating the same stories all the time.
+Amelie: Over and over again.
+Rose: God, how depressing!
+Amelie: Anyway, I have to come back to work. This sad truth about life never changes as well - we have to work.
+Rose: And we become our work.
+Amelie: Oh, yes! 
+Rose: TTYL :*
+Amelie: :*
+Summary: Rose sends Amelie an article from the Guardian that compares Europe nowadays to Europe in 536. Rose and Amelie find differences and similarities between the two ages. Rose suggests humanity keeps repeating the same stories.
+Dialogue: Emily: Hi, Giorgio! Are you ok?
+Giorgio: Ciao Emily! I'm fine. What's going on?
+Emily: I'd like to ask you something... maybe a little unusual.
+Giorgio: Oh God! No, Emily, I'm not gay. :D
+Emily: Haha, no, it has to do with Daniele, Marco and their friends. They keep saying that going to the movies on a Saturday night is a thing for old and boring people. I love watching movies but it seems like all the Italian people I know here in Turin just want to go to clubs or get drunk or both, you know...
+Giorgio: Yes, I know, but those guys are, well, I don't want to offend them so I'll just say they don't have a huge intellectual landscape.
+Emily: You know, sometimes I miss my friends back in England. :P
+Giorgio: I know, but if you want you can come to the Cinema Massimo with Martina, Francesco and me next Saturday. They will be playing the new Sorrentino film. Are you interested?
+Emily: Of course I am! Thank you. :)
+Giorgio: Obviously no grudge against Daniele and Marco, they are fine guys. ;)
+Emily: Obviously. ;)
+Summary: Emily is upset. She can't find a company for movies in Turin, because her peers think it's suitable for old people. Giorgio invites her to the cinema with Martina and Francesco next Saturday. 
+Dialogue: Dustin: Dear Sammy, we wish you all the very best for your 47th birthday! May good fortune beam upon you and all your undertakings! Love from Dustin and Catherine
+Dustin: <file_gif>
+Sammy: Thank you so much, Dustin and Cathrine, for your good wishes so early in the morning!
+Dustin: Were we again the first ones to reach you via whatsapp?
+Dustin: What are your plans for today?
+Sammy: Yes, your message came as first. Nothing much. Lawrie with his wife are coming in early afternoon and drive us to one of his favorite restaurants, somewhere in the mountains. This being a workday, it's only the four of us.
+Dustin: Sounds pleasant enough. There are a few excellent places in the Credence Creek Valley. Well, we wish you a lovely meal in a fantastic atmosphere.
+Sammy: Thanks a lot!
+Sammy: And I'll be seeing you two on Friday, just as scheduled. Love to you and Catherine!
+Summary: Dustin wishes Sammy a happy 47th birthday. Sammy will go to a restaurant in the mountains. 
+Dialogue: Matt: Do you want to go for date?
+Agnes: Wow! You caught me out with this question Matt.
+Matt: Why?
+Agnes: I simply didn't expect this from you.
+Matt: Well, expect the unexpected.
+Agnes: Can I think about it?
+Matt: What is there to think about?
+Agnes: Well, I don't really know you.
+Matt: This is the perfect time to get to know eachother
+Agnes: Well that's true.
+Matt: So let's go to the Georgian restaurant in Kazimierz.
+Agnes: Now your convincing me.
+Matt: Cool, saturday at 6pm?
+Agnes: That's fine.
+Matt: I can pick you up on the way to the restaurant.
+Agnes: That's really kind of you.
+Matt: No problem.
+Agnes: See you on saturday.
+Matt: Yes, looking forward to it.
+Agnes: Me too.
+Summary: Matt invited Agnes for a date on Saturday evening. They are going to Georgian restaurant. He's picking her up.
+Dialogue: Tom: check out what I found for the family history project <file_photo> 
+Rod: who's this?
+Jake: Is it like your grandpa or something?
+Tom: Yes! My dad's dad, the one I've never met. He died in Vietnam.
+Rod: Damn, how many medals does he have?
+Tom: Not an expert on medal, but he got one for bravery in Vietnam, not sure how it's called.
+Jake: Isn't it the medal of honor?
+Tom: Nah, that's like the highest one you can get and it's awarded by the president. He got something else.
+Rod: Purple Heart?
+Tom: yeah, he got that, but that's cause he died in combat. Either way it's a cool addition to the project.
+Jake: true
+Summary: Tom found a photo of his awarded grandpa who died in Vietnam and wants to use it for the family history project.
+Dialogue: Patti: Let's go for a swim
+Libby: im not feeling very well
+Lindsay: me neither. too much work
+Patti: shame. next time then
+Summary: They will not go swimming today.
+Dialogue: Lia: do you remember Alice's address?
+Kelly: I just remember the bus stop next to her house
+Lia: nevermind, I'll just call her.
+Kelly: okay
+Summary: Lia will call Alice, because she forgot Alice's address. Kelly could not help, as she remembers only the bus stop next to Alice's house.
+Dialogue: Aubrey: Should we go together to watch G, I Joe?
+Logan: Yeah, We should, When would it be released?
+Aubrey: It has already been released. :/
+Summary: Aubrey and Logan want to watch "G.I. Joe" that has already been released. 
+Dialogue: Gavin: hey Carlie
+Carlie: yeah?
+Gavin: have you prepared your part of the presentation
+Carlie: wat presentation
+Gavin: are u serious? :/
+Carlie: hahaha XD im kidding ofcourse i remember
+Gavin: so?
+Carlie: yeah just going through the slides
+Gavin: tell me when you're done
+Carlie: sure
+Gavin: and send it to me as soon as you're done
+Carlie: why
+Gavin: i have to merge all the slides together -_-
+Carlie: why
+Gavin: what do you mean why? its a GROUP presentation
+Carlie: oh shit
+Gavin: yea -_-
+Summary: As soon as Carlie is done with her part of the presentation, Gavin will merge all the slides together.
+Dialogue: Lea: I cannot start working
+Tommy: You computer is not working?
+Lucy: I'm afraid it's a deeper issue
+Lea: Indeed. 
+Summary: Lea's computer is not working. She can't work, as she reports to Lucy and Tommy.
+Dialogue: Sally: best pizza in Exeter please?
+John: Rosario
+Ben: Carluccio's
+Sarah: Domino's
+Maddie: Perfect Pizza!
+Sally: thanks all
+Summary: John, Ben, Sarah and Maddie give Sally pizza recommendations in Exeter.
+Dialogue: Mary: Sorry, I didn't make it to your bday party :(
+Nick: It's OK...
+Mary: But I just got SOOO distracted! I forgot it was yesterday!
+Nick: do tell!
+Mary: I met this guy...
+Nick: REALLY? I want details :D
+Mary: Yeah, his name is Kirk and he's an architect...
+Nick: OK, just your type then <file_gif>
+Mary: And we ended up spending the whole week together. xD
+Nick: A WEEK?
+Mary: Yeah... It's madness, I'll tell you more this evening. Are we still on?
+Nick: You bet we are!
+Summary: Mary didn't come to Nick's birthday party. She met an architect named Kirk. Mary and Nick will meet in the evening.
+Dialogue: Gina: i think we should do an intervention for David
+Jimmy: you think? duh! i'm sure he's gonna love it
+Jeffrey: <file_photo>
+Bridget: I don't see the point, tbh
+Gina: srlsy? he has been drinking since his gf broke up with him
+Bridget: I know but people don't magically change over intervention
+Jimmy: I'm in, Gina
+Jeffrey: Bridget it's not about changing magically but about showing our concern
+Gina: so do you think we should just do nothing? that's your plan?
+Bridget: don't attack me, i don't have to have a plan
+Jimmy: something has to be done
+Jeffrey: Bridget some people wake up after intervention and get help
+Jeffrey: not immediately, but still
+Gina: so my idea is that we meet up before Thanksgiving at my place to talk about the details
+Jimmy: sounds good to me
+Bridget: let me think about it first
+Jeffrey: see u there then!
+Summary: Gina organize a meeting at her place before Thanksgiving to talk about intervention for David, who hasn't stopped drinking since his girlfriend broke up with him. Bridget is not convinced but she will think about it. 
+Dialogue: Doug: Hi. I am in the market. Do we need milk?
+Jane: Let me check.
+Jane: Yeah, we can use some.
+Doug: Cool. I'll get some. See you in a bit.
+Jane: See ya:)
+Summary: Doug will buy milk in the market.
+Dialogue: Patrick: Mom, can stay over at Mark's house tonight?
+Sheila: are his parents going to be there?
+Patrick: yes
+Sheila: for sure?
+Patrick: they are going out but will be back by 10pm
+Sheila: okay just call me when you're there&safe for the night
+Patrick: I will
+Sheila: I love you pumpkin
+Patrick: love you too mum
+Sheila: although I'm making roast beef for dinner tonight and you'll miss it
+Patrick: save me some for tomorrow?
+Sheila: of course <3
+Patrick: bye mom
+Summary: Patrick will stay over at Mark's house tonight with Sheila's permission. Mark's parents are going out, but will be back by 10 PM. Patrick will call Sheila when he's at the house. Sheila is making roast beef for dinner tonight. Sheila will save some of it for tomorrow for Patrick.
+Dialogue: Martha: Have you been to Laura?
+Ian: Not yet, why?
+Martha: I wanted to give you a book for her.
+Ian: OK.
+Ian: I'll be in a moment.
+Martha: Thx!
+Martha: I will pack a few CDs too.
+Summary: Ian will bring Laura a book and few CDs from Martha.
+Dialogue: Emily: Are you going to Luisa's bday??
+Diana: I don't feel like going there to be honest...
+Mary: Yeah, me too
+Diana: But I was invited and I didn't say that I would not come
+Diana: Sooo... I guess there's no way out :///
+Emily: I have the same feelings.........
+Mary: Maybe it wont be that bad
+Summary: Emily, Diana and Mary don't want to go to Luisa's birthday party, but they feel obliged to.
+Dialogue: Olek: I made a reservation for two of us 
+Veronica: At POPs? 
+Olek: Yes
+Veronica: Thanks
+Summary: Olek made a reservation at POPs for him and Veronica.
+Dialogue: Gloria: U awake?
+Ace: Yes
+Gloria: Ok on my way
+Summary: Ace is awake. Gloria is on her way.
+Dialogue: Zoe: <file_other>
+Ruby: I don't trust people that are as happy as him :D
+Zoe: hahah, feel the same
+Zoe: but he's talking about sth really interesting ;-)
+Ava: he looks as if he's eaten the smiley emoticon :P﻿
+Summary: Ruby and Zoe do not trust people who seem to be too happy.
+Dialogue: Abdul: What's Jessica last name?
+Jacques: Thomson
+Thomas: Why?
+Abdul: I'm buying her a surprise ticket 
+Summary: Abdul is buying Jessica Thomson a surprise ticket. 
+Dialogue: Julia: that was some performance ^_^
+Travis: heyy thanks
+Julia: have you ever performed in front of such a huge crowd
+Travis: i have but i don't think i have been this nervous before :D
+Julia: oh, and how do you feel now
+Travis: like a rockstar? xD no seriously, i feel pretty good
+Julia: haha :D
+Travis: on a serious note.. i don't think i would have done it
+Julia: why not
+Travis: i was so unsure about it.. before i had that talk with you
+Julia: oh.. i'm glad i could help
+Travis: i'm glad you could help too xD
+Julia: are you hitting on one of your audience?? xD
+Travis: i'm trying
+Julia: smooth
+Travis: XD XD
+Summary: Julia congratulates Travis on his performance. Travis feels great, although he was unsure at first.
+Dialogue: Osborn: Did you walk the dog?
+Pamela: nope.
+Osborn: Please, do it.
+Pamela: in 15 minutes I'll finish the stuff and do it;)
+Osborn: :*
+Summary: Pamela will walk the dog in 15 minutes.
+Dialogue: Ethan: I've been thinking
+Ethan: what should we buy for Joe's b-day?
+Margaret: mm
+Liam: dunno
+Margaret: maybe that comic book, what's it called
+Liam: Fables, I think
+Ethan: yeah, he likes that stuff
+Margaret: that, and we can throw in some toblerone :D
+Ethan: great idea! that's his favourite
+Summary: Ethan, Liam and Margaret are buying Fables and toblerone for Joe's birthday.
+Dialogue: Pat: Did u remember to do the laundry?
+Brenda: Mum! I remembered everything! Don't worry.
+Pat: R u sure?
+Brenda: Sure. :) u worry 2 much.
+Pat: U'll understand when u'll have children.
+Summary: Brenda remembered to do the laundry.
+Dialogue: Gabrielle: Can you clean the kitchen?
+Gabrielle: We're having guests tonight.
+Lawrence: Are we?
+Lawrence: Who's coming?
+Gabrielle: My friends from the office.
+Lawrence: Okay honey.
+Gabrielle: Don't forget to clean the oven.
+Lawrence: No problem.
+Gabrielle: Thank you, you're the best. ❤️
+Summary: Gabrielle's friends from the office are coming over tonight. Lawrence will clean the kitchen.
+Dialogue: Hanna: Plans for Friday evening?
+Kate: Not yet. 
+Hanna: Movie? 
+Kate: Drink?
+Hanna: Drink sounds good. 
+Kate: :)
+Hanna: :)
+Kate: Heard about a new place in the city centre. Wanna try it out?
+Hanna: Sure. What is it?
+Kate: <file_other>
+Hanna: Looks all right. I like the garden space. 
+Kate: Me too. What time?
+Hanna: Around 8:00?
+Kate: Perfect!
+Hanna: Is Pete coming as well?
+Kate: He'll be still out of town.
+Hanna: Girls night then. Great!
+Kate: Maybe let's ask Mary to join us? She's been looking sad lately. 
+Hanna: I think she's working Friday evening, but yeah, let's ask her :)
+Kate: I'll write to her.  
+Summary: Hanna and Kate go for drinks Friday evening around 8.00. They will try out a new place in the city centre. They will ask Mary if she joins.
+Dialogue: Gina: Happy birthday Eva! Xxx
+Helen: Hope u have a magical day!
+Sarah: Lots of love!!!
+Eva: Thanks guys!
+Kevin: What’re u up to? Love you!
+Eva: Seeing old friends and being big kids at Alton Towers! :)))
+Kevin: go girl!
+Sarah: sounds fun! Have a great bday!
+Eva: Can’t believe i’m so old! ;) Thank u all!!!
+Summary: Eva is spending her birthday at Alton Towers with her friends. 
+Dialogue: Andrea: Have you heard about Mitch?
+Rebecca: No, what happened?
+Andrea: He broke up with Melanie!
+Rebecca: Are you kidding me?
+Andrea: No, it's for real! I couldn't believe it! They were supposed to get married next month!
+Rebecca: What happened? I don't know, rumor has it Melanie cheated on him!
+Summary: Mitch broke up with Melanie just before the wedding because she cheated on him. It's hard for both Andrea and Rebecca to believe it. 
+Dialogue: Ariel: Let me do that for you
+Hannah: Noooo I wanna do it myself
+Ariel: You haven’t had a drill in your hands for like… your whole life!!!
+Hannah: Haha I know but I want to learn
+Ariel: So let me help you, I can teach you
+Hannah: No, you help me with everything, I need to start being independent
+Ariel: By destroying your fingers, very well
+Hannah: Why don’t you believe in me!!
+Ariel: I’m just being realistic, that’s all
+Summary: Hannah doesn't want Ariel's help with drilling. 

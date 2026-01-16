@@ -1,0 +1,978 @@
+Dialogue: Lib: Thank you for the flowers,  they are amazing!
+Liz: You are welcome! 
+Lib: So good to see you at the weekend we should stay in touch
+Liz: Yes, definitely
+Lib: and let's hope that next time we meet, it will be a happier occasion
+Liz: Yes I am sure it will be!
+Lib:  Let me know next time you are coming to London
+Liz: Yes I will
+Lib: Thank you for the photo too, it means a lot to me
+Liz: You are welcome. My dad used to keep it in his study, but when he died I wanted to give it back to your mum.
+Lib: She would have loved it!
+Liz: I still can't believe she's not here...
+Lib: I know, it's terrible isn't it.
+Liz: Yes I miss her so much
+Lib: Me too!
+Liz: She was a great person. I will stay in touch and try to meet up next time I am in London.
+Lib: Thank you for everything
+Summary: Lib came to London. She brought a meaningful photo with her that was in her father's possession before he passed away. She wants to keep in touch with Liz after her departure.
+Dialogue: Abigail: Have you ever read Simone de Beauvoir?
+Susan: I love her.
+Abigail: She was brilliant, I've just read "The Second Sex", I'm so impressed.
+Susan: And it was written in 1949, can you believe?
+Abigail: I know, it is so progressive!
+Susan: And apparently Sartre just stole a lot of her ideas.
+Abigail: So typical...
+Susan: But don't we lack women like her nowadays?
+Abigail: But her ideas became popular, commonly known and accepted.
+Susan: Yes, maybe there are many Simones today.
+Abigail: I hope so, but still so much to do.
+Susan: true, some things had changed, some haven't
+Abigail: So the fight is not over yet.
+Susan: No, it's not.
+Summary: Abigail and Susan both like Simone de Beauvoir's books.
+Dialogue: Andy: hey man need some help?
+Sam: no thanks don't spy on me from across the street
+Andy: haha let me know if you need me
+Sam: thanks!
+Summary: Sam will let Andy know if he needs some help. 
+Dialogue: Geraldine: Got ur message. What's up?
+Joseph: Just need some advice.
+Geraldine: Hmm?
+Joseph: Which is better for spaghetti: thyme or oregano?
+Geraldine: I'd go with oregano.
+Joseph: Thanks.
+Summary: Joseph needs advice. Geraldine recommends oregano for spaghetti.
+Dialogue: Jesse: hey, I've heard you're planning to buy a flat together with Sam?
+Jesse: is that true?
+Teresa: yeah true
+Teresa: we've already seen some flats
+Jesse: that's a great piece of news :)
+Teresa: thx :)
+Teresa: <file_other>
+Teresa: we saw this one yesterday
+Jesse: wow, it looks impressive!
+Teresa: I agree, but it turned out it didn't have a cellar :(
+Jesse: what a pity :(
+Summary: Teresa is planning to buy a flat together with Sam, and they've already seen some flats. Jesse likes the one they saw yesterday, but it didn't have a cellar. 
+Dialogue: Carrie: Did you hear about Anna and Jeff?
+Mitch: yeah
+Mitch: so bad
+Mitch: she should've given him another chance
+Carrie: are you kidding??
+Carrie: he cheated on her AGAIN
+Mitch: but everyone messes up once in a while
+Mitch: and Jeff's a good guy
+Carrie: wtf I can't believe you're sticking up for him
+Carrie: Anna is a wreck and has to do a bunch of STI tests
+Carrie: Jeff is a selfish shit. Not surprised he left that detail out. 
+Mitch: damn, that is messed up
+Summary: Anna broke up with Jeff because he cheated on her again and now she has to get tested. Carrie thinks he shouldn't be forgiven. Mitch is not sure.
+Dialogue: Lena: are you sleeping?
+Emma: not yet
+Emma: why?
+Lena: i need your help
+Lena: mum remind me about report for biology
+Emma: it's only your notes from experiment
+Lena: but i don't have any!
+Lena: i remembered to water one plant
+Lena: i remembered about giving another one only coke
+Emma: and you have forgotten to write about it? xd
+Lena: i know it's stupid
+Emma: ok, so i can change my notes a little and print them as yours
+Lena: really? thank you
+Lena: i will buy you the biggest chocolate i will find!
+Emma: no problem ;)
+Summary: Lena has done an experiment for biology, but forgot to write a report about it. Emma offers to change her own notes and print them, so they could pass for Lena's report.
+Dialogue: Nancy: Are you or anyone else looking for a job? Nursery nurses wanted!
+Alex: is it a part time of full time job?
+Nancy: both
+Robin: can you send me more details, please?
+Alex: i’d love some more details, too.
+Nancy: Sure! email anna@kidsup.co.uk
+Summary: Nancy is informing about a job offer for nursery nurses. It's full and part job. Robin wants to know more details. Nancy gives the email: anna@kidsup.co.uk.
+Dialogue: Mark: Could we meet at the Starbuck at W 45th St, next to Time Square?
+Sandra: Sure, this one is nice
+Ashley: What time is good for you?
+Sandra: I could be there at 7am
+Sandra: it's easier for me to come from Queens before 7
+Ashley: good, 7 is fine for me
+Ashley: What about you, Mark?
+Mark: I won't mange by 8, I'm sorry, Pete is sick, I'll have to go to a pharmacy before leaving for work
+Ashley: So we can meet with Sandra at 7, have breakfast there and discuss the project
+Ashley: And you'll join us later
+Ashley: Are you ok with it?
+Mark: Perfect, so see you tomorrow
+Ashley: see you!
+Sandra: 😘
+Summary: Sandra and Ashley are going to meet tomorrow at 7 at the Starbuck at W 45th St to have breakfast and discuss the project. Mark will join them later.
+Dialogue: Kimberley: I'm dropping Annie in 5, anyone for coffee?
+Lexie: Perf! I'm dropping Jack in 10:)
+Lisa: so same place as always?
+Kimberley: sure, see you there:)
+Summary: Kimberley, Lexie and Lisa will meet for coffee.
+Dialogue: Alfie: so have you watched the new episode? :D
+Charlotte: yeah, it was terrific, as always
+Alfie: <file_gif>
+Charlotte: I adore this tv show, I tell you!
+Summary: Charlotte has watched the new episode of the tv show.
+Dialogue: Seward: no maths 2moro
+Lilian: ur kiddin right?
+Seward: no really. check online log
+Grayson: yeah Sew's right
+Lilian: the best news this weekdn
+Dudley: or ever
+Lilian: so when's the test?
+Seward: she'll be back next week. So then
+Lilian: at least 1more week to revise
+Grayson: yeah bloody triangles
+Dudley: cant we just poison her
+Grayson: & cancel mth forever hey?
+Dudley: if u do it ill love ya 4ever
+Grayson: i dont luv ya son so no thank you
+Summary: Seward informs that there's no maths tomorrow. The test will be next week.
+Dialogue: Marilyn: we can meet at my place to do this project
+Marilyn: my roommates are going away for the weekend
+April: seems okay with me
+Jack: i agree but we have to order some pizza, i am not doing this hungry
+April: hahaha Jack you are always hungry :D
+April: but that's actually a cool idea
+Pauline: mmm ye i guess but to be honest i have never been to your place haha
+Pauline: where do you live? :D
+Marilyn: just across the street from April
+Marilyn: i guess you know where she lives?
+Pauline: yeah i do :D then it's really close, cool!
+Jack: it's not that i am always hungry, pizza is just my motivator haha
+Summary: Marilyn, April, Jack and Pauline will meet at Marylin's place to work on a project. They are going to order pizza. Marilyn lives across the street from April.
+Dialogue: Donna: are you in the room 3?
+Brenda: No, i went to another panel, I just didn't like the panelists in 3
+Donna: why?
+Brenda: bunch of Russians speaking English, cannot understand them
+Liam: hahahah
+Donna: yes, it's true a bit, but the subject is interesting
+Brenda: anyway, I'm in 5
+Liam: me too
+Donna: ok, pity
+Summary: Brenda and Liam are in room 5. In room 3 there's a bunch of Russians speaking English which Bredna couldn't understand. Donna's in room 3, because she likes the subject.
+Dialogue: Adam: It's so boring here….
+Mandy: Still at class?
+Adam: Yes.
+Adam: -_-
+Summary: Adam is still at class, which he finds very boring. 
+Dialogue: Paul: can we meet at 4 today and not 3 ?
+Copper: yeah its no problem 
+Paul: awesome. thanks 
+Summary: Copper and Paul were supposed to meet today at 3, but they will meet at 4.
+Dialogue: Mary: <file_video>
+Mary: Carlos, look! What an awesome trailer!
+Carlos: The Lion King!
+Carlos: OMG, I already love it.
+Mary: We gotta go and see it next summer!
+Carlos: ABSOLUTELY!!
+Summary: Mary and Carlos will see 'The Lion King' next summer.
+Dialogue: Meagan: potatoes and meat for lunch?
+Tommy: wha meat?
+Meagan: meatballs?
+Tommy: <3 
+Meagan: ok ;D
+Summary: Meagan and Tommy will have potatoes and meat balls for lunch.
+Dialogue: Sean: Where are you?
+Becky: on the train still
+Sean: subway you mean?
+Becky: yes, we've stand at a station for last 25min, there was a fire somewhere
+Sean: oh no, which station
+Becky: Franklin Av.
+Sean: oh, no! crap
+Becky: I know
+Summary: Becky is still on the subway. She's stood at Franklin Av. station for 25 minutes, because there was a fire somewhere.
+Dialogue: Todd: Please wake up and talk to me? Just for 5 minutes ?
+Cheyanne: I'm sleeping
+Todd: You're awake now to reply my message. Just 2 minutes
+Summary: Todd wants to talk to Cheyanne, but she's sleeping and doesn't want to talk.
+Dialogue: Anna: can you send me your recipe for pancakes hun?
+Caroline: let me find it, i have it in my notebook
+Anna: ok ok, waiting :)
+Caroline: <file_photo>
+Anna: thank you!!!
+Caroline: good luck :*
+Summary: Anna asked Caroline for her pancake recipe. Caroline sent her a photo from her notebook.
+Dialogue: Luna: need to lost some weight!
+Luna: I can't fit in my jeans :'(
+Nes: what r u talking about
+Nes: u r so slim
+Luna: but the jeans wont fit
+Nes: maybe u ate sth bad, wait a little and will be ok
+Luna: if u say so... 
+Summary: Luna wants to lose some weight because she can't fit in her jeans.
+Dialogue: Chris: Did you buy bread?
+Olivia: Nope.
+Chris: K, I’ll do it then. Butter?
+Olivia: Finished this morning. Maybe buy some more
+Chris: Right.
+Olivia: Oh, honey, and some orange juice too. Would you be so kind? :*
+Chris: Jeez, woman, is there anything left in the fridge?
+Olivia: :D :D :D
+Chris: Got it.
+Olivia: Thank you! You’re the best <3
+Chris: I know :)
+Olivia: Wanna watch some movie later?
+Chris: You’ll fall asleep, as always.
+Olivia: That’s why I’m letting you choose tonight!
+Chris: Fast and Furious?
+Olivia: I have only one thing to say to this <file_gif>
+Chris: hahahahaha
+Olivia: At least it’s a Paul Walker movie… He’s no Ryan G. but he’ll do.
+Chris: I knew u'd said that
+Summary: Chris will buy bread, butter and orange juice. Chris and Olivia will watch "Fast and Furious" later. Olivia often falls asleep on movies.
+Dialogue: Cameron: So I've just found out I need to move out by the end of the next month :(
+Matt: Whaaat? What happened?
+Cameron: Well I got a call from our flat's owner that her son is moving back to town and he's gonna need the flat
+Matt: But this is unfair, such short notice!
+Cameron: I know, it's silly. I hate it.
+Matt: You can always crash at my place :)
+Summary: Cameron needs to move out by the end of the month as the flat's owner wants it back for her son.
+Dialogue: Silvia: can you collect me from the party tonight?
+Lonyo: ok
+Lonyo: what time?
+Silvia: i dont know yet
+Silvia: can i let you know in the night?
+Lonyo: ok
+Lonyo: i will wait for your call
+Summary: Silvia will let Lonyo know what time to pick her up from the party tonight.
+Dialogue: Frank: do u rememmber the book I told u about?
+Mindy: yes
+Frank: where is it?
+Mindy: on the shelf?
+Frank: it's not there
+Mindy: look in your room
+Mindy: I'm sure u left it somewhere in this mess
+Summary: Frank lost a book. It's probably still somewhere in his room.
+Dialogue: Arnold: Hi Michael! Sorry for writing here, but I wanted to talk shortly about something.
+Michael: No problem, what is it?
+Arnold: I talked to Tom last night.
+Michael: About our "household"?
+Arnold: Exactly, it's a bit difficult to talk with you about it.
+Michael: I know I haven't been the best flatmate recently, I am very sorry.
+Arnold: I am glad you understand it.
+Michael: So what did you want to tell me?
+Arnold: That we think you should take a bit more care of the apartment.
+Michael: I know, I expected it. I am sorry, I've had a difficult time recently
+Arnold: No problem, you can always say that there are some problems so you won't do something, but we don't like that you're ignoring your commitments and our efforts.
+Michael: it will change, I promise.
+Arnold: ok, no problem :) let's talk when we're all home.
+Michael: Tonight?
+Arnold: yes
+Michael: OK!
+Summary: Arnold talked to Tom last night about the current situation at the apartment. Michael explains that he's been having problems lately and promises to care more about the flat. They agreed to talk all together tonight.
+Dialogue: Abigail: How was i looking today?
+Ethan: Absolutely Stunning. Where from did you get that haircut? <3
+Abigail: My mom did that :/ :P
+Summary: Abigail's mother gave her a haircut. Ethan likes it.
+Dialogue: Esme: Morning!
+Richard: Hellooo :)
+Esme: SUN!!
+Esme: 👯
+Esme: 🙌🙌🙌
+Richard: Yeaaah
+Richard: 😍
+Richard: Loving it
+Esme: Still up for a yoga session later on?
+Richard: Yeah, sure :)
+Richard: I was actually trying to figure out which video we could use. Since there won't be any connection down at the park :/
+Esme: I'll download something onto my laptop ;)
+Richard: Ah! Perfect!
+Esme: An intermediate class, is that ok?
+Richard: Yes, I would prefer that
+Esme: Ok, I'll look for something
+Richard: Cool!
+Esme: 👍
+Summary: Esme and Richard will have a yoga session at the park. Esme will download an intermediate class on her laptop.
+Dialogue: Allen: look at me standing
+Allen: here on my own again
+Michelle: listening to Katie?;)
+Allen: <file_gif>
+Molly: this song is just THE best <3
+Allen: yes it is
+Michelle: and this cover is just so much better than the original 
+Allen: what a wonderful wonderful world
+Molly: ok now i gotta play it too :D
+Michelle: exactly what i'm doing now:D
+Allen: hahaha contagious :D
+Molly: so true ;)
+Michelle: <file_gif>
+Summary: Allen, Michelle and Molly are listening to a song of Katie.
+Dialogue: Philip: <file_photo>
+Philip: What do you think about my new shoes?
+Monica: You look great!
+Monica: Even these pants match
+Philip: Great!
+Monica: btw have you had your hair cut?
+Philip: Yeah, a little
+Monica: You look much better that way :)
+Philip: Thank you my dear :-)
+Monica: You look....
+Monica: Hot
+Philip: :o
+Summary: Philip bought new shoes and had his hair cut. Monica likes the way he looks.
+Dialogue: Jim: Hey, how do you move the screen to the left or right side?
+George: You have to hold down the start key and then press either the right or left arrow.
+Jim: Ok, great thanks. I have to compare 2 screens and I wasn't sure how to do it.
+George: No problem.
+Summary: Thanks to George, Jim knows now how to move the screen left or right.
+Dialogue: Douglas: Have you heard about Patricia and Tom?
+Kelly: No. What about them?
+Douglas: They are expecting a baby
+Kelly: That’s great news!
+Kelly: They’ve been trying for so long.
+Douglas: I didn’t know
+Douglas: I thought they didn’t want kids
+Douglas: With the lifestyle they have
+Kelly: I know. They are travelling so much and enjoying crazy adventures
+Kelly: But I talked to Patricia few months ago
+Kelly: She told me the wanted a baby for so long
+Kelly: But she couldn’t get pregnant
+Kelly: It made her really sad.
+Kelly: They were even considering adoption
+Douglas: I’m glad they will be parents!
+Summary: Patricia and Tom are expecting a baby after months of trying and despite their active lifestyle.
+Dialogue: John: Yo homie,
+John: Did I leave my zippo at your apartment?
+Nate: No. 
+Nate: I didn't see it anywhere here.
+John: Shit.
+John: I lost zippo lighter with sentimental value.
+Nate: That's a shame
+Nate: Try searching your pockets
+John: I did.
+John: Didn't find it tho
+Nate: That's the problem with lighters, Sorry for your loss.
+John: Oh come on! Nobody died...
+Summary: John's lost his zippo lighter. Nate didn't find it at his place and suggests John to check his pockets which John has already done and was unsuccessful.
+Dialogue: Monty: can u give me yours father number?
+Kurt: why?
+Monty: I need to ask him about sth
+Kurt: ok, I just tell him that u'll cal and send u the number
+Monty: ok, thanks
+Summary: Monty needs to ask Kurt's father about something and wants his number. Kurt will tell his father that she'll call and send her the number.
+Dialogue: Mike: how’s RDR2?
+Nick: playing yesterday for 10h xDDD
+Mike: What??? xDDDDDDD
+Nick: 2 bags of chips, 1.5l cola and no shower
+Mike: God
+Nick: the best day of my life
+Summary: Nick spent 10 hours playing Red Dead Redemption 2 yesterday. It was the best day of his life.
+Dialogue: Rory: I feel like you’ve been a bad girlfriend - no communication - I might break up with you again... If you want to come to a party with me tomorrow and rescue our relationship, text me those three simple words ...
+Jessica: You will need to break up with me again, because I'm in Bath, and there is no way I'll be home before 2nd January.
+Rory: cries quietly
+Jessica: I offered you to go out with me two days ago, and you just ignored me
+Rory: Too late for you to apologise now. 
+Summary: Rory wants to break up with Jessica. Rory says what Jessica can do to fix their relationship. Jessica doesn't comply. Rory won't accept an apology now.
+Dialogue: Tony: Where the hell are you?
+Ted: Got stuck in a jam near Croydon.
+Tony: Can't wait any longer! My train is due in 20 mins.
+Ted: Can't do anything about it.
+Tony: Damn it!!
+Ted: Sorry mate.
+Summary: Ted got stuck near Croydon. Tony can't wait as his train leaves in 20 mins.
+Dialogue: Jay: He woke up!
+Charlie: Oh thank god!
+Mary: is he all right? are you still at the hospital?
+Jay: yeah, waiting outside. Doctors are running some tests, Tessa's with me
+Mary: That's fantastic news Jay, thank you!
+Charlie: what are the doctors saying?
+Tessa: He's fine, everything went well, he's going to recover :)
+Tessa: bring us some cake
+Jay: Yes! Chocolate!
+Mary: Hahahaha, we sure will!
+Summary: He is recovering at the hospital. Mary and Charlie will bring him a cake on Tessa’s request.
+Dialogue: Alexander: Are you as sleepy as I am today?
+Emma: Yeah, I suppose everyone is... 
+Emma: It's the weather. 
+Alexander: I can't wait the end of December and some longer days...
+Emma: My thoughts exactly!
+Alexander: Have you got plans for Christmas?
+Emma: Family reunion and stuff. Not to excited about it. 
+Alexander: Too much work, too little pleasure? 
+Emma: Yeah. More stressful and relaxing. 
+Emma: I always promise myself to go away for Christmas and never do it... 
+Summary: Alexander and Emma are sleepy today. Emma thinks it's due to the weather. Emma and Alexander wish for longer days to come. Emma has a Christmas family reunion. She feels stressed about it.
+Dialogue: Sophie: Hon, did I leave my eyelash curler at your place yesterday?
+Isabella: I don't think so..
+Sophie: Could you check? It's my favorite :(
+Isabella: Sure, just a minute
+Sophie: Thanks!
+Isabella: Nope, it's not here :(
+Sophie: I'll call Diane, maybe she grabbed it by accident
+Isabella: good luck!
+Summary: Sophie is looking for her eyelash curler. Isabelle hasn't found it in her place, so Sophie will call Diane to ask about it.
+Dialogue: Poppy: Jack?
+Mia: hi
+Poppy: ... ;d
+Jack: Yeah?
+Poppy: send me the materials plz
+Jack: Oh! Sorry, on it!
+Summary: Jack will send Poppy materials she asked for.
+Dialogue: Kerry: Hi Liv, I was thinking of taking the kids sledding.
+Kerry: There's so much new snow after the snowstorm. 
+Kerry: Maybe u want to join us with Max?
+Olivia: Hey Kerry! Sure, we'd love to.
+Olivia: Max has been looking through the window all morning.
+Olivia: And complaining that he has no one to play with.
+Kerry: Great, the girls will be happy if he comes along. :)
+Kerry: Let's meet at the hill near the playground in about an hour?
+Olivia: Perfect! :)
+Summary: Kerry and Olivia will meet at the hill near the playground because they're taking their kids sledding.
+Dialogue: Michelle: heyoo
+Naomi: hi bby
+Michelle: how are you?😊
+Naomi: tired. bored. up and breathing 😂
+Michelle: my story will cheer you up
+Naomi: im all ears
+Michelle: Anne and I went to cafeteria. we were standing in the line and I started telling her how much I want Mikey to ask me out
+Michelle: and the worst thing happened...
+Naomi: what 😯
+Michelle: he was right behind us!!! 😭
+Naomi: OMG, what are the odds
+Michelle: ikr 😩
+Naomi: did he say anythaang?
+Michelle: nope, he pretended he didnt hear it.
+Naomi: I guess its not that bad, if he heard it he will think about it and maybe he will ask you out eventually
+Michelle: this is the best case scenario. gotta go, thanks
+Naomi: what a story, good luck with that guy
+Summary: Michelle was in cafeteria with Anne. Michelle wants Mike to ask her out and she told Anne about it. Mike was staying behind them, but he pretended not to hear it.
+Dialogue: Pauline: What time is your flight coming in on Friday?
+Hans: we land at 13.20  
+Pauline: Brilliant. I will pick you guys up
+Olga: great! have you got a car that fits us all?
+Pauline: you only have a tiny bum so should be fine. you can sit between the car seats. 
+Olga: ah cool
+Hans: what about your kids though?
+Pauline: I'll have to ask someone to watch them for an hour or so... 
+Hans: that would be very cool thanks! 
+Pauline: no worries, I am so excited to have you guys!
+Olga: so are we! kids have been shouting about it for a month already! 
+Pauline: are they excited about the flight?
+Hans: very much so!
+Pauline: can't wait to see them!! 
+Olga: see you on Friday! xx
+Pauline: see you soon! have a good trip! x
+Hans: see you Friday and thanks again! 
+Summary: Pauline'll pick Hans, Olga and their children up when they arrive on Friday at 1:20 pm. Before that Pauline'll have to ask somebody to take care of her children while she's absent.
+Dialogue: Lucas: Can you bring my chemistry book?
+Lucas: I left it at your place
+Jake: No problem
+Summary: Jake will return Lucas his chemistry book.
+Dialogue: Tommy: I'm a bit worried about the Lakers
+Ethan: why?
+Tommy: I'm not sure if they'll make the playoffs this year
+Ethan: they have LeBron
+Ethan: there's no way he won't make the playoffs
+Tommy: one player won't win you all the games
+Tommy: no matter how good he is
+Ethan: what about Kuzma?
+Ethan: he's been quite impressive this year
+Tommy: he's good but will this be enough?
+Ethan: we'll see
+Ethan: it would be shocking if LeBron won't make the playoffs
+Tommy: yeah, I was thrilled when he joined our team
+Tommy: but somehow they're still under 50%
+Ethan: to be fair, they were plagued with injuries
+Ethan: LeBron himself was out for like 15-20 games
+Ethan: all the mess with the AD trade didn't help as well
+Tommy: true
+Ethan: anyways, they still have a chance of making the playoffs
+Tommy: they need to start playing to their full potential
+Tommy: the schedule is not in their favor at all
+Ethan: there's nothing we can do about that
+Ethan: all we can do is watch games and hope for the best
+Tommy: you're rather philosophical today :P
+Ethan: not my fault :P
+Ethan: that's what you get as a Laker fan ;)
+Tommy: :)
+Summary: Tommy is worried that Los Angeles Lakers won't make it to the play-offs. He thinks that one player won't win the whole tournament for the team, and that they really struggle with injuries this season. Ethan thinks they should still have faith and cheer on their favourite team.
+Dialogue: Jacob: Hey, how was your summer break?
+Marsha: hey, it was wonderful
+Marsha: I've been to Paris for a month.
+Marsha: gorgeous place, nice people, tasty food
+Jacob: good to hear that
+Marsha: how about you?
+Jacob: I was working the entire time.
+Marsha: here or abroad?
+Jacob: I stayed, because I got attractive offer
+Jacob: It wasn't that bad after all
+Jacob: I made good money :)
+Marsha: you worked as who?
+Jacob: warehouse assistant
+Marsha: You must be exhausted after vacation :P
+Jacob: To be honest, I got used to physical effort
+Marsha: so... last year ahead...
+Jacob: ya, any plans or hopes?
+Marsha: I just want to finish major
+Marsha: then we will see
+Jacob: same as me
+Summary: Marsha was in Paris for a month during her summer break. Jacob worked as a warehouse assistant the entire time.
+Dialogue: Lucy: I talked about her english and preparation for the class
+Lucy: and she brought some more workbooks
+Lucy: It is nice if you can buy the books
+Violet: Can you maybe borrow the books from her and make some copies? (^_-)-☆
+Violet: I’m glad she’s nice! She seems like a pretty well-prepared tutor which is always important :）
+Lucy: I cannot unfortunately. ^_^;
+Lucy: she has other classes and she brings the stuff to other classes as well. so that's why I took pics. I also want to make it copied.^_^;
+Lucy: I can send you the pics I took during the class.
+Violet: It would be awesome and thank you so much!😃😃😃😃
+Lucy: np. :）
+Summary: Lucy will send Violet pictures of copies that she took during the class.
+Dialogue: Tatum: Wanna skype?
+Tiffany: No not now I'm busy
+Tatum: Ok I went to a kindergarten to teach English
+Tiffany: I thought you were working, how can you skype ?
+Tatum: I was. I'm done for today
+Tiffany: Ok
+Tatum: It was horrible. Omg too many kids. When there was even 1 child who didn't want to listen, others immediately stared doing the same. 4 different groups of children
+Tiffany: Hahahaha
+Tatum: Tomorrow, on Thursday and on Friday I have to go there again
+Tiffany: Cool
+Tatum: And also next Thursday and Friday. And I won't agree to go here anymore
+Tiffany: I thought you wanted a job
+Tatum: But I see I can't work in any kindergarten. It's so hard teaching so big groups of children
+Tiffany: You just need to be patient with them
+Tatum: I just can't teach them, I prefer teaching teenagers and adults
+Tiffany: Ok
+Tatum: Anyway the first lesson is always the hardest
+Tiffany: Yes
+Tatum: And because I just went there because another English teacher couldn't come, children were asking where Alice is
+Summary: Tatum's teaching English at a kindergarten, but it's horrible and he can't work there. He only needs to go tomorrow, on Thursday, Friday and next Thursday and Friday. He prefers teaching teenagers and adults.
+Dialogue: Louise: I am going to propose to Thelma at his birthday but I have no idea what kind of ring would she like
+Louise: could you help me with that?
+Vicky: wow dude that's amazing! congrats!
+Henrietta: wow! I would love to help you out!
+Vicky: I don't know much about rings but I think Thelma will say yes no matter what ring you'll buy
+Paloma: me too! did sth catch your eye?
+Louise: I saw this ring in Pandora but it might be too tacky
+Louise: <file_photo>
+Paloma: :O
+Vicky: it's not tacky, it's so Thelma
+Louise: wait, I also like this one:
+Louise: <file_photo>
+Paloma: I think the first one is better
+Vicky: yeah, the second one is too classic, too safe
+Louise: OK thank you guys
+Louise: just don't tell Thelma anything
+Vicky: sure!
+Summary: Louise is going to propose to Thelma at his birthday. He found a ring at Pandora.
+Dialogue: Anne: Kate, you genius… I have a favour to ask, but it’s like the favour no. 20000000, so I feel like a really horrible person ;(
+Kate: shoot
+Anne: the thing is that I need this book, like really badly, but I cannot for the life of me find the bugger… help me, Obi-Wan Kenobi. U my only hope ❤
+Kate: alright, I guess I can at least check it out^^ what’s the title?
+Anne: you’re the best! You know that, right?
+Kate: 😀
+Anne: alright, back to business… it’s salvation and suicide by David Chidester
+Kate: OK, wish me luck
+Anne: lets be honest, Meg. You don’t need any luck^^
+Summary: Anne needs to ask another favour to of Kate, that is to help her find a book entitled "Salvation and Suicide" by D. Chidester.
+Dialogue: Andrea: Do you want to contribute to Leslie’s birthday present?
+Keith: Hmm and what is it about?
+Andrea: We’re gathering money to buy her favorite book collection.
+Keith: Loool is it that expensive xD
+Andrea: It’s twelve books, maybe that’s why ;p
+Keith: Oh lol, ok, I’m in
+Andrea: Great :D
+Keith: But how do I know which of the books should I buy
+Andrea: None of them xd
+Keith: what
+Andrea: I mean I’m just collecting money and then I’ll buy the series.
+Keith: Ok, how much will be that?
+Andrea: It depends on number of people, now it would be $Keith:0 per person, but it may be less if some other people will declare they want to do it.
+Keith: Alright I’m in
+Andrea: Great! We have some ideas for the beginning of the party, I’ll keep you posted in case you want to take part in it
+Keith: OK, what is it about?
+Andrea: We want to surprise her, we need to take her to the ground ;P
+Keith: Lol sounds nice indeed xp
+Andrea: You’re strong, you could do it.
+Keith: No way!!
+Keith: I’m not fighting with some terrified girl
+Andrea: She won’t be terrified!
+Keith: If someone starts fighting with you for no reason you get scared, right?
+Andrea: Comon she will know it’s us!!!
+Keith: OK I’ll do it but you need to give the plan xD
+Summary: Andrea's collecting money for Leslie's birthday present. She's going to buy her a book collection. Keith will fight Leslie as part of the party only  if he knows the plan. 
+Dialogue: Fabrizio: Hey
+Fabrizio: I spoke to a guy at the IT store
+Fabrizio: He checked our order and said that everything is fine
+Pamela: Ok
+Pamela: Did you ask if they can check the delivery address in Hammersmith?
+Pamela: Or if they have a number we can call in that area?
+Fabrizio: He said that there is no need to, that the order was fine ;)
+Pamela: Alright then :)
+Pamela: Thanks
+Fabrizio: 👍
+Summary: Fabrizio checked their order with the guy at the IT store. It is OK. 
+Dialogue: Jenny: hi car, how is molly getting on?
+Caron: hiya, yes great do you have nay more of the eye drops?
+Jenny: yes I will bring some over
+Caron: great xx
+Jenny: are you in later today?
+Caron: I will be in after 2?
+Jenny: ok cool I will come over after.. I need to bring all this paperwork to go over
+Caron: Yes have you got your laptop yet
+Jenny: I have but I haven't done anything with it🤷‍♀️
+Caron: lol I didn't expect you to
+Jenny: shall I bring it then and you can set it up for me?
+Caron: yes of course
+Caron: dont for get the charger lead
+Jenny: oh yes i will put it in the bag
+Caron: ok see you this afternoon xx
+Summary: Jenny will go to Caron after 2 to bring eye drops and some paperwork. Caron will set up Jenny's laptop.
+Dialogue: Anet: when we r going to lunch?
+Tish: 2 pm?
+Anet: ok, that suits me
+Summary: Anet and Tish are going to lunch at 2 pm.
+Dialogue: Bea: Ladies, do you wanna go to the gingerbread museum tomorrow at 10? xD
+Jane: I'm gonna be at the station at 9.50
+Bea: I know but do u wanna go straight from the station?
+Jane: I could ;)
+Bea: OK. Let's see how about Mark and Eli 
+Jane: I don't care what we do as long as with you :D
+Eli: we might not get up that early ;) we're of course late and won't arrive until late
+Bea: what do you mean?! bf at 9! :D
+Mark: we won't get there before 2...
+Bea: oh crap, I better take a nap then. Have you even left? xD
+Mark: yes! :D we are on our way but it's a long way anyway
+Bea: ok, then there s no point having bf at 9 if we meet at 2. unless we all wanna be dead tired in the am
+Eli: I think that's a good idea :)
+Jane: so what's happening then? I'm okay with anything as long as someone pick me up :D
+Bea: we don't have a car so can come and get you but will have to take a bus back anyway
+Mark: 9.50 is a tad early... lol
+Bea: Jane, you okay with the bus? we can be late for the museum, I think... :D
+Jane: A morning bus ride sounds fun :)
+Bea: Ok, great. so we will get Jane, have bf, and wait on Mark and Eli (as usual lol)
+Mark: you know it's all Eli's fault, right?
+Jane: we all know that, don't worry :D
+Summary: Bea wants to go to the gingerbread museum tomorrow at 10. Mark and Eli are on their way but won't arrive until late. Bea will pick Jane up and they will take the bus. Bea and Jane will wait for Mark and Eli as usual.
+Dialogue: Jeff: How was your Christmas?
+Miranda: not bad, I've relaxed
+Maria: me too, a lot of ridiculous presents, but fun :P
+Tony: hahaha, same here, like what?
+Maria: quite a few useless things, some socks, a few pairs of slippers and a pyjama in pink Moomintrolls 
+Tony: hahaha, I always get very ugly pyjamas that I never use
+Maria: I know, they behave as I was 10-years-old
+Miranda: I get surprisingly good presents every year
+Maria: which is?
+Miranda: money :P cash
+Tony: hahaha, really?
+Miranda: yes, which is in fact probably the most childish thing
+Tony: maybe it is, would be a bit strange to get money from my parents 
+Maria: yes, I rather give money to them
+Miranda: yes, but my parents are quite rich honestly
+Summary: Maria got socks, slippers, and pink Moomin pyjamas for Christmas. Miranda received money from her wealthy parents. Tony finds getting money from parents odd. 
+Dialogue: Victoria: Heyyy
+Jim: HAY! What's up
+Victoria: ha ha Well, I'm just trying to make some plans for when I'm in London. Anything in particular you'd like us to do?
+Jim: Not really, we can do what you want
+Victoria: Hmm this is generous, but frankly speaking I don't have a clear idea of what I want. I've been busy with the conference stuff and will be happy to just chill.
+Jim: That's more than fine as far as I'm concerned
+Victoria: Thanks. I was thinking of going to an exhibition or even to the theatre but that depends on the budget
+Jim: Yeah, I know it's not the same, but I've recently discovered a cinema where all tickets cost a fiver (in Peckham). We could go see the new Harry Potter movie
+Victoria: Sure!
+Jim: So that you do something basic for once
+Victoria: Ha ha, of course, I'll be delighted to
+Jim: We can also go to charity shops and all the usual stuff
+Victoria: Sure, anything which is not writing a conference paper is good
+Jim: Well then, I think we'll be fine
+Victoria: I look forward to seeing you. I might have to go back to work at the moment though, hope you don't mind?
+Jim: No worries, it's ok. I'll talk to you tomorrow
+Victoria: Thanks! Toodles!
+Summary: Victoria and Jim are making plans for their London stay. She's been busy preparing for the conference and would like to relax. They will see the new Harry Potter film in Peckham, where the tickets cost only a fiver. They can also go to charity shops. Now Victoria needs to get back to work. 
+Dialogue: Sarah: What is the best way to lose weight?
+Sarah: I need to loose 15 kg after the pregnancy
+Kimberly: Do some sports!
+Gerda: And a diet
+Gerda: Eat healthy
+Amanda: The only way to lose weight is to burn more calories that you consume
+Sarah: How many calories should I eat?
+Sarah: And how can I count them
+Sarah: I was never on a diet... 
+Summary: Sarah wants to lose 15 kg after pregnancy. She was advised to do sports and go on a diet.
+Dialogue: Michelle: <file_photo>
+Anna: is that your diploma?? congratulations!!!!
+Michelle: yes that's mine :D i finally graduated today :))
+Caroline: awesome!! so proud of you girl!! way to go!!!
+Monica: congrats Michelle :* when are we celebrating it?
+Michelle: i will let you all know soon, just gotta sort out some stuff with my apartment first
+Summary: Michelle graduated today. She will celebrate after sorting out some issues with her apartment.
+Dialogue: Katie: <file_gif>
+Katie: Hope you're having a good day! :) miss you lots! 
+Danny: Aw, thanks, you're the best. Miss you too. 
+Summary: Katie and Danny miss each other.
+Dialogue: Ellen: is there a jacuzzi at the SPA?
+Sheila: sure! a private one just for us :D
+Ellen: you're kidding? Awesoooooooooome
+Summary: Sheila told Ellen that they will have a private jacuzzi at the SPA.
+Dialogue: Maria: Hi, how are you doing?
+Maria: I'm back in town
+Lena: great! finally!
+Joan: how was Canada?
+Maria: Amazing, I liked it so much!
+Joan: did you go to Quebec as well?
+Maria: Yes, I liked it a lot, probably more than the rest
+Maria: it's very European
+Joan: I know, I like it a lot as well, but it reminds me a bit of New England as well
+Lena: isn't it better to just meet and talk?
+Maria: Sure, Friday evening at my place?
+Maria: I have little souvenirs for you 😊
+Lena: How nice!
+Joan: Perfect, Friday night is good!
+Maria: ok, 7PM or whenever is good for you, I'll be home
+Summary: Maria has just returned from Canada. She found Quebec very European. Joan thinks it resembles New England. Maria invites Lena and Joan over on Friday at 7 pm to talk about her trip. She also has gifts for them.
+Dialogue: Liam: Have you heard that Emma's been accused of plagiarism?
+Caden: No way! Emma?
+Caden: It's so out of character for her to do something like this!
+Liam: I know! But've read her article and... well, it's quite obvious which passages had been plagiarized from her students' reports.
+Caden: I'm so disappointed with her! She was the last person I would ever suspect of plagiarism!
+Liam: Especially after her article about ethics of teaching! It's sheer hypocrisy!
+Caden: Will she face disciplinary actions?
+Liam: I think so! Her students have already filed a formal complaint, so the university has to react to it somehow.
+Summary: Emma's plagiarized passages from her students' report and Liam and Caden would've never suspected her of that.
+Dialogue: Jaden: Hey 
+Jaden: You know Neil? 
+Brooke: I know him 
+Brooke: what about him 
+Jaden: He is so annoying
+Jaden: I remember you said that
+Brooke: Hmm actually I don't remember I said that
+Brooke: But yes hes a little bit unusual haha
+Summary: Jaden tells Brooke that she finds Neil annoying. 
+Dialogue: Rashida: Hey chickie!!
+Vanessa: Hey, hey, how you doin'?
+Rashida: U ok? 
+Rashida: Why weren't you in class?
+Vanessa: I didn't tell you?!
+Rashida: Tell me what???
+Vanessa: I twisted my ankle again on Saturday X‑D 
+Vanessa: have to stay in bed a couple of days
+Rashida: OMG you klutz
+Rashida: let me know if you need anything X-D
+Vanessa: will do :-*
+Summary: Vanessa had twisted her ankle on Saturday, so she couldn't go to school. Vanessa has to stay in bed for two days.
+Dialogue: Daniel: Hi! We have to cancel Lisa's birthday party, sorry.
+Zoe: Oh, ok.
+Daniel: Lisa's sick and we don't think she'll get better before Sat.
+Zoe: Oh, so sorry! 
+Daniel: I'll let you know about next Sat.
+Zoe: Take care.
+Summary: Lisa's birthday party on Saturday is cancelled because she is sick. Daniel will get back to Zoe regarding next Saturday.
+Dialogue: Anton: 👋🏾
+Jo: Hey
+Anton: How did the conference go? 
+Jo: Not too bad actually. In the end I decided to read the entire paper instead of improvising, so I got less nervous than usual. And when it comes to content, it seemed the audience understood what I wanted to say, which is good 😂
+Anton: ha ha, sounds like a success
+Jo: Indeed!! I'll talk to you later, I've got some networking to do... 
+Summary: Jo read a conference paper and the audience understood it. Jo has networking to do now.
+Dialogue: Vicky: Tell me one thing you’re good at
+Linda: Cooking ☺
+Vicky: Such a liar :D :D :D
+Summary: Vicky believes Linda is not a good cook.
+Dialogue: Ron: will be late
+Hilary: ok 
+Ron: sorry for that! 
+Summary: Ron will be late.
+Dialogue: Eva: Did you watch 50 shades of grey?
+Heather: unfortunately yes
+Jessica: no idea why they hype it so much
+Eva: it's a moneymaker
+Heather: that makes sense
+Jessica: it gets good reviews tho
+Heather: I don't get it...
+Summary: Eva, Heather and Jessica are wondering why the movie '50 Shades of Grey' is so successful.
+Dialogue: Nicole: Hey anyone bring me that lunchbox I forgot
+Nikola: Not home
+Anne: Kk I will 
+Nicole: 🙌🏾
+Summary: Anne is going to bring Nicole the lunchbox she forgot.
+Dialogue: Jessica: <file_photo>
+Jessica: new addition to the family :)
+Kate: amazing
+Kate: he's super cute
+Kate: when did you get it?
+Jessica: we brought him home today
+Jessica: he's still a bit scared
+Kate: I can imagine
+Kate: how old is he?
+Jessica: a bit over 2 months
+Kate: did Josh knew about it?
+Kate: he never wanted to have a dog
+Jessica: I can be very persuasive when needed ;)
+Jessica: besides once he saw him for the first time he was sold
+Kate: let's wait for some rainy days when he'll have to take him for a walk ;)
+Jessica: I don't think that will be a problem for him
+Jessica: I'm more worried about myself ;)
+Kate: you always wanted your own dog
+Jessica: of course but I like to sleep as well ;)
+Kate: who said the dog won't like that ;)
+Jessica: that's always possible
+Jessica: you should visit us soon to see him in person
+Kate: I will
+Kate: you know that I like dogs as well :)
+Summary: Jessica and Josh have a new dog. Jessica is worried that she won't be able to sleep. Kate is going to visit Jessica to see the dog.
+Dialogue: Willie: beer tonight?
+Trishia: sure 
+Willie: see you then 
+Summary: Willie and Trishia are going out for a beer tonight.
+Dialogue: Magda: Anna, this is to inform you that your parcel arrived today
+Magda: You can come and collect it this afternoon
+Dom: Hi Magda!
+Dom: Ok perfect
+Dom: I'll pass by later on then :)
+Magda: 👍
+Summary: Anna's parcel has arrived at Magda's today and can be collected this afternoon. She will pass by and take it.
+Dialogue: Chester: ok snickers. great or greatest candy?
+Megan: ummmmm WHAT
+Fred: ahahahahahaha u ok man?
+Chester: <file_photo> snickers
+Megan: I'm seriously confused
+Desi: somebody got into his stash of booze early lol
+Fred: LOL i never wanna talk snickers when Im wasted tho
+Megan: Chester, u having a stroke?? need help?
+Fred: say snickers if you need help!
+Chester: snickers
+Desi: ok now I'm worried. maybe someone kidnapped Chester and he needs help!
+Fred: hahaha he needs help, I'm sure
+Megan: that is so random. Hey, I like snickers tho
+Fred: snickers!
+Desi: you people are insane
+Summary: They tease Chester and exchange jokes about the Snickers bar.
+Dialogue: Lilly: I think you should hurry up!
+Lilly: There is quite a queue to the security control
+Robert: Ok 
+Lilly: I'm stressed you won't make it to the gate
+Lilly: It's a long walk
+Robert: Don't worry
+Robert: I'm already on my way
+Summary: There's a big line to the security control. Lilly is worried they won't make it to the gate in time. Robert is on his way. 
+Dialogue: Wyatt: I read really interesting article today.
+Bene: What was it about?
+Wyatt: It was about how western and eastern people use different emojis when they chat.
+Bene: Interesting!
+Wyatt: Western people emphasize mouth more when using emojis, but eastern people do eyes more.
+Wyatt: Such as “ :）” and “^.^”
+Wyatt: Both are smiling but different. Aren’t they?
+Bene: It really does!　
+Wyatt: One scientist insisted it is because of the cultural differences.
+Wyatt: When asians read the listener’s facial expressions, they see eyes more, and westerners focus more on mouth.
+Bene: I have one friend from America and I saw him using :P <--this a lot. 
+Wyatt: That P means tongue.
+Bene: Then he sticks out his tongue all the time?..
+Bene: He used this one a lot -_-;;
+Wyatt: I know hahahahaha (V)o￥o(V)
+Wyatt: For me it’s T_T. I want to cry all the time. 
+Bene: Don’t cry. 
+Wyatt: Here is the link. 
+Wyatt: <file_others>
+Wyatt: Read this. Kinda interesting.
+Bene: Oooo ! Thanks I will.
+Summary: Wyatt read an interesting article today. According to scientists, differences in use of emojis between people from the East and from the West reflect cultural differences between them.
+Dialogue: Ian: On way back see you in 20
+Alice: Cool
+Ian: Just noticed your house keys are in the car so don't lock yourself out
+Alice: (y)
+Ian: ok, on way now, got held up
+Alice: K. All good?
+Ian: yep stopping for fuel first
+Alice: (tu)
+Summary: Ian will come to the house soon, but he is stopping for fuel first. Alice has left her house keys in the car.
+Dialogue: Kitty: Have you heard the newest Tom Odell?
+Nicky: Sure, amazing, right?
+Kitty: OMG I can't get it out of my head!
+Nicky: Yeah, me too :) <3
+Summary: Kitty and Nicky love the new album by Tom Odell.
+Dialogue: Vera: I just saw you in shopping Mall. I thought you were with Jenny
+Justice: Jenny is also with me. She is inside a shop
+Vera: Should I join you?
+Justice: You are welcome
+Summary: Vera just saw Justice and Jenny in the shopping mall. She will join them.
+Dialogue: Iris: How to Train Your Dragon 3 on 02/22/2019 :)
+Jade: o wow, finally
+Katherine: how to train your dragon? what was that...
+Jade: computer-animated action fantasy, produced by DreamWorks
+Jade: about dragons ofc
+Katherine: Hmmmmmm
+Iris: <file_other>
+Katherine: Aaaaa
+Katherine: Now I know
+Iris: We saw the 1st part at the cinema
+Katherine: Yeeeees, exactly
+Iris: And the 2nd at your place
+Katherine: Ok, ok
+Iris: ;)
+Summary: How to Train Your Dragon 3 will come out on the 22nd of February 2019.
+Dialogue: Ann: How are you doing? 
+Ann: How is your back?
+Agnes: Better
+Agnes: Thanks God
+Agnes: Had the specialist over
+Agnes: I'm scheduled tomorrow as well 
+Ann: :) 
+Ann: And what about Gary? 
+Agnes: he's changes his ass, fucking moron
+Agnes: wants to meet, but not today
+Ann: Why? 
+Agnes: He can't today
+Ann: nonsense
+Agnes: I guess it was her who sent that message 
+Ann: could be 
+Agnes: we'll see what's up next
+Ann: it is going to be okay
+Ann: I'm sure 
+Agnes: thanks 
+Agnes: it's late, I'm going to bed
+Ann: Bye! 
+Agnes: Bye!
+Summary: Agnes has an appointment with the specialist tomorrow for her back ache. She's angry at Gary because he's not available today to meet her. 
+Dialogue: Bonnie: have i ever told you that your hair is so shiny?
+Kyle: Bonnie, are you okay?
+Bonnie: like sooo shiny
+Bonnie: Ima at the bar with the girls :D :D
+Bonnie: with loLa and abbbie 
+Bonnie: cos were girrls :D
+Kyle: How much have you had to drink?
+Bonnie: ...not much?#??
+Kyle: Right... You know what, I'm going to come and collect you - where are you?
+Bonnie: i sed im at the bar
+Kyle: Which bar?
+Bonnie: the won with the pink umbrellas in the drinks 
+Bonnie: where we danced last week
+Kyle: Marco's?
+Bonnie: yes!! :D
+Kyle: Okay Bonnie, stay where you are. I'll be there in a minute
+Bonnie: why? im fine
+Kyle: You're drunk. And possibly high (I haven't ruled that out)
+Kyle: Where are Lola and Abbie?
+Bonnie: im not drunk! Lolas with some guy and Abbie's gone out for a fagg
+Summary: Bonnie is drinking at Marco's bar with Lola and Abbie. Kyle will come to collect her.
+Dialogue: Chris: <file_photo>
+Chris: Just for you mistress.
+Jane: Nice. They do show your butt off quite well.
+Jane: Now take them off and send me a photo.
+Chris: Yes mistress!
+Chris: <file_photo>
+Jane: That's better. I want you to walk around like that all day.
+Chris: Yes mistress!
+Summary: Chris will walk around naked for the whole day on Jane's request.
+Dialogue: Allie: my wallet
+Melody: what about it?
+Allie: goneeee
+Melody: u lost it yesterday, at Pike’s?
+Allie: I gues soo
+Melody: call him
+Allie: I tried, still sleeping I think
+Melody: sooo you need to wait im sure it is somewhere there
+Allie: someone couldve taken it, so many strangers
+Melody: don’t worry just wait for him to wake up
+Summary: Allie lost her wallet. It may be at Pike's as Melody suggests. 
+Dialogue: Petra: Hey I'm at the liquor store
+Petra: do you remember the name of that coffee liqueur Mum served last Christmas?
+Teia: I don't think it was coffee-flavoured
+Petra: well it was sweet and creamy
+Teia: it was Amarula
+Petra: aaaaah thanks :D
+Summary: Petra is at the liquor store. Last Christmas Petra's mother served Amarula.

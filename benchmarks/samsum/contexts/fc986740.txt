@@ -1,0 +1,138 @@
+Dialogue: Eva: u home?
+Darren: yeah
+Eva: Wanna grab sth to eat?
+Darren: Sure, where?
+Eva: I'll pick u up in 15 min
+Darren: ok, see u
+Summary: Eva is picking Darren up in 15 min to grab something to eat.
+Dialogue: Stanley: Have you ever tried parachuting?
+Tim: No, why?
+Stanley: Oh, nothing. I thought you did.
+Tim: Nope. It's not for me.
+Summary: Tim has never tried parachuting.
+Dialogue: Nina: Where are you?
+Tim: in the main room
+Alice: me too, come and join us
+Nina: ok!
+Summary: Nina will join Tim and Alice in the main room.
+Dialogue: Andy: Does anyone have a spare lego ice cream van?
+Joe: Bit random?
+Andy: I know but it for my sons collection. He is obsessed and he has it in his mind that the only thing completing his collection would be an ice cream van. 
+Bob: I have a spare Pizza truck? double Christmas present, unopened. would that do?
+Andy: I'm not sure but I'll ask.
+Joe: maybe you can put some stickers on and convince him that pizza vans sell ice cream?
+Bob: Not a bad idea!
+Andy: I'll go for it, how much do you want for it?
+Bob: £10?
+Andy: perfect! thanks! 
+Summary: Andy is looking for a lego ice cream van. Bob has a spare Pizza truck. Andy will buy it from Bob for £10.
+Dialogue: Jordan: Any idea how we’re getting to the festiwal? By car, plane or train? Let me know all.
+Amy: I’m all in for the train. It’s really quick and good value for money. And it doesn’t involve losing time in traffic :)
+Peter: Yeah, but I guess there’s gonna be some luggage to be carried from the station. Will we manage?
+Andy: Haha, I’m the strongest man on Earth, I’m carrying the whole world on my shoulders ;). I thought of a car, but I think train will suffice.
+Jordan: Haha, who let this dude join our trip ;) ? So we’re all good on taking the train?
+Patrice: Hey, what about me? Did you forget me?
+Amy: No, we were just waiting for everyone to express their opinion Pat :) Are you okay with the aggreements?
+Patrice: I guess, but I’m not sitting next to Andy haha!
+Andy: The whole world hates me… How did I deserve that :(?
+Amy: Right Andy, I’ll sit with you. Jordan, I guess we’re all set. Would you book the tickets?
+Jordan: Perfect, appreciate your organisational skills ;). So 5 tickets it is. We’re leaving at 9am, don’t come late! 
+Patrice: So great! Can’t wait folks! Xoxo
+Amy: Me too <3
+Summary: Jordan, Amy, Andy, Peter and Patrice will take a train to get to the festival, and Jordan will book five tickets for the train at 9 am. 
+Dialogue: Sebastian: She wrote back!
+Dave: Hahahaha, Janet?
+Sebastian: Yes :) She wrote that she's sorry for not replying for my messages, but she's been abroad.
+Dave: Hm... and that's it?
+Sebastian: No, we've talked a little
+Dave: And? How's she?
+Sebastian: I think she's cool, we talked a bit about jobs, cinema, etc.
+Dave: When are you going to meet?
+Sebastian: Hasn't asked her out yet...
+Dave: Dude, what are you waiting for?
+Dave: Is she hot?
+Sebastian: Oh yeah
+Dave: Wait a bit longer until she's gone, great plan :P
+Sebastian: But where should I take her?
+Dave: Just go for a drink, don't make it too fancy
+Summary: Sebastian likes Janet. She wrote him after a while. Dave suggests Sebastian asks her out before she is taken by someone else.
+Dialogue: Jayda: How good of a dancer are you?
+Rowan: I have never danced :/
+Jayda: damn :/
+Rowan: Why are you asking?
+Jayda: I need a partner for prom night 
+Rowan: I would manage some one dont worry
+Jayda: K :)
+Summary: Jayda needs a partner for prom night, but Rowan can't dance.
+Dialogue: Morgan: Don't forget about the meeting
+Abby: How can I forget when you keep talking about it every 10 minutes
+Morgan: You know that it is important to me
+Abby: I know
+Abby: Don't worry I'll be there
+Morgan: Thank you
+Summary: Morgan and Abby will attend an important meeting.
+Dialogue: Eva: i have nothing to wear
+Grace: as always
+Eva: but today i MUST look gorgeous
+Grace: as always
+Eva: but today im going out with Tom
+Grace: Tom Morgan?
+Eva: of course, Tom Hotty Morgan
+Grace: restaurant?
+Eva: yes, La Donna Pasticella 
+Grace: so maybe this red dress?
+Eva: too long
+Grace: hmm, this orange is shorter
+Eva: i will look like Orange tree, with my green hair
+Grace: black is too obvious
+Eva: black is always a good idea ;)
+Summary: Eva is going out with Tom Morgan and she wants to look gorgeous. They are going to La Donna Pasticella restaurant. Grace suggests a red or orange dress but Eva prefers a black one.
+Dialogue: Gloria: Hi Tony, meant to ask you about it for some time now. Will a possible Brexit affect your business?
+Tony: In Britain the farce of Brexit looms over everything all day every day. It's going to affect us all in a most adverse manner. No doubt about it.
+Gloria: I'll never understand why so many voted for it.
+Tony: Nor will I. It is hard to believe that as a nation we have been so stupid as to vote to leave the EU. Utter and sheer short-sightedness.
+Tony: When the French protest against their government, they do it on the streets with their Gilets Jaunes. We do protest votes against the government. I’m not sure which nation has developed the more stupid way to object to our government!
+Gloria: But will you in your printing business be affected?
+Tony: Dunno yet. Actually I've had very few commissions from abroad, so not directly. But we are all going to have less money in our pockets. So there'll be less interest in fancy printed matter.
+Tony: But that will affect my holiday plans! And I hate that! The whole nonsense of exchanging money leaves me sick. I've always been out of pocket, no matter whether in Austria or France. And now with the pound going down the drain...
+Gloria: We are hardly meeting any British tourists in Mexico now. One couple in Campeche the other day but they said they're attending a convention or sth.
+Tony: That's what I mean. We'll be stewing in our own splendidly isolated sauce again.
+Gloria: Don't worry. You can always visit us in Austria paying your pounds which we will then spend visiting you in England.
+Tony: That's a good plan. But how about me visiting France or Spain??? Any family or friends there?
+Gloria: Do you think the second referendum is an option?
+Tony: Definitely. Those morons voted "for" out of ignorance, out of sheer lack of knowledge and understanding. Common awareness of economic and political consequences of Brexit has made a quantum jump in this country as late as in the last few months.
+Tony: And if you ask me, the Irish border issue cannot be solved thru' any diplomatic channels. It either stays open, the way it is now, or we have a new armed conflict with no prospect of being settled.
+Gloria: Hasn't it started yet?
+Tony: Yes. I fear the worst.
+Gloria: Oh Tony... So wretched....
+Summary: Tony's business will be affected by Brexit and both her and Gloria will never understand why people voted for it. It will also affect Tony's holiday plans. Gloria can hardly meet any British tourists in Mexico. Tony thinks the second referendum is an option.
+Dialogue: Colin: I think the modern world is unhealthy, we’re not supposed to live like this. It used to be that someone was either alone or had real engagement with other people. But now you have neither
+Kellie: Interesting. Why?
+Colin: You’re never really alone because of phones, facebook, instagram, etc.
+Kellie: Well, I agree. People don’t engage with others in the same way. 
+Colin: I believe that we’re not as good at forming close bonds because of social media. 
+Kellie: Can you imagine that people call it ‘progress’?
+Summary: Colin and Kellie agree that human relations and abilities to form close bonds with others have deteriorated because of social media.
+Dialogue: Mick: guys where are you
+Damon: eeeee where are you? xDD we're at the pub
+Mick: which pub
+Tim: devil's face
+Time: hurry up
+Mick: ok coming
+Summary: Mick is joining Damon and Tim in the Devil's Face pub. 
+Dialogue: Anna: I'm so sorry Tobi for the situation
+Tobi: c'mon, it's not your fault
+Anna: But I saw how stressful it was for you
+Jeff: what happened?
+Leland: sounds serious
+Anna: We were stopped at the border, we couldn't enter Pakistan
+Leland: why? i've done this trip many times
+Anna: Pakistan doesn't recognise Armenia, as the only state in the world apparently
+Anna: and Tobi has an Arminian passport, so they didn't allow him in
+Anna: and we didn't understand what it was about
+Tobi: my boss didn't answer phone calls and we were supposed to have a business meeting in Islamabad
+Anna: so I had to continue to Islamabad and Tobi returned to Ahmedabad
+Leland: a very strange story, I'm sorry Tobi for that
+Tobi: no problem, after all I had an extra free day and it was not my fault :P
+Leland: hehe
+Summary: Tobi couldn't cross the Pakistani border on Armenian passport. Anna could continue the business trip to Islamabad. Their boss didn't answer the phone to confirm, so Tobi had to go back to Ahmedabad.

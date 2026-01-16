@@ -1,0 +1,661 @@
+Dialogue: Carter: hi Sophie, I'm sorry but we need to meet in the cinema
+Carter: I won't be able to make it to the bar we agreed on
+Sophie: oh no, why? :(
+Carter: I need to stay at work a bit longer unfortunately :(
+Sophie: <file_gif>
+Sophie: it's fine, let's meet in the cinema then!
+Summary: Carter can only meet Sophie at the cinema and not the bar because he has to work longer.
+Dialogue: Eliza: I saw the movie. It sucked.
+Mark: Told ya!
+Eliza: I'll listen to you next time. Damn if i was terrible!
+Summary: Mark told Eliza that the film is not worth seeing. She saw it anyway and regrets it.
+Dialogue: George: <file_other>
+George: Anyone interested?
+Tom: 21 dec hmmm
+Tom: have a meeting then I'm afraid
+George: But it starts 8p.m.
+Tom: aaaa, okay
+George: @Joshua, what about u?
+Joshua: Fine with me
+Joshua: And a burger before?
+George: Hmmm why not
+Joshua: I know a great place near there
+Joshua: So juicy and flavorful burgers
+Joshua: The best burger I've ever tasted
+George: Where is that?
+Joshua: Black Iron Burger
+Joshua: 245 W 38th St
+George: Ok
+Joshua: Menu
+Joshua: <file_other>
+George: Double 4oz Patty, All-Natural Beef, Double Horseradish Cheddar, Stout Caramelized Grilled Onions, Special Horseradish Mayo
+George: <file_gif>
+Summary: George and Joshua are meeting on 21st December. They are going to eat a burger before the event.
+Dialogue: Alessandra: hey Meggie! Are you coming to the office today?
+Megan: No... I am sick, I will stay home so I don't infect anyone else
+Alessandra: sure sure, that's fine
+Megan: did you need anything from me?
+Alessandra: there are some papers that i need you to sign
+Megan: what for?
+Alessandra: new medical insurance and benefits
+Megan: can it wait till friday?
+Alessandra: yes, don't worry :)
+Megan: okey, I will come by your office on friday and sign them, thanks! Have a nice day!
+Alessandra: you too! Get well!
+Summary: Megan will not come to work today because she is sick. Alessandra needs Megan to sign papers. Megan will sign the papers on Friday.
+Dialogue: Kate: how are you today?
+Adele: a bit better but still at home. Maia is sick too :(
+Kate: oh... so sorry... does she have fever?
+Adele: not now but she had 39C at night
+Kate: do you need anything? I could ask Mike to get you some groceries or anything you need.
+Adele: no, thanks, we have all we need. Peter is coming back this afternoon so he'll take care of us.
+Adele: I couldn't sleep last night, Im so tired of coughing :(
+Kate: :( if only I could help....
+Adele: don't worry. how's your work?
+Kate: well nothing new. still hate it :)
+Adele: we need to have a serious talk when I get better young lady!
+Kate: I know... I just don't know how to start. but I feel sick every morning :(
+Adele: update your linkedin profile!!!
+Kate: I will... I promise!
+Adele: don't promise anything to me, promise to yourself! 
+Kate: I think I just can't believe I could find anything better...
+Adele: well... it's hard to find anything worse, that's for sure...
+Summary: Adele and Maia are sick. Maia had 39C fever at night and Adele couldn't sleep because of coughing. Kate offers Mike's help, but Adele declines, as Peter is coming back this afternoon to take care of them. Kate hates her job. She will update her linkedin profile and start looking for a new one.
+Dialogue: John: Hey Dan, I'm gonna be late today.
+Daniel: Hey man, ugh no, don't leave me with this presentation alone!
+John: I know, I'm doing my best, but I'm stuck in traffic!
+John: There was an accident on the 401, ambulances & all...
+Daniel: OK, I'll try 2 buy us some time.
+John: I should make it in 30mins.
+Summary: John will be late for the presentation he has with Daniel. He should be there in 30 minutes.
+Dialogue: Crockett: how was the party at arts?
+Ellison: good tho quiet
+Crockett: meaning?
+Ellison: neigbor is a copper. art is new. so needs to be careful
+Franklin: yeah but it was fun why didnt make it? 
+Crockett: told ya. had to go home. granma sick
+Ellison: hows she?
+Crockett: not much better. u know shes 91
+Franklin: wow fingers crossed
+Summary: Crockett had to go home because his grandma's sick.
+Dialogue: Mary: Did you hear?
+Mary: Anna is going on a trip to France!
+Lizy: Really?
+Lizy: She did not tell me about it.
+Mary: Apparently she got an invitation from her friend.
+Mary: They are to go to the coast.
+Lizy: Lucky she!!!
+Mary: :)
+Summary: Mary and Lizy are happy for Anna who is going to France. 
+Dialogue: Lea: <file_photo>
+Suzan:???
+Lea: My little angel!
+Lea: Samantha - my sis's little girl.
+Suzan: OMG! She's soooo sweet!
+Suzan: How old is she?
+Lea: 2 months
+Summary: Samantha's daughter is two months old.
+Dialogue: Alfonso: I got 20 out of 24 questions from today's test!
+Alfonso: Thank you so much, teacher!!
+Ethan: Great! 
+Alfonso: I will finish common logarithms part before you come!
+Ethan: Matrix would be better. See you on friday!
+Summary: Alfonso answered correctly on 20 out of 24 questions from today's test. Ethan is pleased with this and advises Alfonso to focus on matrix rather than ordinary logarithms. Alfonso and Ethan will meet on Friday.
+Dialogue: Allan: Do you like soft cheese on bagels or nah?
+Julie: Sometimes. Why?
+Allan: Try to plan breakfast!
+Julie: Oh!
+Julie: How about a sausage casserole?
+Allan: That sounds nice.
+Julie: You're making me hungry!
+Allan: Just trying to get ahead. Can you bring a couple juices?
+Julie: Sure! Like orange and something?
+Allan: Yes. Fine.
+Julie: Anything else you need? Chairs? Dishes?
+Allan: Some serving spoons and chairs would be good!
+Julie: Okay, no problem.
+Allan: Looking forward to it but its so much work...
+Julie: You're preaching to the choir!
+Julie: Glad it's your turn. Finally!
+Allan: I know, it's definitely overdue. But I never had a house big enough before...
+Julie: I know, I know, j/k.
+Allan: Otherwise, I think I'm ready!
+Julie: Cool! It's going to be great!
+Allan: Fingers crossed! LOL!
+Summary: Allan will host a breakfast and plans the menu. Julie will bring juice, spoons and chairs. Julie has hosted breakfasts before. Allan has a house now that is big enough for this event. 
+Dialogue: Mel: what's going on with Sharon then?
+Louise: don't know but it can't be good!
+Ellie: why? what happened?
+Mel: All the big bosses and HR were in the office yesterday and Sharon got called into a meeting...
+Louise: our management were in there as well for ages!
+Ellie: I wonder why? 
+Mel: maybe something to do with that argument with Carrie last week?
+Louise: probably, I heard it got pretty ugly!
+Mel: we were in the next office and could hear the shouting - not good! 
+Ellie: what happened?!?! I missed everything!
+Mel: Carrie and Sharon had a big fall out and the way Sharon spoke to Carrie was quite bad. I wouldn't dare talk to a manager like that! 
+Louise: Sharon can have quite a foul mouth on her if she wants. 
+Ellie: I hope Carrie is ok then...
+Mel: she was fine, a bit shaken but ok, I saw her afterwards. Sharon stormed off though. 
+Louise: well, I assume we will hear soon enough what it is all about -  team meeting Thursday...
+Ellie: I'm not in the office until Thursday ladies, so I'll see you then! Keep me posted if anything goes on though! 
+Mel: will do, have a good week! 
+Louise: see you soon! 
+Ellie: you too!
+Mel: Louise, are you doing a home visit at Ruben's this afternoon? I'm after a lift to Church road...
+Louise: lucky you, I am and I'll drop you off. Not until 2.30 though...
+Mel: Perfect thanks! see you in a bit. 
+Louise: see you!
+Summary: Sharon was called into the disciplinary meeting with bosses after a loud argument with her manager Carrie. There will be a team meeting on Thursday. Louise will drop Mel off around 2:30.
+Dialogue: Michal: it's one of the most beautiful towns I've ever seen
+Sam: hahaha, but it's so ordinary
+Michal: no, it's not
+Melanie: What do you like so much about it?
+Victor: The sea, right?
+Michal: no, not even the sea
+Michal: which is beautiful
+Michal: but when I arrived here, the first thing I saw were the lindens all over the place
+Michal: and the light was shining through their leaves
+Michal: it was spectacular
+Michal: very poetic
+Melanie: yes, the trees are very beautiful
+Michal: I think this is where the name of the town comes from
+Michal: Lipa means linden, at least in Polish
+Victor: we could ask someone local, Liepaja may come from something else
+Victor: but it's really interesting
+Sam: it's in the coat of arms of the city at least
+Sam: so maybe you're right
+Michal: makes sense
+Summary: Michal visited Liepaja, a city on the seaside. The were lindens everywhere. There is a linden in the coat of arms of the city, as Sam reports.
+Dialogue: Brayden: could you pls tell me what should I study for tomorrow 😞 if possible? there is some exam as far i remember ...
+Luke: oh but i guess we aren't in the same group
+Brayden: oh ok. so sorry !!
+Summary: Brayden wants to find out about the exam. Luke and Brayden are in different groups. 
+Dialogue: Hugh: I hope you will be hungry tomorrow 😜
+Vanessa: Hugh! ❤ that looks awesome
+Jerry: Wow, you are only cooking for 6 😂
+Hugh: I know 😂 not good in quantity haha! At least guys won’t have to retain themselves
+Dominic: much appreciated 👍
+Abigail: Looks awesome! But I think I would need to use my own slow cooker when it’s my turn
+Summary: Hugh is cooking for 6 people.
+Dialogue: Roberto: Christ
+Roberto: my internet was off all day
+Roberto: and we fgured out why
+Roberto: it's cuz my ethernet cord is broke
+Cesar: Oh man
+Cesar: That sucks
+Roberto: lmao
+Roberto: my mom accidentally ripped it :/
+Cesar: And you don’t have any spare one?
+Cesar: I had too many and ended up throwing some out some two weeks ago
+Cesar: I kept some spares since you never know, I use the internet wirelessly now, but still
+Cesar: When I had a problem with my laptop, I borrowed one and wireless connection didn’t really work on it, so the cables came in handy
+Roberto: I dont so i'll have to buy a new one...
+Summary: Roberto's mom accidentally ripped the ethernet cord and his internet was off all day. Roberto had too many spare cords and he threw some out two week ago, so he will have to get a new one. 
+Dialogue: George: Have you tried "2 Broke engineers"??
+Alice: No not yet.
+George: I heard , its the best in town
+Alice: Lets go try it today.
+George: Yes lets go
+Summary: Alice and George want to try out "2 Broke engineers" today.
+Dialogue: Fred: checking the prices of immovables
+Reynold: hi, why?
+Fred: i'm getting older you know
+Fred: i wish to settle down soon
+Reynold: jeez, you act like you're 100
+Fred: shut up
+Fred: im turning 30 soon
+Reynold: ...
+Fred: anyway
+Fred: i found one interesting offer
+Fred: <file_other>
+Reynold: wanna move in? the apartament looks alright
+Fred: yes, the plan is to have a place of my own
+Reynold: nice
+Reynold: one advice, check it well before buying
+Fred: i will
+Reynold: check electrical instalations, windows, move furnishings...
+Fred: sure thing
+Fred: i will make sure nothing goes unnoticed
+Reynold: good luck Freddie
+Fred: thanks will need it
+Reynold: ttyl
+Summary: Fred is browsing real estate offers. Reynold advises Fred that he should carefully check the apartment before buying it.
+Dialogue: Tom: Did I leave my wallet at yours last night?
+Jim: I haven't seen it but I can have a look tonight when I get back from work.
+Tom: Cool. Thanks.
+Summary: Tom is looking for his walet. Jim will have a look tonight at his place.
+Dialogue: Freddie: bruh, that was a sick game!
+Ollie: ez, we just rolled thru them
+Ollie: probably just some noobs
+Freddie: still fun
+Ollie: you just like to pwn others :P
+Freddie: let them fear the mighty Fredster ;)
+Ollie: the mighty Fredster need to learn how to aim :P
+Ollie: your accuracy was shit
+Freddie: who cares
+Freddie: we won anyway!
+Ollie: not thanks to you ;)
+Summary: Freddie and Ollie won the game despite Freddie's poor accuracy.
+Dialogue: Harvey: Hey Dona, i'll be running late. please reschedule my meeting
+Dona: but its an important one
+Harvey: yeah, i know, but please find a way
+Dona: Okay Harvey, but better have an explanation for the client
+Harvey: Dont worry, i have one, but ill explain later after i arrive
+Dona: okay sir
+Harvey: thanks Dona
+Summary: Dona will reschedule the meeting on Harvey's request.
+Dialogue: Jerry: Hello. I just wanted to write and ask, what time is training tomorrow?
+Larry: Training starts at 6:30.
+Jerry: Ok, because there's no information on the website.
+Larry: Yeah, I'm aware of the problem. There were some issues earlier today.
+Jerry: Ok, thank you.
+Larry: You're welcome. Don't forget your clothes for dryland training later on.
+Jerry: Ok, thank you.
+Summary: Training starts at 6:30. Larry reminds Jerry about taking clothes for dryland training.
+Dialogue: Ezra: Hey! :)
+Ezra: Can you send me the recipe for this greek soup you made for your housewarming party? It was a-freaking-mazing! :D
+Jason: Hi! Glad to hear that! :-) Sure, why not.
+Jason: <file_photo>
+Ezra: Thank you!
+Ezra: What is the difference between green and red lentils?
+Ezra: Which one should I use?
+Jason: Red lentils have shorter cooking time, but they tend to turn out mushy. Green lentils, on the other hand, are firmer after cooking than red lentils, but it takes more time for them to cook completely.
+Jason: I usually use green lentils.
+Ezra: Ok, thanks!
+Ezra: I have one more question: what have you written under the list of ingredients?
+Ezra: I can't decipher your writing. :)
+Jason: '1 tbsp. of red wine vinegar'
+Jason: Is everything clear now? :)
+Ezra: Crystal clear! Thanks once again! :)
+Jason: You're welcome. :)
+Summary: Jason shares his greek soup recipe with Ezra. Ezra loved the soup. Jason explains him the difference between green and red lentils.
+Dialogue: Victoria: Hi! I just started watching Outlander
+Anna: Wow - finally! Took you long enough :D
+Victoria: I know, it's my third attempt actually.
+Anna: Third?! You haven't said a thing before.
+Victoria: Yeah, it was kind of pointless as I watched only 2 episodes.
+Victoria: First time I watched just the first one, then first two episodes.
+Anna: And? Couldn't get hooked? ;)
+Victoria: No, surprisingly. I thought I was going to love it on the spot. It has everything I love - history, costumes, plot, time travel, and Scots.
+Anna: That's why I recommended it you, thought you may love it.
+Victoria: Maybe it wasn't the right time? I don't know really.
+Victoria: I watched the first season already and can't wait for more :D
+Anna: Hahaha, I'm so happy to hear it! Finally I will have someone to talk with and fangirl <3
+Victoria: I must admit that Jamie Fraser is one of the reasons why I decided to keep watching ;)
+Anna: No wonder! He's the reason I'm watching it at all, especially at the beginning.
+Anna: I get why many people couldn't watch it. It's really good, but I also think that there's something missing.
+Victoria: Yeah, I can't put my finger on it either, but I think I know what you mean. The show seems perfect, well done, good plot, characters, but it may come... bleak?
+Anna: Hm... I love it to bits so I'm biased. I'm probably watching it for too long.
+Victoria: Have you tried Black Sails? It's not the same obviously, but it's the same genre.
+Anna: I did and I know many people love it, but this one of the show I couldn't make myself watching.
+Victoria: Hahaha, same here. It's the same as I had with Outlander - watched 2-3 episodes and nothing.
+Victoria: But so fair I only had two attempts ;)
+Anna: I had one and decided I don't have enough time to force myself :P Too many good shows waiting 
+Summary: Victoria and Anna discuss the show "Outlander" which Victoria recently started watching. They both enjoy "Outlander" but not "Black Sails".
+Dialogue: Paul: where are you?
+Paul: hey?
+Romeo: in Reims
+Paul: fine
+Romeo: how are u going? How is your week end?
+Paul: fine and you? I 'll stay with my girlfriend this week end
+Romeo: lucky you. I'm at a party without any girl😰
+Paul: poor little boy😜
+Romeo: she does things?
+Paul: this is none of your business bro
+Romeo: yes it is😜
+Paul: nope
+Romeo: ok i'll leave you with your honey
+Paul: lol, have a good evening.
+Paul: keep me a place on monday
+Romeo: you'll be alone?
+Paul: of course! 
+Romeo: i'm very angry 😡
+Paul: why?
+Romeo: we're at not in the same group
+Romeo: luckily you stay at night
+Paul: no i'll stay at my grandma
+Romeo: to bad 😡😡
+Summary: Romeo is at a party in Reims. Paul will be spending this weekend at his girlfriend's. Romeo and Paul will not be in the same group on Monday. Paul will be staying at his grandma's then.
+Dialogue: Jacob: What do you think about this dryer? Do you think that mom would like it?
+Jacob: <file_photo>
+Olivia: give me a second, dad, i'll try to find some reviews on youtube
+Olivia: dad, i think that the previous one was better, this one is for long hair and mom has medium-length hair
+Jacob: Thanks. Olivia, did you call grandpa? His birthday is today.
+Olivia: not yet, thanks dad
+Summary: Jacob consults his daughter Olivia about a dryer for Olivia's mum. He also reminds her to call grandpa on his birthday. 
+Dialogue: Jeff: When's practice?
+Jason: we're meeting at 6
+Jason: at the new court
+Jeff: ugh why can't we use the old one?
+Jason: it's under renovation
+Jeff: ok c ya there at 5:45
+Summary: The old court is being renovated so Jeff and Jason meet at the new one at 5:45 for the practice.
+Dialogue: Pete: hey
+Laura: hello 
+Pete: how are you? 
+Laura: fine thanks 
+Pete: will we meet today? 
+Laura: sure 
+Laura: :) 
+Summary: Laura and Pete are going to meet today. 
+Dialogue: Lita: Hi Jane
+Jane: Hi Lita
+Lita: How's your day?
+Jane: Oh, it's ok but I have a terrible headache
+Lita: I bet it's the girls
+Jane: Sure, children are a blessing but sometimes I'd like to run a way
+Lita: I know, my son is seven now but I remember when he was two or three
+Jane: Hahaha
+Lita: Is Virginia still sick?
+Jane: A little but at least she's not crying all the time anymore
+Lita: Thank God!
+Jane: Tina was making fun of her yesterday, she called her "farty-poop"
+Lita: Oh, that's cruel!
+Jane: I know but I must admit that after 3 days of Virginia's bowel sickness it made me laugh
+Lita: Tina is about to turn 5 years old, right?
+Jane: Yes, next week, on Sunday
+Summary: Jane has a terrible headache because of her children. Virginia is still a little sick. Tina called her "farty-poop" yesterday. Tina's turning 5 years old next week on Sunday.
+Dialogue: David: guys, I've heard some rumors about the test tomorrow, is it true?
+Dominik: yep, from chapter 2 and 3
+Huan: WAAAT what test :/
+Dominik: yep, from practical classes
+Huan: not again............
+David: don't worry we'll fuckin do it as always
+Summary: Huan, Dominik and David have a test tomorrow from chapters 2 and 3.
+Dialogue: Sue: Dear club members, I was wondering who'd be interested in organizing this year's Christmas fair with me?
+Angelica: Hello, Sue! My husband and I could help you out.
+Sue: Thank you so much!
+Roger: And I think we should involve our children as well, they need to learn to do something for the community too.
+Angelica: Great idea, darling!
+Sue: That's wonderful. It means we already have four helpers!
+Harriet: Count me in as well. I promise to bake my best cookies for this occasion!
+Sue: Thank you, dear! I think five people will be enough. Six, if you count me, which means two more than last year. We can start discussing the details after the club meeting next week, alright?
+Angelica: Sure, me and Roger will be there.
+Harriet: Me too. See you on Monday!
+Summary: Angelica, Roger and Harriet will help Sue organise this year's Christmas fair. Four children will also be involved as helpers on Roger's suggestion. They are meeting on Monday.
+Dialogue: Vivian: Hi! :) Could you recommend some good vegan recipes to me? I'm throwing a party for my colleagues and there are some vegans among them.
+Thomas: Hey! :) Why won't you check out some vegan blogs?
+Thomas: My top 3 are Minimalist Baker, Deliciously Ella and Oh my veggies, but there are hundreds of them.
+Vivian: I know, but I'd like to cook something that meat-eaters would eagerly eat as well.
+Vivian: And, you know, I'd prefer to use a recipe that works FOR SURE.
+Thomas: Try out this recipe for vegan stroganoff: <file_other>.
+Vivian: Hmmm, it looks quite doable.
+Thomas: Oyster mushrooms, when properly prepared, are crispy, meaty and, generally, delicious. My non-vegan friends say, that their taste and texture resemble pork.
+Vivian: Sounds pretty convincing. Thanks a lot! :)
+Thomas: No problemo! ;)
+Summary: Vivian is throwing a part for her colleagues, some of them are vegans. She is looking for some recipes. Thomas recommended 3 vegan blogs to her and sent a recipe for vegan stroganoff. 
+Dialogue: Vincent: So...
+Erica: So... ?
+Vincent: Dinner? ;)
+Erica: With you? Always hon :D
+Vincent: :*
+Erica: Where are you thinking of going?
+Vincent: Oh, I was thinking Rosita's, unless you have a better idea ;)
+Erica: Rosita's?!! How?? 
+Erica: That place is notoriously difficult to get into ever since it opened!
+Vincent: Good thing I have two reservations then :D
+Erica: ...I love you.
+Vincent: I love you too :) I'll see you tonight x
+Erica: Wait, what time are you picking me up??
+Vincent: 7pm okay? I have the reservations for 8pm, so we should make it :)
+Erica: Make it 7:15 and you've got yourself a deal!
+Vincent: Okay, love you and see you later xxx
+Erica: Can't wait!!! <3 
+Summary: Vincent is picking up Erica at 7.15pm for a meal at Rosita's. 
+Dialogue: Sam: Hey do you still work at the bank?
+Ben: yes I do :)
+Sam: do you have someone to recommend to help me out with a line of credit for my new business?
+Sam: Sorry to bother you but I've been rejected twice and I don't know what I'm doing wrong
+Ben: I see. Well that happens, I'll be happy to help you. Do you want to meet up for a beer and talk?
+Sam: That would be so great! beer on me :)
+Ben: haha okay let me just check my calendar
+Summary: Sam and Ben, who works at a bank, will meet over a beer as Sam needs help with getting a line of credit for his new business and he was already rejected twice.
+Dialogue: Ella: Hi there! Howdy? Haven't heard from you for ages.
+Frank: Great to hear from you. We are fine, packing for our winter hols. And yourselves?
+Ella: Good, I suppose, if you disregard Edward's never ending string of illness and mine funny tummy ;(
+Frank: Oh dear. Doesn't sound too good. What are Edward's new problems? Never heard about you having upset stomach!
+Ella: I've picked up a nasty stomach bug, been in bed for 4 days and slowly recovering.
+Frank: Oh poor you! Are you curing yourself or have you consulted a doc?
+Ella: I called the pharmacist this morning and learned that the constant pain in my gut and bowel is too much acid and imbalance in the flora.
+Frank: Does it mean you've been eating wrong things or what?
+Ella: Probably. I'll change my diet today and up the supplements I'm taking.
+Frank: And give up on alcohol entirely?
+Ella: Oh yes. Regrettably...
+Frank: What sort of supps are you taking?
+Ella: At the moment only electrolytes.
+Frank: You wouldn't go to a proper doc surgery and have your tummy tested?
+Ella: Will do if this doesn't pass.
+Frank: Be sensible. Diet itself may not be enough. Are you drinking enough liquids?
+Ella: Lemon tea.
+Ella: Fresh lemon.
+Frank: But it being acid, does it agree with your bowels?!
+Ella: I thought it's beneficial.
+Frank: Add at least honey. And stick to more diary products.
+Ella: Actually I'm cutting out butter and replacing it with avo.
+Frank: Right. Hope you'll get better soon. But do consider proper medical consultation.
+Ella: I will if I don't feel better by tomorrow.
+Frank: Especially if it's still painful. Constant pain would be a signal for me that sth's wrong.
+Ella: In fact it is. Yes, I'll call our GP now.
+Frank: You'd better do. I wish you a quick recovery!
+Ella: Thank you, Frank. You are a darling.
+Frank: Take care!
+Summary: Ella has a nasty stomach bug, she is in pain. Frank suggests checking it with a doctor, and recommending drinking a lot, adding some honey and dairy. Ella agrees to call the doctor tomorrow.
+Dialogue: Susie: Hey, are you busy?(=^··^=)
+Elizabeth: It depends. What's up?😀
+Susie: The muffins you made last time..Could you toss me the recipe? _(._.)_ m(_ _)m
+Elizabeth: You never bake anything.😜 What's going on really?
+Susie: I wanna make them for my boyfriend this weekend. ^m^
+Elizabeth: Okay. ＼(-o-)／
+Elizabeth: Preheat oven to 165 degrees C. Cut the pumpkin in half, stem to base. Remove seeds and pulp. Cover each half with foil. Bake in the preheated oven, foil side up, 1 hour, or until tender. Scrape pumpkin meat from  shell halves and puree in a blender. Strain to remove any remaining stringy pieces.
+Susie: I'm copying it.
+Elizabeth: 1 + 3/4 cups all-purpose flour, 2 teaspoons baking powder,1 teaspoon ground cinnamon,1/2 teaspoon ground ginger,1/4 teaspoon ground nutmeg, 1/4 teaspoon ground cloves,1/2 teaspoon salt, 6 tablespoons unsalted butter, at room temperature,1 1/3 cups packed light brown sugar, 2 large eggs,1 1/3 cups pumpkin puree, 1 teaspoon vanilla extract. (Are you still there?)
+Elizabeth: the rest as with all muffins. 
+Elizabeth: I made a lot of pumpkin puree and I keep it in freezer 😀
+Susie: (Yes I am(^.^)1111!!!! )How many muffins can you make at once?
+Elizabeth: With this recipe? Around 12.
+Elizabeth: They are heavier than normal muffins because of the pumpkin puree.
+Elizabeth: But they are so nice. (^^)v(^^)v(^^)v(^^)v(^^)v(^^)v(^^)v(^^)v
+Elizabeth: Especially during autumn and winter. Mug of autumn/winter tea and pumpkin spice muffins are awesome.
+Susie: That sounds awesome! And so many at once! (＠_＠;)(＠_＠;)
+Elizabeth: Give it a try. You cook well, so it wouldn't be that difficult for you.ヽ(^。^)ノ
+Susie: I will try my best. I don't know if he would like what I bake for the first time in my life.
+Susie: But I wanted to try cause your muffins were so nice. 
+Elizabeth: If you come over I can let you know more recipes.
+Susie: Awwwww1!!!!! Thanks11!!!!! When the muffins done, I will send you some pics. Thanks again!(´∀`)(´∀`)(´∀`)(´∀`)(´∀`)
+Summary: Susie will make muffins with the pumpkin puree from Elizabeth's recipe.The recipe is for around 12 muffins. Susie will bake them for her boyfriend.
+Dialogue: Emma: We are going beach would you like to join in?
+Sharol: sure who else is coming?
+Emma: its me anna, emily, wendy, kate and you
+Sharol: would wendy be ok with me joining..
+Emma: i think she would be .. is there any problem between you guys?
+Sharol: i think she doesnt like me ... she always try to avoid me...
+Emma: really? then i think you should definetly join and sort things with her
+Sharol: hmm.. i dont want to be her friend forcefully... 
+Emma: i know she doesnt dislike you there must b some misunderstanding... lets meet up and sort out.. be at my place at 11am
+Sharol: sure will be there
+Summary: Sharol is going to go to the beach with Emma, anna, emily, wendy and kate. Sharol is afraid that wendy doesn't like her.
+Dialogue: Kim: Anybody got homework for 2moro?
+Melvin: Still working on it.
+Norma: Sure. <file_picture> <file_picture>
+Kim: Thx. Ur a lifesaver!
+Norma: Don't mention it :)
+Summary: Norma has completed homework for tomorrow.
+Dialogue: Victoria: It's my 7 hours of studying..........
+Maria: I know what you feel sis, I'm also doing it all day :((
+Madison: Me too, and still don't understand it :<
+Victoria: stuDYING -> so true
+Madison: Luckily that's our last exam
+Victoria: Not for me xDDD
+Madison: Ok, so for some of us it's last but one :D
+Victoria: <file_gif>
+Summary: Victoria, Maria and Madison are reviewing material for the exam.
+Dialogue: Oscar: Hi, Martin. Do you remember me from Hemel School?
+Oscar: Do you remember the time we all went to Hitchin Priory for the 6th Form induction and we all got completely legless?
+Martin: Hello, Oscar. Yes I do remember you, just about. That was an incident I don't think I could ever forget.
+Oscar: Yeah, what I remember most is how you probably saved that other kid's life by making him eat raw eggs to vomit back up the whole bottle of vodka he drank.
+Martin: Yeah. John Griffiths, that was.
+Oscar: And you got punished for it anyway, the same as all of us. A week of detentions and clearing the school roof.
+Martin: True, but I suppose they had to get the lot of us. His mother sent a nice letter to my mum, tho'.
+Martin: Anyway, what are you doing these days?
+Oscar: I have been in Poland for 27 years, doing business.
+Martin: Nice. Mostly you get people coming the other way. What's it like out there?
+Oscar: It's perfectly OK, I like it. 
+Martin: OK, must dash, we'll catch up more later. Glad you found me on FB.
+Summary: Martin and Oscar went to school together and attended a memorable party during that time. Martin prevented a fellow student from getting sick from alcohol. All those who attended the party were punished afterwards. Oscar has been living and doing business in Poland for 27 years.
+Dialogue: Francis: I need some new shirts honey, the old ones are worn out already...
+Skyler: I thought you bought 3 new ones recently
+Francis: I did but I forgot one at the hotel on a trip to Spain last month
+Skyler: and the other two?
+Francis: well one was ruined during ironing...
+Skyler: ahh right... my fault :( sorry again about that
+Francis: don't worry, accidents happen
+Skyler: it's good that i did not burn down the house :D
+Francis: hahah ye :D
+Skyler: well so shall we go to the store during the weekend?
+Francis: you know how much I hate going there :/
+Skyler: how are you gonna get new shirts then sweetheart?
+Francis: you know this store we always go to, Peek&Cloppenburg
+Skyler: how could I not? ;) what about it?
+Francis: they opened a new online shop, like Zalando :D
+Skyler: really? :D That's perfect for you!
+Francis: yeah, i already looked something up, can you help me choose?
+Skyler: sure my handsome man :*
+Francis: <file_photo>
+Skyler: mmmm do they have this in dark blue?
+Francis: <file_photo>
+Skyler: that's the one! get it pleeease! :*
+Francis: haha okey, I also need a white one, let me find something
+Skyler: sure, waiting
+Francis: <file_photo>
+Skyler: i don't really like the buttons... too flashy
+Francis: they have one with regular buttons too, i thought you would like this one
+Skyler: no.. not really sorry :( but if there is one with regular ones then it will be perfect
+Francis: <file_photo>
+Skyler: this one is great, you can take it too! :)
+Summary: Francis needs to buy new shirts, because the old ones are worn out. Francis will buy new shirts in an online shop opened by Peek&Cloppenburg. Skyler advised him to buy a dark blue and white shirt.
+Dialogue: Emma: Hi mom, Charlie has lice again. I'll go crazy with that Kindergarden of his.
+Holly: Oh boy, one of the kids brought some again?
+Emma: as usual. I will go crazy again. Washing all the duvets, pillows, jackets, hats, scarfs...
+Holly: and again in tje winter - why don't they get them in the summer, when all they wear are bathing suits?
+Emma: school is out in the summer, that's why...
+Holly: true. you poor thing.
+Emma: yeah, and he can't go back until wer're done. Can you babysit?
+Holly: for a day or two, can't get off the whole week...
+Emma: that would be great, I'll take two, you take two and Jack will work from home on friday if we're not done by then.
+Holly: could work. you poor thing.
+Emma: I've read that you should also wash the couches, and car seats...
+Holly: that's a bit extreme, don't you think?
+Emma: don't know. Would make sense though. have you seen what he does on those couches? all those flips and stuff? 
+Holly: he does rumble around a lot...
+Emma: how do you wash a car seat? with a brush, or maybe i should use a steamer? Where do you get a steamer?
+Holly: ask Jack, he knows such things.I could ask your Dad, maybe one of his friends has one and could lend it to you??
+Emma: that would be great!
+Holly: have you bought the shampoo? Those combs should be left over from the last time...
+Emma: I've got everything I need, just not the power to wallow through all his closet...
+Holly: I'll come over tonight to help you
+Emma: and do whay, stare at the washer? or dryer?
+Holly: don't get sarcastic with me. I'll do the couches, better?
+Emma: actually, yes, that would be great.
+Holly: I'll come over after work, dad will come to, we'll order pizza or should I bring leftover meatloaf from yesterday?
+Emma: meatloaf! always.
+Holly: good, I'll come 
+Summary: Emma's son, Charlie, has lice again. Emma, Holly, and Jack are going to take care of him over the week. Emma needs to wash all Charlie's belongings, couches and car seats. Emma has everything she needs, except a steamer. Holly and her husband will help Emma tonight. They will also bring meatloaf.
+Dialogue: Kelly: Amazing Peppa Pig cake for my 3-year-old birthday girl!
+Joanna: totally awesome!
+Ben: wish it was my birthday! haha!
+Karen: did you do it yourself?
+Kelly: i did.. ordered it myself! ;)
+Daniel: let us know if it's as good as it looks! x
+Summary: Kelly has a Peppa Pig cake she ordered for her daughter. Joanna, Ben, Karen and Daniel agree it looks amazing.
+Dialogue: Ellen: We should have stayed in hotel, I hate it here
+Bill: music is horrible, drinks expensive 😖
+Donald: I'd say: 💩
+Ellen: I can't even find you?
+Donald: outside, under the huge umbrellas 
+Ellen: Why did you move without waiting for me?
+Bill: We thought you would spend eternity in the toilet 
+Ellen: one can't rely on you bastards 
+Summary: Ellen, Donald and Bill regret leaving the hotel as the new place is horrible. Ellen is additionally sorry they did not wait for her while she was in the toilet.
+Dialogue: Carrie: Hey, Abby!
+Abby: What?
+Carrie: Nothing. I realised how pretty I am. (*^3^)/~☆
+Carrie: I’m looking at myself in a mirror
+Carrie: (emoji-예쁜척)
+Abby: ┬─┬ノ( º _ ºノ) 
+Abby: ●～*
+Abby: Go away. Your snobbery is bordering on delusion.
+Summary: Carrie is pleased with her looks. Abby considers her a snob.
+Dialogue: Monica: omg have you seen this?!
+Monica: <file_photo>
+Olivia: she looks awful!
+Monica: she's anorexia, don't you think?
+Olivia: looks like it ;/
+Summary: Olivia doesn't like her looks as she's anorexic.
+Dialogue: Clara: Didn't I tell you that I'm unlucky?
+Mia: I can't say that I know what you're talking about.
+Clara: Look outside!
+Clara: It's raining!
+Mia: And? I still have no clue what are you talking about...
+Clara: What about our trip?
+Mia: What about it?
+Clara: I'm sure it will rain tomorrow as well!
+Mia: Not according to the weather forecast.
+Mia: Besides we can still have a fun trip when it's raining.
+Clara: I like when it's sunny, I'm sure it will rain, I told you already that I'm unlucky!
+Mia: I'm not sure about unlucky but you're making a case when it comes to annoying...
+Summary: Clara and Mila are having a trip tomorrow. Clara is afraid it will be raining although weather forecast does not say so.
+Dialogue: Kailey: <file_photo>
+Kailey: so i guess that's the end of my good day ;/
+Cristina: whaaaa
+Cristina: what a nuisance!
+Kailey: yeah, right?;/
+Kailey: i blocked him on fb, on messenger, whatsapp
+Kailey: last week i added him to the black list on my phone
+Cristina: shit
+Cristina: don't you think sth should be done about it?
+Kailey: what do you mean?
+Cristina: idk. have you told Misch?
+Kailey: not about this one. 
+Kailey: last week i did
+Kailey: he asked me if i wanted him to call him
+Cristina: and?
+Kailey: I don't know.. do you think he should?
+Kailey: I really don't want to drag him into this
+Cristina: K, he's your husband! He's been dragged the moment you married him 7 years ago! ;D
+Kailey: well, maybe you're right
+Cristina: sure i am! tell him
+Kailey: and then what?
+Cristina: i don't know
+Cristina: he'll probably beat the shit out of him xD
+Kailey: exactly... i'm not sure if it's the right thing to do
+Cristina: K, you've told him like a thousand times to fuck off
+Cristina: and obviously he doesn't get it
+Cristina: maybe it's the only way
+Kailey: ouf... ok. i'll tell him tonight. i'll let him decide what to do
+Cristina: that's the spirit!
+Summary: Kailey has a stalker. Kailey's husband of 7 years, Misch, will contact the man to get him to stop but Cristina and Kailey worry Misch might beat him up.
+Dialogue: Odo: which language classes did you pick?
+Phil: French
+Patricia: French
+Kayah: German
+Odo: I was hesitating between French and Basque
+Patricia: what do you need Basque for?
+Kayah: ugh I hate French
+Odo: It's a hobby it's not about being pragmatic
+Patricia: oh my sweet summer child
+Patricia: you should think about that because you may need that in your job
+Kayah: pick a language you like more, it will be easier then
+Kayah: and your future boss will be impressed more with Basque
+Patricia: so you picked German because you like that language
+Kayah: sure
+Kayah: it's really elegant and neat
+Kayah: people just have unpleasant associations
+Patricia: whatever
+Patricia: Odo, pick Basque if you like
+Summary: Phil and Patricia chose French language classes, Kayah German. Odo will choose between French and Basque.
+Dialogue: Ricky: you still there?
+Samuel: No, I just left.
+Ricky: OK, then I'm leaving as well.
+Samuel: OK, see ya in a bit
+Summary: Samuel has just left, so Ricky is leaving as well. Samuel and Ricky will meet in a moment.

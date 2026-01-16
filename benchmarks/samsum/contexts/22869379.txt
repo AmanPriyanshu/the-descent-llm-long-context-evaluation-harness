@@ -1,0 +1,687 @@
+Dialogue: Lisa: hey there, good monring
+Jack: hey friend
+Jack: what's up?
+Lisa: is meredith with you?
+Lisa: i've been calling her but it keeps sending me to voicemail
+Jack: she's here
+Jack: her battery died
+Lisa: could you please tell her to call me when she can?
+Jack: sure thing
+Summary: Lisa wants Meredith to call her. 
+Dialogue: Ronnie: Becs, dad tried calling you and you didn't pick up
+Becky: him mom
+Becky: yes, so sorry, left my phone on silent and forgot to switch it back on
+Ronnie: as per usual. are you coming home for Christmas?
+Becky: wow, don't want to disappoint you guys
+Becky: i would really love to but i'm still not sure if i will have to work on Christmas Day
+Ronnie: you must not be serious
+Becky: no joke, ma. i would have to go for like 4 hours but still
+Becky: so hoping they decide to keep the store closed
+Ronnie: but even if you would have to come
+Ronnie: you can come with aunt Fiona on 26th
+Ronnie: and hopefully stay until the new year's
+Becky: it's like you either have to work on the christmas day or new year's
+Becky: there's like a list and stuff and we all have to figure it out together
+Becky: who stays and who goes in
+Becky: so i'd rather work on 25th than have to go back here before new year's eve
+Becky: and get up at 6am on new year's day hahah
+Ronnie: i understand but it's still quite perplexing to me
+Ronnie: i don't remember having to work on christmas day when I was your age
+Becky: well it was way different back then i guess
+Ronnie: money-hungry people there you have
+Ronnie: work till you're dead
+Becky: it's not that bad mum :)
+Becky: i've grown quite fond of my complementary gym membership :)
+Ronnie: oh yes, that is nice :)
+Summary: Becky doesn't know if she can make it home for Christmas. Her work requires them to work on the Christmas Day or the New Year's and they need to figure it out.
+Dialogue: Rebecca: Haay
+Rebecca: <file_gif>
+Gina: Hahaha you just made my day 😂
+Gina: What's up girl? 
+Rebecca: Not much just feeling silly 😂 Hbu?
+Gina: YAFUD 😂
+Rebecca: What happened? 
+Gina: Everything goes wrong today
+Rebecca: Here, I've got all the memes to cheer you up
+Rebecca:  <file_other>
+Rebecca: <file_other>
+Summary: Rebecca tries to brighten Gina's day by sending her memes.
+Dialogue: Franklin: hey, are we meeting this weekend?
+Ricardo: yeah fri
+Franklin: what time?
+Ricardo: i finish at 3 20
+Franklin: hmmmm
+Ricardo: or maybe 1 30
+Franklin: now you're talking
+Ricardo: i don't know yet. i have two maths lessons at the end
+Ricardo: or 8 am?
+Franklin: jeesus get yourself together man 8 am  
+Ricardo: haha
+Franklin: i see it like that: you skip the maths lessons and we meet at 2
+Ricardo: ok
+Franklin: but i'm not giving you any excuses for the teacher, don't count on that;D
+Ricardo: lol ok  
+Ricardo: got 10 blank excuses from my physiotherapist to use whenever i don't feel like school xD 
+Franklin: wonderful, i already like him xD
+Ricardo: xD ok so 14 at Dawn st?
+Franklin: yeah  
+Ricardo: ok see u then 
+Ricardo: wait can i park there?
+Franklin: yeah there should be some spaces at this time of day
+Ricardo: ok bye
+Franklin: bye
+Summary: Franklin and Ricardo are meeting on Friday at 2 p.m. at Dawn st. Ricardo will skip two math lessons in order to meet with Franklin and will arrive by car. Ricardo has 10 blank excuses from his physiotherapist and he will use one to justify his absence from math lessons.
+Dialogue: Emma: I’m flying tomorrow
+Julie: Cool! Where to?
+Emma: To San Francisco. And it’s not cool
+Emma: I’m freaking out
+Emma: I hate flying
+Julie: Relax
+Julie: Statistically the flights are the safest mean of transport
+Julie: Relatively few accidents happen
+Julie: But when they do you don’t have big chances
+Emma: Thank you! That’s really helpful 
+Julie: I’m sorry
+Julie: I talk without thinking
+Julie: All will be fine. Don’t worry
+Julie: And San Francisco is amazing!
+Summary: Emma is freaking out about her flight to San Francisco tomorrow. Julie is trying to reassure her.
+Dialogue: Beatrice: Blake
+Beatrice: I'm not gonna make it to the lunch
+Blake: oh no! What's happening? :(
+Beatrice: we've got some issues with deliveries
+Beatrice: so I need to stay in the office :(
+Blake: so sorry. Next time then!
+Summary: Beatrice will not make it to the lunch with Blake. They have some issues with deliveries and she needs to stay in the office. 
+Dialogue: Sophie: You won’t believe this: I don’t have to retake the classes and pay more for my studies!
+Alex: OMG, this is huge! I’m so happy for you! Does this mean that you can come today?
+Sophie: I’d love to, but hubby says I have to stay in and write my thesis anyway… and he’s probably right, which I hate of course
+Alex: <file_photo>
+Alex: I got you, sister. But you have to take some break, don’t you?
+Sophie: You are right! My mind says one thing, but my heart says something else :)
+Alex: Always follow your heart, they say!
+Sophie: And I had a fight with my mom… Yes, OK, I’ll come! What time do you start?
+Alex: Yay! You’ll tell me all about your fight with mom when you arrive. How about 8?
+Sophie: Great! I’ll bring chocolate muffins :)
+Alex: Can’t wait!!!
+Sophie: :)
+Alex: Omnomnomnom <file_gif>
+Summary: Sophie doesn't have to retake her classes. Today she has to stay home and write her thesis. She had a fight with her mom. She will meet with Alec at 8.
+Dialogue: Anne: Hey, I would like to reserve a table for five. Do you have anything available?
+Benedict: Hello Anne, thank you for contacting us! What day are you interested in?
+Anne: Next Saturday, is it possible?
+Benedict: Sure, what time?
+Anne: 7, please. Would it be possible to book the table next to the front window?
+Benedict: I'm sorry, but it's already booked. I can offer you the big table next to the bar.
+Anne: Hm... Would that table be available earlier or later? Sorry for that, but we really like that table...
+Benedict: We have it available only at 12 and 9, would that be ok for you?
+Anne: I understand. Thank you, but it's slightly too early and then too late for us. Could you please book the big table? Thank you once again! :)
+Benedict: No problem, Anne. See you soon then! Happy that you chose us! :)
+Summary: Anne has booked the big table next to the bar for 7 pm on Saturday. The table next to the front window has already been reserved.
+Dialogue: Viola: Hey!
+Viola: I'm downtown and my headphones got totally destroyed in my backpack :(
+Viola: where can I get cheapie headphones quick?
+Nell: oh no, that sucks :(
+Nell: hm what about Flying Tiger?
+Nell: I got my pink ones there
+Viola: oooh I forgot that they sell headphones there, thanks!
+Viola: I don't want to be on the bus for an hour without music :P
+Summary: Viola's headphones got destroyed, so she needs to buy new ones. Nell bought her pink headphones in Flying Tiger, and she thinks Viola should look for them there too. 
+Dialogue: Natasha: How are you doing?
+Bill: Not amazing
+Natasha: and the girls?
+Regina: we are fine
+Charlie: yes, me too, Bill had the most injuries of us
+Bill: yes, since I was driving and the car hit on my side
+Bill: but I'm ok, maybe still in a shock a bit
+Natasha: I imagine, let me know if you need anything
+Bill: thanks, you're lovely
+Summary: Bill had the most injuries because he was driving the car. He will let Natasha know when he needs anything.
+Dialogue: Jared: I'm opening up a restaurant
+Jared: I heard you're looking for work
+Mary: OMG that's great!
+Mary: and yeah I'm looking for something new
+Jared: So I'm looking for a restaurant manager
+Mary: sounds great I have some experience
+Jared: I know that's why I thought of you
+Jared: plus I trust you
+Mary: What do you need?
+Jared: I want you to check out 4 locations for me
+Mary: Ok send them to me and I'll see what's up
+Jared: <file_other>
+Mary: ok 2morrow I'll call these places up and set up some meetings
+Mary: what's your budget?
+Jared: oh shit forgot about that 
+Jared: <file_other>
+Mary: Thanks be in touch
+Summary: Mary will work for Jared as a manager in his new restaurant. She will start by checking out 4 locations.  
+Dialogue: Jack: We're already at the Mongoosh. Where are you Jason?
+Jason: On my way. Can you guys order for me too? I'll be there soon.
+Andy: Sure what you want?
+Jason: Send me the menu.
+Andy: <file_photo>
+Jason: Chicken Tikka Masala for me please!
+Summary: Jack and Andy are at the Mongoosh and Jason will join them soon. Jason wants them to order Chicken Tikka Masala for him.
+Dialogue: Kate: My dad is serious about organizing this trip to Croatia in September
+Kate: If you are considering going, you should start thinking about it now
+Mary: Oh. I'll let my dad know.
+Mary: He was really excited about the idea.
+Kate: Maybe it'll work out this time :D
+Mary: Let's hope so :)
+Summary: Kate's father will organize a trip to Croatia in September. Mary needs to think about it now if she wants to join. She will inform her father about it. He was enthusiastic about the trip.
+Dialogue: Natasha: Hi my love
+Natasha: Me and the family will travel to Malta this Christmas
+Natasha: Are you going to be there?
+Natasha: We would love to see you
+Macy: Hi Tash!
+Macy: You are? What dates are you travelling?
+Natasha: We fly to Rome on the 18th December
+Natasha: And we will arrive in Malta on the 21st
+Macy: That's lovely
+Macy: I haven't been able to plan my holidays yet, but I would love to go to Malta this year
+Macy: I haven't seen you guys in so long..
+Natasha: Yes I think its been 3 years now
+Macy: Wow
+Macy: I should be planning my schedule in the next weeks
+Macy: I will keep you posted :)
+Natasha: Yes please do, we miss you ❤️
+Macy: Me too ❤️
+Summary: Natasha and her family will travel to Malta this Christmas. They will fly to Rome on the 18th of December and arrive in Malta on the 21st. Natasha and Macy have not seen each other for 3 years. Macy will plan her schedule in the next weeks and inform Natasha if she will also come to Malta.
+Dialogue: Ann: Guys, I'm inside already, sorry, but it was too cold to wait for you outside
+Zach: oh no!
+Ann: why?
+Joe: we've changed our plans, decided to go somewhere else, nobody wants to pay 25€ for the entrance
+Ann: fuck, i've already paid it, I'll talk to the guy at the door, wait for me please
+Joe: ok
+Summary: Ann has already paid the entrance fee. Zach and Joe decided they don't want to go there. Ann will talk to the man at the door. Joe and Zach will wait for her. 
+Dialogue: Laura: Are you guys packed?:D:D
+Bruno: I am soooo not, I got cought up at work
+Laura: How about you, Kim?
+Kim: I am on it, almost done:D:D
+Laura: Awesome, you remember we take off tomorrow at 7am
+Kim: What? Why so early?
+Laura: So we can get there before noon, you know pit stops etc, traffic
+Bruno: Please let’s make it 7:30, I am so dead after this week
+Kim: Agreed
+Laura: Fine, but not a minute later
+Summary: Kim, Laura and Bruno are going for a trip tomorrow. They are leaving at 7:30 so they can get there before 12:00. Bruno is still at work. Kim is packing. 
+Dialogue: Andrew: so what's the plan for today?
+Andrew: therapy? 
+Andrew: work?
+Andrew: school?
+Diana: ah yeah all of it
+Diana: therapy at 12
+Diana: school in the afternoon
+Diana: and work before noon
+Diana: today it's home office again
+Diana: I need to prepare the classes and do some translations
+Andrew: i see
+Diana: yeah. you?
+Andrew: oh i have a few meetings today but they're like 15-30mins long, so no big deal
+Andrew: the problem is i have a sore throat so i can't really talk
+Andrew: i'm just hoping they will do the talking and i'll just do the clicking XD
+Diana: hahaha boss style :D
+Andrew: well someone needs to be the boss right??:D
+Diana: they'll go like 
+Diana: oh now he's not saying anything!!
+Diana: does it mean it's crap?? i must mean it's crap!! xD
+Diana: shit i don't want to get fired!
+Andrew: hahaha i'm not THAT kind of boss, come on! ;d
+Diana: yeah I've seen you in action once, that's enough for me ;D
+Andrew: hahahaha :D
+Summary: Andrew's got a sore throat. He has some meetings and hopes he won't have to talk too much in them. Diana has to work at home to prepare classes and translations before noon, then she goes to therapy at 12 and in the afternoon she has school. 
+Dialogue: Mary: Do you know where Lisa went?
+Adam: I think she's in the cinema with John
+Mary: Oh shit!
+Mary: She took my keys!
+Summary: Lisa went to the cinema with John. She took Mary's keys.
+Dialogue: Emma: Lexi I just wanted to let you know I won't be able to come tonight.
+Lexi: Why?? What happened???
+Emma: We had a huge fight and I don't feel like being between people. Sorry.
+Lexi: What if you come just for an hour to see how you feel
+Lexi: we can talk and maybe you'll have a little bit of fun
+Emma: Thanks I'll let you know. For now I'm lying in bed and don't feel like leaving my pillow
+Lexi: just get dressed and come hear :*
+Summary: Emma doesn't want to come tonight, because she had a fight.
+Dialogue: Vicki: Hey. What time will you guys be open until tomorrow night?
+Jes: Till 22 unless you want us to stay longer
+Vicki: Nope, that should work good. Train get in about a quarter to 8. I'll go check into the apartment and then come over :)
+Jes: Goodie. Mike is on duty tomorrow
+Vicki: Cool, I'll see him then.. and see you soon
+Jes: I'm on Sunday if you're going for Chopin again
+Vicki: I sure am...so I will see you then. I leave that night on the overnight train to Prague.
+Jes: Great, can't wait :)
+Summary: Mike works tomorrow till 22. Vicki will come over after she checks in after 7:45 when her train comes. She will see Jes on Sunday and leave on the overnight train to Prague.
+Dialogue: Bradley: It's very safe. Not like they make it look on TV
+Julianna: Hehe I told them that also that tv will never show anything nice
+Bradley: True...
+Julianna: But in general I think Europe is safer because here we have different law. I mean we have too much law
+Bradley: Haha
+Julianna: E.g here if a teacher even touches a children's arm, he or she can have problems with police and law. Because it might be a sign of pedophilia or children sexual harassment
+Bradley: Ok
+Julianna: That's sick a bit hehe but on the other hand sometimes it's ok
+Bradley: Haha ok how ?
+Julianna: Because there are pedophiles in that world
+Bradley: They are everywhere
+Julianna: And when someone hits a child that person should be punished
+Summary: Julianna tells Bradley about Europe's law and the approach towards pedophiles.
+Dialogue: Claire: Have you seen the news?
+Greg: No. What’s happened?
+Claire: That bitch my neighbor became an MP 🤮
+Kevin: Ooo, well done! You must be so jealous 🤣
+Claire: Stop it. I hate her so much. She killed my cat 🙈
+Greg: Whaaaaat???
+Claire: Really. It was 5 years ago. She hit it with a car.
+Greg: Okay. I understand 😒
+Summary: Claire is unhappy about her neighbour becoming an MP. 
+Dialogue: Paula: Hey, can you buy a bottle of wine for me?
+Stan: Sure. What's the occasion?
+Paula: The "terrible day" occasion.
+Stan: Eh. I'm sorry to hear that.
+Stan: Ok. I'll get you a wine and you will fill me in when I get home.
+Paula: Thx. See you.
+Summary: Stan will get a bottle of wine to cheer Paula up.
+Dialogue: David: so it seems it's the end of the story
+Kevin: between you and Joan you mean
+Laurent: what???
+Kevin: you don't know? Joan left 
+David: true enough. officially confirmed now
+Laurent: did she have any, you know ...
+David: legitimate reason you mean?
+Laurent: i guess that's what I mean
+Kevin: only david's gay 
+David: hahaha very funny. it just burnt up & down
+Kevin: shit man. i had no idea at all. the last time we met
+David: a couple of months ago mate
+Kevin: right, time flies man
+Laurent: believe me Kev, David's doing well
+Kevin: i hope so. keep it up man
+David: cheers mate!
+Summary: Joan left David because the relationship burnt up.
+Dialogue: Alex: Hi there!
+Matt: Hey!
+Alex: What are you up to?
+Matt: Nothing special, at my 5th unpaid job at the moment, doing social media
+Alex: Lmao It can't be that bad. Which social media?
+Matt: TWITTER
+Alex: Hmm that's an entire new dimension to explore
+Matt: Without a doubt, this has brought 3D into my life. A considerable improvement
+Alex: Man, what's happening to you, you're jokes aren't even funny anymore
+Matt: There you go, the aftereffects of 3D
+Alex: So what are you actually doing?
+Matt: Well actually/to be fair/quite frankly unpaid job number 5 is not that bad at all. I'm working for this association which organises a few events during the year and I'm the Secretary, which looks cool on the cv. And has made me learn what twitter actually is. Before I only knew it from the news, because of Trump lol
+Alex: ha ha ha! And What are you promoting atm?
+Matt: I'm going to casually mention that we're having an event at the British Library and that's what I'm promoting
+Alex: wow sounds really good
+Matt: Yer, good opportunity for networking and I work with really nice people too
+Alex: That's cool
+Matt: I think it could hardly be better actually. It's also true that these professional British people can sometimes be extremely unprofessional, but this might be the most entertaining part of the job to be fair. The other day, for instance, my colleagues sent me a promo leaflet which repeatedly mentioned the British Museum and I immediately circulated it through all our social media, mailing list, etc. Turned out it was supposed to be the British Library. Can you dig it?
+Alex: Ahahahaha that's hilarious!! I'm speechless
+Matt: Well, so am I. Really glad that it's not a paid job actually
+Alex: That's a nice silver lining you've got there
+Matt: lol But hey, I think I should go back to TWITTER and then jump back to unpaid job number 1. Will I see you soon?
+Alex: ok, no worries. Sure, this weekend?
+Matt: Yeah, I do think so. Is it rude to suggest we meet at YOURS? I'll bring wine
+Alex: ha ha ha Sure, no problem. Shall we say Saturday at mine?
+Matt: Sounds good! Let's just confirm during the week
+Alex: Will do
+Matt: It was nice to talk though
+Alex: Yeah. Keep in touch
+Matt: I will! xx
+Summary: Matt is working for an event organizing association, where he's in charge of social media. especially Twitter. It's yet another job, where Matt is not getting paid. Some of Matt colleagues can be unprofessional at times. Matt and Alex will meet on Saturday at Alex's place.
+Dialogue: Effiie: come with me for groceries
+Norman: ok
+Effiie: thanks :)
+Summary: Norman will do grocery shopping with Effiie.
+Dialogue: Max: Hi, Kenny.
+Kenny: Hi, Max. What's up?
+Max: I've got a new job for you.
+Kenny: What is it?
+Max: You will work on an AI project?
+Kenny: With whom? Don't tell me is South America again.
+Max: No, Max. It's our new partner.
+Kenny: New partner? I haven't heard anything. Except for this company down under.
+Max: You've got it!
+Kenny: You kidding me. I just came back from Argentina.
+Max: I know. But this Australian partner. They are important.
+Kenny: Like all of them. Can't you send David to Australia? I'm sure he wouldn't mind.
+Max: I already spoke to management, and there will be a handsome bonus for you.
+Max: Do we have a deal?
+Kenny: All right. I'll go.
+Summary: Kenny will go to Australia to work on an AI project. Max offers him a bonus for doing that.
+Dialogue: Aliza: Hey, do you like cooking?
+Miller: Yea, why you asking?
+Aliza: I have been trying to cook something but not getting good results
+Miller: Should i come?
+Aliza: Yes If you can
+Miller: Coming in 20 mins
+Aliza: OK hurry up
+Miller: on The way <3
+Summary: In 20 minutes Miller will help Aliza in cooking.
+Dialogue: Kenton: whats ur fav coffee?
+Beamer: i like lavazza
+Shade: anything that has caffeine in it is good
+Kenton: true enough
+Beamer: why ask?
+Kenton: i got coffee machine from my elders
+Beamer: thats cool. a lot depends on the equipment surely
+Kenton: its not that good probably. used and all. but certainly requires coffee
+Annie: thats good news. youll have finally good coffee now
+Kenton: if u tell me what u like
+Annie: any arabica should be fine. i like south america best or mexico but no worries
+Kenton: sounds more demanding
+Annie: not really. u get em anywhere for good price also
+Kenton: ok i guess i need to run to the shops b4 theyre closed. thx
+Summary: Kenton got a coffee machine from his parents but he's not sure what coffee should he buy. Annie recommends an arabica caffee to Kenton and he's rushing to the shops.
+Dialogue: Cosima: How is it there?
+Daphne: Amazing Cosima, you should regret you're not with us
+Alfred: we're in paradise
+Cosima: I do regret! And envy you a lot
+James: You should come here some time
+Cosima: but isn't it full of tourists?
+James: there are many, but it's not tragic, depends on a place
+Cosima: So what island are you on?
+Cosima: I've read about the islands a bit :P
+Daphne: How cute!
+Daphne: yes, there are two groups of islands - southern and northern
+Daphne: we're on the northern group, now on Aitutaki and it's just stunning
+James: we'll probably stay here, it's peaceful and beautiful
+James: you can just lay in shallow blue water for hours
+James: enjoying this dream-comes-true place
+Cosima: Are you flying directly to Europe
+James: I don't think it's possible
+James: we will stop over in San Francisco
+Cosima: you're so lucky guys!
+James: yes, we are, I think
+Summary: Alfred, Daphne and James are on the northern group of islands, now on Aitutaki. They're enjoying it a lot. They will stop over in San Francisco on their way back to Europe. 
+Dialogue: Julie: Can you please clean the chandelier in the living room?
+Dennis: Wy tho?
+Julie: I can't reach and it's nasty.
+Dennis: K ill try...
+Julie: Just use the fuzzy mop thingy or the vacuum with round brush
+Dennis: K
+Julie: Let me know can you do it?
+Dennis: K yes
+Julie: Thanks
+Dennis: Yah
+Julie: You're so much help...
+Dennis: I no...
+Julie: I was being sarcastic!
+Dennis: I no...me 2
+Summary: Julie wants Dennis to clean the chandelier in the living room.
+Dialogue: Janette: did you see their tweets?
+Giselle: noooo, what's there?
+Janette: they're so stupidly written!
+Giselle: but you mean the offcial ones?
+Janette: yeah of course!
+Giselle: i listen
+Janette: so, firstly they use his first name instead of his title
+Giselle: oh
+Janette: secondly… well… they're just written badly!
+Giselle: oh not everyone has studied journalism as you haha!
+Janette: I knooow but I just can't read it
+Giselle: don't do it!
+Janette: I have to, it's my work xd
+Giselle: maybe they should hire you?
+Janette: well if they'd pay nice money… I'm in!
+Giselle: so apply! Check if they have free jobs
+Janette: oh no it'd be crazy, I love my current job
+Giselle: but sometimes it drives you crazy, you said that!
+Janette: I know but at the same time… I just love it :D
+Giselle: you're just crazy Janette hahah
+Summary: Their tweets are badly written. Janette dislikes having to read their tweets as part of her job. Janette would not like to change her job.
+Dialogue: Anabel: Put some foundation from your mum or sister to cover the spots and go out
+Malaki: I already thought about that lol
+Anabel: Of course do it
+Malaki: But my mom's foundation is not my color
+Malaki: I'm darker
+Anabel: More or less it should be
+Anabel: Hmm
+Anabel: And ur sister?
+Malaki: She doesn't have it
+Malaki: Never uses it
+Anabel: But still if you put it with ur fingers, gently and a little it will be good
+Anabel: Like 'slapping " with a finger.  I don't know how to describe it
+Anabel: Not a lot of foundation
+Anabel: And it should work
+Malaki: That is chinese for me
+Anabel: Lol
+Anabel: I could help you do it but I'm not there
+Malaki: Unfortunately
+Anabel: And my foundation will not work with your skin for sure
+Malaki: I dont think só
+Malaki: We can try one day
+Anabel: Lol
+Malaki: Hahahah
+Summary: Anabel gives Malaki advice on applying foundation.
+Dialogue: Michael: Hi Paul, I know it's a bit strange I'm contacting you, but I would like to talk
+Paul: Hmm, hi. Yes, it's a bit awkward. 
+Michael: As you suppose, probably, it's about Camilla 
+Paul: Sure, what about her?
+Michael: We have some problems, or rather I have some issues 
+Paul: But how can I help you with it?
+Michael: As her ex, I think you're probably the only one that could understand my situation.
+Paul: Ok, would you like to have lunch together tomorrow?
+Michael: That would be perfect!
+Paul: at 1pm, at the blue building?
+Michael: ok, good, I'll be there. See you tomorrow!
+Paul: See you!
+Summary: Michael will have lunch with Paul tomorrow at 1pm to talk about Camilla.
+Dialogue: Josh: <file_photo>
+Josh: hi guys, do you know this man?
+Marianne: yay reunion! :) love it
+Cody: WHA?!?!?! Where was the reunion and why wasn't I invited?
+Josh: Last night just 2 hours between flights :(
+Cody: Hahahaha... every time I see the two of you it reminds me of the bourbon incident
+Marianne: Don’t disrespect the bourbon, it was whiskey!
+Josh: What happens in the Sullivan county jail stays at the Sullivan county jail
+Cody: and two dudes and one pair of shoes. Hahahaha
+Summary: Josh met the man involved in the whiskey incident between his flights.
+Dialogue: Nicole: Dinner's ready, where are you?
+Matt: Sorry, got delayed.
+Matt: I'm coming, though.
+Nicole: OK, drive safe!
+Summary: Matt is driving over for dinner with Nicole but he will be late.
+Dialogue: Pete: Hi, old baggers, Anouk, thnak you for inviting me. Unfortunately my duties at work wont let me come and celebrate with you :( Happy Birthday, lots of health and love :) Have crazy fun! 
+Marty: '(
+Anouk: :'( :'( :'( thank you for your wishes, see you around
+Tia: cant you take the orchestra with you?
+Marie: yeah! I always carry a tuning fork with me. I can give them A
+Pete: haha, you don't want that :P
+Marie: alcoholics?
+Marty: worse, they are out of tune
+Marie: :D
+Pete: as all musicians ;)
+Tunner: uffffff....
+Anouk: we will miss the Conductor :'(
+Gregory: I confirm my arrival again :D
+Anouk: (Y)
+Summary: Pete informs Anouk that he won't come to his birthday party and expresses his good wishes. Gregory confirms that he'll come.
+Dialogue: Braxton: I might have a fucked up attitude. But that's the way I am. Holding no shit
+Giselle: Ok. That's just the way you are so it's ok
+Braxton: So good luck u might find a better guy than me ;)
+Giselle: Hehe I wish u also good luck with everything
+Summary: Giselle and Braxton have broken up because of his short temper.
+Dialogue: Raymond: Do we have math homework?
+Thomas: Yes, page 61, but don't know what exercise.
+Jake: exercise 4-7
+Raymond: thanks bud
+Summary: Exercises 4-7 from page 61 are the math homework for Raymond, Thomas and Jake.
+Dialogue: Eva: Hi. I'm frozen!
+Anna: Me too!
+Eva: I hate winter
+Anna: Tonnes of clothes, red noses and cracking skin on hands
+Eva: And dirty shoes because of all that slosh in the streets.
+Anna: And higher bills for the heating and flu season...
+Eva: No time for jokes. Really. I guess I need to have the tyres changed.
+Anna: I've already had it done. I wanted to avoid the queues.
+Eva: I'm a little late. As usual. Do you think that I will have to wait long?
+Anna: As far as I know about 2 weeks now.
+Eva: :-(
+Summary: Anna and Eva hate winter. Anna says Eva would need to wait for 2 weeks to have her tyres changed. Anna has already done it.
+Dialogue: Sarah: Are you coming for the yoga practice?
+Lydia: Yes
+Jessica: I want to.
+Jessica: What time should we come?
+Sarah: I'm free
+Sarah: If you want to come now it's fine for me
+Lydia: Great. 
+Summary: Lydia and Jessica are coming to Sarah's yoga practice. 
+Dialogue: Carter: hi! how's your mother doing?
+Harvey: hi! she's much better now getting stronger every day. thanks for asking. 
+Carter: sure, i know it's been bothering you for a while
+Harvey: the most important thing is that she's stable now
+Carter: yeah, i remember it was like every day was a struggle..
+Harvey: yeah, it was tough!
+Carter: so how do you cope with your work, children, house and your mother?
+Harvey: we arranged a carer we couldn't do without her!
+Carter: i can't even imagine! that's good!
+Harvey: she's looking after her while i'm at work keeping her company and taking care of some other stuff 
+Carter: so do you see her every day?
+Harvey: yes, course i do. i drop by after work. 
+Carter: does your brother visit her?
+Harvey: nope!
+Carter: what an idiot! i bet you must be pissed off!   
+Harvey: well you know it is what it is..
+Carter: right, i'm off, take care mate!
+Summary: Harvey's mother is unwell, but she's getting better now. Harvey visits her every day after work, but his brother never visits her. Harvey arranged a carer for his mother.
+Dialogue: Helen: Did you remember to bring the contract?
+Nick: FUCK! I FORGOT
+Helen: You're kiddin, right....? -.-
+Nick: Yeah, just kidding, be right there
+Helen: I'm gonna kill you :)
+Summary: Nick remembered to bring the contract.
+Dialogue: Oscar: yo
+Oscar: whatcha up to
+Monica: hey
+Monica: im watching Friends
+Oscar: can I come?
+Monica: sure
+Monica: just bring some popcorn hehe
+Oscar: OK anything else?
+Monica: I could use some wine too ;)
+Oscar: dry white amirite?
+Monica: yes please
+Oscar: will do
+Oscar: be there in 30
+Monica: am waiting! :-)
+Summary: Monica is watching Friends. Oscar will join her in 30 minutes. He will bring popcorn and dry white wine.
+Dialogue: Davis: Mom? You answering dad's phone?
+Kurtis: Yes, this is your mom but your dad's number. Sorry, he left his phone here and went out!
+Davis: Okay, gotcha.
+Kurtis: Do you need something?
+Davis: No, just making sure everything was okay!
+Kurtis: Yep. A-okay!
+Summary: Davis calls his dad to check up on him. Kurtis, Davis's mom, answers the call because his dad has left his phone behind.
+Dialogue: Edlyna: Hey
+Edlyna: Can I borrow your swimming kit
+Idah: Hey
+Idah: Yeah sure. When do you want it?
+Edlyna: Tomorrow. I will be going to swim with Kay
+Idah: I can see you are getting along together well.
+Edlyna: Yeah you know me. I'm too good with men😊
+Idah: Ooh yeess!😂
+Summary: Edlyna is going swimming tomorrow with Kay. Idah will lend Edlyna her swimming kit.
+Dialogue: Nevaeh: so what time do you want me to come?
+Gavin: it's up to you
+Nevaeh: this week I gonna have some interships at school, and on tuesday i should be free from 14.30 or 15.30. would it be ok with u?
+Gavin: just for 1h you will be free tomorrow?
+Nevaeh: No
+Gavin: I will be free from around 15.30
+Nevaeh: I want to see you but if it will be for 1h I do not know. i will see what more i can do here
+Gavin: I said I will have time from 15.30. I didn't say I gonna have only 1 h
+Nevaeh: that will ok then
+Gavin: talk to u later have go to work
+Summary: Nevaeh is seeing Gavin on Tuesday at around 15.30. 
+Dialogue: Ron: I too have plans for the weekend. Thanks for asking, btw.
+Taylor: I was going to! So what are ur plans?
+Harry: Oh, did the princess get offended? :P
+Ron: Harry, not as much as yo mama!
+Ron: Taylor, I'm going to an art exhibition :)
+Harry: You bastard! That's it? Art exhibition?
+Taylor: Yeah, what's the fun in that?
+Ron: Thanks 4 ur support. Actually, my pictures are going to be there too. I'm one of the authors.
+Taylor: Ur first exhibition?! Congratulations! I'm so happy 4 u.
+Harry: Y didn't u say! I would've cancelled or put off my plans!
+Ron: Nah, that's fine. Thanks, guys.
+Summary: At the weekend Ron is going to an art exhibition where his pictures are going to be displayed.
+Dialogue: Ellis: how do you like the city so far?
+Harry: I'm overwhelmed really
+Ellis: why?
+Harry: It's huge, I feel like an ant here
+Ellis: I know, it happens to everybody in the beginning 
+Harry: There're so many things to do and to see
+Ellis: haha, and millions of people to meet
+Harry: exactly, never-ending opportunities that one can never really even try
+Harry: one would need 7 lives
+Ellis: if not 70
+Harry: exactly, it's almost scary
+Ellis: you'll get used to eat
+Ellis: how is your apartment?
+Harry: it's ok. Of course super expensive but I couldn't find anything cheaper
+Ellis: with time it may get better, when you know some cool people who may know the city and be willing to share
+Harry: yes, we will see
+Ellis: and how is the University?
+Harry: equally overwhelming hahahahha
+Ellis: it will pass as well, just do your things and follow directions of your supervisor
+Harry: it will, I know
+Harry: But I like it so far
+Ellis: that's the most important thing!
+Summary: Harry is new at the university in a big city, and now he's feeling overwhelmed. His apartment is expensive, but he couldn't find anything cheaper. However, he likes his university. 
+Dialogue: Ross: Hey, I just saw an ad about the skating rink opening.
+Justine: Hey, which one?
+Ross: The one @ the National Stadium :)
+Justine: So we should open our skating season soon! :)
+Ross: Yeah, maybe this w/e?
+Justine: Count me in :)
+Ross: On their website u can purchase a season pass.
+Justine: Is it worth buying the pass rather than single tickets?
+Ross: Yup, 1 entry is 20$.
+Ross: And 1 entry is 75mins.
+Ross: Whereas the pass costs 150$ for 10 entries, but OFC u have 2 pay in advance.
+Justine: When does the season end?
+Justine: Is the pass valid for the entire season?
+Ross: It lasts 6 months, so until March. 
+Ross: Yes, the pass is valid 4 the entire season.
+Justine: OK, that's a good deal.
+Justine: I wonder if they acknowledge the Multisport card.
+Ross: I thought u didn't have it.
+Justine: I ended up getting it mid-year. 
+Ross: Nice.
+Justine: We had the possibility to change our benefit options @ work.
+Justine: So I exchanged the lunch funding for the card.
+Ross: Great, so you have an additional 10% off :)
+Ross: U can buy the pass online & enter your card number 2 receive the 10% discount.
+Ross: <file_other> it says here that they validate the card before the first entry.
+Justine: Wonderful, I'll buy the pass online & we can start skating this w/e.
+Ross: Awesome, I'll buy mine 2!
+Justine: Then we just have to sharpen our skates and were ready to go!
+Ross: That's it, see you at the rink :)
+Justine: See u there! :)
+Summary: Ross and Justine will buy a season pass to the ice rink at the National Stadium.
+Dialogue: Terry: What are we drinking tonight?
+Terry: Cause I don't know how to prepare myself
+Timmy: I need a reset
+Timmy: So I'm looking for a companion for drinking shots
+Terry: I'm with you
+Timmy: Great!
+Terry: I'll bring something to eat
+Timmy: Hmm. Sounds like you have something in mind :D
+Terry: You'll see
+Summary: Timmy is tired and wants to do shots. Terry will bring some food.
+Dialogue: Hannah: do you have a pad?
+Hannah: a bit of an emergency here :<<<
+Pam: no :( but will ask Nina, hold on
+Pam: Ok, got it, should I bring it to your office?
+Hannah: No, coming
+Hannah: Thanks <3
+Summary: Pam gave Hannah a pad.
+Dialogue: Elizabeth: Hi
+Elizabeth: Feel like a cup of good coffee?
+Elizabeth: I've just got back from the cafe nearby
+Elizabeth: It turned out they sell coffee beans
+Anne: Coffee with you on Sunday afternoon?
+Anne: Sounds good
+Anne: I'll get going soon.
+Elizabeth: I'm waiting :)
+Summary: Elizabeth bought coffe beans at nearby cafe. She will have coffe with Anne on Sunday afternoon.

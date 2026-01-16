@@ -1,0 +1,683 @@
+Dialogue: Maggie: Remember our conversation about health? Turns out my friend has myoma… That’s like fourth person this year ☹
+Tina: I’m sooo sooo sorry, Maggie. How does she feel?
+Maggie: Not that bad, actually. She’s gonna have a surgery though.
+Summary: Maggie's friend has myoma. She is going to have a surgery.
+Dialogue: Kim: Hey people, my company is looking for customer service representatives and both of you have told me recently you're looking for something new. If you're interested check out the info in the link and let me know if you have any questions <file_other>
+Andy: Hey, thanks for the offer. Can you say what the salary is? More or less.
+Kim: Unfortunately, I can't say for sure, because I'm in a different department, but I can just say I'm happy with what I earn. Shouldn't be much different with customer service.
+Lee: Hi there, thanks. Looks interesting. Do you have any inside knowledge about what it's like to work in that department?
+Kim: As far as I know the team is really nice and supportive towards each other. But yeah, it's customer service, so it's not for everyone - customers can be really mean sometimes and you've got to have some resilience to deal with it.
+Lee: I get it. My sister's in cs. It's not always easy.
+Kim: Exactly. But in general the work environment is really great in comparison to other companies I worked at. We have a lot of events and some nice perks too.
+Kim: And most importantly (I thought I've said it in the beginning, sorry) I can recommend you, which really increases you're chances at getting this job.
+Andy: oh, nice
+Lee: Cool. I'll just have to think this through and I'll get back to you.
+Kim: Sure :)
+Summary: Kim's company is looking for customer service representatives. He's not sure about the level of salary. The team in this department is nice and supportive. Kim can recommend Andy and Lee for the position.
+Dialogue: Paul: Did you water the plants?
+Judy: Oh shooot. I forgot. I'll do it now.
+Paul: Wait! Remember to check if my cactus needs it.
+Judy: How would I know?
+Paul: Oh please XD Just check if the soil is damp.
+Judy: I'm not the greatest gardener! OK I will leave your cactus alone. 
+Judy: All other plants are watered now.
+Paul: Hope they will survive 😉
+Paul: Thanks
+Summary: Judy has watered the plants for Paul. 
+Dialogue: Caz: Car seems ok so I'm gong to shoot over to Coventry tomorrow afternoon to visit dad in the nursing home.. fingers crossed I'm not crying on the side of the road again xxx I cant wait to get away again xx
+AJ:  Heres to another cruise
+Caz: Til our next one lol
+AJ: I'm hoping we will be having another very soon xxx
+Caz: I nearly bought us one for April.. 7 nights to Portugal 780 pp
+AJ: We can look for another over the weekend if you want xxx
+Caz: Now we know.. we can sit and work out the sunny side of the ship before we book lol
+AJ: I get some great bargain price emails xx
+Caz: When do you have to put your holidays in or are they pretty flexible?
+AJ: They are fairly flexible and there are only 4 of us controllers so next year is clear so far xxx
+Caz: We will chat about it at the weekend then xxx
+AJ: Ok babe, I should be off to bed soon for my 3am alarm 🙄xxx
+Caz: Ok darling sleep good xxx
+AJ: Night night babe xxx
+Summary: Caz is going to Coventry tomorrow afternoon to visit dad. Caz and AJ want to chat about their holidays at the weekend. AJ has to get up at 3 am.
+Dialogue: Marcy: where's the adrenaline?
+Howard: In the kitchen, white cupboard, top shelf
+Howard: What's happening?
+Marcy: Tom was stung by a bee
+Summary: Marcy is looking for the adrenaline for Tom, who was stung by a bee.
+Dialogue: Lisa: This is the most exciting news that I've heard from ages! I'm so happy for you!
+Patricia: Thank you! We've tried to have a baby for a long time
+Lisa: Is it going to be a boy or a girl?
+Patricia: a girl :)
+Patricia: I'm sooooo happy!!
+Lisa: Do you have the room for the baby refurnished or not yet?
+Patricia: Not yet, tomorrow we're going to IKEA to buy some stuff
+Summary: Lisa is very happy that Patricia is going to have a baby girl. Patricia is going to refurnish the room for the baby with furniture from IKEA.
+Dialogue: Jill: Jack, they're doing it again
+Jack: ??
+Jill: our upstairs neighbours!! it's like a freakin porno movie
+Jack: hahaha aren't you a little jealous
+Jack: cause your husband
+Jack: who's an excellent lover might I add
+Jack: is away?
+Jill: yes I am SO turned on by this couple of weirdos
+Jack: :* just wait until 10pm and knock on their door
+Jill: too embarrasing :P
+Jack: silly
+Jill: how is your night?
+Jack: no sexy noises on my end
+Jill: yeah right
+Jack: not live anyway ;D
+Jill: how did the meeting go?
+Jack: I will know tomorrow they said they need to sleep on it
+Jill: sleep on what? considering whether your idea is briliant or super brilliant?
+Jack: apparently :(
+Summary: Jill’s neighbours from upstairs are having loud sex. Jack will know how his meeting went tomorrow as they need to sleep on it.
+Dialogue: Adam: Hey guys
+Abbott: Yo
+Addison: whats' up Adam?
+Adam: Have you seen the new trailer?
+Abbott: what are you talking about
+Addison: What?
+Addison: The new got trailer?
+Adam: Yep! It has just been uploaded on youtube
+Abbott: No way man, I have checked if there is any trailer like 2 hours ago
+Adam: <file_other>
+Adam: See??  
+Abbott: Wow! I'm at work but I have to check it now
+Addison: It looks awesome 
+Addison: now it's even worse, we have to wait few months to see this
+Adam: Yea....  
+Abbott: I hope russians will help like it was 2 years ago
+Addison: hahahha it would be great
+Summary: A new GoT trailer just came out today. Abbott is at work. It will be a few months before GoT is released.
+Dialogue: Alene: Hello, do you have swimming suits in your shop?
+Jake: Of course we do, fell free to visit us any time you need it :]
+Alene: Do you have an XXXL size?
+Jake: Oh, that may be a problem, I think the biggest ones are XL
+Alene: That’s too bad… Anyway, Thank you.
+Summary: Jake sells swimming suits in his shop, but he doesn't have an XXXL size there.
+Dialogue: Isis: We are all heading to La Playa for Sunday Funday 
+Charles: What time?
+Isis: Now :)
+Charles: Okay we'll join you in 30 minutes or so
+Isis: Cool
+Summary: Charles will join Isis in La Playa for Sunday Funday in 30 minutes..
+Dialogue: Priya: I was on a radio show live across London today re: my congress and they asked where else I would recommend
+Priya: So gave you all a mention too X
+Lisbeth: You are great, thanks :) :*
+Priya: :* wish I'd recorded it
+Priya: Interview went really well :D
+Lisbeth: I'm sure it did!
+Summary: Priya appeared today on a radio show live across London. She wished she'd recorded it.
+Dialogue: Gael: Hey, I'm not quite sure which video we should use for the lesson today
+Gael: There is quite a lot to choose from, but some may not be as relevant
+Gael: What's your opinion?
+Radcliff: Hmm.. I'm not sure either, maybe we could do some brainstorming..
+Gael: Good idea! I have a few steps listed already..
+Radcliff: We can improvise, let's have a think about it 
+Gael: Actually the last time I did this kind of class, it went very well, and most of the information we had was all improvised :)
+Radcliff: I'm sure it will be ok with a few improvised moves, it's just the first lesson anyway 💃
+Gael: I'll bring along my notes and we can meet up in the area by the wooden flooring
+Gael: It's a really good spot with an ample amount of space :)
+Radcliff: Do you mean the one which is on the left when you arrive by the pond?
+Gael: Yes that's it ;)
+Radcliff: Ok :)
+Gael: Send me a text when you leave home 👍
+Gael: Oh, can you please bring along the extra pair of shoes, Mandy is probably coming too
+Gael: She arrived yesterday :)
+Radcliff: Ok, will do ;)
+Radcliff: Good luck with all the meetings today 😛
+Gael: 😒
+Summary: Gael and Radcliff have their first dance lesson today. They have to decide which video to use. Radcliff will bring an extra pair of shoes for Mandy who will probably also join them.
+Dialogue: Randy: Hi, I'm writing about the stroller you have for sale. Is it still available?
+Todd: Yes, it is.
+Randy: Ok, is the price negotiable?
+Todd: Yes, I can take something off, but I'd rather not negotiate through text
+Randy: Ok, I understand. When can I come and see it?
+Todd: Anytime after 5 pm.
+Randy: Ok, I will come tomorrow.
+Todd: Ok, see you then.
+Randy: Thank you.
+Todd: Thanks.
+Summary: Randy is interested in the stroller Todd is selling. They're going to meet tomorrow after 5. The price is negotiable.
+Dialogue: Kate: guys i need a movie to watch @weekend
+Adam: what you like K?
+Leo: have you seen the new Marvel movie
+Adam: Leo, Marvel, girl 2 plus 2 ain't 5
+Kate: for once, he's right you know
+Wanda: it's Xmas season, there's like eleventeen love you forever comedies on
+Kate: not my kind either I'm afraid
+Adam: how about a good old scandinavian thriller?
+Leo: yeah, like the iceland one we saw the other week
+Wanda: surely blood and gore
+Leo: thriller not horror love
+Kate: a lot of blood in it though?
+Adam: not a drop
+Leo: seriously, it only gets to your brain and imagination
+Wanda: wow, guys getting into psychology
+Kate: Wanda, come on. it sounds interesting
+Adam: I'll send you a link in a mo
+Kate: thx
+Summary: Kate needs a movie to watch at weekend. Adam will send Kate a link to the old scandinavian thriller.
+Dialogue: Kieran: Going to head to the bakery for all you can eat pizza around 6 if anyone wants to join.  going to leave the camp around 5:50
+Kieran: Or, you could also just meet me there
+Ashley: I am already here (been here all afternoon). I don't know if I will have any pizza, but it will be hard to say "no" since i am already here
+Kerry: I'm down
+Kieran: to walk or to meet up there
+Kerry: either 
+Kieran: Ok walk with me then
+Kerry: Ok I'll be there
+Summary: Kieran's going to go to the bakery to have pizza around 5:50. Ashley's already there and Kerry agrees to go with Kieran.
+Dialogue: Bob: hey, pick up your phone :)
+Sam: Can't - I'm on a date in a theater :)
+Bob: Yeah, right, like you would get a date, looser :P
+Sam: <file_photo>
+Bob: wow, so it is a date, sorry dude
+Sam: np :) will call you later
+Summary: Sam is in a theater on a date. He will call Bob later.
+Dialogue: Mark: New song from David Guetta!
+Justin: I know, I've been listening to it the whole morning!
+Mark: I gotta be honest with you, I still prefer his old stuff
+Justin: No shame dude
+Mark: Maybe I'm getting old
+Mark: Also I'm diggin the 90's songs recently.
+Justin: Pop or rock?
+Mark: Both, and disco.
+Justin: Send me something
+Mark: <file_other>
+Justin: Nice. My dad used to play in a rock band.
+Mark: Cool!
+Justin: He met my mom at one of their gigs.
+Mark: What a story to tell grandkids!
+Justin: Indeed!
+Summary: Mark prefers old songs of David Guetta. Recently, he has rediscovered the 90s music. Justin's father played in a rock band, and at one of their concerts, he met Justin's mother. 
+Dialogue: Isabelle: ey, was there any homework for tomorrow?
+Giselle: yep, to translate the first column from this article we read last time
+Isabelle: shiet, I thought there was no homework and bought myself a bottle of wine
+Isabelle: what now
+Sophie: we had to translate it but in our notebooks only, not on a piece of paper, so she won't be collecting that
+Isabelle: yeeeah xD I'll fuck it then
+Sophie: Cheers :D
+Summary: Isabelle, Giselle and Sophie's homework was to translate the first column from the article. The teacher isn't going to collect it. Isabelle won't do it and have some wine instead. 
+Dialogue: Joshua: did u remember to take my shirt to the dry-cleaner's?
+Michelle: shoot, I totally forgot about this! So sorry :(((
+Michelle: I can do it at lunch time
+Joshua: It would be great, I srsly need it on Thursday
+Michelle: you've got other shirts as far as I know :D
+Joshua: but you know it's my lucky one and I'm gonna need luck ;-)
+Michelle: I know, you've been talking about it like 2 months :P
+Joshua: just take the shirt to dry-cleaners pls
+Michelle: no worries, I'll do it
+Summary: Michelle will take Joshua's shirt to the dry-cleaner's at lunch time as he needs it on Thursday.
+Dialogue: Simon: I thought of the same thing...
+Simon: People who want a kid for a day...& and parents who want a day off...
+Danie: <file_gif>
+Simon: But 'Rent a Kid' can be misconstrued... 😱Best leave it there!🙈🙊
+Simon: <file_gif>
+Tom: Yeah... and I'm pretty sure most parents are funny about lending their kids out to strangers...
+Simon: Though I still suggest it to Becky when one of them kicks off... 
+Simon: I get the angry face and the idea gets shelved for the next tantrum. 
+Simon: Now in worried, if the tantrum is really bad and Bex says yes... what to do!?! ...lol
+Danie: call me 😜
+Simon: I will 😊
+Tom: <file_gif>
+Summary: Simon, Danie and Tom discuss the "Rent a Kid" initiative whereby people take care of someone else's children for one day.
+Dialogue: Gaby: Hey 
+Brittany: hey. 
+Gaby: How's it goin?
+Brittany: I mean, it's going. 
+Gaby: You know what I mean. 
+Brittany: Well, I'm not sure that I do.
+Gaby: Gah, Brit, are you still mad at me? 
+Brittany: uhh, yeah, are you kidding me? It's literally been 4 days. 
+Gaby: Yeah, I know, but I thought maybe we could talk about it. 
+Brittany: I don't know what you want me to say. I mean I'm still pretty torn about it. I don't really feel like talking
+Gaby: You know, I'm sorry. I didn't mean for you to find out like that. 
+Brittany: Gee, thanks. Doesn't really make it any easier. 
+Gaby: Well I thought maybe if we had talked about it before, it could have been easier. 
+Brittany: you know, honestly, I feel stupid. I should have known. You guys have been doing this to me for a while. So I can't act too surprised.
+Gaby: Brit, you know that's not true. Why would you think that?
+Brittany: WHY WOULD I THINK THAT? Seriously, Gaby, don't play dumb. 
+Gaby: I'm not playing dumb. I just honestly mean I'm sorry. I wanted to apologize. 
+Brittany: but I don't want your apology. If you just messaged me to say your stupid sorry, then you said it. Can I help you with anything else
+Gaby: please don't be like this. we can't do this over facebook. Can we meet to talk?
+Brittany: No, I really don't want to. 
+Gaby: I really think talking in person would help.
+Brittany: I don't really have anything else to say. I gotta go now. Bye. 
+Summary: Brittany is mad at Gaby. Gaby wants to meet up and talk about the issue but Brittany doesn't want to.
+Dialogue: Gwen: chicken & beer?
+Karren: call!
+Gwen: be there soon :D
+Summary: Gwen will meet Karren for chicken and beer soon.
+Dialogue: Carlie: So, what time on Wednesady?
+Sidney: I’m busy, let’s make it Thursday
+Carlie: OK, I get it, what time?
+Sidney: Hmm I think 6 PM
+Carlie: Sure, that’s fine, I won’t bother you anymore, just let me know if anything changes.
+Sidney: Well, it needs to be Friday, I’m not sure if I will have time and I’m too lazy to do it in the evening ;)
+Carlie: Uhm, listen, I really appreciate that you want to help but I’m starting to think it’s a problem for you, you should have sth before, you will change your mind again and what am I supposed to do then
+Sidney: Ok, so it can be Saturday ;p
+Carlie: Whaaaaat. Ok, I’m done, fuck you and your help.
+Sidney: What’s your problem, I can’t just leave everything, I wanted to be nice to you, but now you can fuck yourself!!!
+Carlie: I know you’re busy but packing all my stuff takes a lot of time and I can’t wait forever, you really don’t understand that?
+Sidney: Fuck you, that’s all I want to say.
+Carlie: ????
+Sidney: You said it may be any day from Thursday to Sunday and now you’re freaking out, this is fucked up
+Carlie: Listen, I really understand, but I have everything packed, my medicines, clothes, all of it. Maybe I should make it more clear what I expect, I’ll find someone and won’t bother you anymore.
+Sidney: Bullshit. I will talk to you only if I’m forced to, at work. Don’t text me again.
+Carlie: You’re an irresponsible idiot
+Sidney: And you’re a bitch, we’re even.
+Summary: Sidney is delaying his help with packing stuff. Carlie is really frustrated with his attitude.
+Dialogue: Eric: any plans for the weekend?
+Nat: Not really ...
+Eric: wanna hangout?
+Nat: only if you have something particular in mind
+Eric: i have a family thing on saturday, so we could go out on sunday, check out the new exhibition in the National Gallery
+Nat: Ok then, are you sure the gallery is open on Sundays?
+Eric: It should be!
+Nat: Let me check 
+Eric: And??
+Nat: It' open and the entrance is free!
+Eric: Great then!
+Nat: Agree ;) I hope there it won't be too crowded!
+Eric: We can go super early in the morning or super late in the evening if you wish
+Nat: Let's go super early, that will be a great start of a day!
+Eric: Sounds amazing! see you then! 
+Nat: See you!!
+Summary: Early morning on Sunday Eric and Nat will go see the new exhibition at the National Gallery.
+Dialogue: Harvey: Hi, Reggie! Can you give me 5 minutes?
+Reggie: Sure, actually I can give you 10min.
+Harvey: 5 is ok! Thanks!
+Harvey: OK.
+Harvey: Ready! 
+Harvey: Ahhhhh!
+Harvey: Mel has just come.
+Harvey: And said she wants to talk to me...
+Harvey: Probably extension of my agreement.
+Reggie: OMG!
+Harvey: That was not planned at all.
+Reggie: Ok, let me know when you finish.
+Harvey: Ok, I'm back. So sorry!
+Reggie: No worries at all! 
+Summary: Harvey asked Reggie for 5 minutes of his time in order to tell him about Mel. She will probably extend his agreement, so, as it was not planned, Reggie wants to know when Harvey finishes. Harvey is sorry that he is back.
+Dialogue: Ophelia: <file_video>
+Oliver: I love this song!!! perfect for the late night walks
+Max: is this something new? I don't know it :/
+Ophelia: yeah, it was uploaded yesterday
+Max: ok checking it right now
+Summary: Max will check out the new song. Oliver loves it.
+Dialogue: Aliza: Have you ever been to Hawai
+Miller: Naah
+Aliza: We would go together this year
+Summary: Miller hasn't been to Hawaii. Aliza wants to go together this year.
+Dialogue: Amy: Could one of you take care of Peter for a couple of hours?
+Amy: They called me from work I need to leave urgently
+Jennifer: I'm at work
+Lisa: On a Saturday?
+Jennifer: sadly 😢
+Lisa: You can bring Peter to my place
+Lisa: I'll take care of him
+Amy: Thanks Lisa 😘 you saved me!!! 
+Summary: Amy has to go to work and she needs someone to take care of Peter. Jennifer is at work too. Lisa asks Amy to bring Peter to her place. 
+Dialogue: Randolph: anyone thereeeeeeeeeeeeeeeee
+Megan: yeah, what is it?
+Randolph: what was the homework for tomorrow xXD
+Richard: ex. 3, p. 45
+Randolph: thanks man
+Summary: The exercise 3 from page 45 is for homework.
+Dialogue: Nick: Hi, got your message.
+Ralph: Good, what do you say?
+Nick: Depends. Need more info. Let's meet.
+Ralph: Ok. Will email you later.
+Summary: Nick got Ralph's message. Nick and Ralph will meet, because Nick needs more information. Ralph will send an email to Nick later.
+Dialogue: Charlie: Happy New Year's! I am just going south, I will be back on Monday
+Debra: OK! Have a nice weekend, Char
+Charlie: Thanks! You too! how are you feeling, still in pain?
+Debra: Unfort I had to go through the procedure again, so my weekend is going to be interesting:D
+Charlie: no good. Get better soon!
+Debra: Thank you :)
+Summary: Charlie is going South and will be back on Monday. Debra had to undergo another procedure.
+Dialogue: Samantha: hello honey reached?
+Edward: yes baby just landed...
+Samantha: missing you already :(
+Edward: me too missing you sweetheart..
+Samantha:  please take care of yourself just think about me
+Edward: sweety i cant help but think about you onlyyy
+Samantha: i dont know why you have to go again n again  you know how much i love you:( 
+Edward: i know babe its just 2 days then you will be in my arms again
+Samantha: cant wait to be in your armsss sweety
+Edward: and?
+Samantha: and what ? 
+Edward: just in my arms? there should be something more... something hot! something....
+Samantha: come back and you will get more than something.......................... :kisses: :kisses: :kisses:
+Edward: love you my love
+Samantha: love you too darling
+Summary: Edward's plane has landed. He is coming back in 2 days. 
+Dialogue: Della: Hi there
+Thomas: Hey
+Della: Are you in Berlin now?
+Thomas: Yeah, leaving in a few days actually
+Della: Sorry for not having written before, I was SO busy. But how have you been? How has Berlin treated you?
+Thomas: No worries. Well, I was so happy to get funding for this trip in the first place. Last months were hell because I was finishing the thesis and I was craving to leave Madrid and have a break from Sultana for a while.
+Della: And what are you actually doing in Berlin? I mean, after having submitted?
+Thomas: Well well well, I requested this mostly because I wanted to escape reality. I don't even want to remember how I justified the funding request
+Della: Lol That's fine by me. I forgot when the defense was supposed to be. Sorry...
+Thomas: You're on total leave from reality I see
+Della: Yes! And I won't even bother remembering how I justified it lol
+Thomas: Ha ha ha
+Della: But seriously, when is the defense?
+Thomas: Well, it's actually next week. So you might be unable to attend...
+Della: Oh fuck me!!! So sorry
+Thomas: Nah, it's ok. After these few weeks in Berlin I'm not even taking this so seriously
+Della: I'm glad. But wait, could I actually CALL you now?
+Thomas: Sure, go for it
+Summary: Thomas is in Berlin for a few days now. Della was busy. Thomas had a hard time because he was finishing his thesis and wanted to leave Madrid to have a break from Sultana. Thomas is having his thesis defense next week. Della will call Thomas now. 
+Dialogue: Ron: Hey, what time is the dinner?
+Harry: Around 6 pm?
+Hermiona: Can we postpone it? 6:30?
+Ron: OK
+Harry: No problem! What can I bring? Wine?
+Hermiona: <file_gif>
+Ron: See you then!
+Hermiona: I don't remember. Is Luna allergic to something?
+Harry: Yep, she's on gluten-free diet.
+Hermiona: OK, will keep it in mind.
+Summary: They are meeting for dinner at 6:30. Some gluten-free dishes will be served for Luna.
+Dialogue: Sandra: Hi, I was wondering whether Kate and you were interested in going skiing with me this year?
+Daniel: Hi!
+Daniel: I have no idea. I'll ask Kate. 
+Daniel: When are you planning to go?
+Sandra: I was thinking of March. 
+Daniel: Where?
+Sandra: Poland, Slovakia or maybe Italy, if I can organise a bigger group. 
+Daniel: Okey, I'll ask Kate and let you know.
+Sandra: We'll be in touch! 
+Summary: Sandra in planning to go skiing either in Poland, Slovakia or in Italy, if she manages to gather more people. She invites Daniel and Kate to join her. Daniel and Kate will consider it.
+Dialogue: Peter: hi, I'm coming 6:40 am friday
+Dorothy: <file_gif>
+Peter: there are no good connections so I decided to go by night
+Peter: at least I'll get some sleep
+Peter: pls let me know if its okay for you
+Dorothy: perfect, don't worry
+Dorothy: I'll ask Derren to pick you up from the station
+Peter: please don't bother, I'll get an uber
+Dorothy: don't be silly ;)
+Dorothy: we'll have a breakfast at home before Derren leaves to work
+Dorothy: do you have any plans? want to go anywhere on friday?
+Peter: I was thinking about this exhibition
+Peter: <file_other>
+Peter: did you see it?
+Dorothy: no but I was going to tell you about it! :)
+Dorothy: let's go with Derren in the afternoon
+Dorothy: he works till 3pm on Fridays
+Peter: <file_gif>
+Summary: Peter will come on Friday at 6:40. He will go by night, because there are no good connections. Derren will pick Peter up from the station and they will have a breakfast at home before Derren leaves to work. The three of them will go to the exhibition on Friday after 3 p.m. 
+Dialogue: Abel: these are the photos I took of little Simon :)
+Abel: <file_photo>
+Abel: sorry the quality isn't very good 
+Abel: but you can see how small he is :)
+Abel: <file_photo>
+Abel: and here is the video I took
+Abel: <file_video> 
+Caitlan: my goodness he is so tiny 😍😍😍
+Caitlan: and so cuteee!!!
+Abel: yeah he is the cutest little button 💕
+Caitlan: 😻😻😻😻
+Caitlan: absolute sweetheart
+Abel: 😁
+Caitlan: cutest baby I have seen in a long time 😊😊😊😊
+Abel: and he has been so good, he only cried for a bit
+Caitlan: ❤️❤️
+Caitlan: amazing
+Caitlan: <file_gif>
+Summary: Abel sent a video and a photo of little Simon.
+Dialogue: Bruce: Guys, i've come back from my parents and I have loads of food, haha
+Bruce: Come over for a cake
+Julia: I love your mother Eastern European approach to feeding everybody around
+Marie: Eastern European?
+Tom: Bruce's mother is Russian, right?
+Marie: really? Wow, I didn't know
+Bruce: Belarusian! ☝
+Tom: Why did she arrive here actually?
+Bruce: After my father, they met in Moscow in the early 90s
+Marie: but it's so exciting, I'd like to meet your mother, I've learnt Russian for a few years, but no opportunity to practice it
+Bruce: Oh she'd be happy to talk Russian, my father doesn't know the language 
+Bruce: So I'm the only person she can speak Russian with
+Bruce: anyway, Marie, come over, we can arrange something
+Bruce: And everybody else, I'm home today
+Summary: Bruce invites Julia, Marie and Tom to come over. He brought food from his parents. His mother is from Bearus. Marie wants to practice her Russian with her.
+Dialogue: Christine: so what's the plan for tonite?
+Brian: u'll see, it's a surprise!
+Brian: but take comfy shoes:D
+Christine: u mean sport?
+Brian: no, just comfy.
+Christine: but u mean extra?? 
+Christine: shall I take my dancing shoes?
+Brian: u can, but u don't have to.
+Christine: any other hints?
+Christine: can I wear a dress or rather comfy pants?
+Brian: haha, yr choice but a dress or a skirt is always a good choice :D
+Christine: <file_photo> ok?
+Brian: awesome <3 <3 <3
+Christine: ok, so 6pm at yr place?
+Brian: exactly :D cu!:*
+Summary: Brian is preparing a surprise for Christine. She will wear comfortable shoes and a dress or a skirt. She will come to his place at 6 pm. 
+Dialogue: Michelle: hello Sara, how are you doing?
+Sarah: I am good, how about you?
+Michelle: good thanks 🙂
+Michelle: I am organizing a photo-shoot next week to prepare my portfolio as a personal shopper, and would love if you could participate.
+Sarah: yes totally! give me the deets
+Michelle: oh thanks! 🙌
+Michelle: so, I have booked a photographer and a location in a beautiful private hotel
+Sarah: fancy 😁
+Michelle: lol yeah, it really costs an arm and a leg, but it is worth it.
+Sarah: for sure.
+Michelle:  we will meet on Wednesday at around 4, is that OK for you?
+Sarah: hum that can work, I will just have to rearrange my schedule for my deliveries. But we can work it out.
+Michelle: thank you, I really appreciate it. Can you give me your size in shoes and shoes?
+Sarah: yeah, I wear M / 38. and size 38 in shoes.
+Michelle: perfect, so let me know if you have any questions! can't wait😘
+Sarah: can't wait too! been a long time since I have done a photo shoot.
+Summary: Sarah will take part in a photo-shoot next week. Michelle is organizing it to prepare her portfolio as a personal shopper. Michelle booked a photographer and a location in a beautiful private hotel. Michelle and Sarah will meet on Wednesday at around 4 p.m. Sarah wears size M and shoes in size 38.
+Dialogue: Justin: look, why dont you let me take you out for lunch today
+Cecilia: haha, i know you justin
+Justin: im for real, im not kidding around
+Cecilia: if youre not, then im down for it
+Justin: cool, ill pick you up at noon
+Cecilia: sure, noon is fine
+Justin: alright.
+Summary: Justin will pick Cecilia up at noon today and they will go for lunch.
+Dialogue: John: Could you buy a set of forks for me at IKEA?
+James: LOL, set of forks?
+John: <file_photo> this
+Patt: no problem!
+John: thanks!
+Summary: James will buy a set of forks at IKEA on John's request.
+Dialogue: Laura: any ideas 4 mom's b-day?
+Wade: nope
+Laura: need your help Wade with this
+Wade: I know, it's hard to think of sth that she doesn't have already :/
+Laura: that's no excuse
+Wade: I know, meet me tomorrow, we'll think sth out
+Laura: ok, great
+Summary: At tomorrow's meeting Laura and Wade will discuss ideas for mom's birthday.
+Dialogue: Martin: don't forget to give me call when you'll arrive
+Leah: I will, don't worry
+Martin: you know that I don't like when you travel alone
+Leah: of course I do :)
+Leah: still you shouldn't worry about everything
+Martin: I'll try :) have a safe flight!
+Summary: Leah will give Martin a call when she arrives.
+Dialogue: Dad: are your results out 
+Dan: not yet dad
+Dad: are you sure
+Dan: i am sure.. youll know when they will 
+Summary: Dan will let dad know when his results are out.
+Dialogue: Fran: The eagle has landed
+Kate: Sydney?
+Fran: Oh yesss. U in USA yet
+Kate: Not yet. Just taking the kids to first day at school.
+Fran: U mean O and R?
+Kate: Yea!!
+Fran: When u leaving
+Kate: Tonight. Why?
+Fran: Have a good flight. Has R spent her cotton on vouchers?
+Kate: Not sure but she love the lanyard!
+Summary: Fran has arrived to Sydney. O and R are taken to their first day of school by Kate. Kate is going to the US tonight. R likes the lanyard.
+Dialogue: Jessica: I need to buy hiking boots... 
+Jessica: Any tips?
+Josh: first of all, they can't be cheap!
+Jessica: how much shall I spend?
+Josh: 500 - 600 minimum...
+Jessica: really?
+Jessica: I saw some quechua boots for 300, look <file_other>
+Josh: they're good to show off in the city but not to hike in the mountains:D
+Jessica: so what brands do u recommend?
+Josh: hmm.. salomon is good but most models are for wide feet..
+Josh: yours aren't wide as far as I remember, right?
+Jessica: not at all. 
+Jessica: long and thin
+Josh: so u should  try lowa, chiruco or la sportiva.
+Josh: there's a good alpin store in my area
+Josh: we can go there tomorrow after work, hm?
+Jessica: ok, great idea, thank you!
+Josh: let's meet here <file other>
+Jessica: I can be there at 6,hm?
+Josh: perfect! they close at 8, we gonna have 2 hours;-)
+Summary: Josh and Jessica will meet at 6 pm tomorrow and go to an alpine store. Josh will help her choose hiking boots.
+Dialogue: Ree: Did you see Lady Gaga’s new movie?
+Bryce: No, is it goo?
+Ree: So good! I cried! Everyone cried! LOL!
+Bryce: See, why is that good?
+Ree: Because!
+Bryce: Like I want to be sad and cry! LOL!
+Ree: It’s emotional, you get caught up in the character’s lives.
+Bryce: I’d rather see a good car chase!
+Ree: You’re such a boy!
+Bryce: Yep!
+Ree: So you won’t go see a dramatic film?
+Bryce: Nah, not my thing.
+Ree: Car chase only?
+Bryce: NO! I also like a good gun fight!
+Ree: Oh brother…
+Bryce: LOL!
+Ree: I should have known!
+Bryce: LOL! You should know me by now!
+Ree: I should!
+Bryce: So what are you doing tonight? TGIF!
+Ree: Not sure. Why?
+Bryce: Maybe we can meet up.
+Ree: Sure! Where?
+Bryce: Dunno…
+Ree: You’re no help!
+Bryce: Let me see if there’s anything going on.
+Ree: Like what?
+Bryce: Music, hang out, whatever, anything.
+Ree: Okay. Let me know.
+Bryce: I will.
+Summary: Ree enjoyed Lady Gaga's new movie. Bryce doesn't fancy dramatic movies. Bryce prefers car chases and gun fights. Bryce is going out with Ree tonight.
+Dialogue: Smith: Good morning, Alex. Could you see me in my office in half an hour?
+Alex: Good morning, Mr Smith. I'm sorry but it would be more convenient if it were at 10:15. Would it suit you?
+Smith: No problem, Alex.
+Alex: Thank you. Sorry about it but I have an urgent phone call scheduled for 9:50.
+Smith: And please bring the Thiel files with you.
+Alex: But the Thiel files have been dispatched to our Bullwell office yesterday evening.
+Smith: Could you please send a messenger to fetch them for me pls?
+Alex: Certainly Mr Smith. But then I won't be able to deliver them to you before midday.
+Smith: It's alright. Just let me know when the files are here and we'll see from there.
+Alex: Yes, I will.
+Summary: Smith will see Alex in his office at 10:15. Alex has an urgent call at 9:50. Alex will let someone know to deliver the Thiel files from their Bullwell office.
+Dialogue: Betty: <file_photo>
+Betty: Check this out!
+Betty: It's Kevin
+Betty: Caught red handed kissing with Jessica
+Angela: You don't know they're together now?
+Betty: What?
+Betty: Why nobody told me?!
+Angela: It's no secret.
+Betty: He recovered fast after Natalie dumped him.
+Angela: Maybe
+Angela: Maybe not
+Betty: Right. God knows what's up his head 
+Summary: Betty is surprised to hear that Kevin is seeing Jessica so soon after Natalie left him. 
+Dialogue: Harriet: Hi guys, fyi i'm out this evening
+Frank: hi, i'm out as well
+Lisa: I'm in, in and alone it seems :(
+Harriet: i will be back around 9pm, hang in there :)
+Lisa: see you, have fun :*
+Summary: Frank and Harriet can't meet up with Lisa this evening.
+Dialogue: Lars: need some air
+Elsa: walk?
+Lars: yes :)
+Summary: Lars and Elsa will go for a walk.
+Dialogue: Bonny: Hi, Clyde. You doin something?
+Clyde: Not really. You?
+Bonny: Just fucking bored to death.
+Clyde: Me too. Let's do something!
+Bonny: Yeah, let's do!
+Clyde: What're we doing then?
+Bonny: I don't know. Let's meet.
+Clyde: Yeah. I'll pick you up.
+Bonny: You do that. We'll think of something.
+Summary: Bonny and Clyde are going to spend time together.
+Dialogue: John: do you like clarissa?
+Donna: i feel bad for saying this…
+Donna: but not really, why?
+John: she's throwing a party tomorrow and wanted to see if you wanted to join us
+Donna: not interested sorry lol
+John: she's a nice, kind, funny person
+John: you should give her a try
+Donna: ok ok ok
+Donna: i'll go
+Summary: Donna doesn't want to go to Clarissa's party. John convinced her.
+Dialogue: Jade: Where should we meet?
+Oliver: No idea, I don't know the neighbourhood 
+Jade: ok, so let's meet at a subway station
+Oliver: which one?
+Jade: the closest to your place
+Jade: do you know the name?
+Oliver: Nostrand Av, I believe
+Jade: ok, 1.15PM?
+Oliver: perfect
+Summary: Jade and Oliver will meet at Nostrand Avenue subway station at 1:15 PM.
+Dialogue: Bob: Hi, Madeleine.
+Madeleine: Hi, Bob, haven't heard from you in a while.
+Bob: I know, I've been travellng.
+Madeleine: Really? Where've you been?
+Bob: Here and there. Mostly Africa.
+Madeleine: Now, that sounds interesting.
+Madeleine: And exotic:)
+Bob: Yeah. Got plenty of stories to tell.
+Madeleine: You do?
+Bob: Yep. And I am wondering.
+Madeleine: Wondering or wandering?
+Bob: Funny;0. I'm wondering if you'd want to hear a good story?
+Madeleine: What you suggest?
+Bob: Dinner my place tomorrow?
+Madeleine: I don't know.
+Bob: The story is gonna be good=)
+Madeleine: It better. Pick me up after work.
+Bob: I'll be there:)
+Summary: Bob has been traveling to Africa recently. He will meet with Madeleine for dinner tomorrow to tell her an interesting story.
+Dialogue: Mary: Haha yesterday was AWESOME
+Will: I know, right? I've never seen this many people in their small flat
+Mary: It must have been at least 40 people?
+Will: I'd say 50
+Mary: Haha like sardines
+Will: sardines drinking vodka and dancing
+Mary: hahaha and the karaoke :D
+Will: Rember John singing hallelujah and Betty dancing behind him with that sex doll?
+Mary: OMG I think Phil was actually making a video of that
+Will: Put it on youtube, I say put it on youtube :D:D
+Mary: I can't talk anymore. My voice is like Louis Armstrong's
+Will: Hello Dolly this is louis dolly
+Mary: :D
+Will: It's because of all the fags on the balcony, it was freazing and you stood there half naked half of the night
+Mary: Well I did put my beer jacket on
+Will: omg hahaha I have no idea how's it possible that the neighbours didn't call the cops
+Mary: I think there's only an old lady that's almost completely deaf
+Will: perfect neighbour :D
+Mary: omg why does my feet hurt so much
+Will: You danced with Ted and he kept on stepping on your feet, remember?
+Mary: OMG I tried to erase it from my memory....... hahaha
+Summary: Mary and Will discuss the party last night; they talk about the fact that there were many people, they were drinking vodka, singing karaoke, smoking and it was extremely noisy.

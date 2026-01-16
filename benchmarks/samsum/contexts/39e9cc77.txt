@@ -1,0 +1,342 @@
+Dialogue: Suz: We really need the information to flow this time. Can you re-write it?
+Dave: Sure, no problem. I thought it did flow, but...
+Suz: Just making the points from one paragraph to another.
+Dave: Yeah, like I thought that really did tie in well. Maybe not?
+Suz: Maybe you didn't communicate all your thoughts.
+Dave: True. I'll give it another read.
+Suz: Okay, plus also make sure each paragraph could stand on its own.
+Dave: Flow but be free standing?
+Suz: Yes.
+Dave: Okay, maybe that's why it didn't flow before.
+Suz: Could be. Read it through for flow then split it up. Tweak where necessary?
+Dave: I think that's a plan.
+Suz: Great. Need it by Thursday.
+Dave: Sure, no problem.
+Summary: Dave will re-write the text on Suz's request by Thursday. 
+Dialogue: Patrick: Hey there, are you going to the cinema this weekend?
+Joan: Sure thing
+Joan: I wanna watch Bohemian Rhapsody. What do u think about it?
+Patrick: Perfect, I love Queen
+Patrick: I heard that it's a great biopic
+Joan: :)
+Summary: Joan is going to the cinema this weekend to see Bohemian Rhapsody.
+Dialogue: Sarah: How are we doing on the wedding invitations?
+Connor: Good I think we only have around twenty left
+Sarah: only? :D
+Connor: we had a hundred...
+Sarah: true true okay
+Sarah: so let's try getting as many as we can out of the way this weekend, okay?
+Connor: sure
+Connor: we could invite some people over
+Connor: make a party out of it?
+Sarah: How many can we squeeze in this way?
+Connor: let me check
+Connor: 6? 7?
+Sarah: perfect, Saturday?
+Connor: great :)
+Summary: Sarah and Connor are going to invite 6 or 7 people over to a party on Saturday, to give them wedding invitations.
+Dialogue: Olenna: <file_other>
+Olenna: have you read the news?!
+Armani: unfortunately I did
+Olenna: I'm devastated
+Armani: my gay friends from Brasil seriously consider emigration
+Olenna: that's terrible
+Armani: and it's only beginning of Bolsonaro's presidency
+Summary: Armani's gay friends from Brasil think about emigration because of the President Bolsonaro's policy.
+Dialogue: Amanda: I bought a dress
+Amanda: <photo_file>
+Leticia: Hmmm…
+Leticia: Are you sure you want to keep it?
+Amanda: Why?
+Leticia: It doesn’t look great on you
+Leticia: These dresses are not for your body type
+Leticia: I know they look great on models
+Leticia: But a pear-shaped woman like you looks just chubby in a dress like that
+Leticia: I’m not saying you’re fat
+Leticia: You’re not
+Leticia: You have a very feminine figure
+Leticia: I wish I had your curves
+Leticia: But this dress doesn’t flatter you
+Amanda: Ok. I will return it ☹
+Summary: Amanda bought a dress. Leticia doesn't like the way it looks on Amanda. She will return it.
+Dialogue: Liam: yoh bro!
+Alex: ssup dude?
+Liam: what time is the sea hawks game?
+Alex: i'm not so sure, but i think its around 10pm
+Liam: Cool, let me confirm then ill holla at you
+Alex: cool, please do
+Liam: Ok
+Summary: Liam will confirm the time of the match and call back to Alex. 
+Dialogue: Sofia: omg it's raining as hell
+Sofia: and I forgtt to take in our clothes from the balcony!
+Finley: No worries
+Finley: I was clever enough to take care of it before I took off to work :D
+Sofia: thanks!!!!
+Sofia: <fil_gif>
+Summary: It is raining. Finley remembered to take in his and Sofia's clothes from the balcony before he had left for work.
+Dialogue: Jimmy: WTF happened with that weather?
+Jimmy: Yesterday it was warm, sunny and I even managed to convinced my girlfriend to take a stroll
+Jimmy: And today temperature is like 10 degrees less and my balls are freezing  :D
+Peter: Well. Global warming :D
+Jimmy: Global freezing.
+Peter: Global warming causes weather to get less and less predictable and imply sudden changes
+Peter: Sudden shifts in weather conditions and radicalisation of weather is one of the consequences
+Jimmy: I get it. Still doesn't change the fact my balls are freezing :D
+Peter: xD
+Peter: Should've put underpants :D
+Jimmy: You know, when I was a kid, I hated underpants.
+Jimmy: I thought it was so unmanly and girlish that i neglected any function of underpants.
+Peter: Haha. Every boy had it like this :D
+Jimmy: But now, I think it's really good to keep your ass warm at all costs :D
+Peter: It's similiar thing with with resting in preschool. They used to force us to rest.
+Peter: I hated it then, but now I think every company should have something like this during working hours :D
+Jimmy: Haha. Of course it should be counted in as a working hour you get paid for :D
+Peter: Naturally :D
+Summary: Yeterday it was warm and sunny. Today it's freezing. Peter thinks it's because of global warming. Jimmy hated underpants when he was a kid. Now Jimmy thinks underpants are a good idea. Peter hated resting at preschool. Peter thinks it would be a good idea to rest an hour a day at work. 
+Dialogue: Noah: When and where are we meeting? :)
+Madison: I thought you were busy...?
+Noah: Yeah, I WAS. I quit my job. 
+Madison: No way! :o :o :o Why? I thought you liked it...?
+Noah: Well, I used to, until my boss turned into a complete cock... Long story.
+Summary: Noah quit his job as his boss had become unbearable. Now he has the time to meet Madison.
+Dialogue: Amadeus: I feel sad
+Hubert: oooooh why is that?
+Amadeus: I don't know
+Amadeus: Was thinking about my life
+Wilda: Is it because of your birthday?
+Amadeus: I guess
+Amadeus: Another year has passed and my life continues being miserable 
+Summary: Amadeus is sad because he feels his life is miserable.
+Dialogue: Daisy: Do you think this dress looks like a bathrobe?
+Logan: No! Why?
+Daisy: Well, it's plaid and belted. Thought maybe it was giving a bathrobe vibe!
+Logan: Not for me. I think it looks nice.
+Daisy: Thanks! That's not why I was asking...
+Logan: I know, but it does look nice.
+Daisy: Thanks! Blush!
+Summary: Logan likes Daisy's dress and doesn't think it looks like a bathrobe.
+Dialogue: Grit: Are you in Normandy right now?
+Maria: yes... these are our sunsets
+Maria: <file_photo>
+Grit: so i can enjoy that in august too?
+Maria: oh totally, with some chilled rosé
+Summary: Maria is in Normandy right now. She sent Grit a photo of the sunsets she enjoys watching. Grit made sure she can come to Normandy in August.
+Dialogue: Vincent: Guys, we should meet tonight to talk about the situation in the office
+Diana: I'm afraid you're right 
+Marilyn: But what are we going to talk about? We don't have much influence on the situation.
+Diana: So we should just sit there and tolerate her behaviour?
+Vincent: Exactly, if we act together we can change something I believe
+Marilyn: Ok, let's try.
+Vincent: The bar at White Tower at 6.15?
+Marilyn: OK
+Diana: Perfect for me.
+Summary: There's a problem with one person in the office. Vincent, Diana and Marilyn are meeting at 6.15 tonight to discuss her behavior.
+Dialogue: Karen: Hey.babe
+Kent:  Hey
+Karen: I was wondering what time you are coming home.
+Kent: I have a lot of work in the office but i'll try my best to be there before supper.
+Karen: Speaking of dinner, what would you like to have?
+Kent: I generally love you cooking but i think that some rice, cheese and wings would do.
+Karen: OK
+Kent: But that is if it is okay with you and the kids
+Karen: Sure it sound perfect.
+Kent: Cool
+Karen: BTW, Harvey stopped by, he was looking for. He said he would come back later
+Kent: Ooh.It is about a House in the upcountry which he wants to be renovated.
+Karen: Ooh I see, he mentioned it sometime back
+Kent: Yeah
+Karen: Fine. Take your time then. Just don't be late for supper. The kids miss you already 
+Kent: Sure I wont.
+Karen: I love you.
+Kent: I love you too 
+Summary: Kent has a lot of work in the office but he should be back home before supper. Karen will prepare rice, cheese and wings.
+Dialogue: Andrew: I got the job
+Gala: You’re kidding me!!!!!
+Andrew: No, it’s true :]
+Gala: OMGGGG congratulations!!!
+Gala: We have to drink tonight ;p
+Summary: Andrew got the job and is meeting with Gala to celebrate it with a drink.
+Dialogue: Oliver: The party is set up.
+Margaret: I'm happy you helped me :)
+Oliver: I will do anything for you :*
+Margaret: Let's have fun tonight
+Summary: Oliver has helped Margaret set up the party for tonight. 
+Dialogue: Robert: I'm so sorry for your loss Karen
+Karen: Thank you Robert
+Tom: I'm sorry Karen, Harry was an amazing man :(
+Michael: Are you planning on a memorial service?
+Karen: Yes, it's not easy at this stage to get my head around everything, but yes
+Karen: We reserved an Italian place, the one Harry loved - La Tomatina
+Tom: That's a lovely idea
+Robert: I've heard from Janet that the service will be in St. Thomas's Church
+Karen: Yes, at 11 am. I hope you will be able to come
+Robert: Of course we will!
+Tom: We sure will, Karen
+Michael: Is there anything you need love? Remember that we're all here for you
+Karen: Thank you, I really appreciate it
+Summary: Tom and Robert send their condolences to Karen on the loss of Harry. The service will be in St. Thomas's Church at 11 am, followed by a memorial service in La Tomatina. 
+Dialogue: Samantha: Do you have some free time today?
+Anna: Why do you ask?
+Samantha: I need to buy new running shoes.
+Samantha: The old ones are completely destroyed
+Summary: Samantha needs to buy new running shoes. Her old ones are completely destroyed.
+Dialogue: Mateos: I wish we could all live in a neighborhood in the future
+Mateos: I already miss you all 
+Connor: Ya bro
+Connor: It feels like our journey just started
+Connor: And you have to leave
+Mateos: :( 
+Mateos: I always knew that everything is happening too fast in my life
+Connor: You're done school
+Connor: Be happy because of that
+Connor: And well reunite in the future
+Mateos: :3
+Summary: Mateos has finished school and has to leave. Connor and Mateos will miss each other.
+Dialogue: Cassie: Can you teach me how to dance?
+Tina: but I'm not a professional
+Cassie: 4 me u r. I have 2 left feet :(
+Tina: Don't say that. U have some unique moves
+Cassie: r u kidding? I dance like a monkey in the zoo. So, will you teach me?
+Tina: Never done this befor but I can try.
+Cassie: Thank you! Thank you! Thank you!
+Tina: No problem. We'll start next weekend :)
+Summary: Tina is going to teach Cassie how to dance, starting next weekend.
+Dialogue: Carl: you have a dog! just saw your instagram :)
+Monica: yes :)
+Carl: is it a schnauzer mini?
+Monica: it is :) 2 months old. his name is Sheldon :)
+Carl: my daughter can't see him...
+Monica: lol
+Summary: Monica has a 2-month-old schnauzer mini, named Sheldon.
+Dialogue: Gabriel: hey how's life
+Gabriel: will you guys come to Poland any time soon?
+Arthur: yeah we wanna meet
+Mindy: we're fine, thanks, you?
+Harry: I guess we will fly home for Christmas
+Arthur: we're pretty well!
+Gabriel: we can talk on Skype if you wanna have a chat? hehe
+Arthur: sure, what about 4 pm on Saturday?
+Gabriel: fine with us!
+Summary: Harry will fly to Poland for Christmas. Gabriel and Arthur will talk on Skype at 4 PM on Saturday.
+Dialogue: Mary: ice cream?
+Jane: yuppie 
+Mary: I will buy them 
+Summary: Mary is going to buy some ice-cream.
+Dialogue: Mum: Darling, can you take a bus? I must be at school at 7:30
+Terry: no pro
+Mum: sorry about it
+Mum: I'll see you at home later
+Terry: ok
+Summary: Terry will have to take a bus, because Mum has to be at school at 7:30.
+Dialogue: Robert: what's up with all these facebook posts from Maria?
+Audrey: what do you mean?
+Robert: she has some weird coaching posts about diet etc.
+Audrey: ahh.. that
+Robert: ye, she is selling some magic juice pills lol, what kind of scam is that? :D
+Audrey: now i remember, yeah she tried to sell me those aswell hahaha 
+Robert: did you get them?
+Audrey: of course not, i am not dumb lol, i told her to get lost ;)
+Robert: she is probably caught up in some pyramid scheme
+Summary: Maria has been putting unusual posts on Facebook regarding diet. Maria has tried to sell pills to Audrey, but Audrey wasn't interested.
+Dialogue: Hugh: hey bro, you busy?
+Brian: no, shoot :)
+Hugh: so i have finally grew up to the decision of getting my own place
+Brian: uuu congratulations, what are you looking for?
+Hugh: nothing too big, 50 square meters at max, 2 separate rooms
+Brian: that's a nice flat mate, can be quite expensive though
+Hugh: i already got approved for a loan so that's settled :)
+Brian: hah - 30 years as a slave?
+Hugh: hahaha exactly :D well 25 to be exact
+Brian: at least you will be paying for your own flat, right?
+Hugh: yeah, exactly and i can always treat it as an investment, sell or rent it later
+Brian: true that
+Hugh: so i was thinking, can you give me any tips? i know you looked for yours last year?
+Brian: i did but to be honest it was mostly my father who took care of it haha
+Hugh: i see... how is your district anyway? i saw a lot of good offers there
+Brian: well you know how it is, kind of far from the city center but we got everything here
+Hugh: everything?
+Brian: we have 2 big food stores, kindergarten, a doctor, vet, hairdresser, bakery, drug store
+Hugh: really?
+Brian: ye, they build a lot of new apartments here over the year so the business is growing
+Hugh: i am amazed, it always looked like a desert
+Brian: ye, we even have a pizza place and a hamburger place and some coffee shop ;) i never go there but they are here
+Hugh: this is surprising, i need to step up my research game hahaha, i honestly thought nothing is there
+Brian: it's quite nice and they are planning to make a new tram line to the center so the commute will get even better
+Hugh: this all sounds cool, maybe we will be neighbors hahaha
+Brian: i would love that dude :D
+Summary: Hugh is looking for his own place. Brian bought his last year and enjoys living there. Hugh and Brian might end up as neighbors.
+Dialogue: John: Could you buy a set of forks for me at IKEA?
+James: LOL, set of forks?
+John: <file_photo> this
+Patt: no problem!
+John: thanks!
+Summary: James will buy a set of forks at IKEA on John's request.
+Dialogue: Millie: hey you still got spotify right
+Danielle: yep :)
+Millie: check out Pop2 by Charlie XCX
+Danielle: yes, m'dame :)
+Millie: haha you're gonna love it. it's like weirdly futuristic
+Danielle: i always love your recommendations <3
+Millie: aaaawww <file_gif>
+Summary: Millie recommends that Danielle listens to Pop2 by Charlie XCX on Spotify.
+Dialogue: Kristel: Good morning, I want to book thirty tickets for the show on Friday.
+Jake: Hello, booking may be done on our website.
+Kristel: I know, I just have a few question about how it works.
+Jake: Ask anything, I’m here to help :]
+Kristel: So first of all, how to make a group? When I try to do it on the room plan, it says I can book the maximum of 5 tickets.
+Jake: Before you go there, you need to choose a type of tickets, there look for Multiple Tickets/Groups.
+Kristel: Okay, thank you, that’s clear. Another problem: when will I see the discount for groups?
+Jake: You don’t have to do anything, after choosing a type and seats, the system will provide you with the amount to pay, showing how much it was discounted (depending on the number of people).
+Kristel: What are the payment options?
+Jake: Credit card, online transfer and PayPal.
+Kristel: Which of them is the fastest?
+Jake: PayPal of course, the longest is online transfer because it needs to be confirmed.
+Kristel: Can I pay later, before the show?
+Jake: The payment screen shows the amount and additionally the amount you need to pay to secure the places (it’s one third of the overall price).
+Kristel: But you won’t charge me twice for this security part?
+Jake: Of course not, it is deducted from the total amount.
+Kristel: Great, what if one of the kids tries to enter with some snacks not bought in the cinema?
+Jake: If we notice something like that, we will gently ask this person to leave it behind, and of course we will inform the counselors.
+Kristel: You have a nice set of rules for such cases!
+Jake: Thank you, we can’t wait to see you and your group.
+Kristel: The group can’t wait as well, haha
+Jake: Obviously they can’t ;]
+Kristel: Anyway, thank you for your help, see you on Friday :]
+Summary: Kristel wants to book tickets for 30 children for the show on Friday. Kristel asks questions about the booking on the website and cinema rules. Jake answers Kristel's questions.
+Dialogue: Matilde: We're leaving in 10min
+Sam: very good
+Evan: I'm waiting outside
+Summary: Matilde is leaving in 10 minutes and Evan is waiting outside. 
+Dialogue: Ellie: greeting from Helsinki <file_photo>
+Ryan: how nice! so much snow
+Sam: How long are you staying there?
+Ellie: till Friday :)
+Ellie: I like it here a lot
+Ryan: Are you going to visit anything else there
+Ellie: I want to go to the Arctic circle 
+Ryan: wow, how exciting
+Ellie: I am not sure yet, it's a bit expensive
+Ryan: do it, you may never be there again, use the opportunity
+Ellie: maybe you're right, I should
+Sam: sure, can't be too expensive
+Ellie: I'll try to check the connections and airbnb
+Ellie: expect postcards from Santa Claus ;)
+Sam: hahaha 
+Summary: Ellie is staying in Helsinki till Friday. Ellie would like to visit the Arctic circle too, but it is a bit expensive. Sam convinces Ellie to use the opportunity.
+Dialogue: Meggy: I am not sure if you've heard it but they are changing the office.
+Brad: They are? For a bigger one?
+Meggy: No, for a smaller one lol - they don't have the money anymore, almost everyone resigned
+Brad: well that does not surprise me much
+Meggy: we are moving next month, they just started selling some furniture
+Brad: Are they selling this grey couch? I want it... I miss it so much
+Meggy: No hahahaha, Monica said she is taking it
+Brad: no way :( that sucks
+Meggy: yeah, but you can have a chair if you want, the red ones, remember those?
+Brad: I wanted the couch...
+Summary: Meggy and Brad's company is changing the office. Therefore, the company started selling some furniture. Brad would like to take the couch, but Monica has already reserved it.
+Dialogue: Ceil: help with French pls!
+Darton: can't help sry
+Keyon: u need all? photo?
+Ceil: you save my ass thx!
+Keyon: there you go <file_photo>
+Summary: Ceil needs help with French and Keyton sends her a photo with all she needs.

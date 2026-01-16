@@ -1,0 +1,753 @@
+Dialogue: Larisa: send me the picture of that dress
+Sheila: <file_picture>
+Larisa: thx
+Summary: Sheila has sent Larisa the picture of that dress.
+Dialogue: Jack: Kev, I need your help?
+Kev: What's up, mate?
+Jack: I can't get the application running.
+Kev: Have you switched the computer on?
+Jack: Very funny!!!!!!!!!!!!!
+Kev: OK. Sorry. I can see it's serious.
+Jack: Yeah, man. It is f**cking serious.
+Kev: I'll be with you right now.
+Jack: Thanks.
+Summary: Jack has a problem with an application and needs Kev's help.
+Dialogue: Ewan: hey, Isabel, my car just broke down. im going to be a bit late for the party.
+Isabel: Im so sorry Ewan. Do you need anyone to pick you up?
+Ewan: no, i think i can manage with a cab. im not too far away.
+Isabel: ok, good. you havent missed too much in any case. most of the others havent arrived yet
+Ewan: ok. good to know
+Isabel: where are you exactly anyway/
+Ewan: Grange road
+Isabel: i hope youre managing to stay out of this rain.
+Ewan: yes, im standing under a bus stop shelter. will have to leave it to hail a cab.
+Isabel: i know of a good cab service if youd prefer just to call someone.
+Ewan: oh, ok. sure why not.
+Isabel: just a sec
+Ewan: take your time
+Isabel: its called city cabs and their number is 131 228 1211
+Ewan: wonderful. thank you so much Isabela
+Isabel: happy to help!
+Ewan: someones on their way now. 
+Isabel: terrific!
+Ewan: see you in a bit
+Isabel: see you!
+Summary: Ewan tells Isabel he will be late for the party, because his car broke down. She gives him a number to a cab service she likes. Ewan is glad and will be there soon.
+Dialogue: Michael: hi!
+Michael: do you know where I can take an injured hedgehog?
+Michael: my stupid dog played with it as if it was a toy and now it's partially paralysed
+Ezekiel: hi
+Ezekiel: to the vet, i guess
+Michael: the vet said that she doesn't treat hedgehogs
+Michael: she's a regular vet, she's specialized in dogs and cats
+Ezekiel: i have no idea then, sorry :<
+Summary: Michael is looking for a place where he can take a hedgehog. It got hurt by his dog.
+Dialogue: Tommy: You know those little bottles of hand sanitizer?
+Rosie: Yes, I love those!
+Tommy: Yeah, I got a bunch of them from my mom. Want some?
+Rosie: I totally do!
+Tommy: Cool. I have them in my office if you want to look now.
+Rosie: Great. I'll be up in a jif. Just changing paper in the copy machine.
+Tommy: Why?
+Rosie: There are these new reports and they're on 11x17 not the regular size.
+Tommy: Must be booklets?
+Rosie: Exactly.
+Tommy: Don't people mess up and print on the big stuff?
+Rosie: That's why I have to stay while they run the new reports, so I can change back and let everyone know.
+Tommy: Oh! I get it. Well, come up when you can.
+Rosie: I will!
+Summary: Tommy has some bottles of hand sanitizer from his mother. Rosie will come to take a look after she makes sure that people print reports on the right size paper.
+Dialogue: Kate: OMG
+Kate: Jon Bernthal plays in the Unbreakable Kimmy Schmidt!
+Julia: what?!
+Becky: ok, that show just got interested :D
+Kate: he's so cute, i'm dying
+Julia: <file_photo>
+Becky: oh yes
+Becky: You need to watch Punisher
+Kate: I did, but he has this... softer, cute look in Kimmy <3
+Summary: Becky thinks that 'Unbreakable Kimmy Schmidt' got more interesting, because Jon Bernthal plays there. Becky recommends Kate and Julia watching 'Punisher'.
+Dialogue: Miriam: Hey
+Miriam: Do you want to do the Econ assignment together? 
+Luke: I didn't know we have an assignment
+Miriam: WE do
+MIriam: For tomorrow
+Luke: Shit i didnt know
+Luke: I just got back from volleyball 
+MIriam: Well I can probably come over and do it with u 
+Luke: Sure... 
+MIriam: U ok? 
+Luke: Nahh nothing 
+Luke: I just don't know if I have time to get it done by tmrw
+MIriam: Thats fine I will help you with that
+Luke: okay
+Miriam: I will be there in an hour? 
+Luke: Maybe at 9? 
+Miriam: I can't later than 8
+Luke: OKay come at 8 then 
+Miriam: okay see ya then
+Summary: Miriam wants to do the Econ assignment with Luke. The deadline for the assignment is tomorrow. Miriam will come to his place at 8.
+Dialogue: Eric: Hi, remember the gym today? 
+Donna: Yep. Can we meet around 3?
+Eric: Sure, I will meet you by your house at 3.
+Donna: Right, see you there. Hope it's gonna be fun.
+Eric: It sure will.
+Summary: Eric will meet Donna by her house at 3 and go to the gym together later.
+Dialogue: Rebecca: Are you going to stay till late tomorrow?
+Nick: don't know
+Nick: sorry, I can't tell you now.
+Nick: you expect to much :P
+Rebecca: :)
+Nick: let's say I will
+Rebecca: are you going to stay with them till 5 am
+Rebecca: ;)
+Nick: No, 2am max 
+Nick: maaaaaaax
+Rebecca: and that's what I call an answer :D
+Nick: oh, so yeah i am then ;D
+Rebecca: <file_other>
+Nick: <file_gif>
+Summary: Nick will stay until 2 am with some people tomorrow.
+Dialogue: Chris: this guy just texted me if i want to exchange my Crash Bandicoot for another game, what should i ask for?
+Ronald: how would I know lol, ask him what games he has
+Chris: that's right
+Ronald: he probably has like 3 games at all and he texts you some crap instead of telling what he has to offer upfront xD
+Chris: probably yeah :D 
+Ronald: let me know what he says and then i can advise you what's worth trading for
+Chris: ok thanks
+Ronald: <file_gif>
+Summary: This guy wants to exchange Chris's Crash Bandicoot for another game. Ronald will help Chris decide which to choose when he knows what is offered.
+Dialogue: Jenkins: I tried this protein you gave me
+Jarod: and what? 
+Jenkins: it's nice 
+Jenkins: but next time I should try it before gym 
+Jarod: it's meant for using before gym 
+Jarod: it has huge dose of caffeine 
+Jenkins: really? I haven't read the instructions 
+Summary: Jenkins gave Jarod protein. Jenkins used it and after instead of before training.
+Dialogue: Uncle Billy: Your scissors came in the post today, your funny scissors.
+Abbie: They're mom's. For the cats' claws.
+Uncle Billy: That's a relief.
+Abbie: Why?
+Uncle Billy: I thought you were planning to trim my nose hairs.
+Summary: Mom's scissors for the cat's claws have arrived today.
+Dialogue: Andrew: My wife is the best at baking!
+Andrew: She baked such a pumpkin cake I can't stop eating!
+Nick: Good for you.
+Nick: My wife's cheating on me...
+Andrew: WHAT?
+Nick: I'm joking just to make you feel awkward :D
+Summary: Andrew is eating a pumpkin cake his wife has baked.
+Dialogue: Ivy: Can you get me a baguette from the coop?
+Uma: I'm not going to the coop today
+Peter: I'll be coming back very late. The shop will be closed already 
+Summary: Peter will be coming back very late.
+Dialogue: Mary: Can you pick up the kids?
+John: Sure. You've already asked me this morning.
+Mary: Really? I don't remember. 
+John: Ok, doesn't matter.
+Summary: John will pick up the kids at Mary's request.
+Dialogue: Amanda: Why don't you ever wear make-up?
+Freya: I don't need it
+Amanda: You could look prettier
+Freya: I don't like the idea of having some foundation entering my pores
+Freya: I don't even have make-up products
+Amanda: Not even a mascara?
+Freya: Nope.
+Summary: Freya never wears make-up and she has no make-up products. Amanda is surprised about it.
+Dialogue: Tyler: Good morning!
+Ashley: Hello my dear
+Tyler: what do you want to do today?
+Ashley: i don't know, do you have any ideas? 😛
+Tyler: Dinner movies and drink a little bit and see where it goes
+Ashley: ok 😉
+Tyler: 😉
+Ashley: i'm open to any ideas 😉
+Tyler: ok we will drink a little bit and see 😉
+Ashley: ;)
+Tyler: and what are you going to do now?
+Ashley: eat something, i need to write sth also and then i need to go to the uni for a while. but i will go to school probably just before going to your bus station
+Tyler: ok
+Ashley: do u know warsaw or not so much?
+Tyler: not at all. i was just there for one night
+Ashley: ok. so i will have to think of some place where to go, or maybe we will find sth
+Tyler: i think we will find something
+Ashley: ok
+Tyler: so go and do whatever you have to do and see you later
+Ashley: 😉 see you later
+Summary: Tyler is seeing Ashley for drinks today. Ashley needs to write something and then go to the uni for a while. Tyler doesn't know Warsaw at all as he spent there one night only. Ashley will see Tyler later and they will find some place together.
+Dialogue: Patrick: do you think i should buy her flowers?
+Robert: what have you done?
+Patrick: she asked me to come back early
+Robert: and you have forgotten?
+Patrick: yeah and i went to a pub
+Robert: is she angry very much?
+Patrick: yes she is
+Robert: so flowers and chocolates
+Summary: She asked Patrick to come back early, but he forgot and went to the pub instead. She's angry. Robert advises Patrick to buy her flowers and chocolates.
+Dialogue: Jessica: Omg omg! You are not gonna believe this!
+Mariah: What?? what happened?
+Jessica: Brad and Ashley broke up, he's single again!
+Mariah: OMG I can't believe that, girl come to my place noooow we have to talk about this.
+Jessica: Be there in 10.
+Summary: Brad and Ashley broke up. Mariah and Jessica are excited to gossip about it. They'll meet in 10 minutes, at Mariah's place.
+Dialogue: Matt: Just watched a new video about the Marvel Netflix series, it's interesting
+Steve: Link please
+Jack: Yep
+Yuri: Let us check it out
+Matt: There it is <file_other>
+Tom: Ok, thanks
+Jack: Now that I see the thumbnail I think I watched it a couple of days ago
+Yuri: Is it some kind of review of all seasons so far?
+Steve: Looks like it
+Jack: I agree it's interesting, obviously it says Daredevil is the best one by far
+Yuri: Whoever disagrees with that is insane XD
+Matt: Yep, it analyzes the different approach of the various series and points out the flaws of Iron Fist, Luke Cage and season 2 Jessica Jones
+Steve: Ok
+Tom: I hated even the first season of JJ :D
+Yuri: It was kinda meh but Tennant's performance was amazing as usual
+Jack: Yep, I agree
+Summary: Matt has shared with Steve, Jack, Tom and Yuri a video about the Marvel Netflix series. The video analyzes the various series and points out the flaws of some of them.
+Dialogue: Sara: I’ll come a bit later :/
+John: Ok
+Sara: I’m stuck in traffic....................
+John: :/
+Sara: It must have been an accident or sth
+John: We’ll wait, don’t bother
+Summary: Sara will be late, she's stuck in traffic.
+Dialogue: Lauren: <file_photo>
+Tom: wow, how nice! do they love there?
+Lauren: yes, in a kind of aquarium, a research centre 
+Emma: super cute!
+Daniel: Do they research only seals?
+Lauren: seem so
+Emma: I had no idea there are seals in the Baltic Sea
+Emma: but actually it make sense - northern, cold, why not?
+Tom: what is the name of the place?
+Lauren: Hel, which is a pretty funny name
+Daniel: Seals from hell
+Emma: they are too cute though
+Daniel: for hell ahahah
+Lauren: They keep them here for a while and then release again
+Daniel: why?
+Lauren: I think when they are sick or hurt or too small
+Daniel: seems a very interesting place
+Lauren: it is indeed
+Lauren: also Therese likes it very much here
+Therese: Yes, it's been very good for me this holiday
+Daniel: good to read that!
+Lauren: anyway, greeting from Hel(l) <file_photo>
+Summary: Lauren and Therese are on holidays in Hel. Lauren sent a photo of a seal aquarium to Daniel, Tom and Emma. The research centre keeps seals for some time and then releases them to the Baltic Sea.
+Dialogue: Scarlett: I am asking you to think about us for the last time...
+Hugh: I really can't any more, I'm afraid.
+Scarlett: Maybe take some time to think things over
+Hugh: What is the point of it?
+Scarlett: There are still some options 
+Hugh: Like?
+Scarlett: Like a therapy e.g.
+Hugh: But we're struggling all the time.
+Scarlett: But you know it was not like this before.
+Hugh: We tried so many times
+Scarlett: And you think it will be better with somebody else?
+Hugh: I hope so.
+Scarlett: And I don't believe it, there will be the same problems. You know it. You always close when we are too close.
+Hugh: Maybe you're closing me?
+Scarlett: This is so painful. 
+Hugh: You wanted to talk.
+Scarlett: And I regret already.
+Summary: Hugh and Scarlett's relationship is struggling. Hugh wants to end it, but Scarlett suggests that there are still some options like therapy.
+Dialogue: Rob: Hey, are you by any chance at work right now?
+Mike: Yeah, what's up?
+Rob: I have a huge favor to ask - looks like my car battery died. Again.
+Mike: Hahahaha. Again? Isn't it like the fourth time this month?
+Rob: Yeah, I know. The car's a mess.
+Mike: It sure is. You really need to replace the battery if you intend to use it.
+Rob: That is true. But the main issue here is that the front door sensor is busted. It should beep when I open the door without turning off the headlights.And it does not beep, so I keep leaving the lights on, and it drains the battery.
+Mike: So get that replaced - it's a cheap electric sensor, just look it up online.
+Rob: Yeah, I know, it's just something I keep forgetting about. When I remember it's fine, and when I forget the more urgent issue is to start the car:)
+Mike: Yeah, I get that. 
+Mike: So where are you at? 
+Rob: At the mall just next to your office - that's why I'm asking you :)
+Mike: Ok, makes sense :) What level?
+Rob: -2, just by the entrance A
+Mike: Ok, on my way.
+Mike: Oh, you do have jumper cables?
+Rob: Sure do - never leave my home withou them :)
+Mike: Lol :D 
+Summary: Mike's car battery is dead. Rob will come with his jumper cables and help him. Mike's waiting at the mall next to Rob's office at level -2 by entrance A. 
+Dialogue: Lauren: Have you seen the magnolias in the courtyard?
+Wendy: What about them?
+Lauren: they don't seem well this year
+Graham: I've noticed
+Mark: why?
+Lauren: i think they should be blossoming now
+Lauren: but the are not
+Graham: I think the buds froze in early May
+Graham: when the temperature fell
+Lauren: can be
+Wendy: what a pity
+Lauren: let's wait a bit more, we will see
+Wendy: let's hope they are fine
+Summary: Lauren and Graham noticed the magnolias in the courtyard are not blossoming. There was a temperature fell in early May that could have damaged the buds.
+Dialogue: Fred: <file_other>
+Fred: Listen to this man.
+Fred: Perfect for cleanin' the house.
+Willy: Not sure if it's dubstep
+Willy: Or just transformers having sex
+Fred: Hahahahaha.
+Fred: JFC man you made me laugh so hard  I couldn't catch breath
+Willy: Breathe Freddie breathe.
+Willy: Seriously track sounds ok.
+Willy: But when I hear this beat drops they really do sound like transformers bangin'o
+Fred: If you have good sound system it really makes sense
+Willy: Ehem. No doubt.
+Willy: Your music taste is surprisingly broad.
+Willy: You're the only person  I know who posts on facebook Miles Davies and then sends me a dubstep made from printer sounds
+Fred: :P :P :P
+Summary: Willy compares a dub-step song he got from Fred to robots having sex and makes Fred laugh.
+Dialogue: Ellie: greeting from Helsinki <file_photo>
+Ryan: how nice! so much snow
+Sam: How long are you staying there?
+Ellie: till Friday :)
+Ellie: I like it here a lot
+Ryan: Are you going to visit anything else there
+Ellie: I want to go to the Arctic circle 
+Ryan: wow, how exciting
+Ellie: I am not sure yet, it's a bit expensive
+Ryan: do it, you may never be there again, use the opportunity
+Ellie: maybe you're right, I should
+Sam: sure, can't be too expensive
+Ellie: I'll try to check the connections and airbnb
+Ellie: expect postcards from Santa Claus ;)
+Sam: hahaha 
+Summary: Ellie is staying in Helsinki till Friday. Ellie would like to visit the Arctic circle too, but it is a bit expensive. Sam convinces Ellie to use the opportunity.
+Dialogue: Mary: Do you like stranger things
+Hudson: Never heard of it
+Mary: What are you watching these days?
+Hudson: I am watching game of thrones these days
+Mary: I never heard about that :/
+Hudson: Ok I think we should give our seasons do each other?
+Mary: Sure  :D
+Summary: Hudson is watching "Game of Thrones" these days. Mary is watching "Stranger Things".
+Dialogue: Karina: How r u?
+Taylor: I'm ok thanks and you?
+Karina: Not that bad but my friends around are getting engaged and I don't have a bf. Pfff... I'm not even dating with anyone -.-
+Taylor: Good for them
+Karina: Of course
+Summary: Karina is upset because she does not have a boyfriend.
+Dialogue: Calbert: Plummer got livid 2day
+Hunter: what happened
+Calbert: you missed school?
+Hunter: sick all week
+Barclay: Mr Plums was surprised to see nobody understands what hes preaching
+Salton: true enough
+Calbert: he asked all the class gettin not a single correct reply
+Hunter: lucky i wasnt there
+Barclay: well mate it awaits you
+Salton: he did mention your name
+Hunter: shite
+Summary: Hunter is sick all week. His friends tell him that Plummer got livid when nobody in the class could give him a correct answer. He mentioned Hunter's name.
+Dialogue: Lucy: Are you ok?
+Emelia: Not quite
+Lucy: The funeral was tough
+Emelia: Yea kind of, my grandma was crying so much
+Lucy: I’m sorry :( If you ever want to talk, just call me
+Emelia: Sure :]
+Summary: Emelia has just been to a funeral. Lucy offers consolation.
+Dialogue: Robert: I just arrived to my office to prepare everything. I’ll let you know which stones I choose.
+Harry: Ok. Perfect
+Robert: Once you told me that I have extra 5% discount for the white stones. Is it included in the list?
+Harry: I told you that you have extra 2% off.
+Harry: And that will be discounted once you choose the stones.
+Robert: Ok. Is it included in the list? ;-)
+Harry: Not yet in the list.
+Robert: Aaah ok. So first I need to chose them.
+Robert: Got it. Thanks.
+Harry: No problem. If you prefer me to add it directly next time please let me know and I’ll do that from now on.
+Robert: I sent a list with certificate numbers. Send me the invoice please ☺
+Harry: I’ll prepare the invoice tomorrow.
+Robert: Ok
+Robert: Thank you. 
+Summary: Robert has extra 2% off for a selection of stones. 
+Dialogue: Fred: <file_photo>
+Fred: Theoretically everything that has been posted online can be deleted
+Fred: But Internet doesn't forget :D
+George: On the one hand I admire your speed at downloading embarassing content
+George: On the other hand I really don't get it why are you doing this xD
+Fred: It's simple. When someone is a hypocrite and sometimes proves it with posting such content. I feel obliged to reveal his hypocrisy or ignorance.
+Fred: Take this politician. The print screen I sent you was a photo of his public post about coal miners 5 years ago.
+Fred: <file_photo> This one is from today.
+George: He contradicts himself.
+Fred: Exactly. Because he says exactly what he thinks would bring him support. But as Internet does not forget that few years ago he wanted to close the mines, he has less chance that someone would believe him and trust him. 
+Fred: And trustworthy politician is a winning politician.
+George: Ok. I get it. Still idk why you engage in this, and at this point I'm afraid to ask :P
+Summary: Fred gathers proof of politicians' hypocrisy on the Internet. George questions why Fred does it.
+Dialogue: Audrey: Black friday is coming!!!
+Marylin: I know, I was just in the mall yesterday, wanted to buy a new dress
+Audrey: are the sale on already?!
+Marylin: nope, which is why I didn't buy anything cause I knew I would find it cheaper next week
+Audrey: I seriously need a new coat, the old one is starting to look like a scarecrow
+Marylin: haha
+Audrey: <file_gif>
+Marylin: I got some discount codes for online shopping, too
+Audrey: what stores?
+Marylin: Let me check
+Audrey: okay
+Marylin: H&m and Zara
+Audrey: Will you share?
+Marylin: always :)
+Summary: Marylin didn't buy a new dress in the mall yesterday because she's waiting for the Black friday discount next week. Audrey needs to buy a new coat. Marylin'll share the discount codes for online shopping with Audrey.
+Dialogue: Elton: the new girl what you think of her?
+Payton: you mean sheffield?
+Elton: yessir
+Shaw: she's pretty hot but like
+Elton: you mean hard to talk to
+Shaw: kind of inaccessible yes
+Payton: donna never talked to her why
+Elton: she realy my type maybe ask her out
+Shaw: why not. good luck
+Summary: There is a new girl called Sheffield. She's pretty but seems inaccessible. Elton will try to ask her out.
+Dialogue: Paula: Did you guys watch America playing
+Janek: against who 
+Paula: Against Colombia
+Paula: At Copa America
+Eva: I watched it
+Eva: USA. USA. XD
+Janek: Nope I missed it then
+Paula: It was a good game
+Paula: I think I will start watching soccer
+Janek: That's good
+Eva: Me too 
+Eva: Haha
+Paula: 🙌
+Summary: Paula thinks Colombia and USA played a great game. Paula is going to start watching soccer.
+Dialogue: Ronald: Hi mate
+Clyde: Hello. Where are U?
+Ronald: Kingston
+Clyde: Get a taxi to Canterbury haha!
+Ronald: Are you paying?
+Clyde: yeh, if you get out of the taxi at the train station and run as fast as you can south, I'll meet you with some money ;)
+Ronald: LOL :) 
+Summary: Ronald is in Kingston.
+Dialogue: Nina: Did your insurance cover it?
+Tom: No, I had to pay it myself
+Brad: how much?
+Tom: 4000
+Nina: fuck...
+Summary: Tom had to pay a lot of money himself because his insurance hadn't covered it.
+Dialogue: Paul: Hey Meg, how are your interviews going?
+Meghan: Excellent! I’ve almost made it. There’s only one interview left with the Hub Director 😊
+Paul: Glad to hear that! It’s cheered me right up!
+Meghan: How’s your work?
+Paul: Not so bad, but I’m thinking of moving on and changing it for something much better
+Summary: Meghan is having interviews and they are going well. Meghan is having just one more with the Hub Director. Paul is considering looking for a better job.
+Dialogue: Zoe: Hey, when are you leaving this weekend?
+Leo: I'm not - the trip was cancelled.
+Zoe: Ok. :) I'll see you tomorrow then.
+Summary: Leo was supposed to leave for the weekend but the trip was cancelled. 
+Dialogue: Nicole: Hey anyone bring me that lunchbox I forgot
+Nikola: Not home
+Anne: Kk I will 
+Nicole: 🙌🏾
+Summary: Anne is going to bring Nicole the lunchbox she forgot.
+Dialogue: Tina: Guys, you ready?
+Peter: waiting for Tom
+Jane: on my way
+Tina: Should I call an uber?
+Peter: yes, we’ll be there in a minute
+Peter: Go without us guys
+Peter: Lost Tom
+Tina: Ok, call us when you get home safe
+Summary: Jane's coming. Peter's waiting for Tom. Tina's calling an uber. Girls will go alone, because Peter lost Tom.
+Dialogue: Oliver: just wanted to text you to remind you i love you
+Adrianna: awwwww i love you too
+Oliver: and i miss you
+Oliver: it sucks that i had to move
+Adrianna: we'll see each other soon enough :-D
+Summary: Oliver misses Adrianna after he had to move, but Adrianna convinces him that they will see each other soon.
+Dialogue: Gloria: I know it'll sound stupid, but have you got a spare vacum cleaner?
+Nat: Yes, I have. 
+Gloria: What??? 
+Gloria: Why do you have two vacum cleaners? How does this??? You're werid.  
+Nat: :D
+Nat: One is mine, the other I inhertied. 
+Gloria: I have no more questions. 
+Nat: You want it or not?
+Gloria: Not sure... Did someone die using that other one?...
+Nat: :D :D :D 
+Nat: No, it's save. Don't worry. I'll pop up around in the evening, ok?
+Gloria: I still don't trust you... 
+Summary: Gloria is looking for a vacuum cleaner and she is shocked to hear Nat has a spare one. Gloria is not sure if she wants it.
+Dialogue: Dias: I've found a nice place. Look: <file_other>
+Wolf: Not bad. How about this one? <file_other>
+Dias: It looks too nice to be so cheap.I'll check google maps.
+Dias: It's miles away from everywhere. And right in the middle of the city. No good.
+Wolf: But excellent public transport. And it's so close to the airport. Just to sleep over the jet lag.
+Wolf: They even offer free airport transfer.
+Dias: So let's make it 3 nights only.
+Wolf: OK. Makes sense. Shall I book it then?
+Dias: Please do.
+Summary: Wolf and Dias are going to spend 3 nights at an accommodation which is nice, cheap and includes free airport transfer.
+Dialogue: Carlos: I'll be in late
+Carlos: cover for me please
+Irene: sure no prob
+Irene: the boss will be in at 10:30
+Carlos: great I should be in by then
+Irene: ok, do you have nay meetings?
+Carlos: no just pick up the phone and say i'm in a meeting
+Irene: sure no problem
+Summary: Carlos will be late. The boss will be in at 10:30. Carlos should arrive there until then. 
+Dialogue: Barb: Jason when you get home dad and I want to talk to you.
+Jason: What have I done wrong now?
+Barb: You'll find out when you get home. When are you coming back?
+Jason: Probably never. 
+Summary: Barb and dad want to talk to Jason when he gets home. Bark wants to know when Jason is coming home. Jason doesn't want to come home. 
+Dialogue: Isabella: Emma!
+Emma: Isabella?!
+Emma: what's going on?
+Isabella: nothing, I'm just glad to see you online :)
+Emma: it's just for a moment but I'll be back in the evening
+Isabella: alright, we'll talk later :)
+Summary: Isabella notices Emma is online but she has no time now. They will talk in the evening.
+Dialogue: Angie: Did you prepare some lunch for tomorrow?
+Charlotte: No, I was planning to go to Sushi Project
+Angie: Wanna some chili? I made way to much again
+Charlotte: Sure!! I love chili!
+Angie: Big portion or really big portion? :D
+Charlotte: you know me.
+Angie: really big portion it is
+Charlotte: ;D
+Summary: Angie will put aside a big portion of chili for Charlotte.
+Dialogue: Michael: i am so mad at her right now afff
+Maria: you should let her explain
+Michael: what's to explain? She cheated on me, I am done
+Maria: maybe that's just a misunderstanding...
+Michael: no it's not, Mike saw them kissing in the hallway
+Maria: are you sure? it does not seem like her... that's impossible
+Michael: well and yet it happened, screw her I am not gonna be some idiot chasing here if she does not appreciate it...
+Maria: you should cool off and talk to her about it...
+Michael: talk to her my ass... i am packing her stuff !!!!!!
+Summary: Michael's not going to be with her anymore as she cheated on him.
+Dialogue: David: Hi Honey, did you have a good day?
+Sandy: Hi my love, oh ... i had meeting  all day. What about you? 
+David: great. . I went to Brooklyn and visit some really interesting museums
+Sandy: i'm sure you also had time for shopping?
+David: Yes of course.
+Sandy: what did you buy?
+David: a new pair of sneakers. Very nice, red and pink...
+Sandy: why did you buy them. You've got plenty of them!
+David: i need to keep fit during my stay here, so i want to run
+Sandy: i'm very impressed... you know you could run with me in the park nearby...
+David: yes, but central Park is such a nice place to run and to feel like a real new yorker.
+Sandy: I remind you that you're on business trip for week!
+David: i also went to Ralph Lauren on the fifth avenue.
+Sandy: Please, don't tell me you buy anything in there?
+David: I've found a very nice jacket ... for you!
+Sandy: Honey...
+David: I know ... i'm the man 
+Sandy: Have a good week. See you soon
+David: bye love
+Summary: David has bought a pair of sneakers because he wants to stay fit. He also bought a Ralph Lauren jacket as a present for Sandy.
+Dialogue: Tamara: What are you doing, Shania?
+Shania: Watching 'Stop Bieszczady' on TVN
+Tamara: What is it?
+Shania: Programme about people who left their lives and went to live in the mountains
+Shania: really interesting.
+Tamara: Thanks, I will check it out! :)
+Summary: Shania is watching a TV documentary 'Stop Bieszczady' which sounds interesting to Tamara as well.
+Dialogue: Kate: Did you find the keys?
+Tim: Yes, I put it in my pocket....
+Kate: LOL, classic you.
+Summary: Tim found the keys he had actually put in his pocket.
+Dialogue: Maya: Honey, could you stop by the market and grab some water?😍😍😍
+Henry: Ok. Gas or without gas?
+Maya: Without gas. Thaaaankkkkkkksssssssssss, darling!😙😙😙😙😙😙😙😙😙😙
+Henry: Np. 😄Anything else?
+Maya: That's all. Thanks again, see yaaaaaa 😗😗
+Summary: Henry will get some still water at the market on Maya's request.
+Dialogue: Daniel: fuck you bro
+Daniel: i hate you so fucking much
+Jacob: wtf man
+Daniel: ask stacy
+Summary: Daniel is mad at Jacob. Stacy knows what it's about.
+Dialogue: Horace: Hello Kristopher, are you going for our chess tournament today :-)
+Kristopher: I’m not sure, my friend, I don’t feel very well
+Horace: I understand, everyone says the same…
+Kristopher: At our age it’s not surprising
+Horace: Yes, you don’t even have to leave the building!
+Kristopher: Still, Horace, I feel very dizzy, it’s dangerous even to go downstairs.
+Horace: Some of the workers could help you, this is why we live in a retirement home!
+Kristopher: Horace, you are right of course, but I don’t want to force myself if I’m going to fall asleep all the time at the table, as Roosevelt did a week ago.
+Horace: Yes, it was funny but not comfortable for him, I’m sure ;-)
+Kristopher: Especially because you used it to cheat.
+Horace: I couldn’t stop myself, let us have some fun before we die.
+Kristopher: Or maybe just get some rest at last.
+Horace: You are way to pessimistic!
+Kristopher: It’s difficult not to, after what I experienced.
+Horace: Each of us has some bad experiences, we were all challenged by life.
+Kristopher: But some of us more than others.
+Horace: Okay Kristopher, I can see you’re in a bad mood, if anything changes, feel welcome to our chess championship :-)
+Kristopher: I will surely remember about that, thank you.
+Summary: Kristopher feels dizzy, so he's not sure if he's going for their chess tournament today. Last time he cheated while Roosevelt fell asleep at the table to have some fun before they die. He's in a bad mood today.
+Dialogue: Paul Sheehan: Heya Ciaran, do you have time for a coffee b4 heading back?
+Ciaran: Yeah, I have about 30 mins.
+Paul Sheehan: If your pressed for time, leave it off. I'm stuck in Turners Cross 'til about 1
+Paul Sheehan: and Mike has to be back at work at 1:15 today.
+Ciaran: Yeah, meeting Mike on Grand Parade.
+Ciaran: I have an appointment I need to get to in Clonakilty
+Paul Sheehan: Mike messaged me, will be in asap but I know you're under pressure for time so if we don't meet today, 
+Paul Sheehan: I hope you'll accept my accept my apologies!
+Ciaran: Hey man it was good meeting up with you today :)
+Paul Sheehan: Yeah, it's something we should definitely do more often <emoticon_smile>
+Paul Sheehan:  Maybe when you get your gaming room sorted, you might check out World of Warships.
+Ciaran: Yeah for sure.
+Ciaran: See you later. 
+Summary: Ciaran and Paul discuss a number of appointments. Ciaran is going to have a gaming room and Paul Sheehan recommends World of Warships to him.
+Dialogue: Jason: Hey Noah can you give me a lift to the office today?
+Jason: My car is broken
+Noah: No problem
+Noah: I’ll be leaving in 10 minutes
+Jason: Thanks
+Jason: I’m ready 
+Jason: I’ll be waiting for you at the parking.
+Noah: Ok
+Noah: Do you also need a lift back home?
+Jason: No thanks
+Jason: My wife will pick me out after work
+Jason: Now she cannot help me
+Jason: She left at 7 a.m. 
+Summary: Noah will give Jason a lift to work as his car broke down. He doesn't need a lift back home.
+Dialogue: Eve: Hey, you asked me to recommend some probiotics
+Eve: <photo>
+Eve: I use these 
+Eve: or <photo>
+Maya: Great, thanks a lot, Eve
+Sonia: Yes, thank you
+Sonia: How long do I need to take them?
+Eve: about 3 months 
+Eve: a real immune boost, believe me
+Sonia: Ok, can you order one the cheaper one for me?
+Eve: I am going to order tomorrow so you still have time to think about it
+Maya: I will, thanks
+Eve: I'll speak to you tomorrow :)
+Summary: Eve recommneds Maya and Sonia her probiotics. They need to be taken for 3 months. Eve will be ordering them tomorrow.
+Dialogue: Erin: hey nick, could i borrow some money from you?
+Nick: mmm, they say you should never lend money to your friends
+Erin: why?
+Nick: because it may ruin the friendship
+Erin: that's nonsense. i'll pay you back
+Nick: ok. how much do you need?
+Erin: enough to buy a new pair of prada shoes
+Nick: what for?
+Erin: nothing specific, i was shopping online and saw them and fell in love with them right away
+Nick: i thought the money was for an emergency or something important
+Erin: shoes are important
+Nick: mmm, no they are not
+Erin: come on! does that mean you won't lend me the money?
+Nick: sorry friend, i can't lend you money for shoes
+Summary: Nick won't lend money to Erin for Prada shoes.
+Dialogue: Carly: Hi I haven't heard anything about the car.. do you have any idea when it will be back at all? I will need to go out tomorrow at some point thanks
+Don: I'm not sure I will try to find out
+Carly: Thanks
+Don: Hi Ive spoken to David they were sent the wrong radiator they are waiting for the right one should be there Monday so car should be back Tuesday
+Carly: thanks
+Don: Thats ok sorry I didnt get back to you sooner
+Carly: Any idea when the car will be back and can you make sure they driver it a good few miles before they leave it this time please
+Don: I've not heard anything hun I'll check and let you know
+Carly: its just that I'm away on Thursday for a few days
+Carly: Hi David is not answering me again and I'm frantic.. I'm away again tomorrow and I need to know what is going on.. I know its not your fault and that you are helping I didn't want to go to a solicitor as I thought that would be long and drawn out but this is ridiculous..  I bought the car in good faith for 850 over 2 and a half months ago i'm paying tax and insurance that has cost me 180 for a car that i have not driven for more than 30 miles.  I've been waiting for it to be fixed from the first week.  Can you not persuade him to just give me my money back
+Carly: the lack of communication is making matters worse I am already ill which is why I needed a car for the hospital appointments, this is making life worse.
+Don: I thought it was going to be back today hun I'll try to find out what is going on
+Carly: He's promised tomorrow now, so I hope he does so
+Don: Me to hun
+Carly: Just to let you know.. the 206 is not fixed and I am out of patience.. if David does not offer me my money back I am using the solicitor that Macmillan put me in touch with.  I am devastated that after all this time he has left me with a car that I would never be able to sell let alone drove safely.  I feel very sorry for you, you must be very embarrassed to be his mother, I hope that no one ever rips anyone off in your family should they ever get ill.
+Summary: David sold Carly a broken car and has been uncooperative ever since. Carly has hired a solicitor to solve the situation.
+Dialogue: Abby: What are you doing tonight?
+Gaby: Nothing much, Netflix and chill probably
+Abby: Really? No Valentine's Day romantic getaway?
+Gaby: We talked about and came to a conclusion that it's completely overrated and that we will not be forced to manifest our love just because a population of morons decides to do so
+Gaby: and to be truly honest
+Gaby: we forgot to make a reservation and everything's booked :P
+Abby: Haha I could help you with that
+Gaby: How so?
+Abby: We have a table for four at Boscaiola cause Mark's sister was supposed to bring her new boyfriend
+Abby: but stable as her life is -- they broke up with a huge fight last night :D
+Gaby: Poor Sandy!!
+Abby: Anyway, woulkd you like to join us?
+Abby: sorry it's last minute
+Gaby: What's the deal?
+Abby: It's a prefixed menu with three price option
+Abby: <file_other>
+Gaby: Wow, the appetizers looks amazing!! I'll run it past Jeff
+Abby: Ok let me know by tonight?
+Gaby: Sure, thanks!! :)
+Summary: Gaby will talk with Jeff about going with Abby and Mark to Valentine's dinner at Boscaiola.
+Dialogue: Kenzie: I have been looking for a good Ice cream shop to go with my family
+Frank: Good Luck
+Kenzie: Where was your best ice cream experience? :/
+Frank: I always go to Papa Gino's
+Kenzie: Thanks for the suggestion
+Frank: Np
+Kenzie: You want to come along?
+Frank: Nah, Im good
+Summary: Frank recommends Papa Gino's ice cream shop to Kenzie. He will not join Kenzie and her family.
+Dialogue: Coco: could you bring me some leftovers guys?
+Yen: sure no problem
+Howie: I ordered pork so... :c
+Coco: oh ok
+Yen: I ordered rice with vegetables
+Howie: Wendy always orders too much so you can count on her pad thai with shrimp
+Coco: <file_gif> 
+Coco: yay! thanks!
+Yen: no problem sweetie :)
+Summary: Yen, Howie and Wendy will bring Coco some leftovers. 
+Dialogue: Maria: where are you? on the way?
+Andrew: yes, on the highway even
+Jeff: we should be there in about an hour
+Maria: great, just don't take the exit to Exeter
+Maria: there's always a jam
+Jeff: ok, good you're telling us
+Jeff: should we buy anything?
+Maria: a bottle of wine maybe?
+Jeff: red or white?
+Maria: Wait, I'll ask Marion
+Jeff: ok
+Maria: I'm just afraid she cannot drink red after the operation
+Maria: yup, she asked me to buy white
+Jeff: perfect. So we'll get some 
+Jeff: see you soon
+Summary: Andrew and Jeff inform Maria that they'll be there in an hour. Jeff'll buy a bottle of white wine as Maria wishes.
+Dialogue: Berdie: wow you keep on posting stuff about books I love!
+Mike: really? like what?
+Berdie: you just quoted Barthes and I love his books
+Mike: :)
+Mike: tbh it's the first book of Roland I'm reading 
+Mike: I don't know his literature that well
+Berdie: I have some of his books in Spanish if that works for you
+Mike: I don't speak Spanish
+Mike: but I ordered some books online
+Mike: <file_photo>
+Berdie: those prices are really low!
+Berdie: I have never bought there anything
+Mike: I have a discount because I have Premium account
+Berdie: maybe I should look into that
+Mike: the only problem I have with that shop is that you cannot buy anything for Kindle there
+Berdie: I don't like reading on Kindle, it kills the experience for me
+Mike: really? 
+Mike: I prefer Kindle because you can travel with your whole library in you pocket
+Berdie: you're probably right
+Berdie: but some books are really hard to read on Kindle because you're supposed to skip chapters or go back
+Berdie: for instance Cortazar's Hopscotch is like that
+Mike: :O
+Mike: sounds cool!
+Mike: I'll add it to my reading list
+Berdie: you'll love it, it's great
+Mike: I will
+Berdie: :)
+Mike: I gotta go
+Berdie: bye!
+Summary: Berdie likes the Roland Barthes' quote Mike posted. Berdie offers him his books in Spanish but Mike doesn't speak it and uses an online store. Mike likes reading on Kindle, Berdie prefers paper, especially when it comes to non-linear story line as in Cortazar's Hopscotch.
+Dialogue: Klara: Happy birthday to you!
+Klara: <file_gif>
+Moses: Thank you!
+Summary: Klara wishes Moses a happy birthday.
